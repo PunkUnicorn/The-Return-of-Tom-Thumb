@@ -1,6 +1,6 @@
-The clothes don't fit lol....Seeds in her pockets Tom scooped a handful of apple flesh before walking towards the house. Pausing to finish eating, gobbling messy mouthfuls, the door latch caught Toms attention. A mangled, rusted wreck that had once been a latch. But Tom had never seen it any other way. The latch on the giants door was the first functioning one she had seen. 
+Seeds in her pockets Tom scooped a handful of apple flesh before walking towards the house. Pausing to finish eating, gobbling messy mouthfuls, the door latch caught Toms attention. A mangled, rusted wreck that had once been a latch. But Tom had never seen it any other way. The latch on the giants door was the first functioning one she had seen. 
 
-Eating her hands clean she wondered if her mangled latch could be bent back into shape. Then shadows of anxiety arrived remembering how others would react. And now aware of her family behind the door defensive instincts pulled her back: stay unnoticed, be invisible. Tom closed her mind, stiffened her muscles and pulled the heavy door open.
+Eating her hands clean she wondered if her mangled latch could be bent back into shape. Then shadows of anxiety arrived remembering how others would react. And now aware of her family behind the door defensive instincts pulled her back: stay unnoticed, be invisible: don't change the latch. Tom closed her mind, stiffened her muscles and pulled the heavy door open.
 
 The overpowering smell of baked apples. The heavy door slammed shut behind her. In the thick air, for a second, Tom was sick of apples. But it passed; chastising herself of the obvious, the apple being a life saver. Besides the pips in her pocket could be interesting. 
 
