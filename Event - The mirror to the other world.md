@@ -17,4 +17,4 @@ And they can't ask their other selves questions because they're all saying the s
 Tom couldn't see her other-self but she realises that's because she's hiding. She steps out of the shadows together.
 
 Summary:
-Characters relationship with themselves explored
+- Characters relationship with themselves explored
