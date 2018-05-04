@@ -1,27 +1,27 @@
-All four companions.
+- [x] All four heros are present
 
-Call to adventure
-Reason is easy, The Tailor if no one else has heard of this mythical place, the giant's house.
-Also hearing of Jacks exploits everyone is worried about the giant. Perhaps that's why they go, The Tailor would like to check they're ok having been swamped and trolled by rag-dressed children all the time.
-- The Knight would prefer to travel north anyway, to hide away and be invisible.
-- Why would Red go? For kicks? Probably... what do you give the girl that has everything?
+## Call to adventure
+- Reason is easy, The Tailor if no one else has heard of this mythical place, the giant's house.
+- Also hearing of Jacks exploits everyone is worried about the giant. Perhaps that's why they go, The Tailor would like to check they're ok having been swamped and trolled by rag-dressed children all the time.
+--* The Knight would prefer to travel north anyway, to hide away and be invisible.
+--* Why would Red go? For kicks? Probably... what do you give the girl that has everything?
 
-Refusal of the call
+## Refusal of the call
 At least Tom is reluctant, possibly others. The place sounds ridiculous at best and dangerous at worst. Also the expansive forest brings its own dangers: you might get lost to death.
 
-Supernatural aid
+## Supernatural aid
 The equipment they need, a balloon, with a basket for the four of them could become available in a convenient way, perhaps already obvious. It could be a balloon with a basket and it's powered by music. Music makes it go up and can bias the direction depending on the angle the music is coming from below the balloon.
 
-Crossing the first threshold
-Travelling to the expansive forest
+## Crossing the first threshold
+## Travelling to the expansive forest
 - Could drop in on Kim
 
-Belly of the whale
-The expansive forest is expansive. They could get lost even floating above it all.
+## Belly of the whale
+- The expansive forest is expansive. They could get lost even floating above it all.
 
-Trials and tribulations
-It might take longer than they thought. They would have to stop to re-supply. The balloon would land on the tree tops and Tom would use a rope to anchor the balloon and climb down using both the rope and the tree.
-She would catch rodents and nettles, The Tailor and The Knight get down easily but they have to make a rope ladder (Tom does) before Red can climb down. 
+## Trials and tribulations
+- It might take longer than they thought. They would have to stop to re-supply. The balloon would land on the tree tops and Tom would use a rope to anchor the balloon and climb down using both the rope and the tree.
+- She would catch rodents and nettles, The Tailor and The Knight get down easily but they have to make a rope ladder (Tom does) before Red can climb down. 
 
 
 Here they could tell stories as they build a fire and cook
@@ -45,7 +45,7 @@ Tom could restock with giant's cotton.
 
 They can't find the balloon again, it's moored in the expansive forest somehow. Would need a small simple repair but it does have a rope ladder going straight to it. Someone else escape from the forest in another story perhaps.
 
-Summary
-Mr Giant is misunderstood and likes gardening
-The Tailor might acquire excessive cutoffs of fabric (he could use for Tom's family, or anything)
-Tom could have new giant's cotton, the best of all climbing rope.
+## Summary
+- Mr Giant is misunderstood and likes gardening
+- The Tailor might acquire excessive cutoffs of fabric (he could use for Tom's family, or anything)
+- Tom could have new giant's cotton, the best of all climbing rope.
