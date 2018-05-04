@@ -33,7 +33,7 @@ The giant's house flashes in with sunset. They notice the flash and Tom can clim
 
 They might stay in the house for more than morning, having to wait till the house arrives back to the material. Otherwise they would have to get from the plane of clouds to the material on their own or with the help of the giant. 
 
-The Tailor might have to make a giants suit.
+The Tailor might have to make a giants suit. He could unroll giant fabric bolt and cut slices to size with his sword. He might employ some magic to overcome the scale of engineering. The giant might provide the use of a magic item from his collection, like something that makes two or four more The Tailors who can all work symultaniously. Or The Tailor might cast this magic himself. Dunno, anyway
 
 If The Tailor and Mr Giant talk The Tailor would observe Mr Giants collection of magic items is limited and mostly magical paraphanalia or ornate junk. The three actual items he has are mediocre like the seven league boots.
 
