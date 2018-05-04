@@ -10,7 +10,7 @@ Red says:
 Tom says:
 > "I'm following him" 
 
-nodding towards The Tailor
+...nodding towards The Tailor
 
 The Tailor says: 
 > "Whu? I'm not leading anyone!" 
@@ -23,7 +23,7 @@ Tom quirks her eyebrows defensively; she has no sense or desire for authoritativ
 The  Knight observes: 
 > "Hmm well perhaps we have no heirachical structure here, perhaps the idea of a leader as such does not fit to our situation." 
 
-Th e Knight is silent deep in thought. Readjusting something but wrestling; brow furried.
+The Knight is silent deep in thought. Readjusting something but wrestling; brow furried.
 
 There's a pause. Red says:
 
