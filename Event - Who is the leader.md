@@ -9,10 +9,12 @@ Red says:
 
 Tom says:
 > "I'm following him" 
+
 nodding towards The Tailor
 
 The Tailor says: 
 > "Whu? I'm not leading anyone!" 
+
 He turns back to Tom 
 > "This is your adventure."
 
