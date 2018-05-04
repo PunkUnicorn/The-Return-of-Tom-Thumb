@@ -1,6 +1,6 @@
-- [/] All four heros are present
-- [/] Tom has established an identity as an 'adventurer', a title made in jest by The Tailor
-- [/] The companions are really two groups of two (Tom & The Tailor, Red & The Knight) but accidentally group together. This is set at the start of this transition (probably after their first Event)
+- [x] All four heros are present
+- [x] Tom has established an identity as an 'adventurer', a title made in jest by The Tailor
+- [x] The companions are really two groups of two (Tom & The Tailor, Red & The Knight) but accidentally group together. This is set at the start of this transition (probably after their first Event)
 
 ------------8<-------------[ cut here ]---------------------------
 
@@ -11,7 +11,8 @@ Red says:
 > "Uh excuse me, 'I' 'm the leader"
 
 Tom says:
-> "I'm following him" nodding towards The Tailor
+> "I'm following him" 
+nodding towards The Tailor
 
 The Tailor says: 
 > "Whu? I'm not leading anyone!" 
