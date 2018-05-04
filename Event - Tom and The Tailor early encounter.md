@@ -1,11 +1,12 @@
 Requires only Tom and The Tailor and no other companion
+
 Requires Tom and The Tailor to be not well acquainted
 
-Tom and The Tailor encounter their first inn. Tom's never been to an inn before but has not let on. Tom notices the inn door has a latch. 
+Tom and The Tailor encounter their first inn. Tom's never been to an inn before but does not share this with The Tailor. Tom notices the inn door has a latch. 
 
-"I know how to work that" she says impressed with herself, sharing needing to be proud with this dazzling stranger, The Tailor
+"I know how to work that" she says impressed with herself, sharing - needing to put a proud front on to keep up with this dazzling stranger, The Tailor
 
-"After you then" The Tailor would accomodate.
+"After you then" The Tailor would accomodate, overlooking Tom's un-learned obvservation. The Tailor would enjoy hearing the pride in Toms voice.
 
 Inside the tavern Tom would be overwhelmed.
 
