@@ -2,9 +2,6 @@
 - [x] Tom has established an identity as an 'adventurer', a title made in jest by The Tailor
 - [x] The companions are really two groups of two (Tom & The Tailor, Red & The Knight) but accidentally group together. This is set at the start of this transition (probably after their first Event)
 
-------------8<-------------[ cut here ]---------------------------
-
-
 The Knight un-pompasly, objectively shares his perspective that he's the leader of the group. 
 
 Red says: 
