@@ -1,6 +1,6 @@
-Requires only Tom and The Tailor and no other companion
+`Requires only Tom and The Tailor and no other companion`
 
-Requires Tom and The Tailor to be not well acquainted
+`Requires Tom and The Tailor to be not well acquainted`
 
 Tom and The Tailor encounter their first inn. Tom's never been to an inn before but does not share this with The Tailor. Tom notices the inn door has a latch. 
 
