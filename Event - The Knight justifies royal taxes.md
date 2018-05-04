@@ -1,5 +1,5 @@
-All companions are present
-They haven't met the Croconocerous yet
+- [x] All companions are present
+- [x] They haven't met the Croconocerous yet
 
 The companions from the north (Tom, The Tailor) either have never heard of the Croconocerous or don't believe in it.
 
@@ -15,4 +15,4 @@ MAKE UP A CROCONOCEROUS POEM
 
 
 Summary:
-Nothing was learnt
+- Nothing was learnt
