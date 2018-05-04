@@ -1,6 +1,5 @@
-Relies on The Tailor knowing Tom but not knowing her that well
-
-------------8<----------[CUT HERE]-------
+- [x] Only The Tailor and Tom are present
+- [x] The Tailor and Tom don't know each other very well
 
 The Tailor would ask tom questions about hyperthetical situations of the (pointness) gain, probably material, if Tom used the boots with abandon
 
@@ -13,4 +12,4 @@ The Tailor would be outstandingly impressed with this response in Tom
   - And she's very quick. Be it not very well edjucated
 
 Summary:
-The Tailor respects Tom significantly and would follow her probably anywhere
+- The Tailor respects Tom significantly and would follow her probably anywhere
