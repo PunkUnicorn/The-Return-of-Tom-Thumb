@@ -39,7 +39,7 @@ Ranged | 1 + 3 + 0 | = 4
 - Rock `1d2 (-1 Str.) bludgeoning type damage (×2 on critical)`
 - Unarmed strike (small being) `1d2 (-1 str.) bludgeoning type damage (×2 on critical)`
 
-⋅⋅⋅note improved unarmed strike means this is real damage not subdual damage, sure it's between zero and one point of damage. This means it would take about fourteen attacks for Tom to actually kill someone (with seven Hit Points). Not that she would because its not in her nature. Just reading the model. Her punches always leave a bruise, and like a swan it's possible she could break someones bone (criticle hit doing 4 points of damadge). Not in Toms nature at all but, yeah you get a bruise
+---note improved unarmed strike means this is real damage not subdual damage, sure it's between zero and one point of damage. This means it would take about fourteen attacks for Tom to actually kill someone (with seven Hit Points). Not that she would because its not in her nature. Just reading the model. Her punches always leave a bruise, and like a swan it's possible she could break someones bone (criticle hit doing 4 points of damadge). Not in Toms nature at all but, yeah you get a bruise
 
  `@}}>-----` | Mod. + Base + Armour | Score
   ---: | :---: | :---
