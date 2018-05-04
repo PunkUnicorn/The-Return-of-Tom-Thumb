@@ -28,7 +28,7 @@ Will | 0 + 3 | = 3
 ## Melee
 `@}}>-----` | Mod. (+special) | Score
 ---: | :---: | :---
-Initiative | 3 + 4 | 7 (Improved Initiative)
+Initiative | 3 + 4 (Improved Initiative) | 7 
 
 Attack | Base + Mod. (+ Special) | Score
 ---: | :---: | :---
