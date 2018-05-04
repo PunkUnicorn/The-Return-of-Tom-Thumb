@@ -13,5 +13,5 @@ So Tom would accelerate the rock throwing and The Knight would laugh gleefully a
 Red's throws would be pathetic and The Knight may choose to work hard to 'be hit' by using his skill of defence inversely, so she get some gratification from her, beit pathetic tries at being a good sport.
 
 Summary:
-Everyone likes The Knight a little more
-Tom and The Knight grow to like each other
+- Everyone likes The Knight a little more
+- Tom and The Knight grow to like each other
