@@ -28,7 +28,7 @@ Will | 0 + 3 | = 3
 ## Melee
 `@}}>-----` | Mod. (+special) | Score
 ---: | :---: | :---
-Initiative | 3
+Initiative | 3 + 4 | 7 (Improved Initiative)
 
 Attack | Base + Mod. (+ Special) | Score
 ---: | :---: | :---
@@ -67,7 +67,7 @@ use rope | 4 + 3 | = 7
 ## Feats
 Feats/Specials | Notes
 ---: | :---
-Acrobatic | 
+Improved Initiative | 
 Self sufficient | 
 Simple weapon proficiency |
 Favored enemy (rodents) |
