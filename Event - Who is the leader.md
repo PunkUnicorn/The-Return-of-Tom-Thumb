@@ -29,7 +29,7 @@ There's a pause. Red says:
 
 > "I was right the first time."
 
-> "Yeah... and it's my adventure"
+> "Yeah, and it's my adventure"
 
 
 Summary:
