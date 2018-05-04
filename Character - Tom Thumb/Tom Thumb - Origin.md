@@ -1,11 +1,9 @@
-Toms origin story is "Tom Thumb (and the Seven League Boots)"
+*Toms origin story is "Tom Thumb (and the Seven League Boots)"*
 
-Our sequal "The Return of Tom Thumb (and the Seven League Boots)" has the abridged version of this as a Prologue.
+*Our sequal "The Return of Tom Thumb (and the Seven League Boots)" has the abridged version of this as a Prologue.*
 
 
-------------8<-------------[ cut here ]---------------------------
-
-Tom Thumb (and the Seven League Boots)
+# Tom Thumb (and the Seven League Boots)
 
 Once upon a time in a land far far away lived a woodcutter and his wife and seven children. They were poor and illiterate living to survive each day and always surprised by winter. One such winter, an especially cold winter the woodcutter and his wife were both ever so cold and oh so hungry. So cold and so hungry they feared they would starve to death. Unable to sleep, wrought with troubles and certain of the grim they decided the best of the worst solutions was to lead their children to the deep forest where they could die out of earshot.
 
