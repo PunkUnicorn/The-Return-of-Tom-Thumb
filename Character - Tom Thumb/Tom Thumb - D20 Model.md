@@ -35,6 +35,8 @@ Attack | Base + Mod. (+ Special) | Score
 Melee | 1 + -1 + 0 | = 0
 Ranged | 1 + 3 + 0 | = 4
 
+*She hides to avoid this but if cornered she will fight for a chance to run when possible*
+
 - Stool leg `1d3 (-1 str.) bludgeoning type damage (×2 on critical)`
 - Rock `1d2 (-1 Str.) bludgeoning type damage (×2 on critical)`
 - Unarmed strike (small being) `1d2 (-1 str.) bludgeoning type damage (×2 on critical)`
