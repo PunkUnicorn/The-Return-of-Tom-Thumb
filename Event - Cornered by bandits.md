@@ -1,5 +1,9 @@
-The Knight is ahead of the group for any reason.
-Red is behind the group for any reason.
+`The Knight is ahead of the group for any reason.`
+
+`Red is behind the group for any reason.`
+
+`The Knight knows The Tailor is good with his blade, otherwise some bits of the story would need to change but just a little`
+
 
 The Knight encounters an abandoned camp and thinks it could be a good place for their/his camp.
 
@@ -10,8 +14,6 @@ The trap triggers when The Knight kicks what looked like a thin, wanting, seemin
 They find this funny, except The Knight who isn't concerned but patiently, matter of factly waits for an appropriate time to ask for someone to cut him down. He doesn't rush to make excuses, accepting the fact of the situation but will give his excuse if pressed ("It looked like a perfectly reasonable place to make our camp. Seemed abandoned to me. All I did was nudge that pack.")
 
 At some point before they get a chance to cut him down bandits jump out the bushes armed with bad or improvised weapons and attack them. This will be The Tailor and Tom, The Knight being unable to move but calmly offers tactical advice as he slowly swings round. The Knight can rely on The Tailor. The Knight may or may not have been able to access his jug. He may still be struggling to get it or be drinking from it best he can.
-
-If the Knight does not how well The Tailor fights he may struggle to get a dagger to cut himself down, thinking only he has the prowess to save everyone. But probably this is not the case and The Knight drinks.
 
 The Tailor and Tom can disarm and subdue the four attackers. Tom is less combative but has her own encounter and victory. 
 
@@ -26,4 +28,4 @@ She is the darling of the underworld, and even if they didn't like her they woul
 During the interactions between the four bandits, the showing of Reds power and the interactions between the bandits and the group, during this time The Knight may or may not be sprung up in a net the whole time.
 
 Summary:
-Red seems to rule the underworld
+- Red seems to rule the underworld
