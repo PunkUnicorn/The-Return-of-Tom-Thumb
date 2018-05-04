@@ -13,10 +13,10 @@ Somehow they figure out the situation and they have to explain themselves, or ge
 The knight probably negotiates some good faith with the duke who owns the castle and they just about get away with it.
 
 Summary:
-Nothing was learnt.
-Reds perspective is shown and dramatised.
-The Knights objective bluntness is shown, includes that if we had let Red through first her celebrity would have solved the problem instantly, The Knight realises probably.
+- Nothing was learnt.
+- Reds perspective is shown and dramatised.
+- The Knights objective bluntness is shown, includes that if we had let Red through first her celebrity would have solved the problem instantly, The Knight realises probably.
 
 Ref:
-*1 The Roc 
-https://en.wikipedia.org/wiki/Roc_(mythology)
+- *1 The Roc 
+--* https://en.wikipedia.org/wiki/Roc_(mythology)
