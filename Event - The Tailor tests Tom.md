@@ -10,6 +10,7 @@ The Tailor would be outstandingly impressed with this response in Tom
   - Tom is cautious and respects the power of the boots, and on the whole appreciates the comfort more
   - He appreciates the adventure of the moment and Tom and an innocent does too
   - And she's very quick. Be it not very well edjucated
+  - Note: The Tailor needs time away from people, especially since he is such a social extrovert. Tom is easy company for him during these times; she's quiet and non-judgemental.
 
 Summary:
 - The Tailor respects Tom significantly and would follow her probably anywhere
