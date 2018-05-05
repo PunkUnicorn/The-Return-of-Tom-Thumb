@@ -1,6 +1,8 @@
 Tom Thumb had been back home for several nights. As usual her thoughts were occupied, replaying the past troubling days. The terrifying giant; coming to terms with their parents leaving them to die in the forest: and finding out she wasn't the same as her brothers. Tom wondered "How did the lady giant know?". A pang of regret that it was heard from a stranger, but it blended into the despair at being left in the forest.
 
-Tom had no reason to doubt the words of the kind woman giant: "No you beautiful young thing. Make no mistake you are a girl." She knew already despite father insisting he only had boys. Now Tom could not deny what made perfect sense. The giant's words echoed in her thoughts and again Tom felt surprise and shock. Since arriving back home the kind words spoken by the giant had said themselves over and over, at times bringing a churn to her gut. For as many times as Tom came to terms with this, it would return to unsettle her.
+Tom had no reason to doubt the words of the kind woman giant: "No you beautiful young thing. Make no mistake you are a girl." She knew already despite her fathers frightening insistance that he only had boys. Now Tom could not deny what made perfect sense. 
+
+The giant's words echoed in her thoughts and again Tom felt surprise and shock. Since arriving back home the kind words spoken by the giant had said themselves over and over, at times bringing a churn to her gut. For as many times as Tom came to terms with this, it would return to unsettle her.
 
 Chewing a grass-stalk with her arms behind her head she realised she was not actually looking at the sky. But now she did as her thoughtscape vanished and she saw the clouded sky in front of her. It would be getting dark soon.
 
@@ -8,7 +10,7 @@ She pulled her head up with her arms and looked past their home to the remaining
 
 The apple would last them about two more days Tom thought carefully, weighing it up in her mind. Full bellies all round. A heavenly comfort with a nagging feeling. What was that nagging feeling? An awareness catching up with her. Probing her thoughts she reluctantly opened blocks and doubt seeped in. "Oh yes," she murmured. The apple would inevitably be eaten. With no apple left the family would be back to the way it was before. Which was nothing. Winter was not over yet.
 
-"It will be a while till spring." Tom thought looking towards the core. Somehow her focus left the apple even though she was looking straight at it. Tom's mind drifted to thoughts of spring.
+"It's ages till spring." Tom thought looking towards the core. Somehow her focus left the apple even though she was looking straight at it. Tom's mind drifted.
 
 Spring would break and the family could get back to a merry life of hunting rodents for meals, served with nettles. A banquet. But just a daydream. A lovely daydream while she laid on her back. With a sigh she pulled herself up to sit, her mind returning to the present.
 
