@@ -1,6 +1,6 @@
 Tom Thumb had been back home for several nights. As usual her thoughts were occupied, replaying the past troubling days. The terrifying giant; coming to terms with their parents leaving them to die in the forest: and finding out she wasn't the same as her brothers. Tom wondered "How did the lady giant know?". A pang of regret that it was heard from a stranger, but it blended into the despair at being left in the forest.
 
-Tom had no reason to doubt the words of the kind woman giant: "No you beautiful young thing. Make no mistake you are a girl." She knew already despite her fathers frightening insistance that he only had boys. Now Tom could not deny what made perfect sense. 
+Tom had no reason to doubt the words of the kind woman giant: "No you beautiful young thing. Make no mistake you are a girl." She knew already despite her fathers frightening insistance he only had boys. Now Tom could not deny what made perfect sense. 
 
 The giant's words echoed in her thoughts and again Tom felt surprise and shock. Since arriving back home the kind words spoken by the giant had said themselves over and over, at times bringing a churn to her gut. For as many times as Tom came to terms with this, it would return to unsettle her.
 
