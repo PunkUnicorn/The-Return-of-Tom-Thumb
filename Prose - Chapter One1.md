@@ -2,7 +2,7 @@ Tom Thumb had been back home for several nights. As usual her thoughts were occu
 
 Tom had no reason to doubt the words of the kind woman giant: "No you beautiful young thing. Make no mistake you are a girl", and actually it made sense. The words echoed in her thoughts and again Tom felt surprise and shock. Since her first night back at home the kind words spoken by the giant had said themselves in her mind over and over, at times bringing a churn to her gut. For as many times as Tom came to terms with this it would return to unsettle her.
 
-Chewing a grass-stalk with her arms behind her head she realised she was not actually looking at the sky. But now she did as her thoughtscape vanished and she saw the clouded sky in front of her. Tom noticed it would be getting dark soon.
+Chewing a grass-stalk with her arms behind her head she realised she was not actually looking at the sky. But now she did as her thoughtscape vanished and she saw the clouded sky in front of her. It would be getting dark soon.
 
 She pulled her head up with her arms and looked past their home to the remaining apple core. It sat looking a little sorry for itself. It was more than thin now, and slushy. Her brothers and her had dragged this giant apple from the strange house. "And what a great idea that was." Tom congratulated herself; it was a feast for everyone. "And that was me." she continued, surprised with her own fact. And at that moment she felt very proud of herself.
 
