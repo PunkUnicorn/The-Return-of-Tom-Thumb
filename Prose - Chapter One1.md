@@ -10,7 +10,7 @@ The apple would last them about two more days Tom thought carefully, weighing it
 
 "It will be a while till spring." Tom thought looking towards the core. Somehow her focus left the apple even though she was looking straight at it. Tom's mind drifted to thoughts of spring.
 
-Spring would break and the family could get back to a merry life of hunting rodents for meals, served with nettles. A banquet Tom thought. But just a daydream. A lovely daydream while she laid on her back. With a sigh she pulled herself up to sit, her mind returning to the present.
+Spring would break and the family could get back to a merry life of hunting rodents for meals, served with nettles. A banquet. But just a daydream. A lovely daydream while she laid on her back. With a sigh she pulled herself up to sit, her mind returning to the present.
 
 Wiggling her toes she felt the exquisite comfort in the soft leather of the boots; she could do that all day. She had been doing that all day. Now the worry of what would happen when the apple core ran out.
 
