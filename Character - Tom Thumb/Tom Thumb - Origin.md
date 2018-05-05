@@ -1,4 +1,9 @@
-The Return of Tom Thumb (and the Seven League Boots)
+*Toms origin story is "Tom Thumb (and the Seven League Boots)"*
+
+*Our sequal "The Return of Tom Thumb (and the Seven League Boots)" has the abridged version of this as a Prologue.*
+
+
+# Tom Thumb (and the Seven League Boots)
 
 Once upon a time in a land far far away lived a woodcutter and his wife and seven children. They were poor and illiterate living to survive each day and always surprised by winter. One such winter, an especially cold winter the woodcutter and his wife were both ever so cold and oh so hungry. So cold and so hungry they feared they would starve to death. Unable to sleep, wrought with troubles and certain of the grim they decided the best of the worst solutions was to lead their children to the deep forest where they could die out of earshot.
 
@@ -42,7 +47,7 @@ The others waited wondering what else it could be. His panting became less frant
 
 The brothers were in good spirits as they set off in the pointed direction. "It's the nicest house you ever saw!" explained the brother who climbed. Tom had hoped to ask questions but the brothers on the whole were too busy rushing towards the direction of the house. The going was slower than they tried though "Stop pushing or you're going to get it" said Kim as he made a trail while the rest followed. 
 
-Pushing past brush and having to cross a stream, which was rather difficult in the dark, they were begining to wonder if they had gone off at the right angle. The brother who climbed was surprised they had not encountered the house yet. Also he had not seen the stream. but Tom was not surprised because the stream would not be visible, being covered by trees.
+Pushing past brush and having to cross a stream (which was rather difficult in the dark) they were begining to wonder if they had gone off at the wrong angle. The brother who climbed was surprised they had not encountered the house yet. Also he had not seen the stream. but Tom was not surprised because the stream would not be visible, being covered by trees.
 
 "We're lost aren't we" one brother snidely stated.
 
