@@ -10,11 +10,11 @@ It looks like a small pile of rocks but none of the stones are loose, as if they
 It has majestic powers of healing upto and excluding raising the dead.
 
 ### Be warned! Its effect is formulaic
-If you were cursed after birth this stone would remove the curse
-If you lost a limb last year this stone would restore it
-If you were born blind and healed subsequently it may revert you to being blind
-If you were born cursed and had the curse removed in life, this stone may restore the curse
-You get the picture
+- If you were cursed after birth this stone would remove the curse
+- If you lost a limb last year this stone would restore it
+- If you were born blind and healed subsequently it may revert you to being blind
+- If you were born cursed and had the curse removed in life, this stone may restore the curse
+- You get the picture
 
 Perhaps one doesn’t need to touch the stone for it to be effective, be within 5 feet and possibly not even looking at it.
 
