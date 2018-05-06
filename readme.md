@@ -4,6 +4,8 @@
 
 [![Build status](https://ci.appveyor.com/api/projects/status/lb3g13dict5g7l4i?svg=true)](https://ci.appveyor.com/project/gnutgnut/the-return-of-tom-thumb)
 
+[epub](https://ci.appveyor.com/project/gnutgnut/the-return-of-tom-thumb/build/artifacts)
+
 *Starring...*
 # Tom Thumb
 ![Tom Thumb](https://github.com/PunkUnicorn/The-Return-of-Tom-Thumb/blob/master/TomThumb/Tom%20Thumbnail.jpg)
