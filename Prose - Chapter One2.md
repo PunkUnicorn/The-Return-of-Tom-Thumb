@@ -20,9 +20,7 @@ Tom wanted to tell Kim of her plan to head to the village and sell the pips. At 
 
 “What you doin’?” Kim accused. 
 
-Tom braced her upper body and relaxed her legs shifting weight between feet, ready to flinch.
-
-“I’m going to the village.” Tom replied
+Tom braced her upper body and relaxed her legs shifting weight between feet, ready to flinch. "I’m going to the village.” Tom replied.
 
 Nothing happened. Nothing happened for too long. Very quickly several more possible outcomes sprung to Toms mind; she was ready to dodge. But no, nothing. Tom chanced a gauging side glance towards Kim.
 
