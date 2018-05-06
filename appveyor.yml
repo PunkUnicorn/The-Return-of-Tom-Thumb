@@ -4,4 +4,4 @@ install:
 build: false
 
 test_script:
-  - ps: & _toolz\topdf.ps1
+  - ps: _toolz\topdf.ps1
