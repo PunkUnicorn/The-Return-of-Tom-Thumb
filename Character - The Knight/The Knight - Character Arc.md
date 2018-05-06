@@ -22,4 +22,13 @@
 
 # Character Arc
 
-As the story progresses The Knight becomes unencumbered, gradually on his own terms, reviewing each cut case by case. The review is different as the story progresses depending on The Knights Perspective.
+As the story progresses The Knight becomes unencumbered. This will happen as a combination of:
+
+ * Gradually on his own terms
+
+   Reviewing each cut case by case. The review is different as the story progresses depending on The Knights Perspective.
+   
+ * Things break 
+ * Dropped of fell off an over-packed rucksack 
+ * Stolen lol
+ * Anything else
