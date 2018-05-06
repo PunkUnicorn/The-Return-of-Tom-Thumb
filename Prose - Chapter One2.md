@@ -32,11 +32,11 @@ Kim walked a few steps, leaned down and picked up a choice stick. A sturdy branc
 
 Kim started walking towards the south trail. He walked a few steps turned his head towards Tom slightly: "Are you coming then?"
 
-The south trail was easy in comfortable boots. Kim had father's hand-me-downs which were only second generation. They looked more or less like normal old boots. Tom's boots looked new but obviously too small for anyone other than her and her tiny frame. Early on she had relied on this to stave off others desires on the boots.
+The south trail was easy in comfortable boots. Kim had father's hand-me-downs which were only second generation. They looked more or less like normal old boots. Tom's pair looked new but obviously too small for anyone other than her and her tiny frame. Early on she had relied on this to stave off others desires on them.
 
 She strongly suspected the boots would fit whoever held them the same way they had fitted for her. Tom had pulled the boots off the giant very easily, accidentally even, and they slid off the giants feet into her hands as a pair of boots exactly the right size for her. 
 
-The long walk (mostly in silence) gave Tom ample time to muse. Thoughts of people at the village reminding her previously used excuses.
+The long walk (mostly in silence) gave Tom ample time to muse. Thoughts of people at the village possibly being jelous of her boots reminding her of previous excuses.
 
 Their progress along the south trail that morning was smooth and pleasant but exhausing. The forest thinned and the trail became a road. It was afternoon by the time they saw the dotted buildings far off in the distance. Two rolling hills to cross and they were there, they could be there before dark. They hurried their walking to Toms fastest.
 
