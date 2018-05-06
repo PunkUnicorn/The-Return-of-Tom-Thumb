@@ -4,4 +4,5 @@ install:
 build: false
 
 test_script:
-  - ps: .\topdf.ps1
+  - ps: & _toolz\topdf.ps1
+  - ps: gci -r *.pdf
