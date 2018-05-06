@@ -118,6 +118,7 @@ p
 {
 text-indent: 1.25em;
 margin: 0;
+bottom-margin: 1.25em;
 widows: 2;
 orphans: 2; 
 }
