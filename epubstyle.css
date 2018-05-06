@@ -15,3 +15,13 @@ ol.toc li { list-style-type: none; margin: 0; padding: 0; }
 a.footnote-ref { vertical-align: super; }
 em, em em em, em em em em em { font-style: italic;}
 em em, em em em em { font-style: normal; }
+
+/* https://friendsofepub.github.io/eBookTricks/ - Improve hyphenation */
+element {
+  -webkit-hyphenate-limit-before: 3;
+  -webkit-hyphenate-limit-after: 2;
+  -ms-hyphenate-limit-chars: 6 3 2;
+  hyphenate-limit-chars: 6 3 2;
+  -webkit-hyphenate-limit-lines: 2;
+  hyphenate-limit-lines: 2;
+}
