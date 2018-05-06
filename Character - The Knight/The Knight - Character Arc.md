@@ -1,0 +1,25 @@
+# The Knight
+
+* He is encumbered. His pack has everything you need sooner or later.
+
+* He is encumbered. With anxiety of being restricted by:
+
+   * crushing pointless routine based on 
+      * corrupted tradition
+      * pride of status and power in previously reigning:
+         * Lords
+         * Dukes
+         * Petty kinglets 
+
+   All of this through the ages turning the foundations of tradition to a mockery of pomp and shallow, short-sighted power-play
+
+   Soul destroying to be beholden to rotten traditions, never to be reviewed.
+   
+   Beholden to madness.
+
+* He is encumbered. With unfiltered perception of how the world is.
+
+
+# Character Arc
+
+As the story progresses The Knight becomes unencumbered, gradually on his own terms, reviewing each cut case by case. The review is different as the story progresses depending on The Knights Perspective.
