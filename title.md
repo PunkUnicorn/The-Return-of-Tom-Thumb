@@ -5,4 +5,4 @@
 
 % 1/1/2019
 
-![Red](RedRidingHood\red_looks_east_in_the_morning.png)
+![](cover.png)
