@@ -1,6 +1,6 @@
 # Chapter Two
 
-![Tom Thumb](TomThumb/Tom Thumbnail.jpg)
+![Tom Thumb](TomThumb/Tom Thumbnail.jpg#center)
 
 The village was IT WAS VILLAGY VILLAGE LAND, LAND OF TEH FREE VILLAGE HAD THE VILLAGE PEOPLE IN IT
 
