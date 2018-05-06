@@ -1,0 +1,7 @@
+install:
+  - cinst pester
+
+build: false
+
+test_script:
+  - ps: & _toolz\topdf.ps1
