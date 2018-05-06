@@ -36,12 +36,12 @@ The south trail was easy in comfortable boots. Kim had father's hand-me-downs wh
 
 She strongly suspected the boots would fit whoever held them the same way they had fitted for her. Tom had pulled the boots off the giant very easily, accidentally even, and they slid off the giants feet into her hands as a pair of boots exactly the right size for her. 
 
-The long walk (mostly in silence) gave Tom ample time to muse. Thoughts of people at the village triggering her to remember these previously used defensive excuses.
+The long walk (mostly in silence) gave Tom ample time to muse. Thoughts of people at the village reminding her previously used excuses.
 
 Their progress along the south trail that morning was smooth and pleasant but exhausing. The forest thinned and the trail became a road. It was afternoon by the time they saw the dotted buildings far off in the distance. Two rolling hills to cross and they were there, they could be there before dark. They hurried their walking to Toms fastest.
 
-Early afternoon the two reached the village, Kim carried Tom piggy back for the last stretch. Kim stopped exhausted, Tom jumped down and looked over this place. They had been to this village before while fleeing the giants house. 
+Early afternoon the two reached the village. Kim carried Tom piggy back for the last stretch and he stopped exhausted. Tom jumped down and looked around. They had been to this village before when fleeing the giants. 
 
 Tom remembered this looking at the collection of houses and buildings. She could not remember much about it at the time, having been preoccupied. The memory of relief at arriving at the village. But then the memory of the nightmare before that at the giants house: giant trying to kill her.
 
-With a concerted breath and the reassurance of the giant apple pips in her pocket Tom was squarely focused on fantasies of what giant pips could be worth.
+With a concerted breath and the reassurance of the giant apple pips in her pocket Tom was squarely focused. Focused on fantasies of what giant pips could be worth.
