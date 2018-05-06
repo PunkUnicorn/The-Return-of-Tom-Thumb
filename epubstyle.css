@@ -1,6 +1,5 @@
 /* This defines styles and classes used in the book */
 body { margin: 5%; text-align: justify; text-indent: 1em; font-size: medium; }
-p { padding-top: 3em; margin-top: 2.33em; }
 code { font-family: monospace; }
 h1 { text-align: left; }
 h2 { text-align: left; }
@@ -16,4 +15,4 @@ ol.toc li { list-style-type: none; margin: 0; padding: 0; }
 a.footnote-ref { vertical-align: super; }
 em, em em em, em em em em em { font-style: italic;}
 em em, em em em em { font-style: normal; }
------------------
+img[src*='#center'] { display: block; margin: auto; }
