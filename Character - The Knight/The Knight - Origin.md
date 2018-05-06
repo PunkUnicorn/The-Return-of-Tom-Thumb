@@ -12,10 +12,19 @@ He is the crown prince.
 
    The Kngiht (or rather The Prince) is too sincere in his perception of court tradition and law sees only madness:
       
-      *  Archaic madness legislated
+      * Archaic madness legislated
+      
+      * It will never change
       
       * Complicated behemoth of court traditions and laws brutally imposed
       
       * Frankly incorrect 
       
       * Unchangeable dogma
+      
+      * No critical thinking and little mercy
+      
+      * Balances of power depend on the status qup
+      
+      * There is no hope of change without risk of war, uprising or upsetting the geo-political landscape
+      
