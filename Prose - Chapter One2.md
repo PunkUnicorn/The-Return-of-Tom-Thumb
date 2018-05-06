@@ -38,7 +38,7 @@ She strongly suspected the boots would fit whoever held them the same way they h
 
 The long walk (mostly in silence) gave Tom ample time to muse. Thoughts of people at the village triggering her to remember these previously used defensive excuses.
 
-Their progress along the south trail that morning was smooth and pleasant but exhausing. The forest thinned and the trail became a road. It was afternoon by the time they saw the dotted buildings far off in the distance. Two rolling hills to cross and they were there, they could be there before dark. They hurried their walking more to Toms absolute fastest.
+Their progress along the south trail that morning was smooth and pleasant but exhausing. The forest thinned and the trail became a road. It was afternoon by the time they saw the dotted buildings far off in the distance. Two rolling hills to cross and they were there, they could be there before dark. They hurried their walking to Toms fastest.
 
 Early afternoon the two reached the village, Kim carried Tom piggy back for the last stretch. Kim stopped exhausted, Tom jumped down and looked over this place. They had been to this village before while fleeing the giants house. 
 
