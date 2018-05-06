@@ -1,5 +1,7 @@
 # The Return of Tom Thumb (*And The Seven League Boots*)
 
+*By PunkUnicorn, gnutgnut, Purplejoby*
+
 *Starring...*
 # Tom Thumb
 ![Tom Thumb](https://github.com/PunkUnicorn/The-Return-of-Tom-Thumb/blob/master/TomThumb/Tom%20Thumbnail.jpg)
