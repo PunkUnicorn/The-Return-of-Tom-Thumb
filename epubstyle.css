@@ -1,5 +1,5 @@
 /* This defines styles and classes used in the book */
-body { margin: 5%; text-align: justify; text-indent: 1em; font-size: medium; -epub-hyphens:auto; -webkit-hyphens: auto; hyphens: auto; }
+body { margin: 5%; text-align: justify; text-indent: 1em; font-size: medium; }
 code { font-family: monospace; }
 h1 { text-align: left; }
 h2 { text-align: left; }
@@ -15,13 +15,3 @@ ol.toc li { list-style-type: none; margin: 0; padding: 0; }
 a.footnote-ref { vertical-align: super; }
 em, em em em, em em em em em { font-style: italic;}
 em em, em em em em { font-style: normal; }
-
-/* https://friendsofepub.github.io/eBookTricks/ - Improve hyphenation */
-fishy {
-  -webkit-hyphenate-limit-before: 3;
-  -webkit-hyphenate-limit-after: 2;
-  -ms-hyphenate-limit-chars: 6 3 2;
-  hyphenate-limit-chars: 6 3 2;
-  -webkit-hyphenate-limit-lines: 2;
-  hyphenate-limit-lines: 2;
-}
