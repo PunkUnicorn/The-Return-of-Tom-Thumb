@@ -31,16 +31,21 @@ Always presents himself as a humble tailor.. but actually he is secretly an inte
 Strength 12/18, Dexterity 18/18, Constitution 12/18, Wisdom 14/18, Charisma 18/18, Intelligence 16/18
 
 Notable Possession:
-- His cool clothes and sword is visible. Possibly 'an old worn lute' but it's not always visible about his person. Otherwise he is discrete to a fault about his magical possesions.
+
+His cool clothes and sword is visible. Possibly 'an old worn lute' but it's not always visible about his person. Otherwise he is discrete to a fault about his magical possesions.
 
 1. Lute of unfolding
+
    This is a three inch wooden figurine of a lute which on command unfolds into a masterwork lute that looks old and worn. The same command folds the old lute back into the figurine
 
 2. Portal Songbook
+
    A beautifully bound and scripted book containing sheet music and transposed phrases and variants used to open portals to new locations, the past, future and other dimensions. But music magic is extensive and this book also holds a variety of songs and spells unrelatedto travel.
 
 3. Magic Thread
+
    This is unbreakable thread. It's the only type of thread that can be used to repair Magic Waistcoats, Magic Belts, Magic Boots, etc
 
 4. Diamond Needle
+
    Only the strongest needle can penetrate magical cloth
