@@ -20,4 +20,4 @@ Perhaps one doesn’t need to touch the stone for it to be effective, be within 
 
 The stone of power could heal Red’s sprained ankle, and Red would dance for the stone as thanks, which the stone would appreciate and express in a non-human, crystalline way: possibly a tone hum out of key with whatever melody The Tailor plays but to the stone of power this deep grating timbre urk of a drone is beautiful. Red doesn’t let it put her off, nor The Tailor
 
-![Red at the Stone of Power](https://github.com/PunkUnicorn/The-Return-of-Tom-Thumb/blob/master/RedRidingHood/red_and_the_stone_of_power.png)
+![Red at the Stone of Power](/RedRidingHood/red_and_the_stone_of_power.png)
