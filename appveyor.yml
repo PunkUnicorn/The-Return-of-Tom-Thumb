@@ -3,7 +3,7 @@ install:
 
 build: 
   - ps: write-host "building book"
-  - ps: & .\_toolz\topdf.ps1
+  - ps: .\topdf.ps1
 
 test_script:
   - ps: gci -r The-Return-of-Tom-Thumb.pdf
