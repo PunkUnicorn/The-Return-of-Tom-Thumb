@@ -40,7 +40,7 @@ The long walk (mostly in silence) gave Tom ample time to muse. Thoughts of peopl
 
 Their progress along the south trail that morning was smooth and pleasant but exhausing. The forest thinned and the trail became a road. It was afternoon by the time they saw the dotted buildings far off in the distance. Two rolling hills to cross and they were there, they could be there before dark. They hurried their walking more to Toms absolute fastest.
 
-Early afternoon the two reached the village, Kim carried Tom piggy back for the last stretch. Kim stopped exhausted, Tom jumped down and looked over this place. They had been to this village before, while fleeing the giants house. 
+Early afternoon the two reached the village, Kim carried Tom piggy back for the last stretch. Kim stopped exhausted, Tom jumped down and looked over this place. They had been to this village before while fleeing the giants house. 
 
 Tom remembered this looking at the collection of houses and buildings. She could not remember much about it at the time, having been preoccupied. The memory of relief at arriving at the village. But then the memory of the nightmare before that at the giants house: giant trying to kill her.
 
