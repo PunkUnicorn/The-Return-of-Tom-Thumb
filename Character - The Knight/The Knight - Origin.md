@@ -10,7 +10,7 @@ He is the crown prince.
 
 * Systemic madness
 
-   The Kngiht (or rather The Prince) is too sincere in his perception of court tradition and law sees only madness:
+   The Knight (or rather The Prince) is too sincere in his perception of court tradition and law sees only madness:
       
       * Archaic madness legislated
       
