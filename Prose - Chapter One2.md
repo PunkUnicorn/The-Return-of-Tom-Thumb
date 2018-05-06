@@ -8,9 +8,13 @@ Tom could see there was no good seat available. Around the table sprawled a rowd
 
 Often there were brawls over the precious little there was. Seats, or more specifically seats and seat positions, were a common cause of stand-offs. Tom wasn't bothered. Once or twice she might have had to fight for the right to be left alone. That was worth fighting for but little else was. 
 
-And yet, bellies full even mitigated tensions were rising round the table; competing voices. She did not look though, no-way could she risk eye-contact. Tom froze for a moment to listen and judge the tone of aggression in the voices. Quickly an intuitive gut-chord reassured her the situation was unlikely to escalate. She relaxed. Wiggling her toes, squashing them against the wool lined boots, the comfort winning the battle for her senses. Beautifully fitting boots drowned out the sound. Comfort was her entertainment for the evening.
+And yet, bellies full even mitigated tensions were rising round the table; competing voices. She did not look though, no-way could she risk eye-contact. Tom froze for a moment to listen and judge the tone of aggression in the voices. Quickly an intuitive gut-chord reassured her the situation was unlikely to escalate. She relaxed. 
 
-Next morning Tom woke earlier than anyone else. With well practiced tip-toeing she worked round sleeping siblings, got to the door and went outside. The first thing she saw: brown leaning apple-core. The bright morning sun spared the eye no mercy and the giant apple-core was looking far from adequate. Tom realised her expectations were wrong. The house door opened quietly behind her, Tom looked round. It was the oldest and biggest of the brothers, Kim. Relaxing Tom looked back at the apple. Kim joined her 
+Wiggling her toes, squashing them against the wool lined boots, the comfort winning the battle for her senses. Beautifully fitting boots drowned out the sound. Comfort was her entertainment for the evening.
+
+Next morning Tom woke earlier than anyone else. With well practiced tip-toeing she worked round sleeping siblings, got to the door and went outside. The first thing she saw: brown leaning apple-core. The bright morning sun spared the eye no mercy and the giant apple-core was looking far from adequate. Tom realised her expectations were wrong. 
+
+The house door opened quietly behind her, Tom looked round. It was the oldest and biggest of the brothers, Kim. Relaxing Tom looked back at the apple. Kim joined her 
 
 “You’re up early?” Kim asked.
 
@@ -30,12 +34,14 @@ Kim started walking towards the south trail. He walked a few steps turned his he
 
 The south trail was easy in comfortable boots. Kim had father's hand-me-downs which were only second generation. They looked more or less like normal old boots. Tom's boots looked new but obviously too small for anyone other than her and her tiny frame. Early on she had relied on this to stave off others desires on the boots.
 
-She strongly suspected the boots would fit whoever held them the same way they had fitted for her. Tom had pulled the boots off the giant very easily, accidentally even, and they slid off the giants feet into her hands as a pair of boots exactly the right size for her. The long walk (mostly in silence) gave Tom ample time to muse.
+She strongly suspected the boots would fit whoever held them the same way they had fitted for her. Tom had pulled the boots off the giant very easily, accidentally even, and they slid off the giants feet into her hands as a pair of boots exactly the right size for her. 
 
-Their progress along the south trail that morning was smooth and pleasant. The forest thinned and the trail became a road. It was afternoon by the time they saw the dotted buildings far off in the distance. Two rolling hills to cross and they were there, they could be there before dark. They hurried their walking to Toms fastest.
+The long walk (mostly in silence) gave Tom ample time to muse. Thoughts of people at the village triggering her to remember these previously used defensive angles.
 
-Early afternoon they reached the village, Kim carried Tom piggy back for the last stretch. Kim stopped and Tom jumped down. They had been to this village before, while fleeing the giants house. 
+Their progress along the south trail that morning was smooth and pleasant but exhausing. The forest thinned and the trail became a road. It was afternoon by the time they saw the dotted buildings far off in the distance. Two rolling hills to cross and they were there, they could be there before dark. They hurried their walking more to Toms absolute fastest.
 
-Tom remembered this looking at the collection of houses and buildings. She could not remember much about it at the time, having been preoccupied. The memory of relief at arriving at the village. But then the memory of the nightmare before that, at the giants house: giant trying to kill her.
+Early afternoon the two reached the village, Kim carried Tom piggy back for the last stretch. Kim stopped exhausted, Tom jumped down and looked over this place. They had been to this village before, while fleeing the giants house. 
 
-With a concerted breath and the reassurance of the giant apple pips in her pocket Tom was not preoccupied other than fantasies of what giant apple pips could be worth.
+Tom remembered this looking at the collection of houses and buildings. She could not remember much about it at the time, having been preoccupied. The memory of relief at arriving at the village. But then the memory of the nightmare before that at the giants house: giant trying to kill her.
+
+With a concerted breath and the reassurance of the giant apple pips in her pocket this time Tom was focused on fantasies: what giant apple pips could be worth?
