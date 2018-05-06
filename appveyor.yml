@@ -7,6 +7,6 @@ test_script:
   - ps: .\topdf.ps1
 
 artifacts:
-  - path: '**\*.pdf'
+  - path: The-Return-of-Tom-Thumb.epub
     name: is_book_yeah
     type: file
