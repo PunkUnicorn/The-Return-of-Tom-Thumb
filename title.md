@@ -1,9 +1,7 @@
 % The Return of Tom Thumb
-% Person One
-  Person Two
-  Person Three
+% PunkUnicorn; gnutgnut; Purplejoby
 
-  It is book.
+  A book, for you to read.
 
 % 1/1/2019
 
