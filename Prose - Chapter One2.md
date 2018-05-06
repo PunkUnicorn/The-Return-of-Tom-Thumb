@@ -36,7 +36,7 @@ The south trail was easy in comfortable boots. Kim had father's hand-me-downs wh
 
 She strongly suspected the boots would fit whoever held them the same way they had fitted for her. Tom had pulled the boots off the giant very easily, accidentally even, and they slid off the giants feet into her hands as a pair of boots exactly the right size for her. 
 
-The long walk (mostly in silence) gave Tom ample time to muse. Thoughts of people at the village triggering her to remember these previously used defensive angles.
+The long walk (mostly in silence) gave Tom ample time to muse. Thoughts of people at the village triggering her to remember these previously used defensive excuses.
 
 Their progress along the south trail that morning was smooth and pleasant but exhausing. The forest thinned and the trail became a road. It was afternoon by the time they saw the dotted buildings far off in the distance. Two rolling hills to cross and they were there, they could be there before dark. They hurried their walking more to Toms absolute fastest.
 
