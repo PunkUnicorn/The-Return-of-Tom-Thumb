@@ -4,9 +4,9 @@ install:
 build: false
 
 test_script:
-  - ps: & _toolz\topdf.ps1
+  - ps: & .\_toolz\topdf.ps1
   - ps: gci -r The-Return-of-Tom-Thumb.pdf
 
 artifacts:
-- path: The-Return-of-Tom-Thumb.pdf
+- path: .\The-Return-of-Tom-Thumb.pdf
   name: is_book_yeah
