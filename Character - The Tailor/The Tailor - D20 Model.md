@@ -90,4 +90,4 @@ fascinate |
 Languages:
 - Common, 
 - Thieves cant,
-- Four other languages possibly from another dimension
+- Four other languages possibly from another dimension, probably including German

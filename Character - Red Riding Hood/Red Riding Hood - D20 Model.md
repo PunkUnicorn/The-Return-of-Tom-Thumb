@@ -62,8 +62,8 @@ Armor Class | 2 + 10 + 0 | = 12
 | knowledge (local) | 4 + 2 | = 6 |
 | listen | 4 + -1 | = 3 |
 | perform (dancing) | 4 + 3 | = 7 (*local celebrity possible +2 bonus) |
-| sense motive 4 + -1 = 3 |
-| sleight of hand 4 + 2 = 6 |
+| sense motive | 4 + -1 | = 3 |
+| sleight of hand | 4 + 2 | = 6 |
 | spot | 4 + -1 | = 3 |
 | ride | 1 + 3 | = 4 (preference for side-saddle) |
 

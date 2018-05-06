@@ -5,7 +5,7 @@
 Class | Fighter 2 
 Race | Human
 Hit Points | 20
-Alignment | Royal Prince Fugative/Decent Bloke
+Alignment | Fugitive Royal Prince/Decent Bloke
 Base Attack Bonus | 2
 
 ## Attributes

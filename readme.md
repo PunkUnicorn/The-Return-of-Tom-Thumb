@@ -1,5 +1,9 @@
 # The Return of Tom Thumb (*And The Seven League Boots*)
 
+*By PunkUnicorn, gnutgnut, Purplejoby*
+
+[![Build status](https://ci.appveyor.com/api/projects/status/lb3g13dict5g7l4i?svg=true)](https://ci.appveyor.com/project/gnutgnut/the-return-of-tom-thumb)
+
 *Starring...*
 # Tom Thumb
 ![Tom Thumb](https://github.com/PunkUnicorn/The-Return-of-Tom-Thumb/blob/master/TomThumb/Tom%20Thumbnail.jpg)
