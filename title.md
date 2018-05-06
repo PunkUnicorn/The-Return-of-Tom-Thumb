@@ -3,6 +3,4 @@
 
   A book, for you to read.
 
-% 1/1/2019
-
-![Red](RedRidingHood\red_looks_east_in_the_morning.png)
+![Tom](TomThumb/Tomthumb2Mugshot.png)
