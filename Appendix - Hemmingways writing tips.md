@@ -40,7 +40,9 @@ So let’s see what Ernest can teach us about effective writing.
    By stating what something isn’t can be counterproductive since it is still directing the mind, albeit in the opposite way. If I told you that dental work is painless for example, you’ll still focus on the word “pain” in “painless.”
 
    •	Instead of saying “inexpensive,” say “economical,”
+   
    •	Instead of saying “this procedure is painless,” say “there’s little discomfort” or “it’s relatively comfortable,”
+   
    •	And instead of saying “this software is error-free” or “foolproof,” say “this software is consistent” or “stable.”
 
 5. Never have only 4 rules.
