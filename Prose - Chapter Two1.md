@@ -1,6 +1,6 @@
 # Chapter Two
 
-![Tom Thumb](https://github.com/PunkUnicorn/The-Return-of-Tom-Thumb/blob/master/TomThumb/Tomthumb1.png)
+![Tom Thumb](/TomThumb/Tomthumb1.png)
 
 The village was IT WAS VILLAGY VILLAGE LAND, LAND OF TEH FREE VILLAGE HAD THE VILLAGE PEOPLE IN IT
 
