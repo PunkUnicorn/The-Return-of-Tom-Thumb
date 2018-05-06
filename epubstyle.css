@@ -1,12 +1,5 @@
 /* This defines styles and classes used in the book */
-body { margin: 5%; text-align: justify; text-indent: 1em; font-size: medium; 
-  -webkit-hyphenate-limit-before: 3;
-  -webkit-hyphenate-limit-after: 2;
-  -ms-hyphenate-limit-chars: 6 3 2;
-  hyphenate-limit-chars: 6 3 2;
-  -webkit-hyphenate-limit-lines: 2;
-  hyphenate-limit-lines: 2;
-}
+body { margin: 5%; text-align: justify; text-indent: 1em; font-size: medium; }
 code { font-family: monospace; }
 h1 { text-align: left; }
 h2 { text-align: left; }
@@ -24,7 +17,7 @@ em, em em em, em em em em em { font-style: italic;}
 em em, em em em em { font-style: normal; }
 
 /* https://friendsofepub.github.io/eBookTricks/ - Improve hyphenation */
-element {
+fishy {
   -webkit-hyphenate-limit-before: 3;
   -webkit-hyphenate-limit-after: 2;
   -ms-hyphenate-limit-chars: 6 3 2;
