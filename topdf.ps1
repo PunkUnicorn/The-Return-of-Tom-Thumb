@@ -1,6 +1,6 @@
-import-module .\posh\PDFTools.psm1
-$path=the_return_of_tom_thumb.pdf
-if([System.IO.File]::Exists($path)){
-    rm $path
+import-module .\_toolz\posh\PDFTools.psm1
+$path='..\The-Return-of-Tom-Thumb.pdf'
+ls -r|out-ptspdf $path -force
+if(![System.IO.File]::Exists($path)){
+    throw [System.IO.FileNotFoundException] "$path not found.";
 }
-ls -r|out-ptspdf $path
