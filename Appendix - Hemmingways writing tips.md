@@ -29,7 +29,7 @@ So let’s see what Ernest can teach us about effective writing.
 
    Here’s David Garfinkel’s take on this one:
 
-   It’s muscular, forceful. Vigorous English comes from passion, focus and intention. It’s the difference between putting in a good effort and TRYING to move a boulder… and actually sweating, grunting, straining your muscles to the point of exhaustion… and MOVING the freaking thing!
+   > It’s muscular, forceful. Vigorous English comes from passion, focus and intention. It’s the difference between putting in a good effort and TRYING to move a boulder… and actually sweating, grunting, straining your muscles to the point of exhaustion… and MOVING the freaking thing!
 
 4. Be positive, not negative.
 
