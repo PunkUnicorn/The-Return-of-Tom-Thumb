@@ -1,13 +1,12 @@
 install:
   - cinst pester
 
-build: 
-  - ps: write-host "building book"
-  - ps: .\topdf.ps1
+build: false
 
 test_script:
-  - ps: gci -r The-Return-of-Tom-Thumb.pdf
+  - ps: .\topdf.ps1
 
 artifacts:
-  - path: .\The-Return-of-Tom-Thumb.pdf
+  - path: '**\*.pdf'
     name: is_book_yeah
+    type: file
