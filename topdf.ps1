@@ -1,3 +1,3 @@
 write-host "**topdf.ps1**"
 pandoc --version
-pandoc readme.md --pdf-engine=xelatex -o readme.pdf
+pandoc readme.md -o readme.epub

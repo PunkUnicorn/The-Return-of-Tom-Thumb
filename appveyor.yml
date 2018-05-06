@@ -1,6 +1,5 @@
 install:
   - cinst pandoc
-  - cinst miktex
 
 build: false
 
