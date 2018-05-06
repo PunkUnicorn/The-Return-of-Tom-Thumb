@@ -17,9 +17,9 @@ So let’s see what Ernest can teach us about effective writing.
 
    Hemingway was famous for a terse minimalist style of writing that dispensed with flowery adjectives and got straight to the point. In short, Hemingway wrote with simple genius.
 
-Perhaps his finest demonstration of short sentence prowess was when he was challenged to tell an entire story in only 6 words:
+   Perhaps his finest demonstration of short sentence prowess was when he was challenged to tell an entire story in only 6 words:
 
-For sale: baby shoes, never worn.
+   > For sale: baby shoes, never worn.
 
 2. Use short first paragraphs.
 
