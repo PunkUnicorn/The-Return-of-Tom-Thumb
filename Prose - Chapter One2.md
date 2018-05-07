@@ -28,7 +28,7 @@ Tom braced her upper body and relaxed her legs shifting weight between feet, rea
 
 Nothing happened. Nothing happened for too long. Very quickly several more possible outcomes sprung to Toms mind; she was ready to dodge. But no, nothing. Tom chanced a gauging side glance towards Kim.
 
-Kim walked a few steps, leaned down and picked up a choice stick. A sturdy branch used the previous day in high spririts by her brothers, it was almost as tall as Tom. Kim held it as a staff vertically, it's base on the floor. Leaning his weight on it the staff held. Kim turned towards the south trail and looked back at Tom. "You're a stupid sod."
+Kim walked a few steps, leaned down and picked up a choice stick. A sturdy branch used the previous day in high spirits by her brothers, it was almost as tall as Tom. Kim held it as a staff vertically, it's base on the floor. Leaning his weight on it the staff held. Kim turned towards the south trail and looked back at Tom. "You're a stupid sod."
 
 Kim started walking towards the south trail. He walked a few steps turned his head towards Tom slightly: "Are you coming then?"
 
