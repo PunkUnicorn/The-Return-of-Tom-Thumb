@@ -11,7 +11,7 @@ She knew already, despite her father's frightening insistence he only had boys. 
 
 The giant's words echoed in her thoughts and again Tom felt surprise and shock. The kind words spoken by the giant had said themselves over and over bringing a churn to her gut. For as many times as Tom came to terms with this, it would return to unsettle her.
 
-Chewing a grass-stalk with her arms behind her head she realised she was not actually looking at the sky. But now she did as her thoughtscape vanished and she saw the clouds in front of her. It would be getting dark soon.
+Chewing a grass-stalk, with her arms behind her, head she realised she was not actually looking at the sky. But now she did as her thoughtscape vanished and she saw the clouds in front of her. It would be getting dark soon.
 
 She pulled her head up with her arms and looked past their home to the remaining apple core. It sat looking a little sorry for itself. It was more than thin now, and slushy. She and her brothers had dragged this giant apple from the strange house. "And what a great idea that was." Tom congratulated herself; it was a feast for everyone. "And that was me." she continued, surprised by the revelation. And at that moment she felt immensely proud.
 
