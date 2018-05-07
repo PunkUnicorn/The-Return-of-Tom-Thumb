@@ -17,7 +17,7 @@ She pulled her head up with her arms and looked past their home to the remaining
 
 The apple would last them about two more days Tom thought carefully, weighing it up in her mind. Full bellies all round. A heavenly comfort with a nagging feeling. What was that nagging feeling? An awareness catching up with her. Probing her thoughts she reluctantly opened blocks and doubt seeped in. "Oh yes," she murmured. The apple would inevitably be eaten. With no apple left the family would be back to the way it was before. Which was nothing. Winter was not over yet.
 
-"It's ages till spring." Tom thought, looking towards the core. Somehow her focus left the apple even though she was looking straight at it. 
+"It's ages till spring." Tom thought, looking towards the core. Somehow, her focus left the apple even though she was looking straight at it. 
 
 Tom's mind drifted.
 
@@ -25,7 +25,7 @@ Spring would break and the family could get back to a merry life of hunting rode
 
 Wiggling her toes she felt the exquisite comfort in the soft leather of the boots; she could do that all day. She had been doing that all day. Now the worry of what would happen when the apple core ran out...
 
-After the apple core had gone and there was nothing else to eat Tom knew it would be bad. There would be arguing at best, she thought with a shudder. Being the smallest of all the children, significantly smaller than the next smallest, Tom wasn't sure that being a girl would make such a difference anyway. She would still have to fight for pretty much anything. Tom was in good favour with her brothers at the moment, but soon it would be back to normal. 
+After the apple core had gone and there was nothing else to eat Tom knew it would be bad. There would be arguing, at best, she thought with a shudder. Being the smallest of all the children, significantly smaller than the next smallest, Tom wasn't sure that being a girl would make such a difference anyway. She would still have to fight for pretty much anything. Tom was in good favour with her brothers at the moment, but soon it would be back to normal. 
 
 Sitting and not sure whether to get up or not, she was glad everyone had enough to eat today. Today she had the luxury of a full belly. 
 
