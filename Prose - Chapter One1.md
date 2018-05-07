@@ -13,7 +13,7 @@ The giant's words echoed in her thoughts and again Tom felt surprise and shock. 
 
 Chewing a grass-stalk, with her arms behind her, head she realised she was not actually looking at the sky. But now she did as her thoughtscape vanished and she saw the clouds in front of her. It would be getting dark soon.
 
-She pulled her head up with her arms and looked past their home to the remaining apple core. It sat looking a little sorry for itself. It was more than thin now, and slushy. She and her brothers had dragged this giant apple from the strange house. "And what a great idea that was." Tom congratulated herself; it was a feast for everyone. "And that was me." she continued, surprised by the revelation. And at that moment she felt immensely proud.
+She pulled her head up with her arms and looked past their home to the remaining apple core. It sat looking a little sorry for itself. It was more than thin now, and slushy. She and her brothers had dragged this giant apple from the strange house. "And what a great idea that was." Tom congratulated herself; it was a feast for everyone. "That was me." she continued, surprised by the revelation. And at that moment she felt immensely proud.
 
 The apple would last them about two more days Tom thought carefully, weighing it up in her mind. Full bellies all round. A heavenly comfort with a nagging feeling. What was that nagging feeling? An awareness catching up with her. Probing her thoughts she reluctantly opened blocks and doubt seeped in. "Oh yes," she murmured. The apple would inevitably be eaten. With no apple left the family would be back to the way it was before. Which was nothing. Winter was not over yet.
 
