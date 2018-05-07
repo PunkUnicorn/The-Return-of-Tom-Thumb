@@ -44,4 +44,4 @@ Early afternoon the two reached the village. Kim carried Tom piggy back for the 
 
 Tom remembered this looking at the collection of houses and buildings. She could not remember much about it at the time, having been preoccupied. The memory of relief arriving at the village. But then the memory of the nightmare before that; the giants house: giant trying to kill her.
 
-With a concerted breath and the reassurance of the giant apple pips in her pocket Tom gathered focus. Her focus drifted into fantasies of what the giant pips could be worth.
+With a concerted breath and the reassurance of the giant apple pips in her pocket Tom gathered focus. Her focus tunnelled into fantasies of what the giant pips could be worth.
