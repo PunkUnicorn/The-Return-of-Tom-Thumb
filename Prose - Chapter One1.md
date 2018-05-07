@@ -7,7 +7,7 @@ As usual her thoughts were occupied, replaying the past troubling days. The terr
 
 Tom wondered "How did the lady giant know?". A pang of regret that it was heard from a stranger, but it blended into the despair at being left in the forest. Tom had no reason to doubt the words of the kind woman giant: "No you beautiful young thing: make no mistake you are a girl." 
 
-She knew already, despite her father's frightening insistence he only had boys. No longer could she deny what made perfect sense.
+She knew already, despite her father's frightening insistence he only had boys. No longer could she deny.
 
 The giant's words echoed in her thoughts and again Tom felt surprise and shock. Since arriving back home the kind words spoken by the giant had said themselves over and over, at times bringing a churn to her gut. For as many times as Tom came to terms with this, it would return to unsettle her.
 
