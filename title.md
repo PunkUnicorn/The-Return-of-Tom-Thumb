@@ -1,6 +1,16 @@
 % The Return of Tom Thumb
 % PunkUnicorn; gnutgnut; Purplejoby
 
-  A book, for you to read.
+ <sub>Once upon a time in a land far away,</sub>
+ 
+ <sub>Children lost, by their parents betrayed,</sub>
+ 
+ <sub>Encountered a house, a good place to stay,</sub>
+ 
+ <sub>Giants lived there, pursuit underway!</sub>
+ 
+ <sub>The brothers and Tom escaped, hurray,</sub>
+ 
+ <sub>Stole his boots and ran away.</sub>
 
 ![](cover.png)

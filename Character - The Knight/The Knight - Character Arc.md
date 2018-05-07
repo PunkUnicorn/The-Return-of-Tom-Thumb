@@ -19,6 +19,8 @@
 
 * He is encumbered. With unfiltered perception of how the world is.
 
+* He is encumbered. With a drink problem.
+
 
 # Character Arc
 

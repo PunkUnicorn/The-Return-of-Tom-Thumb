@@ -1,5 +1,7 @@
 # Chapter Two
 
+![](TomThumb/Tom Thumbnail.jpg)
+
 The village was IT WAS VILLAGY VILLAGE LAND, LAND OF TEH FREE VILLAGE HAD THE VILLAGE PEOPLE IN IT
 
 DRAW MAP OF VILLAGE.
