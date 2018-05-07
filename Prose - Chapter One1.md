@@ -9,7 +9,7 @@ Tom wondered "How did the lady giant know?". A pang of regret that it was heard 
 
 She knew already, despite her father's frightening insistence he only had boys. "Hide away." and she would try to think where, but there was no denial left.
 
-The giant's words echoed in her thoughts and again Tom felt surprise and shock. Since arriving back home the kind words spoken by the giant had said themselves over and over, bringing a churn to her gut. For as many times as Tom came to terms with this, it would return to unsettle her.
+The giant's words echoed in her thoughts and again Tom felt surprise and shock. Since arriving back home the kind words spoken by the giant had said themselves over and over bringing a churn to her gut. For as many times as Tom came to terms with this, it would return to unsettle her.
 
 Chewing a grass-stalk with her arms behind her head she realised she was not actually looking at the sky. But now she did as her thoughtscape vanished and she saw the clouds in front of her. It would be getting dark soon.
 
