@@ -11,6 +11,6 @@
  
  <sub>The brothers and Tom escaped, hurray,</sub>
  
- <sub>They stole his boots and ran away.</sub>
+ <sub>Stole his boots and ran away.</sub>
 
 ![](cover.png)
