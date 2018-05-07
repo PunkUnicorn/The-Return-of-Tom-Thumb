@@ -42,7 +42,7 @@ Their progress along the south trail that morning was smooth and pleasant, but e
 
 By early afternoon, the two had reached the village. Kim carried Tom piggy back for the last stretch and he stopped exhausted. Tom jumped down and looked around. They had been to this village before when fleeing the giants. 
 
-Tom remembered this looking at the collection of houses and buildings. She could not remember much about it at the time, having been preoccupied. The memory of relief arriving at the village. But then the memory of the nightmare before that; the giants house: giant trying to kill her.
+Tom remembered this looking at the collection of houses and buildings. She could not remember much about it at the time, having been preoccupied. The memory of relief on arriving at the village. But then the memory of the nightmare before that; the giants house: giant trying to kill her.
 
 With a concerted breath, and the reassurance of the pips in her pocket, Tom gathered her focus. Which took her through tunnels into fantasy daydreams; what the pips could be worth?
 
