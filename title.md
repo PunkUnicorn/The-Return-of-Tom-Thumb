@@ -1,5 +1,5 @@
 % The Return of Tom Thumb
-## (And the Seven League Boots)
+% *(And the Seven League Boots)*
 % PunkUnicorn; gnutgnut; Purplejoby
 
  Once upon a time in a land far away,
