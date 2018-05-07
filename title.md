@@ -2,7 +2,7 @@
 % *(And the Seven League Boots)*
 % PunkUnicorn; gnutgnut; Purplejoby
 
- Once upon a time in a land far away,
+ <sub>Once upon a time in a land far away,
  
  Children were lost, by their parents betrayed,
  
@@ -12,6 +12,6 @@
  
  The brothers and Tom escaped, hurray,
  
- They stole his boots and ran away.
+ They stole his boots and ran away.</sub>
 
 ![](cover.png)
