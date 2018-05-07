@@ -30,7 +30,10 @@ ___
 
 ESTJ-A  https://youtu.be/_VyKVbKUTRc?t=2m12s
 
+___
+# Croconocerous
 
+![Croconocerous](Croconocerous/o_hai_just_eatin_ur_rock.png)
 ___
 
 # References
