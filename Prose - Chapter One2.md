@@ -12,7 +12,7 @@ And yet, bellies full even mitigated tensions were rising round the table; compe
 
 Wiggling her toes, squashing them against the wool lined boots, the comfort winning the battle for her senses. Beautifully fitting boots drowned out the sound. Comfort was her entertainment for the evening.
 
-Next morning Tom woke earlier than anyone else. With well practiced tip-toeing she moved between sleeping siblings, got to the door and went outside. The first thing she saw: brown leaning apple-core. The bright morning sun spared the eye no mercy and the giant apple-core was looking far from adequate. Tom realised her expectations were wrong. 
+Next morning Tom woke earlier than anyone else. With well practiced tip-toeing she stepped between sleeping siblings, got to the door and went outside. The first thing she saw: brown leaning apple-core. The bright morning sun spared the eye no mercy and the giant apple-core was looking far from adequate. Tom realised her expectations were wrong. 
 
 The house door opened quietly behind her, Tom looked round. It was the oldest and biggest of the brothers, Kim. Relaxing Tom looked back at the apple. Kim joined her 
 
