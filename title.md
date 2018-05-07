@@ -2,16 +2,16 @@
 % *(And the Seven League Boots)*
 % PunkUnicorn; gnutgnut; Purplejoby
 
- <sub>Once upon a time in a land far away,
+ <sub>Once upon a time in a land far away,</sub>
  
- Children were lost, by their parents betrayed,
+ <sub>Children were lost, by their parents betrayed,</sub>
  
- Encountered a house, a good place to stay,
+ <sub>Encountered a house, a good place to stay,</sub>
  
- Angry giant lived there, pursuit underway!
+ <sub>Angry giant lived there, pursuit underway!</sub>
  
- The brothers and Tom escaped, hurray,
+ <sub>The brothers and Tom escaped, hurray,</sub>
  
- They stole his boots and ran away.</sub>
+ <sub>They stole his boots and ran away.</sub>
 
 ![](cover.png)
