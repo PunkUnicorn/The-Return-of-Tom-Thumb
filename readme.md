@@ -2,12 +2,10 @@
 
 *By PunkUnicorn, gnutgnut, Purplejoby*
 
-<sub>gnutgnut</sub>
-[![Build status](https://ci.appveyor.com/api/projects/status/lb3g13dict5g7l4i?svg=true)](https://ci.appveyor.com/project/gnutgnut/the-return-of-tom-thumb)
+[![gnutgnut Build status](https://ci.appveyor.com/api/projects/status/lb3g13dict5g7l4i?svg=true)](https://ci.appveyor.com/project/gnutgnut/the-return-of-tom-thumb)
 [epub](https://ci.appveyor.com/project/gnutgnut/the-return-of-tom-thumb/build/artifacts)
 
-<sub>PunkUnicorn</sub>
-[![Build status](https://ci.appveyor.com/project/PunkUnicorn/the-return-of-tom-thumb/branch/master)]
+[![PunkUnicorn Build status](https://ci.appveyor.com/api/projects/status/n1dn0yffjduo04tf?svg=true)
 [epub](https://ci.appveyor.com/project/PunkUnicorn/the-return-of-tom-thumb/build/artifacts)
 
 *Starring...*
