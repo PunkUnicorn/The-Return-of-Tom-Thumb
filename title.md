@@ -1,8 +1,6 @@
 % The Return of Tom Thumb
 % PunkUnicorn; gnutgnut; Purplejoby
 
-
-
  <sub>Once upon a time in a land far away,</sub>
  
  <sub>Children lost, by their parents betrayed,</sub>
