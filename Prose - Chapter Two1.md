@@ -1,6 +1,14 @@
 # Chapter Two
 
-![](TomThumb/Tom Thumbnail.jpg)
+Kim got his breath back and moved a few steps to join his sister. Tom acknkowledged Kim with a glance, her train of thought vanishing. The meeting of eyes bringing her back to their combined mission.
+
+With a slow pace they walked towards the village. They walked as fast as they could take in the sights, sounds and smells, which hit them at once. Geese, dogs, people. Carts and horses! People talking, trading and how they were all dressed. Everyone here had boots or cloggs. Tom gave her own boots a quick look. She would fit in.
+
+took in as much as she he village looked vibrant. Oh to live here!
+
+
+@}}>-----      --------{---(@
+
 
 The village was IT WAS VILLAGY VILLAGE LAND, LAND OF TEH FREE VILLAGE HAD THE VILLAGE PEOPLE IN IT
 
