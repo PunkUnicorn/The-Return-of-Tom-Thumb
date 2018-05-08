@@ -7,7 +7,7 @@ They walked towards the village at a slow pace to take it all in: sights, sounds
 
 And how people were dressed. Everyone had good boots or cloggs. Tom gave her own boots a quick look. Pride enveloped her with a dawning thought: she was fitting in.
 
-Tom looked to Kim. Kim was perturbed. He looked hesitant as if the whole thing was a bad idea. Tom turned to face Kim, inviting him to share her perspectve. Kim returned the look. It was clear to Tom her brother was not influenced. Instead Kim looked at her with dread, as if she were the vibrant village. 
+Tom looked to Kim, who was perturbed. He looked hesitant as if the whole thing was a bad idea. Tom turned to face Kim, inviting him to share her perspectve. Kim returned the look. It was clear to Tom her brother was not influenced. Instead Kim looked at her with dread, as if she were the vibrant village. 
 
 "You two are new" said someone behind them. The two turned round to see a relaxed, sandy haired boy. He was a bit older than them. He was holding a cow by a nose ring teather. "Where are you from?"
 
