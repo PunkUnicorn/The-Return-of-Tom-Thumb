@@ -33,3 +33,7 @@ Strength 17/18, Dexterity 12/18, Constitution 16/18, Wisdom 14/18, Charisma 9/18
 
 Likly quotes
 - "Sometimes I wonder if I don't overthink things enough." *Credit Pete Lupton 20/4/2018
+
+You're a myth - most likely said by The Knight to something mythical standing in front of him. 
+"I'm the myth am I, sir 'Knight'" starting and ending sylibols emphasised. 
+
