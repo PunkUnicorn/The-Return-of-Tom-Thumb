@@ -3,17 +3,17 @@
 Kim got his breath back and moved a few steps to join his sister. Tom acknowledged Kim with a glance, her train of thought gone. 
 
 [Vibrantise:]
-They walked towards the village at a slow pace to take it all in: sights, sounds and smells, geese, dogs and people. Carts and horses. Stacks of things by the buildings. Smoke, banging. A sudden shout but not for them.
+They walked towards the village at a slow pace to take it all in: sights, sounds and smells, geese, dogs and people. Carts and horses. Stacks of things by the buildings. Sacks of things by the stacks. Smoke, banging. A sudden shout, but it was not for them.
 
 And how people were dressed. Everyone had good boots or cloggs. Tom gave her own boots a quick look. Pride enveloped her with a dawning thought: she was fitting in.
 
-Tom looked to Kim, who was perturbed. He looked hesitant as if the whole thing was a bad idea. Tom turned to face Kim, inviting him to share her perspectve. Kim returned the look. It was clear to Tom her brother was not influenced. Instead Kim looked at her with dread, as if she were the vibrant village. 
+Tom looked to Kim: he looked perturbed as if the whole thing was a bad idea. Tom turned to face Kim with the excitement she felt; an invitation. Kim returned her look but it was clear her brother was not influenced. Instead Kim looked at her with dread as if she were the vibrant village.
 
-"You two are new" said someone behind them. The two turned round to see a relaxed, sandy haired boy. He was a bit older than them. He was holding a cow by a nose ring teather. "Where are you from?"
+"You two are new" said someone behind them. The two turned round to see a relaxed, sandy haired boy. He was a bit older than them. He was holding a cow by a nose ring teather. "Where you from?" the boy looked between Tom and Kim, but eyes ending on Tom.
 
 "Hello!" replied Tom, pleased to make a new friend. Kim barely said anything; a slight disaproval was his greeting.
 
-"We're from the Forest." Tom pointed North. 
+"We're from the Forest." Tom pointed North, explaining.
 
 "Oh." said the boy, as if he was interested. "From that forest."
 
