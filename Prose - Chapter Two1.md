@@ -4,9 +4,9 @@ Kim got his breath back and moved a few steps to join his sister. Tom acknkowled
 
 With a slow pace they walked towards the village. They walked as fast as they could take in the sights, sounds and smells, which hit them at once. Geese, dogs, people. Carts and horses! 
 
-And how people were dressed. Everyone had good boots or cloggs. Tom gave her own boots a quick look. Pride enveloped her with the dawning revolation: she would fit in.
+And how people were dressed. Everyone had good boots or cloggs. Tom gave her own boots a quick look. Pride enveloped her with the dawning thought: she would fit in.
 
-Tom looked to Kim. Kim was perturbed. He looked hesitant as if the whole thing was a bad idea. Tom turned her head to face Kim, inviting him to her perspectve. Kim returned the look. It was clear to Tom her brother's anxiety was not influenced. Instead Kim looked at her with dread, as if she were the vibrant village. 
+Tom looked to Kim. Kim was perturbed. He looked hesitant as if the whole thing was a bad idea. Tom turned her head to face Kim, inviting him to share her perspectve. Kim returned the look. It was clear to Tom her brother was not influenced. Instead Kim looked at her with dread, as if she were the vibrant village. 
 
 
 
