@@ -9,7 +9,7 @@ And how people were dressed. Everyone had good boots or cloggs. Tom gave her own
 
 Tom looked to Kim: he looked perturbed as if the whole thing was a bad idea. Tom turned to face her brother with the excitement she felt; an invitation. Kim returned her look but it was clear he was not influenced. Instead Kim looked at her with dread, as if she were the vibrant village.
 
-"You two are new" said someone behind them. The two turned to see a relaxed, sandy haired boy. He was a bit older than them. He was holding a cow by a nose ring teather. "Where you from?" the boy looked between Tom and Kim, but ending on Tom.
+"You two are new" said someone behind them. The two stopped and turned abruptly: a relaxed, sandy haired boy. He was a bit older than them. He was holding a cow by a nose ring teather. "Where you from?" the boy looked between Tom and Kim, but ending on Tom.
 
 "Hello." She answered eagerly, pleased to make a new friend. Kim barely said anything, a slight disaproval was his greeting.
 
