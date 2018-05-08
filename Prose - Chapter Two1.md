@@ -15,9 +15,9 @@ Kim barely said anything, a slight disaproval for a greeting.
 
 "Hello." Tom answered eagerly, pleased for a new friend. 
 
-"We're from the Forest." She pointed North to explain.
+"We're from The Forest." She pointed north to explain.
 
-"Oh." said the boy as if he was interested. "The forest."
+"Oh." said the boy as if he was interested. "The Forest."
 
 
 
