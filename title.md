@@ -13,7 +13,7 @@
  
  <sub>Giants lived there, pursuit underway!</sub>
  
- <sub>Boots were stolen in disarray,</sub>
+ <sub>Boots were stolen, a giant was slayed,</sub>
 
  <sub>The brothers and Tom escaped, hurray.</sub>
 
