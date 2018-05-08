@@ -4,17 +4,17 @@ Kim got his breath back and moved a few steps to join his sister. Tom acknowledg
 
 They walked towards the village at a slow pace to take it all in: sights, sounds and smells, geese, dogs and people. Carts and horses. Stacks of things by the buildings. Smoke, banging. A sudden shout but not for them.
 
-And how people were dressed. Everyone had good boots or cloggs. Tom gave her own boots a quick look. Pride enveloped her with the dawning thought: she was fitting in.
+And how people were dressed. Everyone had good boots or cloggs. Tom gave her own boots a quick look. Pride enveloped her with a dawning thought: she was fitting in.
 
 Tom looked to Kim. Kim was perturbed. He looked hesitant as if the whole thing was a bad idea. Tom turned to face Kim, inviting him to share her perspectve. Kim returned the look. It was clear to Tom her brother was not influenced. Instead Kim looked at her with dread, as if she were the vibrant village. 
 
-"You two are new" said someone behind them. The two turned round to see a relaxed, sandy haired boy. He was a bit older than them and was holding a cow by a nose ring teather. 
+"You two are new" said someone behind them. The two turned round to see a relaxed, sandy haired boy. He was a bit older than them. He was holding a cow by a nose ring teather. "Where are you from?"
 
-"Hello!" replied Tom, pleased to make a new friend. Kim barely said anything, a slight disaproval was his greeting.
+"Hello!" replied Tom, pleased to make a new friend. Kim barely said anything; a slight disaproval was his greeting.
 
 "We're from the Forest." Tom pointed North. 
 
-"Oh." said the boy, as if he was interested. "What you come down here for?"
+"Oh." said the boy, as if he was interested. "From that forest eh?"
 
 
 
