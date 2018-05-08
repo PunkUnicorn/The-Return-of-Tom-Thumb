@@ -7,7 +7,7 @@
 
  <sub>Once upon a time in a land far away,</sub>
  
- <sub>Children were lost, by parents betrayed,</sub>
+ <sub>Children were lost, by their parents betrayed,</sub>
  
  <sub>Encountered a house, a good place to stay,</sub>
  
@@ -17,4 +17,5 @@
  
  <sub>Stole his boots and ran away.</sub>
 
+***
 ![](cover.png)
