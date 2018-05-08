@@ -9,11 +9,13 @@ And how people were dressed. Everyone had good boots or cloggs. Tom gave her own
 
 Tom looked to Kim: he looked perturbed as if the whole thing was a bad idea. Tom turned to face her brother with the excitement she felt; an invitation. Kim returned her look but it was clear he was not influenced. Instead Kim looked at her with dread, as if she were the vibrant village.
 
-"You two are new" said someone behind them. The two stopped and turned abruptly: a relaxed, sandy haired boy. A bit older than them. He was holding a cow by a nose ring teather. "Where you from?" the boy looked between Tom and Kim, but ended on Tom.
+"You two are new" said someone behind them. The two stopped and turned abruptly: a relaxed, sandy haired boy. A bit older than them. He was holding a cow by a nose ring teather. "Where you from?" the boy glanced between Tom and Kim, but ended on Tom.
 
-"Hello." She answered eagerly, pleased to make a new friend. Kim barely said anything, a slight disaproval was his greeting.
+Kim barely said anything, a slight disaproval for a greeting.
 
-"We're from the Forest." Tom pointed North to explain.
+"Hello." Tom answered eagerly, pleased to have made a new friend. 
+
+"We're from the Forest." She pointed North to explain.
 
 "Oh." said the boy as if he was interested. "The forest."
 
