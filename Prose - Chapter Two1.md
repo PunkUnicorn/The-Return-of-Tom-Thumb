@@ -2,21 +2,16 @@
 
 Kim got his breath back and moved a few steps to join his sister. Tom acknkowledged Kim with a glance, her train of thought vanishing. The meeting of eyes bringing her back to their combined mission.
 
-With a slow pace they walked towards the village. They walked as fast as they could take in the sights, sounds and smells, which hit them at once. Geese, dogs, people. Carts and horses! People talking, trading and how they were all dressed. Everyone here had boots or cloggs. Tom gave her own boots a quick look. She would fit in.
+With a slow pace they walked towards the village. They walked as fast as they could take in the sights, sounds and smells, which hit them at once. Geese, dogs, people. Carts and horses! 
 
-took in as much as she he village looked vibrant. Oh to live here!
+And how people were dressed. Everyone had good boots or cloggs. Tom gave her own boots a quick look. Pride enveloped her with the dawning revolation: she would fit in.
+
+Tom looked to Kim. Kim was perturbed. He looked hesitant as if the whole thing was a bad idea. Tom turned her head to face Kim, inviting him to her perspectve. Kim returned the look. It was clear to Tom her brother's anxiety was not influenced. Instead Kim looked at her with dread, as if she were the vibrant village. 
+
 
 
 @}}>-----      --------{---(@
 
-
-The village was IT WAS VILLAGY VILLAGE LAND, LAND OF TEH FREE VILLAGE HAD THE VILLAGE PEOPLE IN IT
-
-DRAW MAP OF VILLAGE.
-
-
-
-NOW TWO HEROS JOURNEYS AT THE SEAM TIME!!1 WE PUT THEM BOTH AT EITHER ENDS OF THE LARGE HADRON COLLIDER AND SHOOT THEM TOWARDS EACH OTHER AT THE SPEED OF LIGHT. SEE WHAT HAPPENS
 
 The Tailor's hero's journey and Toms hero's journey
 
