@@ -14,7 +14,7 @@ Tom looked to Kim. Kim was perturbed. He looked hesitant as if the whole thing w
 
 "We're from the Forest." Tom pointed North. 
 
-"Oh." said the boy, as if he was interested. "From that forest eh?"
+"Oh." said the boy, as if he was interested. "From that forest."
 
 
 
