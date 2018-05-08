@@ -13,9 +13,10 @@
  
  <sub>Giants lived there, pursuit underway!</sub>
  
- <sub>The brothers and Tom escaped, hurray,</sub>
- 
- <sub>Stole his boots and ran away.</sub>
+ <sub>Boots were stolen in disarray,</sub>
+
+ <sub>The brothers and Tom escaped, hurray.</sub>
+
 
 ***
 ![](cover.png)
