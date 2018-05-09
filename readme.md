@@ -7,7 +7,9 @@
 [epub](https://ci.appveyor.com/project/gnutgnut/the-return-of-tom-thumb/build/artifacts)
 * Purplejoby
 
-   
+Notes
+command line spell checker: https://alexwlchan.net/2016/09/please-use-aspell/
+- [x] Book version in text file, render to image and show in book
 
 *Starring...*
 # Tom Thumb
