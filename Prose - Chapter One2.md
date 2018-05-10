@@ -36,7 +36,7 @@ Kim walked a few steps, leaned down and picked up a choice stick. A sturdy branc
 
 Leaning his weight on it the staff held. Kim turned towards the south trail and looked back at Tom. "You're a stupid sod."
 
-Kim started walking towards the south trail. He walked a few steps turned his head slightly: "Are you coming then?"
+Kim started walking towards the south trail. He walked a few steps, turned his head slightly: "Are you coming then?"
 
 The south trail was easy in comfortable boots. Kim had father's hand-me-downs which were only second generation. They looked more or less like normal old boots. Tom's pair looked new but obviously too small for anyone other than her and her tiny frame. Early on she had relied on this to stave off others desires.
 
