@@ -54,4 +54,4 @@ Tom remembered this looking at the collection of houses and buildings. She could
 
 With a concerted breath, and the reassurance of the pips in her pocket, Tom gathered her focus. Which took her through tunnels into fantasy daydreams; what the pips could be worth?
 
-![](Tom%20Thumbnail.jpg)
+![](Tomthumb1.png)
