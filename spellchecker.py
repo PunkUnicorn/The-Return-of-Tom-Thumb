@@ -14,14 +14,18 @@ print(__doc__)
 for line in sys.stdin:
     # do lots stripping... then split!
     words = line.strip('"')
-    words = words.strip('*')
+    words = words.strip('\*')
     words = words.strip('#')
     words = words.strip(';')
     words = words.strip(':')
     words = words.strip(',')
     words = words.strip('?')
-    words = words.strip('#')
+    words = words.strip('.')
+    words = words.strip('\'')
+    words = words.strip('\\')
+    words = words.strip('/')
     words = words.split() 
     for word in words:
+        word = word.lower()
         if not d.check(word):
             print('YOU SUCK Suggestions for', word, ':', '\n\t'.join(d.suggest(word)))
