@@ -10,6 +10,7 @@
 Notes
 command line spell checker: https://alexwlchan.net/2016/09/please-use-aspell/
 - [x] Book version in text file, render to image and show in book
+- [x] Or this https://softwarerecs.stackexchange.com/questions/26923/command-line-spell-check-for-windows
 
 *Starring...*
 # Tom Thumb
