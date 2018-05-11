@@ -11,7 +11,7 @@ import enchant
 
 d = enchant.Dict("en_UK") # or en_UK, de_DE, fr_FR, en_AU on my system
 print(__doc__)
-for word in sys.argv[1:]: 
+for word in sys.stdin:
     if d.check(word):
         print(d, 'is OK')
     else:
