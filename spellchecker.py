@@ -25,6 +25,8 @@ for line in sys.stdin:
     words = words.replace('\\', '')
     words = words.replace('/', '')
     words = words.replace('!', '')
+    words = words.replace(')', '')
+    words = words.replace('(', '')
     words = words.split() 
     for word in words:
         if not d.check(word):
