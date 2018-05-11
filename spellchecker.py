@@ -21,11 +21,12 @@ for line in sys.stdin:
     words = words.replace(',', '')
     words = words.replace('?', '')
     words = words.replace('.', '')
-    words = words.replace('\'', '')
+    # words = words.replace('\'', '')
     words = words.replace('\\', '')
     words = words.replace('/', '')
     words = words.split() 
     for word in words:
-        word = word.lower()
+        if len(word) > 1:
+            word = word.lower()            
         if not d.check(word):
             print('YOU SUCK Suggestions for', word, ':', '\n\t'.join(d.suggest(word)))
