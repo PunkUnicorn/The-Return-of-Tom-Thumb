@@ -1,8 +1,6 @@
 install:
   - cinst pandoc
-  - cinst brew
-  - brew install aspell
-  - Choco list packagename --all
+  - sh: sudo apt-get install aspell
 
 build: false
 
