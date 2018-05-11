@@ -1,6 +1,7 @@
 install:
   - cinst pandoc
   - pip install -U pyenchant
+  - python -m pip install --upgrade pip
 
 build: false
 
