@@ -1,5 +1,5 @@
 write-host "**topdf.ps1**"
-Get-Content -Path "Prose - Chapter One1.md" | python spellchecker.py
+Get-Content -Path "Prose - Chapter *.md" | python spellchecker.py
 pandoc --version
 pandoc --css epubstyle.css `
   "title.md" `
