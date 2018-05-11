@@ -11,8 +11,10 @@ import enchant
 
 d = enchant.Dict("en_UK") # or en_UK, de_DE, fr_FR, en_AU on my system
 print(__doc__)
-for word in sys.stdin:
-    if d.check(word):
-        print(d, 'is OK')
-    else:
-        print('Suggestions for', word, ':', '\n\t'.join(d.suggest(word)))
+for line in sys.stdin:
+    words = line.split()
+    for word in words:
+        if d.check(word):
+            print(word, 'is OK')
+        else:
+            print('Suggestions for', word, ':', '\n\t'.join(d.suggest(word)))
