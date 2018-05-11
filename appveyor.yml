@@ -1,6 +1,6 @@
 install:
   - cinst pandoc
-  - sh: sudo apt-get install aspell
+  - sh: apt-get install aspell
 
 build: false
 
