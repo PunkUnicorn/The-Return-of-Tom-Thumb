@@ -1,5 +1,6 @@
 install:
   - cinst pandoc
+  - brew install aspell
 
 build: false
 
