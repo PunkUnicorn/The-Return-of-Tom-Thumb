@@ -1,6 +1,6 @@
 install:
   - cinst pandoc
-  - apt-get install aspell
+  - pip install -U pyenchant
 
 build: false
 
