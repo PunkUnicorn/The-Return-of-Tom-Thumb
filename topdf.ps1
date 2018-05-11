@@ -1,16 +1,7 @@
 write-host "**topdf.ps1**"
-
-Get-ChildItem -Filter *.md | 
-Foreach-Object {
-  $filename = Get-Content $_.FullName
-  Write-Output $filename
-  Get-Content -Path $filename | python spellchecker.py
-}
-
-Write-Output "Chapter One Motherfucker"
+Write-Output "Chapter One Spelling Motherfucker"
 Get-Content -Path "Prose - Chapter One*.md" | python spellchecker.py
-
-
+Write-Output "Chapter One Spelling Ends"
 Get-Content -Path "Prose - Chapter One*.md" | python spellchecker.py
 pandoc --version
 pandoc --css epubstyle.css `
