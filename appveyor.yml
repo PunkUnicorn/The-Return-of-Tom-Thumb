@@ -1,6 +1,6 @@
 install:
   - cinst pandoc
-  - brew install aspell
+  - Choco list packagename --all
 
 build: false
 
