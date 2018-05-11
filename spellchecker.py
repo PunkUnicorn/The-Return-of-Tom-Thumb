@@ -13,8 +13,8 @@ d = enchant.Dict("en_UK") # or en_UK, de_DE, fr_FR, en_AU on my system
 print(__doc__)
 for line in sys.stdin:
     # do lots stripping... then split!
-    words = line.replace('"', '')
-    words = words.replace('\*', '')
+    words = line.replace('\"', '')
+    words = words.replace('*', '')
     words = words.replace('#', '')
     words = words.replace(';', '')
     words = words.replace(':', '')
@@ -24,6 +24,7 @@ for line in sys.stdin:
     # words = words.replace('\'', '')
     words = words.replace('\\', '')
     words = words.replace('/', '')
+    words = words.replace('!', '')
     words = words.split() 
     for word in words:
         if len(word) > 1:
