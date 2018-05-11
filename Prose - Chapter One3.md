@@ -1,6 +1,6 @@
 Kim got his breath back and moved a few steps to join his sister. Tom acknowledged Kim, her train of thought gone with the eye-contact.
 
-They walked towards the village at a slow pace to take it all in: sights, sounds and smells, geese, dogs and people. Carts and horses. Stacks of things by the buildings. Sacks of things by the stacks. Smoke, banging. A sudden shout, but nothing to do with them.
+They walked towards the village at a slow pace to take everything in: sights, sounds and smells, geese, dogs and people. Carts and horses. Stacks of things by the buildings. Sacks of things by the stacks. Smoke, banging. A sudden shout, but nothing to do with them.
 
 And how people were dressed. Everyone had good boots or cloggs. Tom gave her own boots a quick look. Pride enveloped her with a dawning thought: she was fitting in.
 
