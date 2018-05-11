@@ -1,9 +1,7 @@
 
 """
-Thank you Steve Barnes
+Thank you Steve Barnes, Command Line Spelling Checker
 https://softwarerecs.stackexchange.com/questions/26923/command-line-spell-check-for-windows
-Command Line Spelling Checker
-Enter words to check as arguments
 """
 from __future__ import print_function
 import sys
