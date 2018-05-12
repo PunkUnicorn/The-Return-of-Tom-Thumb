@@ -4,6 +4,8 @@ import json
 from collections import Counter
 from py_thesaurus import Thesaurus
 
+
+counts = Counter()
 for line in sys.stdin:
     words = line.strip().lower().split() 
     counts.update(words)
