@@ -13,7 +13,7 @@ def statusMessage(title, hint):
     data = { "Word": title,  "Status": "Message", "Hint": hint }
     print(json.dumps(data))
 
-for line in sys.stdin:
+def makeWords(line):
     words = line.replace('\"', '')
     words = words.replace('*', '')
     words = words.replace('#', '')
@@ -29,21 +29,18 @@ for line in sys.stdin:
     words = words.replace(')', '')
     words = words.replace('(', '')
     words = words.lower()
-    words = words.split()        
+    words = words.split()     
+    return words
+    
+for line in sys.stdin:
+    words = makeWords(line)   
     print(json.dumps({ "words":words}))
-
-    result = [w for w in words if len(w) <= IGNORE_WORDS_THIS_SHORT_OR_LESS]
-    print (json.dumps({ "result":result}))
-    
-    words = filter(lambda w: len(w) > IGNORE_WORDS_THIS_SHORT_OR_LESS, words)
-    ignoredWords = filter(lambda w: len(w) <= IGNORE_WORDS_THIS_SHORT_OR_LESS, words)
-    
+    ignoreWords = [w for w in words if len(w) <= IGNORE_WORDS_THIS_SHORT_OR_LESS]
+    print (json.dumps({ "<= IGNORE_WORDS_THIS_SHORT_OR_LESS":ignoreWords2}))    
+    words = [w for w in words if len(w) > IGNORE_WORDS_THIS_SHORT_OR_LESS]
+    #words = filter(lambda w: len(w) > IGNORE_WORDS_THIS_SHORT_OR_LESS, words)
     counts.update(words)
     ignoredCounts.update(ignoredWords)
-
-    for dword, dcount in ignoredCounts:
-        print(json.dumps({ "dword":dword, "dcount":dcount}))
-        
     print(json.dumps({ "ignoredCounts.keys()":ignoredCounts.keys()}))
     
 ignoredWordCount = sum(ignoredCounts.values())
