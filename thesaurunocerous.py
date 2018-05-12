@@ -52,7 +52,7 @@ zippedHint = zip(uniqueIgnoredWords, ignoredCounts.values())
 
 littleBits = []
 for word, count in zippedHint:
-    littlebits.append(word + "(" + str(count) + ")")
+    littleBits.append(word + "(" + str(count) + ")")
         
 statusMessage("Ignored words (less than " + str( IGNORE_WORDS_THIS_SHORT_OR_LESS ) + " characters)", ", ".join(littlebits)) #zippedHint)
 
