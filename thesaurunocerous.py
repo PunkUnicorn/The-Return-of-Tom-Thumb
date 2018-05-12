@@ -31,21 +31,20 @@ for line in sys.stdin:
     words = words.lower()
     words = words.split()
     words = filter(lambda wrd: len(wrd) > IGNORE_WORDS_THIS_SHORT_OR_LESS, words)
-    ignoredWordsList = list(filter(lambda wrd: len(wrd) <= IGNORE_WORDS_THIS_SHORT_OR_LESS, words))
+    ignoredWords = filter(lambda wrd: len(wrd) <= IGNORE_WORDS_THIS_SHORT_OR_LESS, words)
     counts.update(words)
-    ignoredCounts.update(ignoredWordsList)
+    ignoredCounts.update(ignoredWords)
    
 totalWordCount = sum(counts.values())
 totalWordCount += sum(ignoredCounts.values())
 statusMessage("Total number of words", str( totalWordCount ))
 
-ignoreCounts = collections.Counter(ignoredWordsList)
-uniqueIgnoredWords = list(set(ignoredWordsList))
-ignoreHint = ", ".join(ignoreCounts)
-statusMessage("Occurance of words less than " + str( IGNORE_WORDS_THIS_SHORT_OR_LESS ) + " characters long", ignoreHint)
+uniqueIgnoredWords = list(set(ignoredWords))
+ignoredHint = ", ".join(ignoredCounts)
+statusMessage("Occurance of words less than " + str( IGNORE_WORDS_THIS_SHORT_OR_LESS ) + " characters long", ignoredHint)
 
 for word, count in counts.most_common():
     hint = "Theasurus here"
-    status = "Warning" # None, Running, Passed, Failed, Ignored, Skipped, Inconclusive, No
+    status = "Warning"
     data = { "Word": word, "Status": status, "Hint": "Occurs " + str(count) + " times: " + hint }
     print(json.dumps(data))
