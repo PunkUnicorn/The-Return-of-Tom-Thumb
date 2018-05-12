@@ -1,6 +1,6 @@
 install:
   - cinst pandoc
-  - pip install -U pyenchant --version pip-10.0.1
+  - pip install -U pyenchant --version "10.0.1"
 
 build: false
 
