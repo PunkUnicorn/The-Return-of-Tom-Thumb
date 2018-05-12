@@ -36,7 +36,7 @@ for line in sys.stdin:
     words = makeWords(line)   
     print(json.dumps({ "words":words}))
     ignoreWords = [w for w in words if len(w) <= IGNORE_WORDS_THIS_SHORT_OR_LESS]
-    print (json.dumps({ "<= IGNORE_WORDS_THIS_SHORT_OR_LESS":ignoreWords2}))    
+    print (json.dumps({ "<= IGNORE_WORDS_THIS_SHORT_OR_LESS":ignoreWords}))
     words = [w for w in words if len(w) > IGNORE_WORDS_THIS_SHORT_OR_LESS]
     #words = filter(lambda w: len(w) > IGNORE_WORDS_THIS_SHORT_OR_LESS, words)
     counts.update(words)
