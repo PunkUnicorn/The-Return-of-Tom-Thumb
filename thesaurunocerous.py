@@ -49,7 +49,12 @@ statusMessage("Total number of words", str( totalWordCount ))
 uniqueIgnoredWords = list(set(ignoredCounts.keys()))
 ignoredHint = ", ".join(uniqueIgnoredWords)
 zippedHint = zip(uniqueIgnoredWords, ignoredCounts.values())
-statusMessage("Ignored words (less than " + str( IGNORE_WORDS_THIS_SHORT_OR_LESS ) + " characters)", zippedHint)
+
+littleBits = []
+for word, count in zippedHint:
+    littlebits = word + "(" + count + ")"
+        
+statusMessage("Ignored words (less than " + str( IGNORE_WORDS_THIS_SHORT_OR_LESS ) + " characters)", ", ".join(littlebits)) #zippedHint)
 
 def getTheasaurusHint(word):
     synonyms = []
