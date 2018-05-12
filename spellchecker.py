@@ -1,8 +1,6 @@
+#Thank you Steve Barnes, Command Line Spelling Checker
+#https://softwarerecs.stackexchange.com/questions/26923/command-line-#spell-check-for-windows
 
-"""
-Thank you Steve Barnes, Command Line Spelling Checker
-https://softwarerecs.stackexchange.com/questions/26923/command-line-spell-check-for-windows
-"""
 from __future__ import print_function
 import sys
 import enchant
@@ -28,4 +26,4 @@ for line in sys.stdin:
     words = words.split() 
     for word in words:
         if not d.check(word):
-            print('YOU SUCK Suggestions for', word, ':', ','.join(d.suggest(word)))
+            print(word, ' Failed ', ','.join(d.suggest(word)))
