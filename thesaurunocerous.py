@@ -8,7 +8,8 @@ counts = collections.Counter()
 ignoredCounts = collections.Counter()
 
 IGNORE_WORDS_THIS_SHORT_OR_LESS = 3 
-
+IGNORE_WORDS_THAT_OCCUR_THIS_OR_LESS = 2
+    
 def statusMessage(title, hint):
     data = { "Word": title,  "Status": "Message", "Hint": hint }
     print(json.dumps(data))
@@ -34,29 +35,26 @@ def makeWords(line):
     
 for line in sys.stdin:
     words = makeWords(line)   
-    #print(json.dumps({ "words":words}))
     ignoredWords = [w for w in words if len(w) <= IGNORE_WORDS_THIS_SHORT_OR_LESS]
-    #print (json.dumps({ "<= IGNORE_WORDS_THIS_SHORT_OR_LESS":ignoredWords}))
-    newWords = [w for w in words if len(w) > IGNORE_WORDS_THIS_SHORT_OR_LESS]
-    counts.update(newWords)
     ignoredCounts.update(ignoredWords)
-    #print(json.dumps({ "ignoredCounts.keys()":ignoredCounts.keys()}))
+    countingWords = [w for w in words if len(w) > IGNORE_WORDS_THIS_SHORT_OR_LESS]
+    counts.update(countingWords)
     
 ignoredWordCount = sum(ignoredCounts.values())
 significantWordCount = sum(counts.values())
-statusMessage("Words less than " + str( IGNORE_WORDS_THIS_SHORT_OR_LESS ), str( ignoredWordCount ))
-statusMessage("Words more than " + str( IGNORE_WORDS_THIS_SHORT_OR_LESS ), str( significantWordCount ))
-
 totalWordCount = significantWordCount + ignoredWordCount
+statusMessage("Count of words less than " + str( IGNORE_WORDS_THIS_SHORT_OR_LESS ) + " characters", str( ignoredWordCount ))
+statusMessage("Count of words less than " + str( IGNORE_WORDS_THIS_SHORT_OR_LESS )  + " characters", str( significantWordCount ))
 statusMessage("Total number of words", str( totalWordCount ))
 
 uniqueIgnoredWords = list(set(ignoredCounts.keys()))
-print(uniqueIgnoredWords)
 ignoredHint = ", ".join(uniqueIgnoredWords)
-statusMessage("Words less than " + str( IGNORE_WORDS_THIS_SHORT_OR_LESS ) + " characters long", ignoredHint)
+
+statusMessage("Ignored words (less than " + str( IGNORE_WORDS_THIS_SHORT_OR_LESS ) + " characters)", ignoredHint)
 
 for word, count in counts.most_common():
-    hint = "Theasurus here"
-    status = "Warning"
-    data = { "Word": word, "Status": status, "Hint": "Occurs " + str(count) + " times: " + hint }
-    print(json.dumps(data))
+    if (count > IGNORE_WORDS_THAT_OCCUR_THIS_OR_LESS):
+        hint = "Theasurus here"
+        status = "Warning"
+        data = { "Word": word, "Status": status, "Hint": "Occurs " + str(count) + " times: " + hint }
+        print(json.dumps(data))
