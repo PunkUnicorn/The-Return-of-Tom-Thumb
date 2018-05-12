@@ -33,10 +33,10 @@ for line in sys.stdin:
     print(json.dumps({ "words":words}))
     words = list(filter(lambda wrd: len(wrd) > IGNORE_WORDS_THIS_SHORT_OR_LESS, words))
     ignoredWords = list(filter(lambda wrd: len(wrd) <= IGNORE_WORDS_THIS_SHORT_OR_LESS, words))
-    print(json.dumps({ "ignoredWords":ignoredWords}))
+    print(json.dumps({ "ignoredWords":ignoredWords.keys()}))
     counts.update(words)    
     ignoredCounts.update(ignoredWords)
-    print(json.dumps({ "ignoredCounts":ignoredCounts}))
+    print(json.dumps({ "ignoredCounts":ignoredCounts.keys() }))
     
 ignoredWordCount = sum(ignoredCounts.values())
 significantWordCount = sum(counts.values())
@@ -46,7 +46,7 @@ statusMessage("Words more than " + str( IGNORE_WORDS_THIS_SHORT_OR_LESS ), str( 
 totalWordCount = significantWordCount + ignoredWordCount
 statusMessage("Total number of words", str( totalWordCount ))
 
-uniqueIgnoredWords = list(set(ignoredWords))
+uniqueIgnoredWords = list(set(ignoredWords.keys()))
 print(uniqueIgnoredWords)
 ignoredHint = ", ".join(uniqueIgnoredWords)
 statusMessage("Words less than " + str( IGNORE_WORDS_THIS_SHORT_OR_LESS ) + " characters long", ignoredHint)
