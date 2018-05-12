@@ -59,7 +59,7 @@ statusMessage("Ignored words (less than " + str( IGNORE_WORDS_THIS_SHORT_OR_LESS
 def getTheasaurusHint(word):
     theasurusHint = thes.synonyms(word)
     print("====================>", theasurusHint)
-    return ", ".join(theasurusHint)
+    return ", ".join(str(v) for v in theasurusHint)
     
 for word, count in counts.most_common():
     if (count > IGNORE_WORDS_THAT_OCCUR_THIS_OR_LESS):
