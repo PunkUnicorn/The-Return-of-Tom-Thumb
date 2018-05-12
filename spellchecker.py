@@ -4,6 +4,7 @@
 from __future__ import print_function
 import sys
 import enchant
+import json
     
 def str_concat(*args):
     return ''.join(map(str, args))
@@ -30,4 +31,5 @@ for line in sys.stdin:
     for word in words:
         if not d.check(word):
             hint = ' or '.join(d.suggest(word)[:7])
-            print(str_concat(word, '!Failed!', hint))
+            data = { "Word": word, "Status": "Failed", "Hint": hint }
+            print(json.dumps(data))
