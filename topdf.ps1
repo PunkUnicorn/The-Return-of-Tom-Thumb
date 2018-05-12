@@ -3,9 +3,9 @@ write-host "**topdf.ps1**"
 Write-Output "Chapter One Spelling Motherfucker"
 Get-Content -Path "Prose - Chapter One*.md" | python spellchecker.py | fl  # | %{ ,$_.Split("!") | fl $_ } #Add-AppveyorTest -Name "Spelling" -Framework NUnit -Filename -ErrorMessage
 Write-Output "Chapter One Spelling Ends"
-Write-Output "Chapter One Top Three Words Boom"
+Write-Output "Chapter One Most Used Words Boom"
 Get-Content -Path "Prose - Chapter One*.md" | python thesaurunocerous.py | fl 
-Write-Output "Chapter One Top Three Words Ends"
+Write-Output "Chapter One Most Used Words Ends"
 pandoc --version
 pandoc --css epubstyle.css `
   "title.md" `
