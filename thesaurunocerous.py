@@ -5,6 +5,7 @@ import collections
 from nltk.corpus import wordnet
 
 counts = collections.Counter()
+ignoredCounts = collections.Counter()
 
 IGNORE_WORDS_THIS_SHORT_OR_LESS = 3 
 
@@ -30,19 +31,20 @@ for line in sys.stdin:
     words = words.lower()
     words = words.split()
     words = filter(lambda wrd: len(wrd) > IGNORE_WORDS_THIS_SHORT_OR_LESS, words)
-    excludedWords = list(filter(lambda wrd: len(wrd) <= IGNORE_WORDS_THIS_SHORT_OR_LESS, words))
+    ignoredWordsList = list(filter(lambda wrd: len(wrd) <= IGNORE_WORDS_THIS_SHORT_OR_LESS, words))
     counts.update(words)
+    ignoredCounts.update(ignoredWordsList)
    
 totalWordCount = sum(counts.values())
-totalWordCount += len(excludedWords)
+totalWordCount += sum(ignoredWords.values())
 statusNone("Total number of words", str( totalWordCount ))
 
 ignoreCounts = collections.Counter(excludedWords)
-statusNone("Occurance of words less than " + str( IGNORE_WORDS_THIS_SHORT_OR_LESS ) + " characters long", ignoreCounts)
-
+uniqueIgnoredWords = list(set(ignoredWordsList))
+statusNone("Occurance of words less than " + str( IGNORE_WORDS_THIS_SHORT_OR_LESS ) + " characters long", ", ".join(uniqueIgnoredWords))
 
 for word, count in counts.most_common():
     hint = "Theasurus here"
-    status = "Ignored" # None, Running, Passed, Failed, Ignored, Skipped, Inconclusive, No
+    status = "Skipped" # None, Running, Passed, Failed, Ignored, Skipped, Inconclusive, No
     data = { "Word": word, "Status": status, "Hint": "Occurs " + str(count) + " times" }
     print(json.dumps(data))
