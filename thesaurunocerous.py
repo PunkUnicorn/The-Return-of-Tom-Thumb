@@ -31,12 +31,19 @@ for line in sys.stdin:
     words = words.lower()
     words = words.split()        
     print(json.dumps({ "words":words}))
-    words = list(filter(lambda wrd: len(wrd) > IGNORE_WORDS_THIS_SHORT_OR_LESS, words))
-    ignoredWords = list(filter(lambda wrd: len(wrd) <= IGNORE_WORDS_THIS_SHORT_OR_LESS, words))
-    print(json.dumps({ "ignoredWords": ignoredWords }))
+
+    result = [w for w in words if len(w) <= IGNORE_WORDS_THIS_SHORT_OR_LESS]
+    print (result)
+    
+    words = filter(lambda w: len(w) > IGNORE_WORDS_THIS_SHORT_OR_LESS, words)
+    ignoredWords = filter(lambda w: len(w) <= IGNORE_WORDS_THIS_SHORT_OR_LESS, words)
+    
     counts.update(words)
     ignoredCounts.update(ignoredWords)
-    print(json.dumps({ "ignoredCounts":ignoredCounts.keys() }))
+
+    for dword, dcount in words:
+        print(dwords)
+    print(ignoredCounts.keys()
     
 ignoredWordCount = sum(ignoredCounts.values())
 significantWordCount = sum(counts.values())
