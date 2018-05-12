@@ -10,7 +10,7 @@ for line in sys.stdin:
     words = line.strip().lower().split() 
     counts.update(words)
 
-for needSuggestions in counts.most_common(7)
+for needSuggestions in counts.most_common(7):
     new_instance = Thesaurus(needSuggestions)
     data = { "Word": needSuggestions, "Status":"Warning", "Hint": new_instance.get_synonym() }
     print(json.dumps(data))
