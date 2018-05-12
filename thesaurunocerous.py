@@ -36,7 +36,7 @@ for line in sys.stdin:
     ignoredCounts.update(ignoredWordsList)
    
 totalWordCount = sum(counts.values())
-totalWordCount += sum(ignoredWords.values())
+totalWordCount += sum(ignoredCounts.values())
 statusNone("Total number of words", str( totalWordCount ))
 
 ignoreCounts = collections.Counter(excludedWords)
