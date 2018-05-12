@@ -10,6 +10,6 @@ for line in sys.stdin:
     words = line.strip().lower().split() 
     counts.update(words)
     
-print(counts.most_common(7))
+print(counts.most_common(27))
 
 
