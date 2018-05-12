@@ -54,7 +54,7 @@ littleBits = []
 for word, count in zippedHint:
     littleBits.append(word + "(" + str(count) + ")")
         
-statusMessage("Ignored words (less than " + str( IGNORE_WORDS_THIS_SHORT_OR_LESS ) + " characters)", ", ".join(littlebits)) #zippedHint)
+statusMessage("Ignored words (less than " + str( IGNORE_WORDS_THIS_SHORT_OR_LESS ) + " characters)", ", ".join(littleBits)) #zippedHint)
 
 def getTheasaurusHint(word):
     synonyms = []
