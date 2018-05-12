@@ -1,9 +1,9 @@
 write-host "**topdf.ps1**"
 # run tests
 Write-Output "Chapter One Spelling Motherfucker"
-Get-Content -Path "Prose - Chapter One*.md" | python spellchecker.py | %{,$_.Split("!") | fl -Name "Spelling" -Framework NUnit -Filename "$_[0]" -Outcome "$_[1]" -ErrorMessage "$_[2]" }
+Get-Content -Path "Prose - Chapter One*.md" | python spellchecker.py | %{,$_.Split("!") | fl $_ }
 
-##Add-AppveyorTest
+##Add-AppveyorTest -Name "Spelling" -Framework NUnit -Filename -ErrorMessage
 #foreach{Write-Host $_} }
 
 Write-Output "Chapter One Spelling Ends"
