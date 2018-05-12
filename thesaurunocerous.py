@@ -28,9 +28,9 @@ for line in sys.stdin:
 print("total number of words: ", sum(counts.values()))
 
 for word, count in counts.most_common():
-    if (count > 2):
+    if (count > 3):
         hint = "Theasurus here"
-        data = { "Word": word, "Status": "Warning", "Hint": "Occurs " + count + " times" }
-        print(json.dumps(data))
-    else if (count):
+        status = "Ignored" # None, Running, Passed, Failed, Ignored, Skipped, Inconclusive, No
+        data = { "Word": word, "Status": status, "Hint": "Occurs " + count + " times" }
+        print(json.dumps(data))        
 
