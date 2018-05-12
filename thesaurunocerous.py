@@ -34,14 +34,13 @@ def makeWords(line):
     
 for line in sys.stdin:
     words = makeWords(line)   
-    print(json.dumps({ "words":words}))
+    #print(json.dumps({ "words":words}))
     ignoredWords = [w for w in words if len(w) <= IGNORE_WORDS_THIS_SHORT_OR_LESS]
-    print (json.dumps({ "<= IGNORE_WORDS_THIS_SHORT_OR_LESS":ignoredWords}))
+    #print (json.dumps({ "<= IGNORE_WORDS_THIS_SHORT_OR_LESS":ignoredWords}))
     words = [w for w in words if len(w) > IGNORE_WORDS_THIS_SHORT_OR_LESS]
-    #words = filter(lambda w: len(w) > IGNORE_WORDS_THIS_SHORT_OR_LESS, words)
     counts.update(words)
     ignoredCounts.update(ignoredWords)
-    print(json.dumps({ "ignoredCounts.keys()":ignoredCounts.keys()}))
+    #print(json.dumps({ "ignoredCounts.keys()":ignoredCounts.keys()}))
     
 ignoredWordCount = sum(ignoredCounts.values())
 significantWordCount = sum(counts.values())
@@ -51,7 +50,7 @@ statusMessage("Words more than " + str( IGNORE_WORDS_THIS_SHORT_OR_LESS ), str( 
 totalWordCount = significantWordCount + ignoredWordCount
 statusMessage("Total number of words", str( totalWordCount ))
 
-uniqueIgnoredWords = list(set(ignoredWords))
+uniqueIgnoredWords = list(set(ignoredCounts.keys()))
 print(uniqueIgnoredWords)
 ignoredHint = ", ".join(uniqueIgnoredWords)
 statusMessage("Words less than " + str( IGNORE_WORDS_THIS_SHORT_OR_LESS ) + " characters long", ignoredHint)
