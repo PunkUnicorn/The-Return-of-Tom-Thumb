@@ -43,7 +43,7 @@ for line in sys.stdin:
 
     for dword, dcount in words:
         print(dwords)
-    print(ignoredCounts.keys()
+    print(ignoredCounts.keys())
     
 ignoredWordCount = sum(ignoredCounts.values())
 significantWordCount = sum(counts.values())
