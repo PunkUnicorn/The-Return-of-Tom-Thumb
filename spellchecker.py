@@ -26,4 +26,4 @@ for line in sys.stdin:
     words = words.split() 
     for word in words:
         if not d.check(word):
-            print(word, ' Failed ', ','.join(d.suggest(word)))
+            print(word, 'Failed', '\"', ','.join(d.suggest(word)), '/"')
