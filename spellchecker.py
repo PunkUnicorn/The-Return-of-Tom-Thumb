@@ -5,6 +5,9 @@ from __future__ import print_function
 import sys
 import enchant
     
+def str_concat(*args):
+    return ''.join(map(str, args))
+
 d = enchant.Dict("en_UK") # or en_UK, de_DE, fr_FR, en_AU on my system
 print(__doc__)
 for line in sys.stdin:
@@ -27,4 +30,4 @@ for line in sys.stdin:
     for word in words:
         if not d.check(word):
             hint = ' or '.join(d.suggest(word)[:7])
-            print(word, '!Failed!', hint)
+            print(str_concat(word, '!Failed!', hint))
