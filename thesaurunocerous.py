@@ -39,7 +39,7 @@ totalWordCount = sum(counts.values())
 totalWordCount += sum(ignoredCounts.values())
 statusNone("Total number of words", str( totalWordCount ))
 
-ignoreCounts = collections.Counter(excludedWords)
+ignoreCounts = collections.Counter(ignoredWordsList)
 uniqueIgnoredWords = list(set(ignoredWordsList))
 statusNone("Occurance of words less than " + str( IGNORE_WORDS_THIS_SHORT_OR_LESS ) + " characters long", ", ".join(uniqueIgnoredWords))
 
