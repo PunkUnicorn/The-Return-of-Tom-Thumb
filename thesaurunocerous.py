@@ -4,8 +4,8 @@ import json
 import collections
 from nltk.corpus import wordnet
 
-IGNORE_WORDS_THIS_SHORT_OR_LESS = 3 
-IGNORE_WORDS_THAT_OCCUR_THIS_OR_LESS = 2
+IGNORE_WORDS_THIS_SHORT_OR_LESS = 2
+IGNORE_WORDS_THAT_OCCUR_THIS_OR_LESS = 3
     
 def makeWords(line):
     words = line.replace('\"', '')
@@ -50,7 +50,7 @@ uniqueIgnoredWords = list(set(ignoredCounts.keys()))
 ignoredHint = ", ".join(uniqueIgnoredWords)
 zippedHint = zip(uniqueIgnoredWords, ignoredCounts.values())
 
-littleBits = []
+littleBits = [] # https://www.youtube.com/watch?v=Gj4-E5Hs3Kc
 for word, count in zippedHint:
     littleBits.append(word + "(" + str(count) + ")")
         
