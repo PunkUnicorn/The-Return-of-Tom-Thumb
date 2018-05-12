@@ -35,14 +35,19 @@ for line in sys.stdin:
     ignoredWords = list(filter(lambda wrd: len(wrd) <= IGNORE_WORDS_THIS_SHORT_OR_LESS, words))
     counts.update(words)
     ignoredCounts.update(ignoredWords)
-   
-totalWordCount = sum(counts.values())
-totalWordCount += sum(ignoredCounts.values())
+
+ignoredWordCount = sum(ignoredCounts.values())
+significantWordCount = sum(counts.values())
+statusMessage("Words less than " + str( IGNORE_WORDS_THIS_SHORT_OR_LESS ), str( ignoredWordCount ))
+statusMessage("Words more than " + str( IGNORE_WORDS_THIS_SHORT_OR_LESS ), str( significantWordCount ))
+
+totalWordCount = significantWordCount + ignoredWordCount
 statusMessage("Total number of words", str( totalWordCount ))
 
 uniqueIgnoredWords = list(set(ignoredWords))
-ignoredHint = ", ".join(ignoredCounts)
-statusMessage("Occurance of words less than " + str( IGNORE_WORDS_THIS_SHORT_OR_LESS ) + " characters long", ignoredHint)
+print(uniqueIgnoredWords)
+ignoredHint = ", ".join(uniqueIgnoredWords)
+statusMessage("Words less than " + str( IGNORE_WORDS_THIS_SHORT_OR_LESS ) + " characters long", ignoredHint)
 
 for word, count in counts.most_common():
     hint = "Theasurus here"
