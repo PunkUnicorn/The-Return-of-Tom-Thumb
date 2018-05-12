@@ -1,7 +1,7 @@
 write-host "**topdf.ps1**"
 # run tests
 Write-Output "Chapter One Spelling Motherfucker"
-Get-Content -Path "Prose - Chapter One*.md" | python spellchecker.py | %{$d=$_.Split("!") | Write-Debug -Message $d[0] } 
+Get-Content -Path "Prose - Chapter One*.md" | python spellchecker.py | %{$d=$_.Split("!") | ,$d | foreach{Write-Host $_} }
 
 
 
