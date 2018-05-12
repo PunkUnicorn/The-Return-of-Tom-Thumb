@@ -10,7 +10,7 @@ IGNORE_WORDS_THIS_SHORT_OR_LESS = 3
 
 def statusNone(title, hint):
     data = { "Word": title,  "Status": "None", "Hint": hint }
-    print(argstrs)
+    print(json.dumps(data))
 
 for line in sys.stdin:
     words = line.replace('\"', '')
