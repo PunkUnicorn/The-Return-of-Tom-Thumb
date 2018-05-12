@@ -5,12 +5,8 @@ from __future__ import print_function
 import sys
 import enchant
 import json
-    
-def str_concat(*args):
-    return ''.join(map(str, args))
 
 d = enchant.Dict("en_UK") # or en_UK, de_DE, fr_FR, en_AU on my system
-print(__doc__)
 for line in sys.stdin:
     # do lots stripping... then split!
     words = line.replace('\"', '')
