@@ -25,5 +25,6 @@ for line in sys.stdin:
     words = words.replace('(', '')
     words = words.split() 
     for word in words:
+        word = word..strip()
         if not d.check(word):
-            print(word, '!Failed!', ' or '.join(d.suggest(word)[:7].strip()))
+            print(word, '!Failed!', ' or '.join(d.suggest(word)[:7]))
