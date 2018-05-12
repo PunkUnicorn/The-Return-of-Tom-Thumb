@@ -8,7 +8,7 @@ for line in sys.stdin:
     words = line.strip().lower().split() 
     counts.update(words)
 
-for needSuggestions in counts.most_common()
+for needSuggestions in counts.most_common(7)
     new_instance = Thesaurus(word)
     # Get the synonyms according to part of speech
     # Default part of speech is noun
