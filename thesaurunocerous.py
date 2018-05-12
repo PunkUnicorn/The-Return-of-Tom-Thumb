@@ -41,8 +41,9 @@ for line in sys.stdin:
     counts.update(words)
     ignoredCounts.update(ignoredWords)
 
-    for dword, dcount in words:
-        print(dwords)
+    for dword, dcount in ignoredCounts:
+        print(dwords, dcount)
+        
     print(ignoredCounts.keys())
     
 ignoredWordCount = sum(ignoredCounts.values())
