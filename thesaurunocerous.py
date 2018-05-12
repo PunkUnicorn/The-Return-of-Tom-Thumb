@@ -72,7 +72,7 @@ def getTheasaurusHint(word):
     
     #theasurusHint = thes.synonyms(word)
     #return ", ".join(str(wordList) for dictName, wordList in theasurusHint)
-    return ", ".join( str(set(synonyms)) )
+    return ", ".join( set(synonyms) )
     
 for word, count in counts.most_common():
     if (count > IGNORE_WORDS_THAT_OCCUR_THIS_OR_LESS):
