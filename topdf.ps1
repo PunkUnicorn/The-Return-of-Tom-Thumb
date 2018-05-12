@@ -1,10 +1,10 @@
 write-host "**topdf.ps1**"
 # run tests
 Write-Output "Chapter One Spelling Motherfucker"
-Get-Content -Path "Prose - Chapter One*.md" | python spellchecker.py | %{,$_.Split("!") | foreach{Write-Host $_} } 
-#Add-AppveyorTest -Name "Spelling" -Framework NUnit -Filename "$d[0]" -Outcome "$d[1]" -ErrorMessage "$d[2]" }
+Get-Content -Path "Prose - Chapter One*.md" | python spellchecker.py | %{,$_.Split("!") | fl -Name "Spelling" -Framework NUnit -Filename "$_[0]" -Outcome "$_[1]" -ErrorMessage "$_[2]" }
 
-#foreach{Write-Host $d $_} }
+##Add-AppveyorTest
+#foreach{Write-Host $_} }
 
 Write-Output "Chapter One Spelling Ends"
 pandoc --version
