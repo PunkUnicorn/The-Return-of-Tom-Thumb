@@ -37,8 +37,8 @@ for line in sys.stdin:
     #print(json.dumps({ "words":words}))
     ignoredWords = [w for w in words if len(w) <= IGNORE_WORDS_THIS_SHORT_OR_LESS]
     #print (json.dumps({ "<= IGNORE_WORDS_THIS_SHORT_OR_LESS":ignoredWords}))
-    words = [w for w in words if len(w) > IGNORE_WORDS_THIS_SHORT_OR_LESS]
-    counts.update(words)
+    newWords = [w for w in words if len(w) > IGNORE_WORDS_THIS_SHORT_OR_LESS]
+    counts.update(newWords)
     ignoredCounts.update(ignoredWords)
     #print(json.dumps({ "ignoredCounts.keys()":ignoredCounts.keys()}))
     
