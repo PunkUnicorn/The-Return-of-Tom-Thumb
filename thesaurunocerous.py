@@ -43,8 +43,8 @@ for line in sys.stdin:
 ignoredWordCount = sum(ignoredCounts.values())
 significantWordCount = sum(counts.values())
 totalWordCount = significantWordCount + ignoredWordCount
-statusMessage("Count of words less than " + str( IGNORE_WORDS_THIS_SHORT_OR_LESS ) + " characters", str( ignoredWordCount ))
-statusMessage("Count of words less than " + str( IGNORE_WORDS_THIS_SHORT_OR_LESS )  + " characters", str( significantWordCount ))
+statusMessage("Count of words " + str( IGNORE_WORDS_THIS_SHORT_OR_LESS ) + " characters long or less", str( ignoredWordCount ))
+statusMessage("Count of words more than " + str( IGNORE_WORDS_THIS_SHORT_OR_LESS )  + " characters", str( significantWordCount ))
 statusMessage("Total number of words", str( totalWordCount ))
 
 uniqueIgnoredWords = list(set(ignoredCounts.keys()))
