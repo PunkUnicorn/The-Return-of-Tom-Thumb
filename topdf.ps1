@@ -1,7 +1,7 @@
 write-host "**topdf.ps1**"
 # run tests
 Write-Output "Chapter One Spelling Motherfucker"
-Get-Content -Path "Prose - Chapter One*.md" | python spellchecker.py | %{$d=(,$_.Split("!")) | ? $d.count -gt 0 | Add-AppveyorTest -Name "Spelling" -Framework NUnit -Filename "$d[0]" -Outcome "$d[1]" -ErrorMessage "$d[2]" }
+Get-Content -Path "Prose - Chapter One*.md" | python spellchecker.py | %{$d=(,$_.Split("!")) | ? $d.count -gt 0 | Select-Object -Property Word, State, Hints | Add-AppveyorTest -Name "Spelling" -Framework NUnit -Filename "$_.Word" -Outcome "$_.State" -ErrorMessage "$_.Hints" }
 
 #foreach{Write-Host $d $_} }
 
