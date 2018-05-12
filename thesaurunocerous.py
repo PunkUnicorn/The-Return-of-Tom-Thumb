@@ -22,7 +22,8 @@ for line in sys.stdin:
     words = words.replace(')', '')
     words = words.replace('(', '')
     words = words.lower()
-    words = words.split()  
+    words = words.split()
+    words = filter(wrd: len(wrd) > 3, words)
     counts.update(words)
 
 print("total number of words: ", sum(counts.values()))
