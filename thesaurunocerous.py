@@ -5,11 +5,13 @@ import collections
 from nltk.corpus import wordnet
 
 counts = collections.Counter()
-
 for line in sys.stdin:
     words = line.strip().lower().split() 
     counts.update(words)
-    
-print(counts.most_common(37))
 
+print("total number of words: ", sum(counts.values()))
+for wordOccurance in counts.most_common():
+    hint = "Theasurus here"
+    data = { "Word": wordOccurance, "Status": "Warning", "Hint": hint }
+    print(json.dumps(data))
 
