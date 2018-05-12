@@ -4,9 +4,6 @@
 from __future__ import print_function
 import sys
 import enchant
-
-def str_join(*args):
-    return ''.join(map(str, args))
     
 d = enchant.Dict("en_UK") # or en_UK, de_DE, fr_FR, en_AU on my system
 print(__doc__)
@@ -29,4 +26,4 @@ for line in sys.stdin:
     words = words.split() 
     for word in words:
         if not d.check(word):
-            print(word, 'Failed', str_join('\"', ','.join(d.suggest(word)), '\"'))
+            print(word, ',Failed,', ' or '.join(d.suggest(word))
