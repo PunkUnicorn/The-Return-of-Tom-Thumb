@@ -3,6 +3,7 @@ import sys
 import json
 import collections
 from nltk.corpus import stopwords, lin_thesaurus as thes
+from nltk.corpus import wordnet
 
 #lin theasurus
 #http://nullege.com/codes/show/src%40n%40l%40nltk-2.0.4%40nltk%40corpus%40reader%40lin.py/135/nltk.corpus.lin_thesaurus/python
@@ -57,8 +58,21 @@ zippedHint = zip(uniqueIgnoredWords, ignoredCounts.values())
 statusMessage("Ignored words (less than " + str( IGNORE_WORDS_THIS_SHORT_OR_LESS ) + " characters)", zippedHint)
 
 def getTheasaurusHint(word):
-    theasurusHint = thes.synonyms(word)
-    return ", ".join(str(wordList) for dictName, wordList in theasurusHint)
+    synonyms = []
+    antonyms = []
+
+    for syn in wordnet.synsets(word):
+        for l in syn.lemmas():
+            synonyms.append(l.name())
+            #if l.antonyms():
+            #    antonyms.append(l.antonyms()[0].name())
+
+    #print(set(synonyms))
+    #print(set(antonyms))
+    
+    #theasurusHint = thes.synonyms(word)
+    #return ", ".join(str(wordList) for dictName, wordList in theasurusHint)
+    return ", ".join( str(set(synonyms)) )
     
 for word, count in counts.most_common():
     if (count > IGNORE_WORDS_THAT_OCCUR_THIS_OR_LESS):
