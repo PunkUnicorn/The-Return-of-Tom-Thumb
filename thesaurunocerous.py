@@ -8,8 +8,8 @@ counts = collections.Counter()
 
 IGNORE_WORDS_THIS_SHORT_OR_LESS = 3 
 
-def statusNone(word, hint):
-    data = { "Word": word,  "Status": "None", "Hint": hint }
+def statusNone(title, hint):
+    data = { "Word": title,  "Status": "None", "Hint": hint }
     print(argstrs)
 
 for line in sys.stdin:
@@ -35,7 +35,7 @@ for line in sys.stdin:
    
 totalWordCount = sum(counts.values())
 totalWordCount += len(excludedWords)
-statusNone("Count" + str( totalWordCount ))
+statusNone("Total number of words", str( totalWordCount ))
 
 ignoreCounts = collections.Counter(excludedWords)
 statusNone("Occurance of words less than " + str( IGNORE_WORDS_THIS_SHORT_OR_LESS ) + " characters long", ignoreCounts)
