@@ -17,7 +17,7 @@ She pulled her head up with her arms and looked past their home to the remaining
 
 The apple would last them two more days Tom thought carefully, weighing it up in her mind. Full bellies all round. A heavenly comfort with a nagging feeling. What was that nagging feeling? An awareness catching up with her. 
 
-Probing her thoughts she reluctantly opened blocks and doubt seeped in. "Oh yes," she murmured. The apple would inevitably be eaten. With no apple left the family would be back to the way it was before. Which was nothing. Winter was not over yet.
+Probing her thoughts she reluctantly opened blocks obscuring doubt. "Oh yes," she murmured. The apple would inevitably be eaten. With no apple left the family would be back to the way it was before. Which was nothing. Winter was not over yet.
 
 "It's ages till spring." Tom thought, looking towards the core. Somehow, her focus left the apple even though she was looking straight at it. 
 
