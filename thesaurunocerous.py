@@ -4,8 +4,8 @@ import json
 import collections
 from nltk.corpus import wordnet
 
-IGNORE_WORDS_THIS_SHORT_OR_LESS = 2
-IGNORE_WORDS_THAT_OCCUR_THIS_OR_LESS = 3
+IGNORE_WORDS_THIS_SHORT_OR_LESS = 1
+IGNORE_WORDS_THAT_OCCUR_THIS_OR_LESS = 4
     
 def makeWords(line):
     words = line.replace('\"', '')
