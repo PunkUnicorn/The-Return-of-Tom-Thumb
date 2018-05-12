@@ -2,11 +2,7 @@ from __future__ import print_function
 import sys
 import json
 import collections
-#from nltk.corpus import stopwords, lin_thesaurus as thes
 from nltk.corpus import wordnet
-
-#lin theasurus
-#http://nullege.com/codes/show/src%40n%40l%40nltk-2.0.4%40nltk%40corpus%40reader%40lin.py/135/nltk.corpus.lin_thesaurus/python
 
 IGNORE_WORDS_THIS_SHORT_OR_LESS = 3 
 IGNORE_WORDS_THAT_OCCUR_THIS_OR_LESS = 2
@@ -66,6 +62,5 @@ def getTheasaurusHint(word):
 for word, count in counts.most_common():
     if (count > IGNORE_WORDS_THAT_OCCUR_THIS_OR_LESS):
         hint = getTheasaurusHint(word)
-        status = "Warning"
-        data = { "Word": word, "Status": status, "Hint": "Occurs " + str(count) + " times. Suggestions: " + hint }
+        data = { "Word": word, "Status": "Warning", "Hint": "Occurs " + str(count) + " times. Suggestions: " + hint }
         print(json.dumps(data))
