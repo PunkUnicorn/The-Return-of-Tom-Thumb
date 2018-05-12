@@ -29,8 +29,7 @@ for line in sys.stdin:
     words = words.replace('(', '')
     words = words.split() 
     for word in words:
-        if word is not None:
-            if not d.check(word):
-                hint = ' or '.join(d.suggest(word)[:7])
-                data = { "Word": word, "Status": "Failed", "Hint": hint }
-                print(json.dumps(data))
+        if not d.check(word):
+            hint = ' or '.join(d.suggest(word)[:7])
+            data = { "Word": word, "Status": "Failed", "Hint": hint }
+            print(json.dumps(data))
