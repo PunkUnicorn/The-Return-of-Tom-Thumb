@@ -31,6 +31,6 @@ for word, count in counts.most_common():
     if (count > 3):
         hint = "Theasurus here"
         status = "Ignored" # None, Running, Passed, Failed, Ignored, Skipped, Inconclusive, No
-        data = { "Word": word, "Status": status, "Hint": "Occurs " + count + " times" }
+        data = { "Word": word, "Status": status, "Hint": "Occurs " + str(count) + " times" }
         print(json.dumps(data))        
 
