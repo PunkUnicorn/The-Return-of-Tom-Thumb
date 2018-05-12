@@ -33,7 +33,7 @@ for line in sys.stdin:
     print(json.dumps({ "words":words}))
 
     result = [w for w in words if len(w) <= IGNORE_WORDS_THIS_SHORT_OR_LESS]
-    print (result)
+    print (json.dumps({ "result":result}))
     
     words = filter(lambda w: len(w) > IGNORE_WORDS_THIS_SHORT_OR_LESS, words)
     ignoredWords = filter(lambda w: len(w) <= IGNORE_WORDS_THIS_SHORT_OR_LESS, words)
@@ -42,9 +42,9 @@ for line in sys.stdin:
     ignoredCounts.update(ignoredWords)
 
     for dword, dcount in ignoredCounts:
-        print(dwords, dcount)
+        print(json.dumps({ "dword":dword, "dcount":dcount}))
         
-    print(ignoredCounts.keys())
+    print(json.dumps({ "ignoredCounts.keys()":ignoredCounts.keys()}))
     
 ignoredWordCount = sum(ignoredCounts.values())
 significantWordCount = sum(counts.values())
