@@ -1,7 +1,7 @@
 install:
   - cinst pandoc
   - pip install -U pyenchant 
-  - pip install -U pyWordNet
+  - pip install -U nltk
   - python -m pip install --upgrade pip
 
 
