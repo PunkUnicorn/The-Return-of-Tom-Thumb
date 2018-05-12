@@ -6,7 +6,7 @@ And now aware of her family behind the door defensive instincts pulled her back:
 
 The overpowering smell of baked apples. The heavy door slammed shut behind her. In the thick air, for a second, Tom was sick of apples. But it passed; chastising herself for the obvious, the apple being a life saver. Besides, the pips in her pocket could be interesting. 
 
-Tom could see there was no good seat available. Around the table sprawled a rowdy mess of brothers. They occupied all but one seat: the smallest and least sturdy. It was the one at the awkward corner of the table. And it was the seat by the drafty wall. Tom wanted to sit so she sat there. 
+Tom could see there was no good seat available. Around the table sprawled a rowdy mess of brothers. They occupied all but one seat: the smallest and least sturdy. It was the one at the awkward corner of the table. And it was the seat by the draughty wall. Tom wanted to sit so she sat there. 
 
 Often there were brawls over the precious little there was. Seats, or more specifically seats and seat positions, were a common cause of stand-offs. Tom wasn't bothered. Once or twice she might have had to fight for the right to be left alone. That was worth fighting for but little else was. 
 
@@ -14,9 +14,9 @@ And yet, bellies full, even mitigated tensions were rising round the table; comp
 
 Wiggling her toes, squashing them against the leather of the boots, the comfort winning the battle for her senses. Beautifully fitting boots drowned out the sound. Comfort was her entertainment for the evening.
 
-Next morning Tom woke earlier than anyone else. With well practiced tip-toeing she stepped between sleeping siblings, got to the door and slipped outside. The first thing she saw: brown leaning apple-core. 
+Next morning Tom woke earlier than anyone else. With well practiced tip-toeing she stepped between sleeping siblings, got to the door and slipped outside. The first thing she saw: brown leaning apple core. 
 
-The bright morning sun spared the eye no mercy and the giant apple-core was looking far from adequate. Tom released her expectations were wrong. 
+The bright morning sun spared the eye no mercy and the giant apple core was looking far from adequate. Tom released her expectations were wrong. 
 
 The house door opened quietly behind her, Tom looked round. It was the oldest and biggest of the brothers, Kim. Relaxing Tom looked back at the apple. Kim joined her 
 
