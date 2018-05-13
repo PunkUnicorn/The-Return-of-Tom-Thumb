@@ -38,27 +38,28 @@ for line in sys.stdin:
     countingWords = [w for w in words if len(w) > IGNORE_WORDS_THIS_SHORT_OR_LESS]
     counts.update(countingWords)
 
-def statusMessage(title, hint):
+def statusMessage(title, hint, first):
     data = { "Word": title,  "Status": "Information", "Hint": hint }
     if (first == False):
         sys.stdout.write(",")
     else:
         first=False
     json.dump(data, sys.stdout)
+    return first
     
 ignoredWordCount = sum(ignoredCounts.values())
 significantWordCount = sum(counts.values())
 totalWordCount = significantWordCount + ignoredWordCount
-statusMessage("Count of words " + str( IGNORE_WORDS_THIS_SHORT_OR_LESS ) + " characters long or less", str( ignoredWordCount ))
-statusMessage("Count of words more than " + str( IGNORE_WORDS_THIS_SHORT_OR_LESS )  + " characters", str( significantWordCount ))
-statusMessage("Total number of words", str( totalWordCount ))
-uniqueIgnoredWords = list(set(ignoredCounts.keys()))
+first = statusMessage("Count of words " + str( IGNORE_WORDS_THIS_SHORT_OR_LESS ) + " characters long or less", str( ignoredWordCount ), first)
+first = statusMessage("Count of words more than " + str( IGNORE_WORDS_THIS_SHORT_OR_LESS )  + " characters", str( significantWordCount ), first)
+first = statusMessage("Total number of words", str( totalWordCount ))
+uniqueIgnoredWords = list(set(ignoredCounts.keys()), first)
 ignoredHint = ", ".join(uniqueIgnoredWords)
 zippedHint = zip(uniqueIgnoredWords, ignoredCounts.values())
 littleBits = [] # Important ==> https://www.youtube.com/watch?v=Gj4-E5Hs3Kc
 for word, count in zippedHint:
     littleBits.append(word + "(" + str(count) + ")")
-statusMessage("Ignored words (less than " + str( IGNORE_WORDS_THIS_SHORT_OR_LESS ) + " characters)", ", ".join(littleBits))
+first = statusMessage("Ignored words (less than " + str( IGNORE_WORDS_THIS_SHORT_OR_LESS ) + " characters)", ", ".join(littleBits), first)
 
 def getTheasaurusHint(word):
     synonyms = []

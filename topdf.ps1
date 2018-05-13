@@ -6,7 +6,7 @@ write-host "**topdf.ps1**"
 
 Write-Output "Chapter One Spelling Boom" #Add as test fails, and to the message window as errors
 Get-Content -Path "Prose - Chapter One*.md" | python spellchecker.py | ConvertFrom-Json | %{ $_.Results } | fl
-Get-Content -Path "Prose - Chapter One*.md" | python spellchecker.py | ConvertFrom-Json | %{ $_.Results } | %{ Add-AppveyorMessage -Message "Chapter One - $($_.Word)" -Details "$($_.Hint)" -Category "$($_.Status)" }
+Get-Content -Path "Prose - Chapter One*.md" | python spellchecker.py | ConvertFrom-Json | %{ $_.Results } | %{ Add-AppveyorMessage -Message "Chapter One - $($_.Word)" -Details "$($_.Hint)" -Category "Error" }
 Get-Content -Path "Prose - Chapter One*.md" | python spellchecker.py | ConvertFrom-Json | %{ $_.Results } | %{ Add-AppveyorTest -Name "Spelling" -Framework NUnit -Filename "Chapter One - $($_.Word)" -ErrorMessage "$($_.Hint)" -Outcome "$($_.Status)" }
 Write-Output "Chapter One Spelling Ends"
 Write-Output "Chapter One Thesaurunocerous Boom" #Only add to the messages window
