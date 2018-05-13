@@ -11,6 +11,9 @@ test_script:
   - ps: .\topdf.ps1
 
 artifacts:
+  - path: Chapter-One-Words.txt
+    name: word-matix
+    type: file
   - path: The-Return-of-Tom-Thumb.epub
     name: is_book_yeah
     type: file
