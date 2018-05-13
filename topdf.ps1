@@ -11,7 +11,7 @@ Get-Content -Path "Prose - Chapter One*.md" | python spellchecker.py | ConvertFr
 Write-Output "Chapter One Spelling Ends"
 Write-Output "Chapter One Thesaurunocerous Boom" #Only add to the messages window
 Get-Content -Path "Prose - Chapter One*.md" | python thesaurunocerous.py | ConvertFrom-Json | %{ $_.Results } | fl
-Get-Content -Path "Prose - Chapter One*.md" | python thesaurunocerous.py | ConvertFrom-Json | %{ $_.Results } | %{ Add-AppveyorMessage -Message "$(if ( $($_.IHasOccurs) -eq 'True' ){$($_.Occurs)} )$($_.Word) - Chapter One - Thesaurunocerous" -Details "$($_.Hint)" -Category "$($_.Status)" }
+Get-Content -Path "Prose - Chapter One*.md" | python thesaurunocerous.py | ConvertFrom-Json | %{ $_.Results } | %{ Add-AppveyorMessage -Message "$($_.Word)$(if ( $($_.Occurs) -gt '0' ){$(" x ")$($_.Occurs)} ) - Chapter One - Thesaurunocerous" -Details "$($_.Hint)" -Category "$($_.Status)" }
 Write-Output "Chapter One Thesaurunocerous Ends"
 pandoc --version
 pandoc --css epubstyle.css `
