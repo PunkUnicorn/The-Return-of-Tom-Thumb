@@ -69,7 +69,7 @@ for word, count in counts.most_common():
         hint = getTheasaurusHint(word)
         data = { "Word": word, "Status": "Warning", "Hint": "Occurs " + str(count) + " times. Suggestions: " + hint }
         if (first == False):
-            sys.stdout(",")
+            sys.stdout.write(",")
         else:
             first=False
         json.dump(data, sys.stdout)
