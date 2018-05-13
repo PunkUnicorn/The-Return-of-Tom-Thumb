@@ -48,7 +48,7 @@ def statusMessage(title, hint, first, occurs):
     return first
     
 def percentageOf(whatsMyPercent, total):
-    if (total == 0)
+    if (total == 0):
         return ""
     percentage = int((whatsMyPercent / total) * 100)
     return str(percentage) + "%"
