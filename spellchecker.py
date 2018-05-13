@@ -5,11 +5,13 @@ from __future__ import print_function
 import sys
 import enchant
 import json
-from pathlib import Path
 
-p = Path('spellchecker.exceptions.txt')
-ignorewords = p.read_text().splitlines()
-
+ignorewords = []
+with open("spellchecker.exceptions.txt") as fp:  
+   for cnt, line in enumerate(fp):
+       print("Spellchecker ignoring: {}".format(line))
+       ignorewords.append(line)
+        
 sys.stdout.write("{ \"Results\":[")
 first=True
 d = enchant.Dict("en_UK") # or en_US, de_DE, fr_FR, en_AU on my system
