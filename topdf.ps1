@@ -23,7 +23,7 @@ Get-Content -Path "Prose - Chapter One*.md" | python spellchecker.py | fl
 
 Get-Content -Path "Prose - Chapter One*.md" | python spellchecker.py | ConvertFrom-Json | %{ $_.Results } | fl
 
-Get-Content -Path "Prose - Chapter One*.md" | python spellchecker.py | ConvertFrom-Json | fl
+Get-Content -Path "Prose - Chapter One*.md" | python spellchecker.py | ConvertFrom-Json | %{ Add-Member -InputObject $oData -NotePropertyName $_ -NotePropertyValue $_.Word | fl }
 
 Get-Content -Path "Prose - Chapter One*.md" | python spellchecker.py | ConvertFrom-Json | %{ $_.Results | Add-AppveyorTest -Name "Spelling" -Framework NUnit -Filename "$($_.Word)" -ErrorMessage "$($_.Hint)" -Outcome "$($_.Status)" }
 
