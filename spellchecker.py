@@ -34,4 +34,4 @@ for line in sys.stdin:
             sys.stdout.write("\n")
             sys.stdout.flush()
             
- sys.stdout.write("]")
+sys.stdout.write("]")
