@@ -40,6 +40,10 @@ for line in sys.stdin:
 
 def statusMessage(title, hint):
     data = { "Word": title,  "Status": "Information", "Hint": hint }
+    if (first == False):
+        sys.stdout.write(",")
+    else:
+        first=False
     json.dump(data, sys.stdout)
     
 ignoredWordCount = sum(ignoredCounts.values())
