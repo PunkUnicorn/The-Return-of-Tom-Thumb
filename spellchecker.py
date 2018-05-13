@@ -7,6 +7,7 @@ import enchant
 import json
 
 sys.stdout.write("[")
+first=true
 
 d = enchant.Dict("en_UK") # or en_UK, de_DE, fr_FR, en_AU on my system
 for line in sys.stdin:
@@ -30,8 +31,14 @@ for line in sys.stdin:
         if not d.check(word):
             hint = ' or '.join(d.suggest(word)[:7])
             data = { 'Word': word, 'Status': 'Failed', 'Hint': hint }
+            
+            if (first == false):
+                sys.stdout.write(",")
+                
+            if (first):
+                first=false
+                
             json.dump(data, sys.stdout)
-            sys.stdout.write(",")
             sys.stdout.write("\n")
             sys.stdout.flush()
             
