@@ -7,7 +7,7 @@ import enchant
 import json
 
 sys.stdout.write("[")
-first=true
+first=True
 
 d = enchant.Dict("en_UK") # or en_UK, de_DE, fr_FR, en_AU on my system
 for line in sys.stdin:
@@ -36,7 +36,7 @@ for line in sys.stdin:
                 sys.stdout.write(",")
                 
             if (first):
-                first=false
+                first=False
                 
             json.dump(data, sys.stdout)
             sys.stdout.write("\n")
