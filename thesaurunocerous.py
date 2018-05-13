@@ -27,6 +27,8 @@ def makeWords(line):
     return words
 
 # START
+first=True
+sys.stdout.write(" { \"Results\":[")
 counts = collections.Counter()
 ignoredCounts = collections.Counter()    
 for line in sys.stdin:
@@ -38,7 +40,7 @@ for line in sys.stdin:
 
 def statusMessage(title, hint):
     data = { "Word": title,  "Status": "Message", "Hint": hint }
-    print(json.dumps(data))
+    json.dump(data, sys.stdout)
     
 ignoredWordCount = sum(ignoredCounts.values())
 significantWordCount = sum(counts.values())
@@ -54,7 +56,7 @@ littleBits = [] # https://www.youtube.com/watch?v=Gj4-E5Hs3Kc
 for word, count in zippedHint:
     littleBits.append(word + "(" + str(count) + ")")
         
-statusMessage("Ignored words (less than " + str( IGNORE_WORDS_THIS_SHORT_OR_LESS ) + " characters)", ", ".join(littleBits)) #zippedHint)
+statusMessage("Ignored words (less than " + str( IGNORE_WORDS_THIS_SHORT_OR_LESS ) + " characters)", ", ".join(littleBits))
 
 def getTheasaurusHint(word):
     synonyms = []
@@ -68,4 +70,13 @@ for word, count in counts.most_common():
     if (count > IGNORE_WORDS_THAT_OCCUR_THIS_OR_LESS):
         hint = getTheasaurusHint(word)
         data = { "Word": word, "Status": "Warning", "Hint": "Occurs " + str(count) + " times. Suggestions: " + hint }
-        print(json.dumps(data))
+        if (first == False):
+            sys.stdout(",")
+            
+        if (first)
+            first=False
+            
+        json.dump(data, sys.stdout)
+        
+sys.stdout.write("]}")
+sys.stdout.flush()

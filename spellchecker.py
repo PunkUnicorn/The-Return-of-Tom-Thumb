@@ -39,7 +39,6 @@ for line in sys.stdin:
                 first=False
                 
             json.dump(data, sys.stdout)
-            sys.stdout.flush()
             
 sys.stdout.write("]}")
 sys.stdout.flush()
