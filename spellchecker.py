@@ -5,6 +5,10 @@ from __future__ import print_function
 import sys
 import enchant
 import json
+from pathlib import Path
+
+p = Path('spellchecker.exceptions.txt')
+ignorewords = p.read_text().splitlines()
 
 sys.stdout.write("{ \"Results\":[")
 first=True
@@ -26,6 +30,8 @@ for line in sys.stdin:
     words = words.replace('(', '')
     words = words.split() 
     for word in words:
+        if any(word in s for s in ignorewords):
+            coninue            
         if not d.check(word):
             hint = ' or '.join(d.suggest(word)[:7])
             data = { 'Word': word, 'Status': 'Failed', 'Hint': hint }
