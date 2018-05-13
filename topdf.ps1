@@ -10,8 +10,8 @@ Write-Output "Chapter One Spelling Ends"
 Write-Output "Chapter One Thesaurunocerous Boom" #Only add to the messages window
 $chapterOneTheasurus = Get-Content -Path "Prose - Chapter One*.md" | python thesaurunocerous.py | ConvertFrom-Json | %{ $_.Results }
 $chapterOneTheasurus | fl
-$chapterOneTheasurus | %{ Add-AppveyorMessage -Message "$($_.Word)$(if ( $($_.Occurs) -gt '0' ){$(" x ");$($_.Occurs)} ) - Chapter One - Thesaurunocerous" -Details "$($_.Hint)" -Category "$($_.Status)" }
 $chapterOneTheasurus | fl | Out-File -FilePath "Chapter-One-Words.txt" -Append
+$chapterOneTheasurus | %{ Add-AppveyorMessage -Message "$($_.Word)$(if ( $($_.Occurs) -gt '0' ){$(" x ");$($_.Occurs)} ) - Chapter One - Thesaurunocerous" -Details "$($_.Hint)" -Category "$($_.Status)" }
 Write-Output "Chapter One Thesaurunocerous Ends"
 pandoc --version
 pandoc --css epubstyle.css `
