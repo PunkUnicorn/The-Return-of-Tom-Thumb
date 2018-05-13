@@ -57,9 +57,11 @@ uniqueIgnoredWords = list(set(ignoredCounts.keys()))
 ignoredHint = ", ".join(uniqueIgnoredWords)
 zippedHint = zip(uniqueIgnoredWords, ignoredCounts.values())
 littleBits = [] # Important ==> https://www.youtube.com/watch?v=Gj4-E5Hs3Kc
+uniqueIgnoredWordCount = 0
 for word, count in zippedHint:
     littleBits.append(word + "(" + str(count) + ")")
-first = statusMessage("Ignored words (less than " + str( IGNORE_WORDS_THIS_SHORT_OR_LESS ) + " characters)", ", ".join(littleBits), first)
+    uniqueIgnoredWordCount += 1
+first = statusMessage("Ignored words (less than " + str( IGNORE_WORDS_THIS_SHORT_OR_LESS ) + " characters)", ", ".join(littleBits), first, uniqueIgnoredWordCount)
 
 def getTheasaurusHint(word):
     synonyms = []
