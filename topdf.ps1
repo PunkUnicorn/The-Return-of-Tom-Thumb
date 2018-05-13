@@ -1,7 +1,7 @@
 write-host "**topdf.ps1**"
 # run tests
-Add-AppveyorMessage -Message "Hello world" -Category "Information" -Details "the quick brown fox jumped over the lazy dog blah blah blah blah blah..."
-Add-AppveyorTest -Name "Spelling" -Framework NUnit -Filename "suddenley" -ErrorMessage "suggestions: suddenly"
+Add-AppveyorMessage -Message "Matthew is cool" -Details "Hint" -Category "Error" #Information | Warning | Error
+Add-AppveyorTest -Name "Spelling" -Framework NUnit -Filename "Word" -ErrorMessage "Hint" -Outcome "Failed" #Passed, Failed, Ignored, Skipped, Inconclusive, NotFound, Cancelled, NotRunnable
 Write-Output "Chapter One Spelling Motherfucker"
 Get-Content -Path "Prose - Chapter One*.md" | python spellchecker.py | fl  #Add-AppveyorTest -Name "Spelling" -Framework NUnit -Filename -ErrorMessage
 Write-Output "Chapter One Spelling Ends"
