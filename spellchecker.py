@@ -28,4 +28,4 @@ for line in sys.stdin:
         if not d.check(word):
             hint = ' or '.join(d.suggest(word)[:7])
             data = { "Word": word, "Status": "Failed", "Hint": hint }
-            print(json.dumps(data))
+            print('\''+json.dumps(data)+'\'')
