@@ -33,7 +33,7 @@ for line in sys.stdin:
     words = words.split() 
     for word in words:
         if any(word in s for s in ignorewords):
-            coninue            
+            continue            
         if not d.check(word):
             hint = ' or '.join(d.suggest(word)[:7])
             data = { 'Word': word, 'Status': 'Failed', 'Hint': hint }
