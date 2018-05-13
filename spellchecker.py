@@ -8,10 +8,8 @@ import json
 
 sys.stdout.write("{ \"Results\":[")
 first=True
-
-d = enchant.Dict("en_UK") # or en_UK, de_DE, fr_FR, en_AU on my system
+d = enchant.Dict("en_UK") # or en_US, de_DE, fr_FR, en_AU on my system
 for line in sys.stdin:
-    # do lots stripping... then split!
     words = line.replace('\"', '')
     words = words.replace('*', '')
     words = words.replace('#', '')
@@ -20,7 +18,7 @@ for line in sys.stdin:
     words = words.replace(',', '')
     words = words.replace('?', '')
     words = words.replace('.', '')
-    # words = words.replace('\'', '')
+    # words = words.replace('\'', '') leave these in
     words = words.replace('\\', '')
     words = words.replace('/', '')
     words = words.replace('!', '')
@@ -31,14 +29,10 @@ for line in sys.stdin:
         if not d.check(word):
             hint = ' or '.join(d.suggest(word)[:7])
             data = { 'Word': word, 'Status': 'Failed', 'Hint': hint }
-            
             if (first == False):
                 sys.stdout.write(",")
-                
-            if (first):
+            else:
                 first=False
-                
             json.dump(data, sys.stdout)
-            
 sys.stdout.write("]}")
 sys.stdout.flush()

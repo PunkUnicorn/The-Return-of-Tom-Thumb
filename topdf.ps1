@@ -1,15 +1,17 @@
 write-host "**topdf.ps1**"
 # run tests
 
-Add-AppveyorMessage -Message "Yo dawg" -Details "Boomshanka" -Category "Information" #Information | Warning | Error
-Add-AppveyorTest -Name "Spelling" -Framework NUnit -Filename "suddently" -ErrorMessage "suggest: two or too or to or 2" -Outcome "Failed" #Passed, Failed, Ignored, Skipped, Inconclusive, NotFound, Cancelled, NotRunnable
+#Add-AppveyorMessage -Message "Yo dawg" -Details "Boomshanka" -Category "Information" #Information | Warning | Error
+#Add-AppveyorTest -Name "Argh Mateys" -Framework NUnit -Filename "suddently" -ErrorMessage "suggest: two or too or to or 2" -Outcome "Failed" #Passed, Failed, Ignored, Skipped, Inconclusive, NotFound, Cancelled, NotRunnable
 
-Write-Output "Chapter One Spelling Motherfucker"
+Write-Output "Chapter One Spelling Boom" #Add as test fails, and to the message window as errors
 Get-Content -Path "Prose - Chapter One*.md" | python spellchecker.py | ConvertFrom-Json | %{ $_.Results } | fl
-Get-Content -Path "Prose - Chapter One*.md" | python spellchecker.py | ConvertFrom-Json | %{ $_.Results } | %{ Add-AppveyorTest -Name "Spelling" -Framework NUnit -Filename "$($_.Word)" -ErrorMessage "$($_.Hint)" -Outcome "$($_.Status)" }
+Get-Content -Path "Prose - Chapter One*.md" | python spellchecker.py | ConvertFrom-Json | %{ $_.Results } | AppveyorMessage -Message "$($_.Word)" -Details "$($_.Hint)" -Category "$($_.Status)"
+Get-Content -Path "Prose - Chapter One*.md" | python spellchecker.py | ConvertFrom-Json | %{ $_.Results } | %{ Add-AppveyorTest -Name "Spelling" -Framework NUnit -Filename "Chapter One - $($_.Word)" -ErrorMessage "$($_.Hint)" -Outcome "$($_.Status)" }
 Write-Output "Chapter One Spelling Ends"
-Write-Output "Chapter One Thesaurunocerous Boom (sorry takes a while to download)"
-Get-Content -Path "Prose - Chapter One*.md" | python thesaurunocerous.py | fl 
+Write-Output "Chapter One Thesaurunocerous Boom" #Only add to the messages window
+Get-Content -Path "Prose - Chapter One*.md" | python thesaurunocerous.py | ConvertFrom-Json | %{ $_.Results } | fl
+Get-Content -Path "Prose - Chapter One*.md" | python thesaurunocerous.py | ConvertFrom-Json | %{ $_.Results } | %{ Add-AppveyorMessage -Message "$($_.Word)" -Details "$($_.Hint)" -Category "$($_.Status)" }
 Write-Output "Chapter One Thesaurunocerous Ends"
 pandoc --version
 pandoc --css epubstyle.css `

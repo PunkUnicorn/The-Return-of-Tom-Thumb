@@ -39,7 +39,7 @@ for line in sys.stdin:
     counts.update(countingWords)
 
 def statusMessage(title, hint):
-    data = { "Word": title,  "Status": "Message", "Hint": hint }
+    data = { "Word": title,  "Status": "Information", "Hint": hint }
     json.dump(data, sys.stdout)
     
 ignoredWordCount = sum(ignoredCounts.values())
@@ -51,11 +51,9 @@ statusMessage("Total number of words", str( totalWordCount ))
 uniqueIgnoredWords = list(set(ignoredCounts.keys()))
 ignoredHint = ", ".join(uniqueIgnoredWords)
 zippedHint = zip(uniqueIgnoredWords, ignoredCounts.values())
-
-littleBits = [] # https://www.youtube.com/watch?v=Gj4-E5Hs3Kc
+littleBits = [] # Important ==> https://www.youtube.com/watch?v=Gj4-E5Hs3Kc
 for word, count in zippedHint:
     littleBits.append(word + "(" + str(count) + ")")
-        
 statusMessage("Ignored words (less than " + str( IGNORE_WORDS_THIS_SHORT_OR_LESS ) + " characters)", ", ".join(littleBits))
 
 def getTheasaurusHint(word):
@@ -72,11 +70,8 @@ for word, count in counts.most_common():
         data = { "Word": word, "Status": "Warning", "Hint": "Occurs " + str(count) + " times. Suggestions: " + hint }
         if (first == False):
             sys.stdout(",")
-            
-        if (first)
+        else:
             first=False
-            
         json.dump(data, sys.stdout)
-        
 sys.stdout.write("]}")
 sys.stdout.flush()
