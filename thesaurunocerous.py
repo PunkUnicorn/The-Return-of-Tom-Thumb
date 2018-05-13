@@ -52,8 +52,8 @@ significantWordCount = sum(counts.values())
 totalWordCount = significantWordCount + ignoredWordCount
 first = statusMessage("Count of words " + str( IGNORE_WORDS_THIS_SHORT_OR_LESS ) + " characters long or less", str( ignoredWordCount ), first)
 first = statusMessage("Count of words more than " + str( IGNORE_WORDS_THIS_SHORT_OR_LESS )  + " characters", str( significantWordCount ), first)
-first = statusMessage("Total number of words", str( totalWordCount ))
-uniqueIgnoredWords = list(set(ignoredCounts.keys()), first)
+first = statusMessage("Total number of words", str( totalWordCount ), first)
+uniqueIgnoredWords = list(set(ignoredCounts.keys()))
 ignoredHint = ", ".join(uniqueIgnoredWords)
 zippedHint = zip(uniqueIgnoredWords, ignoredCounts.values())
 littleBits = [] # Important ==> https://www.youtube.com/watch?v=Gj4-E5Hs3Kc
