@@ -50,7 +50,7 @@ def statusMessage(title, hint, first, occurs):
 def percentageOf(whatsMyPercent, total):
     if (total == 0):
         return ""
-    percentage = round((whatsMyPercent / total) * 100, 3)
+    percentage = round((float(whatsMyPercent) / float(total)) * float(100), 3)
     return str(percentage) + "%"
 
 ignoredWordCount = sum(ignoredCounts.values())
