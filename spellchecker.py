@@ -9,7 +9,7 @@ import json
 ignorewords = []
 with open("spellchecker.exceptions.txt") as fp:  
    for cnt, line in enumerate(fp):
-       print("Spellchecker ignoring: {}".format(line))
+       #print("Spellchecker ignoring: {}".format(line))
        ignorewords.append(line)
         
 sys.stdout.write("{ \"Results\":[")
