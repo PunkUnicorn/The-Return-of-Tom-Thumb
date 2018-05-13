@@ -6,6 +6,8 @@ import sys
 import enchant
 import json
 
+sys.stdout.write("[")
+
 d = enchant.Dict("en_UK") # or en_UK, de_DE, fr_FR, en_AU on my system
 for line in sys.stdin:
     # do lots stripping... then split!
@@ -31,3 +33,5 @@ for line in sys.stdin:
             json.dump(data, sys.stdout)
             sys.stdout.write("\n")
             sys.stdout.flush()
+            
+ sys.stdout.write("]")

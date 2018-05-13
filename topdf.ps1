@@ -6,7 +6,7 @@ Add-AppveyorTest -Name "Spelling" -Framework NUnit -Filename "suddently" -ErrorM
 
 Write-Output "Chapter One Spelling Motherfucker"
 Get-Content -Path "Prose - Chapter One*.md" | python spellchecker.py | fl
-Get-Content -Path "Prose - Chapter One*.md" | python spellchecker.py | ConvertFrom-Json | fl #Add-AppveyorTest -Name "Spelling" -Framework NUnit -Filename "$($_.Word)" -ErrorMessage "$($_.Hint)" -Outcome "$($_.Status)"
+Get-Content -Path "Prose - Chapter One*.md" | python spellchecker.py | ConvertFrom-Json | Add-AppveyorTest -Name "Spelling" -Framework NUnit -Filename "$($_.Word)" -ErrorMessage "$($_.Hint)" -Outcome "$($_.Status)"
 Write-Output "Chapter One Spelling Ends"
 Write-Output "Chapter One Thesaurunocerous Boom (sorry takes a while to download)"
 Get-Content -Path "Prose - Chapter One*.md" | python thesaurunocerous.py | fl 
