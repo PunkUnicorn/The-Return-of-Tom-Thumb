@@ -32,7 +32,7 @@ for line in sys.stdin:
             hint = ' or '.join(d.suggest(word)[:7])
             data = { 'Word': word, 'Status': 'Failed', 'Hint': hint }
             
-            if (first == false):
+            if (first == False):
                 sys.stdout.write(",")
                 
             if (first):
