@@ -38,8 +38,8 @@ for line in sys.stdin:
     countingWords = [w for w in words if len(w) > IGNORE_WORDS_THIS_SHORT_OR_LESS]
     counts.update(countingWords)
 
-def statusMessage(title, hint, first):
-    data = { "Word": title,  "Status": "Information", "Occurs": 0, "Hint": hint }
+def statusMessage(title, hint, first, occurs):
+    data = { "Word": title,  "Status": "Information", "Occurs": occurs, "Hint": hint }
     if (first == False):
         sys.stdout.write(",")
     else:
@@ -50,9 +50,9 @@ def statusMessage(title, hint, first):
 ignoredWordCount = sum(ignoredCounts.values())
 significantWordCount = sum(counts.values())
 totalWordCount = significantWordCount + ignoredWordCount
-first = statusMessage("Count of words " + str( IGNORE_WORDS_THIS_SHORT_OR_LESS ) + " characters long or less", str( ignoredWordCount ), first)
-first = statusMessage("Count of words more than " + str( IGNORE_WORDS_THIS_SHORT_OR_LESS )  + " characters", str( significantWordCount ), first)
-first = statusMessage("Total number of words", str( totalWordCount ), first)
+first = statusMessage("Count of words " + str( IGNORE_WORDS_THIS_SHORT_OR_LESS ) + " characters long or less", str( ignoredWordCount ), first, ignoredWordCount)
+first = statusMessage("Count of words more than " + str( IGNORE_WORDS_THIS_SHORT_OR_LESS )  + " characters", str( significantWordCount ), first, significantWordCount )
+first = statusMessage("Total number of words", str( totalWordCount ), first, totalWordCount)
 uniqueIgnoredWords = list(set(ignoredCounts.keys()))
 ignoredHint = ", ".join(uniqueIgnoredWords)
 zippedHint = zip(uniqueIgnoredWords, ignoredCounts.values())
