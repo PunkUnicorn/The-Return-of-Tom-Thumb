@@ -6,7 +6,7 @@ import sys
 import enchant
 import json
 
-sys.stdout.write("[")
+sys.stdout.write("\"Results\":[")
 first=True
 
 d = enchant.Dict("en_UK") # or en_UK, de_DE, fr_FR, en_AU on my system
