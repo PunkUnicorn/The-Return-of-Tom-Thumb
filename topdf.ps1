@@ -23,9 +23,11 @@ Get-Content -Path "Prose - Chapter One*.md" | python spellchecker.py | fl
 
 Get-Content -Path "Prose - Chapter One*.md" | python spellchecker.py | ConvertFrom-Json | %{ $_.Results } | fl
 
-Get-Content -Path "Prose - Chapter One*.md" | python spellchecker.py | ConvertFrom-Json | %{ Add-Member -InputObject $oData -NotePropertyName $_ -NotePropertyValue $_.Word | fl }
+Write-Output "test 2"
 
-Get-Content -Path "Prose - Chapter One*.md" | python spellchecker.py | ConvertFrom-Json | %{ $_.Results | Add-AppveyorTest -Name "Spelling" -Framework NUnit -Filename "$($_.Word)" -ErrorMessage "$($_.Hint)" -Outcome "$($_.Status)" }
+Get-Content -Path "Prose - Chapter One*.md" | python spellchecker.py | ConvertFrom-Json | fl
+
+Get-Content -Path "Prose - Chapter One*.md" | python spellchecker.py | ConvertFrom-Json | %{ $_.Results } | Add-AppveyorTest -Name "Spelling" -Framework NUnit -Filename "$($_.Word.Value)" -ErrorMessage "$($_.Hint)" -Outcome "$($_.Status)"
 
 Write-Output "Chapter One Spelling Ends"
 Write-Output "Chapter One Thesaurunocerous Boom (sorry takes a while to download)"
