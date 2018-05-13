@@ -81,7 +81,7 @@ for word, count in counts.most_common():
     if (count > IGNORE_WORDS_THAT_OCCUR_THIS_OR_LESS):
         hint = percentageOf(count, totalWordCount)
         hint += " " + getTheasaurusHint(word);
-        data = { "Word": word, "Status": "Warning", "Occurs": count, "Hint": "Occurs " + str(count) + " times. Suggestions: " + hint }
+        data = { "Word": word, "Status": "Warning", "Occurs": count, "Hint": "Occurs " + str(count) + " times " + hint }
         if (first == False):
             sys.stdout.write(",")
         else:
