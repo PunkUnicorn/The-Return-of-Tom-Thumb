@@ -6,6 +6,8 @@ import sys
 import enchant
 import json
 
+#https://docs.djangoproject.com/en/dev/topics/serialization/#serializing-django-objects
+
 d = enchant.Dict("en_UK") # or en_UK, de_DE, fr_FR, en_AU on my system
 for line in sys.stdin:
     # do lots stripping... then split!
@@ -27,5 +29,5 @@ for line in sys.stdin:
     for word in words:
         if not d.check(word):
             hint = ' or '.join(d.suggest(word)[:7])
-            data = { "Word": word, "Status": "Failed", "Hint": hint }
-            print('\''+json.dumps(data)+'\'')
+            data = { 'Word': word, 'Status': 'Failed', 'Hint': hint }            
+            print(json.dump(data), ensure_ascii=False)
