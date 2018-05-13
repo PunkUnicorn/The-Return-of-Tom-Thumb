@@ -50,14 +50,14 @@ def statusMessage(title, hint, first, occurs):
 def percentageOf(whatsMyPercent, total):
     if (total == 0):
         return ""
-    percentage = int((whatsMyPercent / total) * 100)
+    percentage = round((whatsMyPercent / total) * 100, 3)
     return str(percentage) + "%"
 
 ignoredWordCount = sum(ignoredCounts.values())
 significantWordCount = sum(counts.values())
 totalWordCount = significantWordCount + ignoredWordCount
-first = statusMessage("Count of words " + str( IGNORE_WORDS_THIS_SHORT_OR_LESS ) + " characters long or less", str( ignoredWordCount ), first, ignoredWordCount)
-first = statusMessage("Count of words more than " + str( IGNORE_WORDS_THIS_SHORT_OR_LESS )  + " characters", str( significantWordCount ), first, significantWordCount )
+first = statusMessage("Count of words " + str( IGNORE_WORDS_THIS_SHORT_OR_LESS ) + " characters long or less", str( ignoredWordCount ) + " " + percentageOf(ignoredWordCount, totalWordCount), first, ignoredWordCount)
+first = statusMessage("Count of words more than " + str( IGNORE_WORDS_THIS_SHORT_OR_LESS )  + " characters", str( significantWordCount ) + " " + percentageOf(significantWordCount, totalWordCount), first, significantWordCount)
 first = statusMessage("Total number of words", str( totalWordCount ), first, totalWordCount)
 uniqueIgnoredWords = list(set(ignoredCounts.keys()))
 ignoredHint = ", ".join(uniqueIgnoredWords)
@@ -66,9 +66,9 @@ littleBits = [] # Important ==> https://www.youtube.com/watch?v=Gj4-E5Hs3Kc
 uniqueIgnoredWordCount = 0
 for word, count in zippedHint:
     littleBits.append(word + "(" + str(count) + ") " + percentageOf(count, totalWordCount))
-    uniqueIgnoredWordCount += 1
-    first = statusMessage("Ignored words (less than " + str( IGNORE_WORDS_THIS_SHORT_OR_LESS ) + " characters)", ", ".join(littleBits), first, uniqueIgnoredWordCount)
-    
+    uniqueIgnoredWordCount += 1    
+first = statusMessage("Ignored words (less than " + str( IGNORE_WORDS_THIS_SHORT_OR_LESS ) + " characters)", ", ".join(littleBits), first, uniqueIgnoredWordCount)
+
 def getTheasaurusHint(word):
     synonyms = []
     antonyms = []
@@ -79,7 +79,8 @@ def getTheasaurusHint(word):
     
 for word, count in counts.most_common():
     if (count > IGNORE_WORDS_THAT_OCCUR_THIS_OR_LESS):
-        hint = percentageOf(count, totalWordCount) + getTheasaurusHint(word)
+        hint = percentageOf(count, totalWordCount)
+        hint += " " + getTheasaurusHint(word);
         data = { "Word": word, "Status": "Warning", "Occurs": count, "Hint": "Occurs " + str(count) + " times. Suggestions: " + hint }
         if (first == False):
             sys.stdout.write(",")
