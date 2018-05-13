@@ -30,3 +30,4 @@ for line in sys.stdin:
             data = { 'Word': word, 'Status': 'Failed', 'Hint': hint }
             json.dump(data, sys.stdout)
             sys.stdout.write("\n")
+            sys.stdout.flush()
