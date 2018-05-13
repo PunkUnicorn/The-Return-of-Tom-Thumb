@@ -11,6 +11,9 @@ test_script:
   - ps: .\topdf.ps1
 
 artifacts:
+  - path: Chapter-One-Spelling.txt
+    name: spelling-errors
+    type: file
   - path: Chapter-One-Words.txt
     name: word-matix
     type: file
