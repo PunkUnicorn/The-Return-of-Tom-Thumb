@@ -9,7 +9,7 @@ Get-Content -Path "Prose - Chapter One*.md" | python spellchecker.py | fl
 
 Get-Content -Path "Prose - Chapter One*.md" | python spellchecker.py | ConvertFrom-Json | %{ $_.Results } | fl
 
-Get-Content -Path "Prose - Chapter One*.md" | python spellchecker.py | ConvertFrom-Json | %{ fl }
+Get-Content -Path "Prose - Chapter One*.md" | python spellchecker.py | ConvertFrom-Json 
 
 Get-Content -Path "Prose - Chapter One*.md" | python spellchecker.py | ConvertFrom-Json |  %{ fl } | %{ Add-AppveyorTest -Name "Spelling" -Framework NUnit -Filename "$($_.Word)" -ErrorMessage "$($_.Hint)" -Outcome "$($_.Status)" }
 
