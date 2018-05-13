@@ -39,7 +39,7 @@ for line in sys.stdin:
     counts.update(countingWords)
 
 def statusMessage(title, hint, first):
-    data = { "Word": title,  "Status": "Information", "Hint": hint }
+    data = { "Word": title,  "Status": "Information", "IHasOccurs": False, "Occurs": 0, "Hint": hint }
     if (first == False):
         sys.stdout.write(",")
     else:
@@ -72,7 +72,7 @@ def getTheasaurusHint(word):
 for word, count in counts.most_common():
     if (count > IGNORE_WORDS_THAT_OCCUR_THIS_OR_LESS):
         hint = getTheasaurusHint(word)
-        data = { "Word": word, "Status": "Warning", "Hint": "Occurs " + str(count) + " times. Suggestions: " + hint }
+        data = { "Word": word, "Status": "Warning", "IHasOccurs": True, "Occurs": count, "Hint": "Occurs " + str(count) + " times. Suggestions: " + hint }
         if (first == False):
             sys.stdout.write(",")
         else:
