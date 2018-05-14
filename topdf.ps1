@@ -1,7 +1,7 @@
 write-host "**topdf.ps1**"
 # run tests
 Write-Output "Chapter One Spelling Boom" #Add as test fails, and to the message window as errors
-$chapterOneSpelling = Get-Content -Path "Prose - Chapter One*.md" | python spellchecker.py | ConvertFrom-Json | %{ $_.Results } 
+$chapterOneSpelling = Get-Content -Path "Prose - Chapter One*.md" -Encoding UTF8 | python spellchecker.py | ConvertFrom-Json | %{ $_.Results } 
 $chapterOneSpelling | fl
 $chapterOneSpelling | fl | Out-File -FilePath "Chapter-One-Spelling.txt" -Append
 $chapterOneSpelling | %{ Add-AppveyorMessage -Message "$($_.Word) - Chapter One" -Details "$($_.Hint)" -Category "Error" }
