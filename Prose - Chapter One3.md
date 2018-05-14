@@ -25,3 +25,7 @@ There was a pause but this one did not brew; it dropped.
 “Oh.” said the boy after some thought.
 
 “Look.” said Tom, pulling out one of the giant pips, holding it in her outstretched palms for the boy to see.
+
+The boy looked at her offering, but after no time he was astonished. Which accompanied his silence. 
+
+“That's not right.” He said after a little time. “Who else you shown them to?” He added.
