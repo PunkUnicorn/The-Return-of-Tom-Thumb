@@ -10,7 +10,7 @@ Tom peeked a check at Kim: he looked perturbed, as if the whole thing was a bad 
 
 Kim barely said anything, a slight disapproval for a greeting.
 
-“Hello.” Tom answered eagerly, pleased for a new friend. “We're from The Forest.“ She pointed north to explain.
+“Hello.” Tom answered eagerly, pleased for a new friend. “We’re from The Forest.“ She pointed north to explain.
 
 “Oh.” said the boy as if he was interested. “The Forest.” he nodded and a pause brewed. 
 
@@ -18,7 +18,7 @@ Kim barely said anything, a slight disapproval for a greeting.
 
 Kim looked to Tom; Kim had no idea.
 
-Tom realised this was it, her chance to conduct business. “I've come to sell apple pips.”
+Tom realised this was it, her chance to conduct business. “I’ve come to sell apple pips.”
 
 There was a pause but this one did not brew, it dropped.
 
@@ -28,19 +28,19 @@ There was a pause but this one did not brew, it dropped.
 
 The boy saw her offering but after no time he was astonished, which was accompanied by silence.
 
-“That's not right.” He said after a little time. “Who else you shown that to?” He inquired.
+“That’s not right.” He said after a little time. “Who else you shown that to?” He inquired.
 
-“No one, you're the first.” Tom's quick reply.
+“No one, you’re the first.” Tom’s quick reply.
 
-“Where'd you get that then?”, the boy asked adding “My name's Jack by the way.”
+“Where’d you get that then?”, the boy asked adding “My name’s Jack by the way.”
 
 “A giant apple.” she answered. “Nice to meet you Jack.”
 
-Jack did not seem to notice her last part. He was absorbed on looking at the pip in her palms.
+Jack did not seem to notice the last part which was her favorite; he was absorbed.
 
-“What you planning to do with them then?” Jack sharing his thoughts.
+“What you planning to do with that then?” Jack asked, sharing his thoughts.
 
-“I want to sell it.” Tom answered, not showing any annoyance at repeating herself.
+“I want to sell it.” Tom answered not showing any annoyance at being ignored or having to repeat herself.
 
 “Oh.” said Jack. “What for?” then clarifying, “How much you asking for it?”
 
@@ -48,14 +48,16 @@ Jack did not seem to notice her last part. He was absorbed on looking at the pip
 
 “A cow?” Jack challenged incredulous. Jack looked around the sky and contained chortles.
 
-“Come on.” said Kim and took firm steps towards the village hubbub, his hand grabbing Tom as he moved.
+“Come on.” said Kim and took firm steps towards the greater village hubbub, his hand grabbing Tom as he darted.
 
-“No, wait!” said Jack, his interest in the pip confirmed.
+“No, wait!” barked Jack, his interest in the pip confirmed.
 
-Kim stopped but kept his grip on Tom, her jumper stretching as she turns to jack: “I've got three.”
+Kim stopped but kept his grip on Tom, her jumper stretching as she turns to jack: “I’ve got three.”
 
-“Ah!” said Jack as if this changed everything. “Three! why didn't you say so?” 
+“Ah!” said Jack as if this changed everything. “Three! why didn’t you say so?” 
 
-Kim wasn't so convinced. He moved again to leave, pulling Tom with him.
+Kim was not convinced: he moved again to leave pulling Tom with him.
 
-“Alright, alright. The cow for the pips,” Jack negotiated, “but all three mind?”
+“Alright, alright. The cow for the pips,” Jack negotiated, “but all three of them.”
+
+SPULLING TUSTS
