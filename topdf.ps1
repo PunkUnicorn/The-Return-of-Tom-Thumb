@@ -1,6 +1,8 @@
 write-host "**topdf.ps1**"
 # run tests
 Write-Output "Chapter One Spelling Boom" #Add as test fails, and to the message window as errors
+Write-Output "Spelling Exceptions:"
+Get-Content -Path "spellchecker.exceptions.txt" | Write-Output
 
 # Fancy quote solution: https://stackoverflow.com/questions/6968270/replacing-smart-quotes-in-powershell
 $fancySingleQuotes = "[\u2019\u2018]" #Strip out fancy single and double quotes for spellchecking etc, or python goes ballistic
@@ -15,6 +17,12 @@ $chapterOneSpelling | fl
 $chapterOneSpelling | fl | Out-File -FilePath "Chapter-One-Spelling.txt" -Append
 $chapterOneSpelling | %{ Add-AppveyorMessage -Message "$($_.Word) - Chapter One" -Details "$($_.Hint)" -Category "Error" }
 $chapterOneSpelling | %{ Add-AppveyorTest -Name "$($_.Word) - Spelling" -Framework NUnit -Filename "$($_.Hint)" -ErrorMessage "$($_.Word)? $($_.Hint)" -Outcome "$($_.Status)" }
+$spellingResults = $null;
+$spellingResults = Get-Content -Path "Chapter-One-Spelling.txt" 
+If ($OutlookAccounts -eq $null)
+{
+	Write-Output "No spelling errors"
+}
 Write-Output "Chapter One Spelling Ends"
 
 Write-Output "Chapter One Thesaurunocerous Boom" #Only add to the messages window
