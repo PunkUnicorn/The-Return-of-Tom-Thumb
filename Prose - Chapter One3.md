@@ -58,4 +58,4 @@ Kim stopped but kept his grip on Tom, her jumper stretching as she turns to jack
 
 Kim wasn't so convinced. He moved again to leave, pulling Tom with him.
 
-“Ok, ok. The cow for the pips.” Jack negotiated, “But all three mind?”
+“Alright, alright. The cow for the pips,” Jack negotiated, “but all three mind?”
