@@ -10,17 +10,20 @@ $fancyDoubleQuotes = "[\u201C\u201D]"
 
 $chapterOneSpelling = Get-Content -Path "Prose - Chapter One*.md" -Encoding UTF8 | `
 %{ `
-	$_ = [regex]::Replace($_, $fancySingleQuotes, "'")
-	[regex]::Replace($_, $fancyDoubleQuotes, '"') `
+	$_ = `
+		[regex]::Replace($_, $fancySingleQuotes, "'")
+		[regex]::Replace($_, $fancyDoubleQuotes, '"') `
 } | python spellchecker.py | ConvertFrom-Json | %{ $_.Results } 
 $chapterOneSpelling | fl
 $chapterOneSpelling | fl | Out-File -FilePath "Chapter-One-Spelling.txt" -Append
 $chapterOneSpelling | %{ Add-AppveyorMessage -Message "$($_.Word) - Chapter One" -Details "$($_.Hint)" -Category "Error" }
 $chapterOneSpelling | %{ Add-AppveyorTest -Name "$($_.Word) - Spelling" -Framework NUnit -Filename "$($_.Hint)" -ErrorMessage "$($_.Word)? $($_.Hint)" -Outcome "$($_.Status)" }
+
 $spellingResults = $null;
 $spellingResults = Get-Content -Path "Chapter-One-Spelling.txt" 
 If ($OutlookAccounts -eq $null)
 {
+	Add-AppveyorTest -Name "Spelling" -Framework NUnit -Filename "Chapter One" -ErrorMessage "All passed" -Outcome "Passed" }
 	Write-Output "No spelling errors"
 }
 Write-Output "Chapter One Spelling Ends"
