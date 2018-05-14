@@ -1,4 +1,4 @@
-While she was at the apple Tom scooped a handful of apple flesh then walked towards the house. She paused to finish eating, gobbling messy mouthfuls. The door latch caught Toms attention: a mangled, rusted wreck that had once been a latch. But Tom had never seen it any other way. The latch on the giants door was the first functioning one she had seen. 
+﻿While she was at the apple Tom scooped a handful of apple flesh then walked towards the house. She paused to finish eating, gobbling messy mouthfuls. The door latch caught Toms attention: a mangled, rusted wreck that had once been a latch. But Tom had never seen it any other way. The latch on the giants door was the first functioning one she had seen. 
 
 Eating her hands clean she wondered if her mangled latch could be bent back into shape. Then shadows of anxiety arrived remembering how others would react. 
 
@@ -10,11 +10,11 @@ Tom could see there was no good seat available. Around the table sprawled a rowd
 
 Often there were brawls over the precious little there was. Seats, or more specifically seats and seat positions, were a common cause of stand-offs. Tom wasn't bothered. Once or twice she might have had to fight for the right to be left alone. That was worth fighting for but little else was. 
 
-And yet, bellies full, even mitigated tensions were rising round the table; competing voices. She did not look though, not a time to risk eye-contact. She froze for a moment to listen and judge the tone of aggression in the voices. Quickly an intuitive gut-chord reassured her the situation was unlikely to escalate. She could relax. 
+And yet, bellies full, even mitigated tensions were rising round the table; competing voices. She did not look though, not a time to risk eye contact. She froze for a moment to listen and judge the tone of aggression in the voices. Quickly an intuitive gut chord reassured her the situation was unlikely to escalate. She could relax. 
 
 Wiggling her toes, squashing them against the leather of the boots, the comfort winning the battle for her senses. Beautifully fitting boots drowned out the sound. Comfort was her entertainment for the evening.
 
-Next morning Tom woke earlier than anyone else. With well practiced tip-toeing she stepped between sleeping siblings, got to the door and slipped outside. The first thing she saw: brown leaning apple core. 
+Next morning Tom woke earlier than anyone else. With well practised tiptoeing she stepped between sleeping siblings, got to the door and slipped outside. The first thing she saw: brown leaning apple core. 
 
 The bright morning sun spared the eye no mercy and the giant apple core was looking far from adequate. Tom released her expectations were wrong. 
 
