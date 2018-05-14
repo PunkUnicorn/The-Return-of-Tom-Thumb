@@ -20,12 +20,42 @@ Kim looked to Tom; Kim had no idea.
 
 Tom realised this was it, her chance to conduct business. “I've come to sell apple pips.”
 
-There was a pause but this one did not brew; it dropped.
+There was a pause but this one did not brew, it dropped.
 
 “Oh.” said the boy after some thought.
 
 “Look.” said Tom, pulling out one of the giant pips, holding it in her outstretched palms for the boy to see.
 
-The boy looked at her offering, but after no time he was astonished. Which accompanied his silence. 
+The boy saw her offering but after no time he was astonished, which was accompanied by silence.
 
-“That's not right.” He said after a little time. “Who else you shown them to?” He added.
+“That's not right.” He said after a little time. “Who else you shown that to?” He inquired.
+
+“No one, you're the first.” Tom's quick reply.
+
+“Where'd you get that then?”, the boy asked adding “My name's Jack by the way.”
+
+“A giant apple.” she answered. “Nice to meet you Jack.”
+
+Jack did not seem to notice her last part. He was absorbed on looking at the pip in her palms.
+
+“What you planning to do with them then?” Jack sharing his thoughts.
+
+“I want to sell it.” Tom answered, not showing any annoyance at repeating herself.
+
+“Oh.” said Jack. “What for?” then clarifying, “How much you asking for it?”
+
+“A cow.” Burst in Kim.
+
+“A cow?” Jack challenged incredulous. Jack looked around the sky and contained chortles.
+
+“Come on.” said Kim and took firm steps towards the village hubbub, his hand grabbing Tom as he moved.
+
+“No, wait!” said Jack, his interest in the pip confirmed.
+
+Kim stopped but kept his grip on Tom, her jumper stretching as she turns to jack: “I've got three.”
+
+“Ah!” said Jack as if this changed everything. “Three! why didn't you say so?” 
+
+Kim wasn't so convinced. He moved again to leave, pulling Tom with him.
+
+“Ok, ok. The cow for the pips.” Jack negotiated, “But all three mind?”
