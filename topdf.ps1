@@ -3,6 +3,10 @@ write-host "**topdf.ps1**"
 Write-Output "Chapter One Spelling Boom" #Add as test fails, and to the message window as errors
 $fancySingleQuotes = "[\u2019\u2018]" #Strip out fancy single and double quotes for spellchecking etc, or python goes ballistic
 $fancyDoubleQuotes = "[\u201C\u201D]" 
+
+Get-Content -Path "Prose - Chapter One*.md" -Encoding UTF8 | %{ $_ = [regex]::Replace($_, $fancySingleQuotes, "'");[regex]::Replace($_, $fancyDoubleQuotes, '"') } | python spellchecker.py | ConvertFrom-Json | %{ $_.Results } | fl
+
+
 $chapterOneSpelling = Get-Content -Path "Prose - Chapter One*.md" -Encoding UTF8 | `
 %{ `
 	$_ = [regex]::Replace($_, $fancySingleQuotes, "'")
@@ -18,7 +22,7 @@ $chapterOneTheasurus = Get-Content -Path "Prose - Chapter One*.md" | `
 %{ `
 	$_ = [regex]::Replace($_, $fancySingleQuotes, "'")
 	[regex]::Replace($_, $fancyDoubleQuotes, '"') `
-} | | python thesaurunocerous.py | ConvertFrom-Json | %{ $_.Results }
+} | python thesaurunocerous.py | ConvertFrom-Json | %{ $_.Results }
 $chapterOneTheasurus | fl
 $chapterOneTheasurus | fl | Out-File -FilePath "Chapter-One-Words.txt" -Append
 $chapterOneTheasurus | %{ Add-AppveyorMessage -Message "$($_.Word) x $($_.Occurs) - Chapter One" -Details "$($_.Hint)" -Category "$($_.Status)" }
