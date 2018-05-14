@@ -1,8 +1,9 @@
 write-host "**topdf.ps1**"
 # run tests
 Write-Output "Chapter One Spelling Boom" #Add as test fails, and to the message window as errors
-Write-Output "Spelling Exceptions:"
+Write-Output "Spelling Exceptions start:"
 Get-Content -Path "spellchecker.exceptions.txt" | Write-Output
+Write-Output "Spelling Exceptions end!"
 
 # Fancy quote solution: https://stackoverflow.com/questions/6968270/replacing-smart-quotes-in-powershell
 $fancySingleQuotes = "[\u2019\u2018]" #Strip out fancy single and double quotes for spellchecking etc, or python goes ballistic
