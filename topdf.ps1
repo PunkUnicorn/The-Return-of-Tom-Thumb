@@ -12,8 +12,8 @@ $fancyDoubleQuotes = "[\u201C\u201D]"
 $chapterOneSpelling = Get-Content -Path "Prose - Chapter One*.md" -Encoding UTF8 | `
 %{ `
 	$_ = `
-		[regex]::Replace($_, $fancySingleQuotes, "'")
-		[regex]::Replace($_, $fancyDoubleQuotes, '"') `
+	[regex]::Replace($_, $fancySingleQuotes, "'")
+	[regex]::Replace($_, $fancyDoubleQuotes, '"') `
 } | python spellchecker.py | ConvertFrom-Json | %{ $_.Results } 
 $chapterOneSpelling | fl
 $chapterOneSpelling | fl | Out-File -FilePath "Chapter-One-Spelling.txt" -Append
@@ -22,7 +22,7 @@ $chapterOneSpelling | %{ Add-AppveyorTest -Name "$($_.Word) - Spelling" -Framewo
 
 $spellingResults = $null;
 $spellingResults = Get-Content -Path "Chapter-One-Spelling.txt" 
-If ($OutlookAccounts -eq $null)
+If ($spellingResults -eq $null)
 {
 	Add-AppveyorTest -Name "Spelling" -Framework NUnit -Filename "Chapter One" -ErrorMessage "All passed" -Outcome "Passed"
 	Write-Output "No spelling errors"
@@ -32,7 +32,8 @@ Write-Output "Chapter One Spelling Ends"
 Write-Output "Chapter One Thesaurunocerous Boom" #Only add to the messages window
 $chapterOneTheasurus = Get-Content -Path "Prose - Chapter One*.md" | `
 %{ `
-	$_ = [regex]::Replace($_, $fancySingleQuotes, "'")
+	$_ = `
+	[regex]::Replace($_, $fancySingleQuotes, "'")
 	[regex]::Replace($_, $fancyDoubleQuotes, '"') `
 } | python thesaurunocerous.py | ConvertFrom-Json | %{ $_.Results }
 $chapterOneTheasurus | fl
