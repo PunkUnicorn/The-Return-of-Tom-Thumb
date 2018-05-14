@@ -36,7 +36,7 @@ The boy saw her offering but after no time he was astonished, which was accompan
 
 “A giant apple.” she answered. “Nice to meet you Jack.”
 
-Jack did not seem to notice the last part which was her favorite; he was absorbed.
+Jack did not seem to notice the last part which was her favourite; he was absorbed.
 
 “What you planning to do with that then?” Jack asked, sharing his thoughts.
 
@@ -59,5 +59,3 @@ Kim stopped but kept his grip on Tom, her jumper stretching as she turns to jack
 Kim was not convinced: he moved again to leave pulling Tom with him.
 
 “Alright, alright. The cow for the pips,” Jack negotiated, “but all three of them.”
-
-SPULLING TUSTS
