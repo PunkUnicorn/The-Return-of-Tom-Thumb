@@ -8,7 +8,7 @@ Tom peeked a check at Kim: he looked perturbed, as if the whole thing was a bad 
 
 "You two are new" said someone behind them. The two stopped and turned abruptly: a relaxed, fair haired boy. A bit older than them. He was holding a cow by a nose ring tether. "Where you from?" the boy glanced between Tom and Kim, but ended on Tom.
 
-Kim barely said anything, a slight disaproval for a greeting.
+Kim barely said anything, a slight disapproval for a greeting.
 
 "Hello." Tom answered eagerly, pleased for a new friend. "We're from The Forest." She pointed north to explain.
 
