@@ -4,9 +4,9 @@ They walked towards the village at a slow pace to absorb everything: sights, sou
 
 And how people were dressed. Everyone had good boots or clogs. Tom gave her own boots a quick look. Pride enveloped her with a dawning thought: she was fitting in.
 
-Tom peeked a check at Kim: he looked perturbed, as if the whole thing was a bad idea. Tom turned to face her brother inviting him into her excitement. Kim returned her look but it was clear he was not influenced. Instead Kim echod his dread.
+Tom peeked a check at Kim: he looked perturbed, as if the whole thing was a bad idea. Tom turned to face her brother inviting him into her excitement. Kim returned her look but it was clear he was not influenced. Instead Kim echoed his dread.
 
-"You two are new" said someone behind them. The two stopped and turned abruptly: a relaxed, fair haired boy. A bit older than them. He was holding a cow by a nose ring teather. "Where you from?" the boy glanced between Tom and Kim, but ended on Tom.
+"You two are new" said someone behind them. The two stopped and turned abruptly: a relaxed, fair haired boy. A bit older than them. He was holding a cow by a nose ring tether. "Where you from?" the boy glanced between Tom and Kim, but ended on Tom.
 
 Kim barely said anything, a slight disaproval for a greeting.
 
