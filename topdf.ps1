@@ -4,8 +4,7 @@ Write-Output "Chapter One Spelling Boom" #Add as test fails, and to the message 
 $fancySingleQuotes = "[\u2019\u2018]" #Strip out fancy single and double quotes for spellchecking etc, or python goes ballistic
 $fancyDoubleQuotes = "[\u201C\u201D]" 
 
-Get-Content -Path "Prose - Chapter One*.md" -Encoding UTF8 | %{ $_ = [regex]::Replace($_, $fancySingleQuotes, "'");[regex]::Replace($_, $fancyDoubleQuotes, '"') } | python spellchecker.py | ConvertFrom-Json | %{ $_.Results } | fl
-
+#Get-Content -Path "Prose - Chapter One*.md" -Encoding UTF8 | %{ $_ = [regex]::Replace($_, $fancySingleQuotes, "'");[regex]::Replace($_, $fancyDoubleQuotes, '"') } | python spellchecker.py | ConvertFrom-Json | %{ $_.Results } | fl
 
 $chapterOneSpelling = Get-Content -Path "Prose - Chapter One*.md" -Encoding UTF8 | `
 %{ `
