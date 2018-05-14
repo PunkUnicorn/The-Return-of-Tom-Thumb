@@ -24,7 +24,7 @@ $spellingResults = $null;
 $spellingResults = Get-Content -Path "Chapter-One-Spelling.txt" 
 If ($OutlookAccounts -eq $null)
 {
-	Add-AppveyorTest -Name "Spelling" -Framework NUnit -Filename "Chapter One" -ErrorMessage "All passed" -Outcome "Passed" }
+	Add-AppveyorTest -Name "Spelling" -Framework NUnit -Filename "Chapter One" -ErrorMessage "All passed" -Outcome "Passed"
 	Write-Output "No spelling errors"
 }
 Write-Output "Chapter One Spelling Ends"
