@@ -19,7 +19,7 @@ Next morning Tom woke earlier than anyone else. With well practised tiptoeing sh
 The bright morning sun spared the eye no mercy and the giant apple core was looking far from adequate. Tom released her expectations were wrong. 
 
 The house door opened quietly behind her, Tom looked round. It was the oldest and biggest of the brothers, Kim. Relaxing Tom looked back at the apple. Kim joined her 
-
+bollocksddddd
 “You’re up early?” Kim asked.
 
 “Yes.” Replied Tom.

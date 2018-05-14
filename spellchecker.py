@@ -1,18 +1,18 @@
-# coding=unicode
 # above is a magic comment, see https://www.python.org/dev/peps/pep-0263/
 #Thank you Steve Barnes, Command Line Spelling Checker
 #https://softwarerecs.stackexchange.com/questions/26923/command-line-#spell-check-for-windows
 
 from __future__ import print_function
 import sys
-import enchant
+import enchant 
 import json
 
 ignorewords = []
 with open("spellchecker.exceptions.txt") as fp:  
-   for cnt, line in enumerate(fp):
-       #print("Spellchecker ignoring: {}".format(line))
-       ignorewords.append(line)
+    for cnt, line in enumerate(fp):
+        if (line[:1] == '#'):
+            continue;
+        ignorewords.append(line)
         
 sys.stdout.write("{ \"Results\":[")
 first=True
@@ -20,15 +20,12 @@ d = enchant.Dict("en_UK") # or en_US, de_DE, fr_FR, en_AU on my system
 for line in sys.stdin:
     words = line.replace('\"', '')
     words = words.replace('*', '')
-    words = words.replace('”', '')#alien quotes
-    words = words.replace('“', '')#alien quotes
     words = words.replace('#', '')
     words = words.replace(';', '')
     words = words.replace(':', '')
     words = words.replace(',', '')
     words = words.replace('?', '')
     words = words.replace('.', '')
-    # words = words.replace('\'', '') leave these in
     words = words.replace('\\', '')
     words = words.replace('/', '')
     words = words.replace('!', '')
