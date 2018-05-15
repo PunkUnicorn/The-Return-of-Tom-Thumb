@@ -52,7 +52,7 @@ Jack did not seem to notice the last part which was her favourite; he was absorb
 
 “No, wait!” barked Jack, his interest in the pip confirmed.
 
-Kim stopped but kept his grip on Tom, her jumper stretching as she turned to ack: “I’ve got three.”
+Kim stopped but kept his grip on Tom, her jumper stretching as she turned to Jack: “I’ve got three.”
 
 “Ah!” said Jack as if this changed everything. “Three! why didn’t you say so?” 
 
