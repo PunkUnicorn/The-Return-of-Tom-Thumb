@@ -1,4 +1,3 @@
-# above is a magic comment, see https://www.python.org/dev/peps/pep-0263/
 #Thank you Steve Barnes, Command Line Spelling Checker
 #https://softwarerecs.stackexchange.com/questions/26923/command-line-#spell-check-for-windows
 
