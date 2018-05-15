@@ -44,25 +44,25 @@ Function Spellcheck-Chapter($chapterName, $spellingFailFilename) {
 
 # run tests
 
-Write-Output "Spelling Starts   ╦̵̵̿╤─ ҉ ~ •" 
-Write-Output ".oO{Spelling Exceptions start:}"
+Write-Output "Spelling Starts" 
+Write-Output "Spelling Exceptions start:"
 Get-Content -Path "spellchecker.exceptions.txt" | Write-Output
-Write-Output ".oO{Spelling Exceptions end!}"
+Write-Output "Spelling Exceptions end!"
 Spellcheck-Chapter("Chapter One", "Chapter-One-Spelling.txt")
 Spellcheck-Chapter("Chapter Two", "Chapter-One-Spelling.txt")
-Write-Output "Spelling Ends   ╦̵̵̿╤─ ҉ ~ •"
+Write-Output "Spelling Ends"
 
 $chapterName = "Chapter One"
 $wordsFilename = "Chapter-One-Words.txt"
-Write-Output "Thesaurunocerous Starts \̅_̅/̷̚ʾ     \̅_̅/̷̚ʾ"
-Write-Output ".oO{$chapterName Thesaurunocerous starts:}"
+Write-Output "Thesaurunocerous Starts"
+Write-Output "$chapterName Thesaurunocerous starts:"
 $chapter = Get-Content -Path "Prose - $chapterName*.md" -Encoding UTF8 | Replace-FancyQuotes 
 $chapterTheasurus = $chapter | python thesaurunocerous.py | ConvertFrom-Json | %{ $_.Results }
 $chapterOneTheasurus | fl
 $chapterOneTheasurus | fl | Out-File -FilePath $wordsFilename -Append
 $chapterOneTheasurus | %{ Add-AppveyorMessage -Message "$($_.Word) x $($_.Occurs) - $chapterName" -Details "$($_.Hint)" -Category "$($_.Status)" }
-Write-Output ".oO{$chapterName Thesaurunocerous end!}"
-Write-Output "Thesaurunocerous Ends \̅_̅/̷̚ʾ     \̅_̅/̷̚ʾ"
+Write-Output "$chapterName Thesaurunocerous end!"
+Write-Output "Thesaurunocerous Ends"
 
 pandoc --version
 pandoc --css epubstyle.css `
