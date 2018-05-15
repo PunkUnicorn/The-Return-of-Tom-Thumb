@@ -58,9 +58,9 @@ Write-Output "Thesaurunocerous Starts"
 Write-Output "$chapterName Thesaurunocerous starts:"
 $chapter = Get-Content -Path "Prose - $chapterName*.md" -Encoding UTF8 | Replace-FancyQuotes 
 $chapterTheasurus = $chapter | python thesaurunocerous.py | ConvertFrom-Json | %{ $_.Results }
-$chapterOneTheasurus | fl
-$chapterOneTheasurus | fl | Out-File -FilePath $wordsFilename -Append
-$chapterOneTheasurus | %{ Add-AppveyorMessage -Message "$($_.Word) x $($_.Occurs) - $chapterName" -Details "$($_.Hint)" -Category "$($_.Status)" }
+$chapterTheasurus | fl
+$chapterTheasurus | fl | Out-File -FilePath $wordsFilename -Append
+$chapterTheasurus | %{ Add-AppveyorMessage -Message "$($_.Word) x $($_.Occurs) - $chapterName" -Details "$($_.Hint)" -Category "$($_.Status)" }
 Write-Output "$chapterName Thesaurunocerous end!"
 Write-Output "Thesaurunocerous Ends"
 
