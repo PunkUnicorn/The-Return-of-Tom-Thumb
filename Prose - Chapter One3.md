@@ -24,7 +24,7 @@ There was a pause but this one did not brew, it dropped.
 
 “Oh.” said the boy after some thought.
 
-“Look.” said Tom, pulling out one of the giant pips, holding it in her outstretched palms for the boy to see.
+“Look.” Tom produced one of the giant pips, holding it in her outstretched palms for the boy to see.
 
 The boy saw her offering but after no time he was astonished, which was accompanied by silence.
 
@@ -38,27 +38,27 @@ The boy saw her offering but after no time he was astonished, which was accompan
 
 Jack did not seem to notice the last part which was her favourite; he was absorbed.
 
-“What you planning to do with that then?” Jack asked, sharing his thoughts.
+“What you planning to do with that then?” Jack asked.
 
 “I want to sell it.” Tom answered not showing any annoyance at being ignored or having to repeat herself.
 
 “Oh.” said Jack. “What for?” then clarifying, “How much you asking for it?”
 
-“A cow.” Burst in Kim.
+“A cow.” Kim demanded.
 
-“A cow?” Jack challenged incredulous. Jack looked around the sky and contained chortles.
+“A cow?” Jack challenged, incredulous. He looked around the sky barely containing chortles.
 
-“Come on.” said Kim and took firm steps towards the greater village hubbub, his hand grabbing Tom as he darted.
+“Come on.” said Kim and took firm steps towards the greater village hubbub, his hand grabbing Tom.
 
-“No, wait!” barked Jack, his interest in the pip confirmed.
+“No, wait!” burst Jack, his interest in the pip confirmed.
 
 Kim stopped but kept his grip on Tom, her jumper stretching as she turned to Jack: “I’ve got three.”
 
 “Ah!” said Jack as if this changed everything. “Three! why didn’t you say so?” 
 
-Kim was not convinced: he moved again to leave pulling Tom with him.
+Kim was not convinced. Without hesitation he turned away, pulling Tom with him.
 
-“Alright, alright. The cow for the pips,” Jack negotiated, “but only if I can have all of them.”
+“Alright, alright. The cow for the pips,” Jack negotiated, “but only for all three of them.”
 
 ![](TomThumb/Tom%20Thumbnail.jpg)
 
