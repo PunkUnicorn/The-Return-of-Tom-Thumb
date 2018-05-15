@@ -23,8 +23,8 @@ Function Replace-FancyQuotes {
 Function Spellcheck-Chapter($chapterName, $spellingFailFilename) {
 	Write-Output "$chapterName Spelling starts:"
 	
-	$chapter = Get-Content -Path "Prose - $chapterName*.md" -Encoding UTF8
-	$chapterSpelling = $chapterOne | Replace-FancyQuotes | python spellchecker.py | ConvertFrom-Json | %{ $_.Results } 
+	$chapter = Get-Content -Path "Prose - $chapterName*.md" -Encoding UTF8 | Replace-FancyQuotes
+	$chapterSpelling = $chapterOne | python spellchecker.py | ConvertFrom-Json | %{ $_.Results } 
 	$chapterSpelling | fl; $chapterOneSpelling | fl | Out-File -FilePath $spellingFailFilename -Append
 	$chapterSpelling | %{ Add-AppveyorMessage -Message "$($_.Word) - $chapterName" -Details "$($_.Hint)" -Category "Error" }
 	$chapterSpelling | %{ Add-AppveyorTest -Name "$($_.Word) - Spelling" -Framework NUnit -Filename "$($_.Hint)" -ErrorMessage "$($_.Word)? $($_.Hint)" -Outcome "$($_.Status)" }
@@ -48,8 +48,8 @@ Write-Output "Spelling Starts"
 Write-Output "Spelling Exceptions start:"
 Get-Content -Path "spellchecker.exceptions.txt" | Write-Output
 Write-Output "Spelling Exceptions end!"
-Spellcheck-Chapter("Chapter One", "Chapter-One-Spelling.txt")
-Spellcheck-Chapter("Chapter Two", "Chapter-One-Spelling.txt")
+Spellcheck-Chapter "Chapter One" "Chapter-One-Spelling.txt"
+Spellcheck-Chapter "Chapter Two" "Chapter-Two-Spelling.txt"
 Write-Output "Spelling Ends"
 
 $chapterName = "Chapter One"
