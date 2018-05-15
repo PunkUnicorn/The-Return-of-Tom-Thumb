@@ -21,7 +21,7 @@ Function Replace-FancyQuotes {
 # Outputs test result messages and all the jazz
 #
 Function Spellcheck-Chapter($chapterName, $spellingFailFilename) {
-	Write-Output ".oO{$chapterName Spelling starts:}"
+	Write-Output "$chapterName Spelling starts:"
 	
 	$chapter = Get-Content -Path "Prose - $chapterName*.md" -Encoding UTF8
 	$chapterSpelling = $chapterOne | Replace-FancyQuotes | python spellchecker.py | ConvertFrom-Json | %{ $_.Results } 
@@ -37,7 +37,7 @@ Function Spellcheck-Chapter($chapterName, $spellingFailFilename) {
 		Write-Output "No spelling errors"
 	}
 	
-	Write-Output ".oO{$chapterName Spelling ends!}"
+	Write-Output "$chapterName Spelling ends!"
 }
 
 
