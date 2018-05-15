@@ -7,7 +7,6 @@ Write-Output "Spelling Exceptions end!"
 
 # Fancy quote solution: https://stackoverflow.com/questions/6968270/replacing-smart-quotes-in-powershell
 Function Replace-FancyQuotes {
-	[cmdletbinding()]
 	Process {
 		$fancySingleQuotes = "[\u2019\u2018]" 
 		$fancyDoubleQuotes = "[\u201C\u201D]" 		
