@@ -6,7 +6,7 @@ And how people were dressed. Everyone had good boots or clogs. Tom gave her own 
 
 Tom peeked a check at Kim: he looked perturbed, as if the whole thing was a bad idea. Tom turned to face her brother inviting him into her excitement. Kim returned her look but it was clear he was not influenced. Instead Kim echoed his dread.
 
-“You two are new” said someone behind them. The two stopped and turned abruptly: a relaxed, fair haired boy. A bit older than them. He was holding a cow by a nose ring tether. “Where you from?“ the boy glanced between Tom and Kim, but ended on Tom.
+“You two are new” said someone behind them. The two stopped and turned abruptly: a relaxed, fair haired boy. A bit older than them. He was holding a cow by a nose ring tether. “Where you from?” the boy glanced between Tom and Kim, but ended on Tom.
 
 Kim barely said anything, a slight disapproval for a greeting.
 
@@ -52,10 +52,10 @@ Jack did not seem to notice the last part which was her favourite; he was absorb
 
 “No, wait!” barked Jack, his interest in the pip confirmed.
 
-Kim stopped but kept his grip on Tom, her jumper stretching as she turns to jack: “I’ve got three.”
+Kim stopped but kept his grip on Tom, her jumper stretching as she turned to ack: “I’ve got three.”
 
 “Ah!” said Jack as if this changed everything. “Three! why didn’t you say so?” 
 
 Kim was not convinced: he moved again to leave pulling Tom with him.
 
-“Alright, alright. The cow for the pips,” Jack negotiated, “but all three of them.”
+“Alright, alright. The cow for the pips,” Jack negotiated, “but only if I get all three of them.”
