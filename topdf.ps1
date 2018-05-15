@@ -21,7 +21,7 @@ Function Replace-FancyQuotes {
 # Outputs test result messages and all the jazz
 #
 Function Spellcheck-Chapter($chapterName, $spellingFailFilename) {
-	Write-Output ".oO($chapterName Spelling starts:)"
+	Write-Output ".oO{$chapterName Spelling starts:}"
 	
 	$chapter = Get-Content -Path "Prose - $chapterName*.md" -Encoding UTF8
 	$chapterSpelling = $chapterOne | Replace-FancyQuotes | python spellchecker.py | ConvertFrom-Json | %{ $_.Results } 
@@ -37,7 +37,7 @@ Function Spellcheck-Chapter($chapterName, $spellingFailFilename) {
 		Write-Output "No spelling errors"
 	}
 	
-	Write-Output ".oO($chapterName Spelling ends!)"
+	Write-Output ".oO{$chapterName Spelling ends!}"
 }
 
 
@@ -45,9 +45,9 @@ Function Spellcheck-Chapter($chapterName, $spellingFailFilename) {
 # run tests
 
 Write-Output "Spelling Starts   ╦̵̵̿╤─ ҉ ~ •" 
-Write-Output ".oO(Spelling Exceptions start:)"
+Write-Output ".oO{Spelling Exceptions start:}"
 Get-Content -Path "spellchecker.exceptions.txt" | Write-Output
-Write-Output ".oO(Spelling Exceptions end!)"
+Write-Output ".oO{Spelling Exceptions end!}"
 Spellcheck-Chapter("Chapter One", "Chapter-One-Spelling.txt")
 Spellcheck-Chapter("Chapter Two", "Chapter-One-Spelling.txt")
 Write-Output "Spelling Ends   ╦̵̵̿╤─ ҉ ~ •"
@@ -55,13 +55,13 @@ Write-Output "Spelling Ends   ╦̵̵̿╤─ ҉ ~ •"
 $chapterName = "Chapter One"
 $wordsFilename = "Chapter-One-Words.txt"
 Write-Output "Thesaurunocerous Starts \̅_̅/̷̚ʾ     \̅_̅/̷̚ʾ"
-Write-Output ".oO($chapterName Thesaurunocerous starts:)"
+Write-Output ".oO{$chapterName Thesaurunocerous starts:}"
 $chapter = Get-Content -Path "Prose - $chapterName*.md" -Encoding UTF8 | Replace-FancyQuotes 
 $chapterTheasurus = $chapter | python thesaurunocerous.py | ConvertFrom-Json | %{ $_.Results }
 $chapterOneTheasurus | fl
 $chapterOneTheasurus | fl | Out-File -FilePath $wordsFilename -Append
 $chapterOneTheasurus | %{ Add-AppveyorMessage -Message "$($_.Word) x $($_.Occurs) - $chapterName" -Details "$($_.Hint)" -Category "$($_.Status)" }
-Write-Output ".oO($chapterName Thesaurunocerous end!)"
+Write-Output ".oO{$chapterName Thesaurunocerous end!}"
 Write-Output "Thesaurunocerous Ends \̅_̅/̷̚ʾ     \̅_̅/̷̚ʾ"
 
 pandoc --version
