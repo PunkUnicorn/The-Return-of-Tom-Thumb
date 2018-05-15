@@ -32,7 +32,7 @@ $chapterOne = Get-Content -Path "Prose - $chapterName*.md" -Encoding UTF8
 #	[regex]::Replace($_, $fancySingleQuotes, "'")
 #	[regex]::Replace($_, $fancyDoubleQuotes, '"') `
 #} | python spellchecker.py | ConvertFrom-Json | %{ $_.Results } 
-$chapterOneSpelling = $chapterOne | Replace-FancyQuotes
+$chapterOneSpelling = $chapterOne | Replace-FancyQuotes | python spellchecker.py | ConvertFrom-Json | %{ $_.Results } 
 $chapterOneSpelling | fl; $chapterOneSpelling | fl | Out-File -FilePath $spellingFailFilename -Append
 $chapterOneSpelling | %{ Add-AppveyorMessage -Message "$($_.Word) - $chapterName" -Details "$($_.Hint)" -Category "Error" }
 $chapterOneSpelling | %{ Add-AppveyorTest -Name "$($_.Word) - Spelling" -Framework NUnit -Filename "$($_.Hint)" -ErrorMessage "$($_.Word)? $($_.Hint)" -Outcome "$($_.Status)" }
