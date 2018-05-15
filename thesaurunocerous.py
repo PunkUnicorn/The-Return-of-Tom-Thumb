@@ -32,6 +32,7 @@ sys.stdout.write(" { \"Results\":[")
 counts = collections.Counter()
 ignoredCounts = collections.Counter()    
 for line in sys.stdin:
+    # Get and count the words
     words = makeWords(line)   
     ignoredWords = [w for w in words if len(w) <= IGNORE_WORDS_THIS_SHORT_OR_LESS]
     ignoredCounts.update(ignoredWords)
@@ -53,6 +54,7 @@ def percentageOf(whatsMyPercent, total):
     percentage = round((float(whatsMyPercent) / float(total)) * float(100), 3)
     return str(percentage) + "%"
 
+# Find word totals, including sub-totals for included and excluded words. Also a list of discounted words
 ignoredWordCount = sum(ignoredCounts.values())
 significantWordCount = sum(counts.values())
 totalWordCount = significantWordCount + ignoredWordCount
@@ -77,6 +79,7 @@ def getTheasaurusHint(word):
             synonyms.append(l.name())
     return ", ".join( set(synonyms) )
     
+# Call out the main offenders and suggest alternatives
 for word, count in counts.most_common():
     if (count > IGNORE_WORDS_THAT_OCCUR_THIS_OR_LESS):
         hint = percentageOf(count, totalWordCount)

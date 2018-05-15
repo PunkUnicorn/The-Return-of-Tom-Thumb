@@ -1,4 +1,4 @@
-﻿While she was at the apple Tom scooped a handful of apple flesh then walked towards the house. She paused to finish eating, gobbling messy mouthfuls. The door latch caught Toms attention: a mangled, rusted wreck that had once been a latch. But Tom had never seen it any other way. The latch on the giants door was the first functioning one she had seen. 
+While she was at the apple Tom scooped a handful of apple flesh then walked towards the house. She paused to finish eating, gobbling messy mouthfuls. The door latch caught Toms attention: a mangled, rusted wreck that had once been a latch. But Tom had never seen it any other way. The latch on the giants door was the first functioning one she had seen. 
 
 Eating her hands clean she wondered if her mangled latch could be bent back into shape. Then shadows of anxiety arrived remembering how others would react. 
 
@@ -28,15 +28,15 @@ Tom wanted to tell Kim of her plan to head to the village and sell the pips. At 
 
 “What you doin’?” Kim accused. 
 
-Tom braced her upper body and relaxed her legs shifting weight between feet, ready to flinch. "I’m going to the village.” Tom replied.
+Tom braced her upper body and relaxed her legs shifting weight between feet, ready to flinch. “I’m going to the village.” Tom replied.
 
 Nothing happened. Nothing happened for too long. Very quickly several more possible outcomes sprung to Toms mind; she was ready to dodge. But no, nothing. Tom chanced a gauging side glance towards Kim.
 
 Kim walked a few steps, leaned down and picked up a choice stick. A sturdy branch used the previous day in high spirits by her brothers, it was almost as tall as Tom. Kim held it as a staff vertically, it's base on the floor. 
 
-Leaning his weight on it the staff held. Kim turned towards the south trail and looked back at Tom. "You're a stupid sod."
+Leaning his weight on it the staff held. Kim turned towards the south trail and looked back at Tom. “You're a stupid sod.”
 
-Kim started walking towards the south trail. He walked a few steps, turned his head slightly: "Are you coming then?"
+Kim started walking towards the south trail. He walked a few steps, turned his head slightly: “Are you coming then?”
 
 The south trail was easy in comfortable boots. Kim had father's hand-me-downs which were only second generation. They looked more or less like normal old boots. Tom's pair looked new but obviously too small for anyone other than her and her tiny frame. Early on she had relied on this to stave off others desires.
 

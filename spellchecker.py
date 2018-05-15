@@ -1,16 +1,18 @@
+# above is a magic comment, see https://www.python.org/dev/peps/pep-0263/
 #Thank you Steve Barnes, Command Line Spelling Checker
 #https://softwarerecs.stackexchange.com/questions/26923/command-line-#spell-check-for-windows
 
 from __future__ import print_function
 import sys
-import enchant
+import enchant 
 import json
 
 ignorewords = []
 with open("spellchecker.exceptions.txt") as fp:  
-   for cnt, line in enumerate(fp):
-       #print("Spellchecker ignoring: {}".format(line))
-       ignorewords.append(line)
+    for cnt, line in enumerate(fp):
+        if (line[:1] == '#'):
+            continue;
+        ignorewords.append(line)
         
 sys.stdout.write("{ \"Results\":[")
 first=True
@@ -24,7 +26,6 @@ for line in sys.stdin:
     words = words.replace(',', '')
     words = words.replace('?', '')
     words = words.replace('.', '')
-    # words = words.replace('\'', '') leave these in
     words = words.replace('\\', '')
     words = words.replace('/', '')
     words = words.replace('!', '')
