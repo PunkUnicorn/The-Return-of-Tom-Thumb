@@ -9,11 +9,13 @@ Tom wondered “How did the lady giant know?”. A pang of regret that it was he
 
 The giant’s words echoed in her thoughts and again Tom felt surprise and shock. The kind words spoken by the giant had said themselves over and over bringing a churn to her gut. For as many times as she came to terms with this, it would return to unsettle her.
 
-Tom knew she had known this, despite her father’s intimidating insistence he only had boys. “Hide away.” and she would try to think where but there was no denial left.
+Tom knew she had known, despite her father’s intimidating insistence he only had boys. “Hide away.” and she would try to think where but there was no denial left.
 
-Chewing a grass stalk, with her arms behind her head, she realised she was not actually looking at the sky. But now she did as her thoughtscape vanished and she saw the clouds in front of her. It would be getting dark soon.
+Chewing a grass stalk with her arms behind her head, she realised she was not actually looking at the sky. But now she did as her thoughtscape vanished and she saw the clouds in front of her. It would be getting dark soon.
 
-She pulled her head up with her arms and looked past their home to the remaining apple core. It sat looking a little sorry for itself. It was more than thin now, and slushy. She and her brothers had dragged this giant apple from the strange house. “And what a great idea that was.” Tom congratulated herself; it was a feast for everyone. “That was me.” she continued, surprised. And at that moment she felt immensely proud.
+She pulled her head up with her arms and looked past their home to the remaining apple core. It sat looking a little sorry for itself. It was more than thin now, and slushy. 
+
+She and her brothers had dragged this giant apple from the strange house. “And what a great idea that was.” Tom congratulated herself; it was a feast for everyone. “That was me.” she continued, surprised. At that moment she felt immensely proud.
 
 The apple would last them two more days Tom thought carefully, weighing it up in her mind. Full bellies all round. A heavenly comfort with a nagging feeling. What was that nagging feeling? An awareness catching up with her. 
 

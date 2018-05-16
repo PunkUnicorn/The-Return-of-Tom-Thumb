@@ -36,13 +36,13 @@ The boy saw her offering but after no time he was astonished, which was accompan
 
 “A giant apple.” she answered. “Nice to meet you Jack.”
 
-Jack did not seem to notice the last part which was her favourite; he was absorbed.
+Jack did not seem to notice her greeting which was her favourite part.
 
-“What you planning to do with that then?” Jack asked.
+“What you planning on do with it?” Jack asked.
 
-“I want to sell it.” Tom answered not showing any annoyance at being ignored or having to repeat herself.
+Tom was sure she had answered this already. “I want to sell it.” 
 
-“Oh.” said Jack. “What for?” then clarifying, “How much you asking for it?”
+“Oh.” said Jack. “What for?” quickly clarifying, “How much you asking for it?”
 
 “A cow.” Kim demanded.
 

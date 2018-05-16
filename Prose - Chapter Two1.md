@@ -8,7 +8,7 @@ Tom scanned the village hoping to see something that would cascade her excitemen
 
 Tom was not ready for this. With a reflex from desperation she found an excuse: “The trail will be dark. Shouldn't we wait till first light tomorrow?”
 
-Kim looked to the cow, who was even less keen to hurry than Tom. He sighed and did not instantly disagree. Tom could see from Kim's face he was drawing hope from somewhere: “Why don't you make your boots 'go fast'?” he countered.
+Kim looked to the cow, who was even less keen to hurry than Tom. He sighed and did not instantly disagree. Tom could see from Kim's face he had not given up: “Why don't you make your boots 'go fast'?” he countered.
 
 At this exact time another traveler was walking past. Tom saw him, a well dressed handsome young man
 

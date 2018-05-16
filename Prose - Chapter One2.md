@@ -10,7 +10,7 @@ Tom could see there was no good seat available. Around the table sprawled a rowd
 
 Often there were brawls over the precious little there was. Seats, or more specifically seats and seat positions, were a common cause of stand-offs. Tom wasn’t bothered. Once or twice she might have had to fight for the right to be left alone. That was worth fighting for but little else was. 
 
-And yet, bellies full, even mitigated tensions were rising round the table; competing voices. She did not look though, not a time to risk eye contact. She froze for a moment to listen and judge the tone of aggression in the voices. Quickly an intuitive gut chord reassured her the situation was unlikely to escalate. She could relax. 
+And yet, bellies full, even mitigated tensions were rising round the table; competing voices. She did not look though, not a time to risk eye contact. She froze for a moment to listen and judge the tone of aggression in the voices. Quickly an intuitive gut chord reassured her the situation was safe.
 
 Wiggling her toes, squashing them against the leather of the boots, the comfort winning the battle for her senses. Beautifully fitting boots drowned out the sound. Comfort was her entertainment for the evening.
 
@@ -36,9 +36,9 @@ Kim walked a few steps then stopped to pick up a choice stick. A sturdy branch u
 
 Leaning his weight the staff held. He started walking towards the south trail. “You’re a stupid sod.” he muttered. After a few more steps he inclined his head towards Tom: “Are you coming then?”
 
-The south trail was easy in comfortable boots. Kim had father’s hand-me-downs which were only second generation. They looked more or less like normal old boots. Tom’s pair looked new but obviously too small for anyone other than her and her tiny frame. Early on she had relied on this to stave off others desires.
+The south trail was easy in comfortable boots. Kim had father’s hand-me-downs which were only second generation. They looked more or less like normal old boots. Tom’s pair looked new but obviously too small for anyone other than her and her tiny frame. Early on she had relied on this to stave off others desires on the boots.
 
-She strongly suspected the boots would fit whoever held them the same way they had fitted for her. Tom had pulled the boots off the giant very easily, accidentally even, and they slid off the giants feet into her hands as a pair of boots exactly the right size for her. 
+She strongly suspected they would fit whoever held them the same way they had fitted for her. Tom had pulled the boots off the giant very easily, accidentally even, and they slid off the giants feet into her hands as a pair of boots exactly the right size for her. 
 
 The long walk (mostly in silence) gave Tom ample time to muse. Dreaming up scenarios starring jealous people at the village, an intuitive cry reminded her: be discrete.
 
