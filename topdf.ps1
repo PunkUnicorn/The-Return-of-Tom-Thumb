@@ -25,43 +25,89 @@ Function Spellcheck-Chapter($chapterName, $spellingFailFilename) {
 	
 	$chapter = Get-Content -Path "Prose - $chapterName*.md" -Encoding UTF8 | Replace-FancyQuotes
 	$chapterSpelling = $chapterOne | python spellchecker.py | ConvertFrom-Json | %{ $_.Results } 
-	$chapterSpelling | fl; $chapterOneSpelling | fl | Out-File -FilePath $spellingFailFilename -Append
-	$chapterSpelling | %{ Add-AppveyorMessage -Message "$($_.Word) - $chapterName" -Details "$($_.Hint)" -Category "Error" }
-	$chapterSpelling | %{ Add-AppveyorTest -Name "$($_.Word) - Spelling" -Framework NUnit -Filename "$($_.Hint)" -ErrorMessage "$($_.Word)? $($_.Hint)" -Outcome "$($_.Status)" }
+	$chapterSpelling | fl; 
+	$chapterOneSpelling | fl | Out-File -FilePath $spellingFailFilename -Append
+	$chapterSpelling | `
+		%{ Add-AppveyorMessage `
+			-Message "$($_.Word) - $chapterName" `
+			-Details "$($_.Hint)" `
+			-Category "Error" 
+		}
+		
+	$chapterSpelling | `
+		%{ Add-AppveyorTest `
+			-Name "$($_.Word) - Spelling" `
+			-Framework NUnit `
+			-Filename "$($_.Hint)" `
+			-ErrorMessage "$($_.Word)? $($_.Hint)" `
+			-Outcome "$($_.Status)" 
+		}
 
 	$spellingResults = $null;
 	$spellingResults = Get-Content -Path $spellingFailFilename 
-	If ($spellingResults -eq $null)
-	{
-		Add-AppveyorTest -Name "Spelling" -Framework NUnit -Filename $chapterName -ErrorMessage "All passed" -Outcome "Passed"
+	If ($spellingResults -eq $null) {
+		Add-AppveyorTest `
+			-Name "Spelling" `
+			-Framework NUnit `
+			-Filename $chapterName `
+			-ErrorMessage "All passed" `
+			-Outcome "Passed"
+			
 		Write-Output "No spelling errors"
+		
 	}
 	
 	Write-Output "$chapterName Spelling ends!"
+	
+	# return
+	$isNoSpellingErrors = $spellingResults -eq $null
+	$isNoSpellingErrors
+}
+
+#
+# Thesaurunocerous chapter files by filename convension
+# Outputs word stat results messages etc
+#
+Function Thesaurunocerous-Chapter($chapterName) {
+	Write-Output "Thesaurunocerous Starts"
+	Write-Output "$chapterName Thesaurunocerous starts:"
+	
+	$chapter = Get-Content -Path "Prose - $chapterName*.md" -Encoding UTF8 | Replace-FancyQuotes 
+	$chapterTheasurus = $chapter | python thesaurunocerous.py | ConvertFrom-Json | %{ $_.Results }
+	$chapterTheasurus | fl
+	$chapterTheasurus | fl | Out-File -FilePath $wordsFilename -Append
+	$chapterTheasurus | `
+		%{ Add-AppveyorMessage `
+			-Message "$($_.Word) x $($_.Occurs) - $chapterName" `
+			-Details "$($_.Hint)" `
+			-Category "$($_.Status)" 
+		}
+	
+	Write-Output "$chapterName Thesaurunocerous end!"
+	Write-Output "Thesaurunocerous Ends"
 }
 
 
+#
+# Dumps out the contents of the spellcheck.exceptions.txt file
+# I.e. all the words that aren't spellchecked
+#
+Function Thesaurunocerous-Chapter($chapterName) {
+	Write-Output "Spelling Exceptions start:"
+	Get-Content -Path "spellchecker.exceptions.txt" | Write-Output
+	Write-Output "Spelling Exceptions end!"
+}
 
 # run tests
-
 Write-Output "Spelling Starts" 
-Write-Output "Spelling Exceptions start:"
-Get-Content -Path "spellchecker.exceptions.txt" | Write-Output
-Write-Output "Spelling Exceptions end!"
-Spellcheck-Chapter "Chapter One" "Chapter-One-Spelling.txt"
-Spellcheck-Chapter "Chapter Two" "Chapter-Two-Spelling.txt"
-Write-Output "Spelling Ends"
+Spellcheck-DumpExceptions
+$isSpellingOkChapterOne = Spellcheck-Chapter "Chapter One" "Chapter-One-Spelling.txt" 
+$isSpellingOkChapterTwo = Spellcheck-Chapter "Chapter Two" "Chapter-Two-Spelling.txt"
+Write-Output "Spelling Ends, $isSpellingOkChapterOne, $isSpellingOkChapterTwo"
 
-$chapterName = "Chapter One"
-$wordsFilename = "Chapter-One-Words.txt"
+# word analasys
 Write-Output "Thesaurunocerous Starts"
-Write-Output "$chapterName Thesaurunocerous starts:"
-$chapter = Get-Content -Path "Prose - $chapterName*.md" -Encoding UTF8 | Replace-FancyQuotes 
-$chapterTheasurus = $chapter | python thesaurunocerous.py | ConvertFrom-Json | %{ $_.Results }
-$chapterTheasurus | fl
-$chapterTheasurus | fl | Out-File -FilePath $wordsFilename -Append
-$chapterTheasurus | %{ Add-AppveyorMessage -Message "$($_.Word) x $($_.Occurs) - $chapterName" -Details "$($_.Hint)" -Category "$($_.Status)" }
-Write-Output "$chapterName Thesaurunocerous end!"
+Thesaurunocerous-Chapter "Chapter One" "Chapter-One-Words.txt"
 Write-Output "Thesaurunocerous Ends"
 
 pandoc --version
