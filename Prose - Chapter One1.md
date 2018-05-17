@@ -13,9 +13,9 @@ Tom knew she had known, despite her father’s intimidating insistence he only h
 
 Chewing a grass stalk with her arms behind her head, she realised she was not actually looking at the sky. But now she did as her thoughtscape vanished and she saw the clouds in front of her. It would be getting dark soon.
 
-She pulled her head up with her arms and looked past their home to the remaining apple core. It sat looking a little sorry for itself. It was more than thin now, and slushy. 
+She pulled her head up and looked past their home to the remaining apple core. It sat looking a little sorry for itself. It was more than thin now, and slushy. 
 
-She and her brothers had dragged this giant apple from the strange house. “And what a great idea that was.” Tom congratulated herself; it was a feast for everyone. “That was me.” she continued, surprised. At that moment she felt immensely proud.
+She and her brothers had dragged this giant apple from the strange house. “And what a great idea that was.” Tom congratulated herself; it was a feast for everyone. “That was me.” she continued surprised. At that moment she felt immensely proud.
 
 The apple would last them two more days Tom thought carefully, weighing it up in her mind. Full bellies all round. A heavenly comfort with a nagging feeling. What was that nagging feeling? An awareness catching up with her. 
 
@@ -27,7 +27,7 @@ Tom’s mind drifted.
 
 Spring would break and the family could get back to a merry life of hunting rodents for meals, served with nettles. A banquet. But just a daydream. A lovely image while she laid on her back. 
 
-With a sigh she pulled herself up to sit, her mind returning to the present as her muscles exerted.
+With a sigh she pulled herself up to sit, her mind returning to the present as her muscles stretched.
 
 Wiggling her toes she felt the exquisite comfort in the soft leather of the boots; she could do that all day. She had been doing that all day. Now the worry of what would happen when the apple core ran out...
 
