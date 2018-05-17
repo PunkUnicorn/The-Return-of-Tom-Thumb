@@ -1,6 +1,6 @@
 write-host "**topdf.ps1**"
 
-Get-Content Get-Content -Path "./RedRidingHood/ASCII_RED.txt"
+Get-Content -Path "./RedRidingHood/ASCII_RED.txt" -Encoding UTF8 
 
 #
 # Fancy quote solution: 
@@ -76,7 +76,7 @@ Function Spellchecker-DumpExceptions() {
 # Thesaurunocerous chapter files by filename convention
 # Outputs word stat results messages etc
 #
-Function Thesaurunocerous-Chapter($chapterName, $wordFilename) {
+Function Thesaurunocerous-Chapter($chapterName, $wordsFilename) {
 	Write-Output "Thesaurunocerous Starts"
 	Write-Output "$chapterName Thesaurunocerous starts:"
 	
