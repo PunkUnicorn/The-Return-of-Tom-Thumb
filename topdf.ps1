@@ -66,7 +66,7 @@ Function Spellcheck-Chapter($chapterName, $spellingFailFilename) {
 # Dumps out the contents of the spellcheck.exceptions.txt file
 # I.e. all the words that aren't spellchecked
 #
-Function Spellchecker-DumpExceptions() {
+Function Spellcheck-DumpExceptions() {
 	Write-Output "Spelling Exceptions start:"
 	Get-Content -Path "spellchecker.exceptions.txt" | Write-Output
 	Write-Output "Spelling Exceptions end!"
