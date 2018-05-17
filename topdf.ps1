@@ -1,5 +1,7 @@
 write-host "**topdf.ps1**"
 
+Get-Content Get-Content -Path "./RedRidingHood/ASCII_RED.txt"
+
 #
 # Fancy quote solution: 
 # https://stackoverflow.com/questions/6968270/replacing-smart-quotes-in-powershell
@@ -17,7 +19,7 @@ Function Replace-FancyQuotes {
 }
 
 #
-# Spellchecks chapter files by filename convension
+# Spellchecks chapter files by filename convention
 # Outputs test result messages and all the jazz
 #
 Function Spellcheck-Chapter($chapterName, $spellingFailFilename) {
@@ -64,17 +66,17 @@ Function Spellcheck-Chapter($chapterName, $spellingFailFilename) {
 # Dumps out the contents of the spellcheck.exceptions.txt file
 # I.e. all the words that aren't spellchecked
 #
-Function Spellchecker-DumpExceptions($chapterName) {
+Function Spellchecker-DumpExceptions() {
 	Write-Output "Spelling Exceptions start:"
 	Get-Content -Path "spellchecker.exceptions.txt" | Write-Output
 	Write-Output "Spelling Exceptions end!"
 }
 
 #
-# Thesaurunocerous chapter files by filename convension
+# Thesaurunocerous chapter files by filename convention
 # Outputs word stat results messages etc
 #
-Function Thesaurunocerous-Chapter($chapterName) {
+Function Thesaurunocerous-Chapter($chapterName, $wordFilename) {
 	Write-Output "Thesaurunocerous Starts"
 	Write-Output "$chapterName Thesaurunocerous starts:"
 	
@@ -100,7 +102,7 @@ Spellcheck-Chapter "Chapter One" "Chapter-One-Spelling.txt"
 Spellcheck-Chapter "Chapter Two" "Chapter-Two-Spelling.txt"
 Write-Output "Spelling Ends"
 
-# word analasys
+# word counts and Thesaurus
 Write-Output "Thesaurunocerous Starts"
 Thesaurunocerous-Chapter "Chapter One" "Chapter-One-Words.txt"
 Write-Output "Thesaurunocerous Ends"
