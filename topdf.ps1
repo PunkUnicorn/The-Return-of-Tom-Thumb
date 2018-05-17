@@ -58,10 +58,16 @@ Function Spellcheck-Chapter($chapterName, $spellingFailFilename) {
 	}
 	
 	Write-Output "$chapterName Spelling ends!"
-	
-	# return
-	$isNoSpellingErrors = $spellingResults -eq $null
-	$isNoSpellingErrors
+}
+
+#
+# Dumps out the contents of the spellcheck.exceptions.txt file
+# I.e. all the words that aren't spellchecked
+#
+Function Spellchecker-DumpExceptions($chapterName) {
+	Write-Output "Spelling Exceptions start:"
+	Get-Content -Path "spellchecker.exceptions.txt" | Write-Output
+	Write-Output "Spelling Exceptions end!"
 }
 
 #
@@ -87,23 +93,12 @@ Function Thesaurunocerous-Chapter($chapterName) {
 	Write-Output "Thesaurunocerous Ends"
 }
 
-
-#
-# Dumps out the contents of the spellcheck.exceptions.txt file
-# I.e. all the words that aren't spellchecked
-#
-Function Thesaurunocerous-Chapter($chapterName) {
-	Write-Output "Spelling Exceptions start:"
-	Get-Content -Path "spellchecker.exceptions.txt" | Write-Output
-	Write-Output "Spelling Exceptions end!"
-}
-
 # run tests
 Write-Output "Spelling Starts" 
 Spellcheck-DumpExceptions
-$isSpellingOkChapterOne = Spellcheck-Chapter "Chapter One" "Chapter-One-Spelling.txt" 
-$isSpellingOkChapterTwo = Spellcheck-Chapter "Chapter Two" "Chapter-Two-Spelling.txt"
-Write-Output "Spelling Ends, $isSpellingOkChapterOne, $isSpellingOkChapterTwo"
+Spellcheck-Chapter "Chapter One" "Chapter-One-Spelling.txt" 
+Spellcheck-Chapter "Chapter Two" "Chapter-Two-Spelling.txt"
+Write-Output "Spelling Ends"
 
 # word analasys
 Write-Output "Thesaurunocerous Starts"
