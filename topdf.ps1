@@ -77,7 +77,6 @@ Function Spellcheck-DumpExceptions() {
 # Outputs word stat results messages etc
 #
 Function Thesaurunocerous-Chapter($chapterName, $wordsFilename) {
-	Write-Output "Thesaurunocerous Starts"
 	Write-Output "$chapterName Thesaurunocerous starts:"
 	
 	$chapter = Get-Content -Path "Prose - $chapterName*.md" -Encoding UTF8 | Replace-FancyQuotes 
@@ -92,7 +91,6 @@ Function Thesaurunocerous-Chapter($chapterName, $wordsFilename) {
 		}
 	
 	Write-Output "$chapterName Thesaurunocerous end!"
-	Write-Output "Thesaurunocerous Ends"
 }
 
 # run tests
