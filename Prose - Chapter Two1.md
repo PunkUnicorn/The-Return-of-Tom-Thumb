@@ -1,6 +1,6 @@
 # Chapter Two
 
-Kim held the tether of the cow and Tom waved Jack farewell. Jack was keen to depart after the transaction. He left quickly siting mis-matched excuses. Tom wished Jack had been more social instead of hurrying off. Despite now owning a cow she felt dissatisfied; was that it?
+Kim held the tether of the cow and Tom waved Jack farewell. Jack was keen to depart after the transaction. He left quickly siting mis-matched excuses. Tom wished Jack had been more social instead of hurrying off. Despite now owning a cow she felt dissatisfied.
 
 Tom scanned the village hoping to see something that would cascade her excitement. The sun was lower in the sky and the crowds had thinned, the day retiring. With the purpose for her journey spent, there was nothing left to justify staying. 
 
@@ -8,7 +8,7 @@ Tom scanned the village hoping to see something that would cascade her excitemen
 
 Tom was not ready for this. With a reflex from desperation she found an excuse: “The trail will be dark. Shouldn't we wait till first light tomorrow?”
 
-Kim looked to the cow, who was even less keen to hurry than Tom. He sighed and did not instantly disagree. Tom could see from Kim's face he had not given up: “Why don't you make your boots 'go fast'?” he countered.
+Kim looked to the cow, who was even less keen to hurry than Tom. He sighed and did not instantly disagree. Tom could see in Kim's face he had not given up: “Why don't you make your boots 'go fast'?” he countered.
 
 At this exact moment another traveler was walking past. Tom saw him: a well dressed young man. Something her and her brother were saying had caught his attention and he flashed an awkward glance towards Tom as Kim said that but averted a connection.
 
