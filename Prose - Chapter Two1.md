@@ -20,7 +20,7 @@ Using the remaining light to see ahead, the long road north looked cold and spar
 
 This was because he was alert, wise and clever. 
 
-He slowed his steps to decelerated his distance northwards. He could hear the two with the cow arguing: the girl didn't want to get lost in the forst, the boy wanted to get home; The girl said the boots didn't work like that: the boy seeming to be swayed her way. They stopped talking. He turned around. The two were still there but he was behind them. The cow faced him.
+He slowed his steps to decelerated his distance northwards. He could hear the two with the cow arguing: the girl didn't want to get lost in the forest, the boy wanted to get home; The girl said the boots didn't work like that: the boy seeming to be swayed her way. They stopped talking. He turned around. The two were still there but he was behind them. The cow faced him.
 
 He took a few steps towards them introducing himself with a polite cough, some distance between them; giving them adequate space. They turned around. 
 
