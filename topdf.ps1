@@ -27,10 +27,10 @@ Function Spellcheck-Chapter($chapterName, $spellingFailFilename) {
 	
 	$chapter = Get-Content -Path "Prose - $chapterName*.md" -Encoding UTF8
 	$chapterSpelling = $chapter | Replace-FancyQuotes | python spellchecker.py | ConvertFrom-Json
-	$chapterSpelling | fl; 
+	$chapterSpelling | %{ $_.Results } | fl; 
 	
 	
-	$chapterSpelling | fl | Out-File -FilePath $spellingFailFilename -Append
+	$chapterSpelling | %{ $_.Results } | fl | Out-File -FilePath $spellingFailFilename -Append
 	$chapterSpelling  | %{ $_.Results } | `
 		%{ Add-AppveyorTest `
 			-Name "$($_.Word) - Spelling" `
@@ -107,8 +107,8 @@ Write-Output "Thesaurunocerous Starts"
 Thesaurunocerous-Chapter "Chapter One" "Chapter-One-Words.txt"
 Write-Output "Thesaurunocerous Ends"
 
-# Combine the prose files to one file, pandoc seems to get upset with chapter two in a second file`
-# And it really wants a blank line at the end!!! 
+# Combine the prose files to one file. pandoc seems to get upset with chapter two at the top of a second file
+# And it really really likes a blank line at the end!!! It can be funny on mu ipad reader without the trailing blank new line (gives a weird can't find resource message)
 Write-Output "Combining files ..."
 Write-output `n | Out-File "Prose - Blank line.md" -Append
 cat "Prose - Chapter One1.md", 
