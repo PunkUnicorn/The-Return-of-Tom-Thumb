@@ -130,4 +130,4 @@ $wordsBreakdown = $chapter | python wordcounter.py | ConvertFrom-Csv
 $wordsBreakdown | Select Word, Count
 $testyMcTestface = $wordsBreakdown | ? { $_.Count -gt 2 } | ?{ $_.Word.Length -gt 2 } | Group-Object -Property Count
 $testyMcTestface | Write-Output
-$testyMcTestface | Select Word | ConvertTo-String | python theasaurus.py | ConvertFrom-Csv | Select-Output
+$testyMcTestface | Select Word | python theasaurus.py | ConvertFrom-Csv | Select 
