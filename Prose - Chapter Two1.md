@@ -26,5 +26,3 @@ He slowed his steps to decelerated his distance northwards. He could hear the tw
 He took a few steps towards them introducing himself with a polite cough, some distance between them; giving them adequate space. They turned around. 
 
 The man bowed slightly, moderately spread his hands apart as a gesture of openness. “Hello” he smiled, more shyly than his stance and confident posture would expect.
-
-
