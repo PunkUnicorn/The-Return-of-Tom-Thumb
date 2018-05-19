@@ -119,10 +119,15 @@ cat "Prose - Chapter One1.md",
 Write-Output "...Prose - Final.md created"
 
 # Muck about
-Get-Content -Path "Prose - Chapter*.md" -Encoding UTF8 | Replace-FancyQuotes 
-Get-Content -Path "Prose - Chapter*.md" -Encoding UTF8 | Replace-FancyQuotes | python wordcounter.py | ConvertFrom-Csv 
-Get-Content -Path "Prose - Chapter*.md" -Encoding UTF8 | Replace-FancyQuotes | python wordcounter.py | ConvertFrom-Csv | Select Word, Count
-Get-Content -Path "Prose - Chapter*.md" -Encoding UTF8 | Replace-FancyQuotes | python wordcounter.py | ConvertFrom-Csv | Select Word | python theasaurus.py | ConvertFrom-Csv 
+#Get-Content -Path "Prose - Chapter*.md" -Encoding UTF8 | Replace-FancyQuotes 
+#Get-Content -Path "Prose - Chapter*.md" -Encoding UTF8 | Replace-FancyQuotes | python wordcounter.py | ConvertFrom-Csv 
+#Get-Content -Path "Prose - Chapter*.md" -Encoding UTF8 | Replace-FancyQuotes | python wordcounter.py | ConvertFrom-Csv | `
+#	Select Word, Count
+Get-Content -Path "Prose - Chapter*.md" -Encoding UTF8 | Replace-FancyQuotes | python wordcounter.py | ConvertFrom-Csv | `
+	? { $_.Count -gt 2} ` 
+	Select Word | ` 
+	python theasaurus.py | `
+	ConvertFrom-Csv | `
 
 pandoc --version
 pandoc --css epubstyle.css `
