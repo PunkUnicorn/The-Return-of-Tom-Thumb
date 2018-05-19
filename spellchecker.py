@@ -6,18 +6,7 @@ import sys
 import enchant 
 import json
 
-ignoreWords = []
-with open("spellchecker.exceptions.txt") as fp:  
-    for cnt, line in enumerate(fp):
-        if (line[:1] == '#'):
-            continue;
-        ignoreWords.append(line)
-
-sys.stdin.flush();
-sys.stdout.write("{ \"Results\":[")
-first=True
-d = enchant.Dict("en_UK") # or en_US, de_DE, fr_FR, en_AU on my system
-for line in sys.stdin:
+def makeWords(line):
     words = line.replace('\"', '')
     words = words.replace('*', '')
     words = words.replace('#', '')
@@ -26,12 +15,29 @@ for line in sys.stdin:
     words = words.replace(',', '')
     words = words.replace('?', '')
     words = words.replace('.', '')
+    # words = words.replace('\'', '')
     words = words.replace('\\', '')
     words = words.replace('/', '')
     words = words.replace('!', '')
     words = words.replace(')', '')
     words = words.replace('(', '')
-    words = words.split() 
+    words = words.lower()
+    words = words.split()     
+    return words
+
+ignoreWords = []
+with open("spellchecker.exceptions.txt") as fp:  
+    for cnt, line in enumerate(fp):
+        if (line[:1] == '#'):
+            continue;
+        ignoreWords.append(makeWords(line)
+
+#sys.stdin.flush();
+sys.stdout.write("{ \"Results\":[")
+first=True
+d = enchant.Dict("en_UK") # or en_US, de_DE, fr_FR, en_AU on my system
+for line in sys.stdin:
+    words = makeWords(word)
     for word in words:
         ignoreIt = False
         for ignoreWord in ignoreWords:
