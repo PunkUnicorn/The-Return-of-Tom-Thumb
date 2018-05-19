@@ -25,13 +25,13 @@ Function Replace-FancyQuotes {
 Function Spellcheck-Chapter($chapterName, $spellingFailFilename) {
 	Write-Output "$chapterName Spelling starts:"
 	
-	$chapter = Get-Content -Path "Prose - $chapterName*.md" -Encoding UTF8 | Replace-FancyQuotes 
-	$chapterSpelling = $chapterOne | python spellchecker.py | ConvertFrom-Json | %{ $_.Results } 
+	$chapter = Get-Content -Path "Prose - $chapterName*.md" -Encoding UTF8
+	$chapterSpelling = $chapterOne | Replace-FancyQuotes | python spellchecker.py | ConvertFrom-Json | %{ $_.Results } 
 	$chapterSpelling | fl; 
 	
 	
-	$chapterOne | python spellchecker.py | ConvertFrom-Json | %{ $_.Results } | fl | Out-File -FilePath $spellingFailFilename -Append
-	$chapterOne | python spellchecker.py | ConvertFrom-Json | %{ $_.Results } | `
+	$chapterSpelling | fl | Out-File -FilePath $spellingFailFilename -Append
+	$chapterSpelling | `
 		%{ Add-AppveyorTest `
 			-Name "$($_.Word) - Spelling" `
 			-Framework NUnit `
@@ -40,7 +40,7 @@ Function Spellcheck-Chapter($chapterName, $spellingFailFilename) {
 			-Outcome "$($_.Status)" 
 		}
 	
-	$chapterSpelling | fl | Out-File -FilePath $spellingFailFilename -Append
+	#$chapterSpelling | fl | Out-File -FilePath $spellingFailFilename -Append
 	$chapterSpelling | `
 		%{ Add-AppveyorMessage `
 			-Message "$($_.Word) - $chapterName" `
@@ -48,14 +48,14 @@ Function Spellcheck-Chapter($chapterName, $spellingFailFilename) {
 			-Category "Error" 
 		}
 		
-	$chapterSpelling | `
-		%{ Add-AppveyorTest `
-			-Name "$($_.Word) - Spelling" `
-			-Framework NUnit `
-			-Filename "$($_.Hint)" `
-			-ErrorMessage "$($_.Word)? $($_.Hint)" `
-			-Outcome "$($_.Status)" 
-		}
+	#$chapterSpelling | `
+	#	%{ Add-AppveyorTest `
+	#		-Name "$($_.Word) - Spelling" `
+	#		-Framework NUnit `
+	#		-Filename "$($_.Hint)" `
+	#		-ErrorMessage "$($_.Word)? $($_.Hint)" `
+	#		-Outcome "$($_.Status)" 
+	#	}
 
 	$spellingResults = $null;
 	$spellingResults = Get-Content -Path $spellingFailFilename 
@@ -110,23 +110,23 @@ Write-Output "Spelling Starts"
 Spellcheck-DumpExceptions
 Spellcheck-Chapter "Chapter One" "Chapter-One-Spelling.txt" 
 
-    $spellingFailFilename = "Chapter-One-Spelling.txt"
-	$chapterName = "Chapter One"
-	Get-Content -Path "Prose - $chapterName*.md" -Encoding UTF8 | Replace-FancyQuotes | fl
-	Get-Content -Path "Prose - $chapterName*.md" -Encoding UTF8 | Replace-FancyQuotes | python spellchecker.py | fl
-	Get-Content -Path "Prose - $chapterName*.md" -Encoding UTF8 | Replace-FancyQuotes | python spellchecker.py | ConvertFrom-Json | %{ $_.Results } 
-	Get-Content -Path "Prose - $chapterName*.md" -Encoding UTF8 | Replace-FancyQuotes | python spellchecker.py | ConvertFrom-Json | %{ $_.Results } | fl; 
+    #$spellingFailFilename = "Chapter-One-Spelling.txt"
+	#$chapterName = "Chapter One"
+	#Get-Content -Path "Prose - $chapterName*.md" -Encoding UTF8 | Replace-FancyQuotes | fl
+	#Get-Content -Path "Prose - $chapterName*.md" -Encoding UTF8 | Replace-FancyQuotes | python spellchecker.py | fl
+	#Get-Content -Path "Prose - $chapterName*.md" -Encoding UTF8 | Replace-FancyQuotes | python spellchecker.py | Con#vertFrom-Json | %{ $_.Results } 
+	#Get-Content -Path "Prose - $chapterName*.md" -Encoding UTF8 | Replace-FancyQuotes | python spellchecker.py | ConvertFrom-Json | %{ $_.Results } | fl; 
 	
 	
-	$chapterOne | python spellchecker.py | ConvertFrom-Json | %{ $_.Results } | fl | Out-File -FilePath $spellingFailFilename -Append
-	$chapterOne | python spellchecker.py | ConvertFrom-Json | %{ $_.Results } | `
-		%{ Add-AppveyorTest `
-			-Name "$($_.Word) - Spelling" `
-			-Framework NUnit `
-			-Filename "$($_.Hint)" `
-			-ErrorMessage "$($_.Word)? $($_.Hint)" `
-			-Outcome "$($_.Status)" 
-		}
+	#$chapterOne | python spellchecker.py | ConvertFrom-Json | %{ $_.Results } | fl | Out-File -FilePath $spellingFailFilename -Append
+	#$chapterOne | python spellchecker.py | ConvertFrom-Json | %{ $_.Results } | `
+	#	%{ Add-AppveyorTest `
+	#		-Name "$($_.Word) - Spelling" `
+	#		-Framework NUnit `
+	#		-Filename "$($_.Hint)" `
+	#		-ErrorMessage "$($_.Word)? $($_.Hint)" `
+	#		-Outcome "$($_.Status)" 
+	#	}
 	
 
 
