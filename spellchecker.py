@@ -12,7 +12,8 @@ with open("spellchecker.exceptions.txt") as fp:
         if (line[:1] == '#'):
             continue;
         ignorewords.append(line)
-        
+
+sys.stdin.flush();
 sys.stdout.write("{ \"Results\":[")
 first=True
 d = enchant.Dict("en_UK") # or en_US, de_DE, fr_FR, en_AU on my system
