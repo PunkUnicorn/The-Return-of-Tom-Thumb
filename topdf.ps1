@@ -128,6 +128,6 @@ pandoc --css epubstyle.css `
 $words = Get-Content -Path "Prose - Chapter*.md" -Encoding UTF8 | Replace-FancyQuotes 
 $wordsBreakdown = $chapter | python wordcounter.py | ConvertFrom-Csv 
 $wordsBreakdown | Write-Output
-$testyMcTestface = $wordsBreakdown | ? { $_.Count -gt 2 } | ?{ $_.Word.Length -g} | Group-Object -Property Count
+$testyMcTestface = $wordsBreakdown | ? { $_.Count -gt 2 } | ?{ $_.Word.Length -gt 2 } | Group-Object -Property Count
 $testyMcTestface | Write-Output
 $testyMcTestface | Select-Object Word | python theasaurus.py | ConvertFrom-Csv 
