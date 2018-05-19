@@ -118,16 +118,19 @@ cat "Prose - Chapter One1.md",
 		"Prose - Blank line.md" | sc "Prose - Final.md"
 Write-Output "...Prose - Final.md created"
 
+# Muck about
+$words = Get-Content -Path "Prose - Chapter*.md" -Encoding UTF8 | Replace-FancyQuotes 
+$wordsBreakdown = $chapter | python wordcounter.py | ConvertFrom-Csv 
+$wordsBreakdown | Select Word, Count
+#$testyMcTestface = $wordsBreakdown | ? { $_.Count -gt 2 } | ?{ $_.Word.Length -gt 2 } | Group-Object -Property Count
+$wordsBreakdown  
+$testyMcTestface = $wordsBreakdown | ? { $_.Count -gt 2 } | Group-Object -Property Count
+$testyMcTestface | fl
+$testyMcTestface | Select Word | python theasaurus.py | ConvertFrom-Csv | Select 
+
 pandoc --version
 pandoc --css epubstyle.css `
   "title.md" `
   "Prose - Final.md" `
   -o The-Return-of-Tom-Thumb.epub
 
-# Muck about
-$words = Get-Content -Path "Prose - Chapter*.md" -Encoding UTF8 | Replace-FancyQuotes 
-$wordsBreakdown = $chapter | python wordcounter.py | ConvertFrom-Csv 
-$wordsBreakdown | Select Word, Count
-$testyMcTestface = $wordsBreakdown | ? { $_.Count -gt 2 } | ?{ $_.Word.Length -gt 2 } | Group-Object -Property Count
-$testyMcTestface | Write-Output
-$testyMcTestface | Select Word | python theasaurus.py | ConvertFrom-Csv | Select 
