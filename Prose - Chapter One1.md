@@ -13,7 +13,7 @@ Tom knew she had known, despite her father’s intimidating insistence he only h
 
 Chewing a grass stalk with her arms behind her head, she realised she was not actually looking at the sky. But now she did as her thoughtscape vanished and she saw the clouds in front of her. It would be getting dark soon.
 
-She pulled her head up to look at the remaining apple core beyond the house: thie apple sat looking a little sorry for itself. It was more than thin now, and slushy. 
+She pulled her head up to look at the remaining apple core beyond the house: the apple sat looking a little sorry for itself. It was more than thin now, and slushy. 
 
 She and her brothers had dragged this giant apple from the strange house. “And what a great idea that was.” Tom congratulated herself; it was a feast for everyone. “That was me.” she continued surprised. At that moment she felt immensely proud.
 
