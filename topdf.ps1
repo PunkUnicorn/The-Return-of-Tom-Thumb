@@ -110,8 +110,8 @@ Write-Output "Spelling Starts"
 Spellcheck-DumpExceptions
 Spellcheck-Chapter "Chapter One" "Chapter-One-Spelling.txt" 
 
-
-	
+    $spellingFailFilename = "Chapter-One-Spelling.txt"
+	$chapterName = Chapter One"
 	$chapter = Get-Content -Path "Prose - $chapterName*.md" -Encoding UTF8 | Replace-FancyQuotes 
 	$chapterSpelling = $chapterOne | python spellchecker.py | ConvertFrom-Json | %{ $_.Results } 
 	$chapterSpelling | fl; 
