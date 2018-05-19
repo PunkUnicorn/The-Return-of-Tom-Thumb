@@ -6,12 +6,12 @@ import sys
 import enchant 
 import json
 
-ignorewords = []
+ignoreWords = []
 with open("spellchecker.exceptions.txt") as fp:  
     for cnt, line in enumerate(fp):
         if (line[:1] == '#'):
             continue;
-        ignorewords.append(line)
+        ignoreWords.append(line)
 
 sys.stdin.flush();
 sys.stdout.write("{ \"Results\":[")
