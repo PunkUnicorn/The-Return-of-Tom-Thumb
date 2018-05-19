@@ -1,3 +1,4 @@
+
 # Chapter Two
 
 Kim held the tether of the cow and Tom waved Jack farewell. Jack was keen to depart after the transaction. He left quickly siting mis-matched excuses. Tom wished Jack had been more social instead of hurrying off. Despite now owning a cow she felt dissatisfied.
