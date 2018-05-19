@@ -30,10 +30,11 @@ with open("spellchecker.exceptions.txt") as fp:
     for cnt, line in enumerate(fp):
         if (line[:1] == '#'):
             continue;
-        ignoreWords.append(makeWords(line))
+        for ignoreWord in makeWords(line):
+            ignoreWords.append(ignoreWord)
 
-for ig in ignoreWords:
-    print(ig)
+#for ig in ignoreWords:
+#    print(ig)
     
 #sys.stdin.flush();
 sys.stdout.write("{ \"Results\":[")
