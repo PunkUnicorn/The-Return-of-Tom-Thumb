@@ -28,4 +28,3 @@ He took a few steps towards them introducing himself with a polite cough, some d
 The man bowed slightly, moderately spread his hands apart as a gesture of openness. “Hello” he smiled, more shyly than his stance and confident posture would expect.
 
 
-
