@@ -18,7 +18,7 @@ Function Replace-FancyQuotes {
 	}
 }
 
-#
+#`
 # Spellchecks chapter files by filename convention
 # Outputs test result messages and all the jazz
 #
@@ -62,7 +62,7 @@ Function Spellcheck-Chapter($chapterName, $spellingFailFilename) {
 	Write-Output "$chapterName Spelling ends!"
 }
 
-#
+#`
 # Dumps out the contents of the spellcheck.exceptions.txt file
 # I.e. all the words that aren't spellchecked
 #

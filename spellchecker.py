@@ -17,6 +17,7 @@ sys.stdout.write("{ \"Results\":[")
 first=True
 d = enchant.Dict("en_UK") # or en_US, de_DE, fr_FR, en_AU on my system
 for line in sys.stdin:
+    print(line)
     words = line.replace('\"', '')
     words = words.replace('*', '')
     words = words.replace('#', '')
