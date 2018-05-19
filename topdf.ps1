@@ -26,7 +26,7 @@ Function Spellcheck-Chapter($chapterName, $spellingFailFilename) {
 	Write-Output "$chapterName Spelling starts:"
 	
 	$chapter = Get-Content -Path "Prose - $chapterName*.md" -Encoding UTF8 | Replace-FancyQuotes 
-	$chapterSpelling = $chapterOne | python spellchecker.py | ConvertFrom-Json | %{ $_.Results } 
+	$chapterSpelling = $chapterOne | python spellchecker.py | ConvertFrom-Json | %{ $_.Results } | Write-Output
 	$chapterSpelling | fl; 
 	$chapterSpelling | fl | Out-File -FilePath $spellingFailFilename -Append
 	$chapterSpelling | `
