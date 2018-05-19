@@ -21,7 +21,7 @@ def makeWords(line):
     words = words.replace('!', '')
     words = words.replace(')', '')
     words = words.replace('(', '')
-    words = words.lower()
+    #words = words.lower()
     words = words.split()     
     return words
 
