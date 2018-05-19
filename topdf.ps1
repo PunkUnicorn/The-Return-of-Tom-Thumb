@@ -26,8 +26,20 @@ Function Spellcheck-Chapter($chapterName, $spellingFailFilename) {
 	Write-Output "$chapterName Spelling starts:"
 	
 	$chapter = Get-Content -Path "Prose - $chapterName*.md" -Encoding UTF8 | Replace-FancyQuotes 
-	$chapterSpelling = $chapterOne | python spellchecker.py | ConvertFrom-Json | %{ $_.Results } | Write-Output
+	$chapterSpelling = $chapterOne | python spellchecker.py | ConvertFrom-Json | %{ $_.Results } 
 	$chapterSpelling | fl; 
+	
+	
+	$chapterOne | python spellchecker.py | ConvertFrom-Json | %{ $_.Results } | fl | Out-File -FilePath $spellingFailFilename -Append
+	$chapterOne | python spellchecker.py | ConvertFrom-Json | %{ $_.Results } | `
+		%{ Add-AppveyorTest `
+			-Name "$($_.Word) - Spelling" `
+			-Framework NUnit `
+			-Filename "$($_.Hint)" `
+			-ErrorMessage "$($_.Word)? $($_.Hint)" `
+			-Outcome "$($_.Status)" 
+		}
+	
 	$chapterSpelling | fl | Out-File -FilePath $spellingFailFilename -Append
 	$chapterSpelling | `
 		%{ Add-AppveyorMessage `
