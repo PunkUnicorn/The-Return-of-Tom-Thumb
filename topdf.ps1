@@ -119,14 +119,10 @@ cat "Prose - Chapter One1.md",
 Write-Output "...Prose - Final.md created"
 
 # Muck about
-$words = Get-Content -Path "Prose - Chapter*.md" -Encoding UTF8 | Replace-FancyQuotes 
-$wordsBreakdown = $chapter | python wordcounter.py | ConvertFrom-Csv 
-$wordsBreakdown | Select Word, Count
-#$testyMcTestface = $wordsBreakdown | ? { $_.Count -gt 2 } | ?{ $_.Word.Length -gt 2 } | Group-Object -Property Count
-$wordsBreakdown  
-$testyMcTestface = $wordsBreakdown | ? { $_.Count -gt 2 } | Group-Object -Property Count
-$testyMcTestface | fl
-$testyMcTestface | Select Word | python theasaurus.py | ConvertFrom-Csv | Select 
+Get-Content -Path "Prose - Chapter*.md" -Encoding UTF8 | Replace-FancyQuotes 
+Get-Content -Path "Prose - Chapter*.md" -Encoding UTF8 | Replace-FancyQuotes | python wordcounter.py | ConvertFrom-Csv 
+Get-Content -Path "Prose - Chapter*.md" -Encoding UTF8 | Replace-FancyQuotes | python wordcounter.py | ConvertFrom-Csv | Select Word, Count
+Get-Content -Path "Prose - Chapter*.md" -Encoding UTF8 | Replace-FancyQuotes | python wordcounter.py | ConvertFrom-Csv | Select Word | python theasaurus.py | ConvertFrom-Csv 
 
 pandoc --version
 pandoc --css epubstyle.css `
