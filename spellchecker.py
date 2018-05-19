@@ -33,10 +33,6 @@ with open("spellchecker.exceptions.txt") as fp:
         for ignoreWord in makeWords(line):
             ignoreWords.append(ignoreWord)
 
-#for ig in ignoreWords:
-#    print(ig)
-    
-#sys.stdin.flush();
 sys.stdout.write("{ \"Results\":[")
 first=True
 d = enchant.Dict("en_UK") # or en_US, de_DE, fr_FR, en_AU on my system
@@ -48,12 +44,11 @@ for line in sys.stdin:
             if ignoreWord == word:
                 ignoreIt = True
                 break
+
         if ignoreIt:
             continue;
-        # if any(word in s for s in ignorewords):
-        #     print('ignore ', word)
-        #     continue            
-        if not d.check(word):
+
+						if not d.check(word):
             hint = ' or '.join(d.suggest(word)[:7])
             data = { 'Word': word, 'Status': 'Failed', 'Hint': hint }
             if (first == False):
@@ -61,5 +56,6 @@ for line in sys.stdin:
             else:
                 first=False
             json.dump(data, sys.stdout)
+
 sys.stdout.write("]}")
 sys.stdout.flush()
