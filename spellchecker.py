@@ -48,7 +48,7 @@ for line in sys.stdin:
         if ignoreIt:
             continue;
 
-						if not d.check(word):
+        if not d.check(word):
             hint = ' or '.join(d.suggest(word)[:7])
             data = { 'Word': word, 'Status': 'Failed', 'Hint': hint }
             if (first == False):
