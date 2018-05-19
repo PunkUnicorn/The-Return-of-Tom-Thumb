@@ -109,6 +109,27 @@ Function Thesaurunocerous-Chapter($chapterName, $wordsFilename) {
 Write-Output "Spelling Starts" 
 Spellcheck-DumpExceptions
 Spellcheck-Chapter "Chapter One" "Chapter-One-Spelling.txt" 
+
+
+	
+	$chapter = Get-Content -Path "Prose - $chapterName*.md" -Encoding UTF8 | Replace-FancyQuotes 
+	$chapterSpelling = $chapterOne | python spellchecker.py | ConvertFrom-Json | %{ $_.Results } 
+	$chapterSpelling | fl; 
+	
+	
+	$chapterOne | python spellchecker.py | ConvertFrom-Json | %{ $_.Results } | fl | Out-File -FilePath $spellingFailFilename -Append
+	$chapterOne | python spellchecker.py | ConvertFrom-Json | %{ $_.Results } | `
+		%{ Add-AppveyorTest `
+			-Name "$($_.Word) - Spelling" `
+			-Framework NUnit `
+			-Filename "$($_.Hint)" `
+			-ErrorMessage "$($_.Word)? $($_.Hint)" `
+			-Outcome "$($_.Status)" 
+		}
+	
+
+
+
 Spellcheck-Chapter "Chapter Two" "Chapter-Two-Spelling.txt"
 Write-Output "Spelling Ends"
 
