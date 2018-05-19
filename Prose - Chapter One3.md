@@ -38,7 +38,7 @@ The boy saw her offering but after no time he was astonished, which was accompan
 
 Jack did not seem to notice her greeting which was her favourite part.
 
-“What you planning on do with it?” Jack asked.
+“What you planning on doing with it?” Jack asked.
 
 Tom was sure she had answered this already. “I want to sell it.” 
 
