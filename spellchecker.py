@@ -32,6 +32,9 @@ with open("spellchecker.exceptions.txt") as fp:
             continue;
         ignoreWords.append(makeWords(line))
 
+for ig in ignoreWords:
+    print(ig)
+    
 #sys.stdin.flush();
 sys.stdout.write("{ \"Results\":[")
 first=True
