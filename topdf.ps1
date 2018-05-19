@@ -107,11 +107,17 @@ Write-Output "Thesaurunocerous Starts"
 Thesaurunocerous-Chapter "Chapter One" "Chapter-One-Words.txt"
 Write-Output "Thesaurunocerous Ends"
 
+# Combine the prose files to one file, pandoc seems to get upset with chapter two in a second file`
+# And it really wants a blank line at the end!!! 
+Write-output `n | Out-File "Prose - Blank line.md" -Append
+cat "Prose - Chapter Two1.md" `
+		"Prose - Chapter One1.md" `
+		"Prose - Chapter One2.md" `
+		"Prose - Chapter One3.md" ' 
+		"Prose - Blank line.md" | sc "Prose - Final.md"
+
 pandoc --version
 pandoc --css epubstyle.css `
   "title.md" `
-  "Prose - Chapter Two1.md" `
-  "Prose - Chapter One1.md" `
-  "Prose - Chapter One2.md" `
-  "Prose - Chapter One3.md" `
+  "Prose - Final.md" `
   -o The-Return-of-Tom-Thumb.epub
