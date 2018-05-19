@@ -112,9 +112,10 @@ Spellcheck-Chapter "Chapter One" "Chapter-One-Spelling.txt"
 
     $spellingFailFilename = "Chapter-One-Spelling.txt"
 	$chapterName = "Chapter One"
-	$chapter = Get-Content -Path "Prose - $chapterName*.md" -Encoding UTF8 | Replace-FancyQuotes 
-	$chapterSpelling = $chapterOne | python spellchecker.py | ConvertFrom-Json | %{ $_.Results } 
-	$chapterSpelling | fl; 
+	Get-Content -Path "Prose - $chapterName*.md" -Encoding UTF8 | Replace-FancyQuotes | fl
+	Get-Content -Path "Prose - $chapterName*.md" -Encoding UTF8 | Replace-FancyQuotes | python spellchecker.py | fl
+	Get-Content -Path "Prose - $chapterName*.md" -Encoding UTF8 | Replace-FancyQuotes | python spellchecker.py | ConvertFrom-Json | %{ $_.Results } 
+	Get-Content -Path "Prose - $chapterName*.md" -Encoding UTF8 | Replace-FancyQuotes | python spellchecker.py | ConvertFrom-Json | %{ $_.Results } | fl; 
 	
 	
 	$chapterOne | python spellchecker.py | ConvertFrom-Json | %{ $_.Results } | fl | Out-File -FilePath $spellingFailFilename -Append
