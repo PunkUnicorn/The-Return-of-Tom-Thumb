@@ -108,17 +108,6 @@ Write-Output "Thesaurunocerous Starts"
 Thesaurunocerous-Chapter "Chapter One" "Chapter-One-Words.txt"
 Write-Output "Thesaurunocerous Ends"
 
-# Combine the prose files to one file. pandoc seems to get upset with chapter two at the top of a new file
-# And it really really likes a blank line at the end!!! It can be funny on ma ipad reader without the trailing blank new line (gives a weird 'can't find resource' message)
-Write-Output "Combining files ..."
-Write-output `n | Out-File "Prose - Blank line.md" -Append
-cat "Prose - Chapter One1.md", 
-		"Prose - Chapter One2.md", 
-		"Prose - Chapter One3.md", 
-		"Prose - Chapter Two1.md", 
-		"Prose - Blank line.md" | sc "The-Return-of-Tom-Thumb.md"
-Write-Output "...The-Return-of-Tom-Thumb.md created"
-
 
 # Superfluous mucking about
 
@@ -147,6 +136,18 @@ Write-Output $chapterWordHints
 
 
 # Make the book
+# pandoc seems to get upset with chapter two at the top of a new file
+# pandoc really really likes a blank line at the end!!! It can be funny on some readers without
+Write-Output "Combining files ..."
+Write-output `n | Out-File "Prose - Blank line.md" -Append
+cat "Prose - Chapter One1.md", 
+		"Prose - Chapter One2.md", 
+		"Prose - Chapter One3.md", 
+		"Prose - Chapter Two1.md", 
+		"Prose - Blank line.md" | sc "The-Return-of-Tom-Thumb.md"
+Get-Content "The-Return-of-Tom-Thumb.md" -Encoding UTF8 | Replace-FancyQuotes | Out-File "The-Return-of-Tom-Thumb.txt" -Append
+Write-Output "...The-Return-of-Tom-Thumb.md created"
+
 pandoc --version
 pandoc --css epubstyle.css `
   "title.md" `
@@ -156,13 +157,9 @@ pandoc --css epubstyle.css `
 #html version
 pandoc --css epubstyle.css `
   "title.md" `
-  "The-Return-of-Tom-Thumb.md" `
+  "The-Return-of-Tom-Thumb.txt" `
   -o The-Return-of-Tom-Thumb.html
 	
 # Make the audio book (WIP)
-pandoc --css epubstyle.css `
-  "title.md" `
-  "The-Return-of-Tom-Thumb.md" `
-  -o The-Return-of-Tom-Thumb.txt
 	
 #Get-Content The-Return-of-Tom-Thumb.txt -Encoding UTF8 | Replace-FancyQuotes | python googleTextToSpeech.py
