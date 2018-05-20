@@ -46,8 +46,8 @@ for word, count in counts.most_common():
     percent = percentageOf(count, totalWordCount)
     writer = csv.writer(sys.stdout, delimiter=',', quotechar='\"', quoting=csv.QUOTE_MINIMAL)
     if (first == True):
-        writer.writerow([ 'Word' ] + [ 'Count' ] + [ 'Percent' ])
+        writer.writerow([ 'Word' ] + [ 'Length' ] + [ 'Count' ] + [ 'Percent' ])
         first=False
-    writer.writerow([ word ] + [ count ] + [ percent ])
+    writer.writerow([ word ] + [len(word)] + [ count ] + [ percent ])
 
 sys.stdout.flush()
