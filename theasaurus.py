@@ -30,20 +30,20 @@ def getSynonymHint(word):
     antonyms = []
     for syn in wordnet.synsets(word):
         for l in syn.lemmas():
-            synonyms.append(l.name().replace("_", " "))
+            synonyms.append(l.name())
     return ", ".join( set(synonyms) )
     
 # START
-first=True
 words=[]
 for line in sys.stdin:
     lineWords = makeWords(line)
     for word in lineWords:
         words.append(word)
 
+first=True
 for word in words:
     writer = csv.writer(sys.stdout, delimiter=',', quotechar='\"', quoting=csv.QUOTE_MINIMAL)
-    if (first):
+    if (first == True):
         writer.writerow([ 'Word' ] + [ 'Synonyms' ])
         first=False
     hint = getSynonymHint(word)
