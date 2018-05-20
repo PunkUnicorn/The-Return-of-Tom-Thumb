@@ -30,6 +30,6 @@ artifacts:
   - path: The-Return-of-Tom-Thumb.txt
     name: is_book_yeah_txt
     type: file
-  - path: The-Return-of-Tom-Thumb.mp3
-    name: is_book_yeah_mp3
+  - path: The-Return-of-Tom-Thumb.html
+    name: is_book_yeah_html
     type: file

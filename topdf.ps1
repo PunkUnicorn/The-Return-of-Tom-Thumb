@@ -153,16 +153,16 @@ pandoc --css epubstyle.css `
   "The-Return-of-Tom-Thumb.md" `
   -o The-Return-of-Tom-Thumb.epub
 
-#html version (for cross converting)
+#html version
 pandoc --css epubstyle.css `
   "title.md" `
   "The-Return-of-Tom-Thumb.md" `
   -o The-Return-of-Tom-Thumb.html
 	
-# Make the audio book
+# Make the audio book (WIP)
 pandoc --css epubstyle.css `
   "title.md" `
-  "The-Return-of-Tom-Thumb.html" `
+  "The-Return-of-Tom-Thumb.md" `
   -o The-Return-of-Tom-Thumb.txt
 	
 #Get-Content The-Return-of-Tom-Thumb.txt -Encoding UTF8 | Replace-FancyQuotes | python googleTextToSpeech.py

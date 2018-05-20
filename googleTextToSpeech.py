@@ -10,13 +10,22 @@ for line in sys.stdin:
     word = ' '.join(line.split())
     tts = gTTS(text=str(word) +' ', lang='en-GB')
     try: 
-        dumbFilename = 'The-Return-of-Tom-Thumb-temp.mp3'
-        tts.save(dumbFilename)
-        with open(dumbFilename, 'rb') as f:
+        #dumbFilename = 'The-Return-of-Tom-Thumb-temp.mp3'
+        with io.BytesIO() as f:
+            tts.save(dumbFilename)
+        #with open(dumbFilename, 'rb') as f:
+            f.flush()
             stuff = bytes(f.read())
             f.flush()
-            sys.stdout.buffer.write(stuff)
+            sys.stdout.write(stuff)
             sys.stdout.flush()
+        # dumbFilename = 'The-Return-of-Tom-Thumb-temp.mp3'
+        # tts.save(dumbFilename)
+        # with open(dumbFilename, 'rb') as f:
+            # stuff = bytes(f.read())
+            # f.flush()
+            # sys.stdout.buffer.write(stuff)
+            # sys.stdout.flush()
     except:
         continue;
 
