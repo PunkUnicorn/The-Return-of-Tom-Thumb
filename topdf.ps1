@@ -123,12 +123,12 @@ Write-Output "...Prose - Final.md created"
 # Word counts
 $chapterName = "Chapter One"
 # Hint! v $chapterContent has four columns: Word, Length, Count, Percent
-$chapterContent = Get-Content -Path "Prose - $chapterName*.md" -Encoding UTF8 | Replace-FancyQuotes | python wordcounter.py | ConvertFrom-Csv
-Write-Output $chapterContent | Measure-Object Count -Sum -Maximum | Select Count, Sum, Maximum -Property `
-	@{Label="Unique word count";Expression={$_.Count}},
-	@{label="Word count";Expression={{$_.Sum}},
-	@{label="Maximum occurrence";Expression={{$_.Maximum}} | fl
-	
+$chapterContent = Get-Content -Path "Prose - $chapterName*.md" -Encoding UTF8 | Replace-FancyQuotes | python wordcounter.py | ConvertFrom-Csv 
+
+$chapterContent | Measure-Object Count -Sum -Maximum | Select -Property `
+	@{Label="Unique word count";Expression={$_.Count}}, 
+	@{label="Word count";Expression={$_.Sum}}, 
+	@{label="Maximum occurrence of any word";Expression={$_.Maximum}} | fl
 
 $chapterContent | `
 	Where { $_.Count -gt 2 } | `
@@ -136,8 +136,7 @@ $chapterContent | `
 	foreach { $_.Word } | `
 	python theasaurus.py | `
 	ConvertFrom-Csv 
-
-
+	
 # Stop mucking about, make the book
 
 pandoc --version
@@ -145,4 +144,3 @@ pandoc --css epubstyle.css `
   "title.md" `
   "Prose - Final.md" `
   -o The-Return-of-Tom-Thumb.epub
-
