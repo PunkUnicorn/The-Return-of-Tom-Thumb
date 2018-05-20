@@ -127,8 +127,8 @@ $chapterContent = Get-Content -Path "Prose - $chapterName*.md" -Encoding UTF8 | 
 Write-Output $chapterContent
 
 Get-Content -Path "Prose - $chapterName*.md" -Encoding UTF8 | Replace-FancyQuotes | python wordcounter.py | ConvertFrom-Csv `
-	Where { $_.Count -gt 2 } | `
-	Where { $_.Length -gt 2 } | `
+	Where { [int]$_.Count -gt 2 } | `
+	Where { [int]$_.Length -gt 2 } | `
 	foreach { $_.Word } | `
 	python theasaurus.py | `
 	ConvertFrom-Csv
