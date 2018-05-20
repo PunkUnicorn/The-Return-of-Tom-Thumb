@@ -1,8 +1,10 @@
 from __future__ import print_function
 import sys
+import json
 import collections
 import csv
 from nltk.corpus import wordnet
+
 
 def makeWords(line):
     words = line.replace('\"', '')
@@ -35,7 +37,7 @@ def getSynonymHint(word):
 first=True
 words=[]
 for line in sys.stdin:
-    lineWords = makeWords(line)   
+    lineWords = makeWords(line)
     words.append(lineWords)
 
 for word in words:
