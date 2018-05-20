@@ -130,8 +130,13 @@ Write-Output $chapterContent | Measure-Object Count -Sum -Maximum | Select Count
 	@{label="Word count";Expression={{$_.Sum}},
 	@{label="Maximum occurrence";Expression={{$_.Maximum}} | fl
 
-# Thesaurus look up
+# Thesaurus look up 
 $chapterContent | `
+	Where { $_.Count -gt 2 } | `
+	Where { $_.Length -gt 2 } | `
+	Select Word 
+
+Get-Content -Path "Prose - $chapterName*.md" -Encoding UTF8 | Replace-FancyQuotes | python wordcounter.py | ConvertFrom-Csv `
 	Where { $_.Count -gt 2 } | `
 	Where { $_.Length -gt 2 } | `
 	Select Word | `
