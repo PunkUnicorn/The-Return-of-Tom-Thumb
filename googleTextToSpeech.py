@@ -10,7 +10,7 @@ with io.BytesIO() as f:
         if (len(line) == 0):
             continue;
         word = ' '.join(line.split())
-        tts = gTTS(text=str(word) +' ', lang='en-GB')
+        tts = gTTS(text=word + '\n', lang='en-GB')
         try: 
             tts.write_to_fp(f)
         # dumbFilename = 'The-Return-of-Tom-Thumb-temp.mp3'
@@ -26,6 +26,6 @@ with io.BytesIO() as f:
     f.flush()
     f.seek(0)
     stuff = bytes(f.read())
-    with open('The-Return-of-Tom-Thumb-temp.mp3', 'wb') as save:
+    with open('The-Return-of-Tom-Thumb.mp3', 'wb') as save:
         save.write(stuff)
         save.flush()
