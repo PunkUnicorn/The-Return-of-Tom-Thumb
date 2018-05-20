@@ -107,7 +107,7 @@ Write-Output "Thesaurunocerous Starts"
 Thesaurunocerous-Chapter "Chapter One" "Chapter-One-Words.txt"
 Write-Output "Thesaurunocerous Ends"
 
-# Combine the prose files to one file. pandoc seems to get upset with chapter two at the top of a second file
+# Combine the prose files to one file. pandoc seems to get upset with chapter two at the top of a new file
 # And it really really likes a blank line at the end!!! It can be funny on mu ipad reader without the trailing blank new line (gives a weird can't find resource message)
 Write-Output "Combining files ..."
 Write-output `n | Out-File "Prose - Blank line.md" -Append
@@ -119,15 +119,17 @@ cat "Prose - Chapter One1.md",
 Write-Output "...Prose - Final.md created"
 
 # Muck about
-#Get-Content -Path "Prose - Chapter*.md" -Encoding UTF8 | Replace-FancyQuotes 
-#Get-Content -Path "Prose - Chapter*.md" -Encoding UTF8 | Replace-FancyQuotes | python wordcounter.py | ConvertFrom-Csv 
-#Get-Content -Path "Prose - Chapter*.md" -Encoding UTF8 | Replace-FancyQuotes | python wordcounter.py | ConvertFrom-Csv | `
-#	Select Word, Count
+
+# word counts
+Get-Content -Path "Prose - Chapter*.md" -Encoding UTF8 | Replace-FancyQuotes | python wordcounter.py | ConvertFrom-Csv
+
+# thesaurus look up
 Get-Content -Path "Prose - Chapter*.md" -Encoding UTF8 | Replace-FancyQuotes | python wordcounter.py | ConvertFrom-Csv | `
 	? { $_.Count -gt 2} ` 
+	? { $_Word.length -gt 2 } ` 
 	Select Word | ` 
 	python theasaurus.py | `
-	ConvertFrom-Csv | `
+	ConvertFrom-Csv 
 
 pandoc --version
 pandoc --css epubstyle.css `
