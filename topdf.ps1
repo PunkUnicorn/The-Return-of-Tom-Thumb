@@ -130,12 +130,14 @@ $chapterContent | Measure-Object Count -Sum -Maximum | Select -Property `
 	@{label="Word count";Expression={$_.Sum}}, 
 	@{label="Maximum occurrence of any word";Expression={$_.Maximum}} | fl
 
+Write-Output $chapterContent
+
 $chapterContent | `
 	Where { $_.Count -gt 2 } | `
 	Where { $_.Length -gt 2 } | `
 	foreach { $_.Word } | `
 	python theasaurus.py | `
-	ConvertFrom-Csv 
+	ConvertFrom-Csv | Write-Output
 	
 # Stop mucking about, make the book
 
