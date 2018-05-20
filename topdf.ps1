@@ -131,7 +131,7 @@ Write-Output $chapterContent | Measure-Object Count -Sum -Maximum | Select Count
 
 # Thesaurus look up
 # Hint! $chapterContent has three columns: Word, Count, Percent
-Write-Output $chapterContent | `
+$chapterContent | `
 	? { $_.Count -gt 2} | `
 	? { $_Word.length -gt 2 } | ` 
 	Select Word | `
