@@ -145,7 +145,7 @@ cat "Prose - Chapter One1.md",
 		"Prose - Chapter One3.md", 
 		"Prose - Chapter Two1.md", 
 		"Prose - Blank line.md" | sc "The-Return-of-Tom-Thumb.md"
-Get-Content "The-Return-of-Tom-Thumb.md" -Encoding UTF8 | Replace-FancyQuotes | Out-File "The-Return-of-Tom-Thumb.txt" -Append
+Get-Content "The-Return-of-Tom-Thumb.md" -Encoding UTF8 | Replace-FancyQuotes | Out-File "The-Return-of-Tom-Thumb.txt" -Encoding UTF8 -Append
 Write-Output "...The-Return-of-Tom-Thumb.md created"
 
 pandoc --version
