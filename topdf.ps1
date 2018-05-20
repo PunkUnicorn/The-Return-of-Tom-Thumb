@@ -37,7 +37,7 @@ Function Spellcheck-Chapter($chapterName, $spellingFailFilename) {
 			-Framework NUnit `
 			-Filename "$($_.Hint)" `
 			-ErrorMessage "$($_.Word)? $($_.Hint)" `
-			-Outcome "Failure" 
+			-Outcome "Failed" 
 		}
 
 	$chapterSpelling  | `
