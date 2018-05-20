@@ -161,4 +161,5 @@ pandoc --css epubstyle.css `
   -o The-Return-of-Tom-Thumb.html
 	
 # Make the audio book (WIP)
-Get-Content -Path "The-Return-of-Tom-Thumb.txt" -Encoding UTF8 | python .\googleTextToSpeech.py 
+Get-Content -Path "The-Return-of-Tom-Thumb.txt" -Encoding UTF8 | Replace-FancyQuotes >test1.txt
+cat test1.txt | python .\googleTextToSpeech.py 
