@@ -125,24 +125,20 @@ $chapterName = "Chapter One"
 # Hint! v $chapterContent has four columns: Word, Length, Count, Percent
 $chapterContent = Get-Content -Path "Prose - $chapterName*.md" -Encoding UTF8 | Replace-FancyQuotes | python wordcounter.py | ConvertFrom-Csv
 Write-Output $chapterContent
-Write-Output $chapterContent | Measure-Object Count -Sum -Maximum | Select Count, Sum, Maximum -Property `
-	@{Label="Unique word count";Expression={$_.Count}},
-	@{label="Word count";Expression={{$_.Sum}},
-	@{label="Maximum occurrence";Expression={{$_.Maximum}} | fl
 
-# Thesaurus look up 
-$chapterContent | `
+Get-Content -Path "Prose - $chapterName*.md" -Encoding UTF8 | Replace-FancyQuotes | python wordcounter.py | ConvertFrom-Csv |`
 	Where { $_.Count -gt 2 } | `
 	Where { $_.Length -gt 2 } | `
-	Select Word 
-
-Get-Content -Path "Prose - $chapterName*.md" -Encoding UTF8 | Replace-FancyQuotes | python wordcounter.py | ConvertFrom-Csv `
-	Where { $_.Count -gt 2 } | `
-	Where { $_.Length -gt 2 } | `
-	Select Word | `
+	foreach { $_.Word } | `
 	python theasaurus.py | `
-	ConvertFrom-Csv 
+	ConvertFrom-Csv
 
+
+#Write-Output $chapterContent | Measure-Object Count -Sum -Maximum | Select Count, Sum, Maximum -Property `
+#	@{Label="Unique word count";Expression={$_.Count}},
+#	@{label="Word count";Expression={{$_.Sum}},
+#	@{label="Maximum occurrence";Expression={{$_.Maximum}} | fl
+	
 # Stop mucking about, make the book
 
 pandoc --version
