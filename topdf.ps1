@@ -122,23 +122,22 @@ Write-Output "...Prose - Final.md created"
 
 # Word counts
 $chapterName = "Chapter One"
-# Hint! v $chapterContent has four columns: Word, Length, Count, Percent
-$chapterContent = Get-Content -Path "Prose - $chapterName*.md" -Encoding UTF8 | Replace-FancyQuotes | python wordcounter.py | ConvertFrom-Csv 
-
-$chapterContent | Measure-Object Count -Sum -Maximum | Select -Property `
+$chapterContent = Get-Content -Path "Prose - $chapterName*.md" -Encoding UTF8 | Replace-FancyQuotes 
+$chapterWordCount = $chapterContent | python wordcounter.py | ConvertFrom-Csv # Four columns: Word, Length, Count, Percent
+$chapterWordCount | Measure-Object Count -Sum -Maximum | Select -Property `
 	@{Label="Unique word count";Expression={$_.Count}}, 
 	@{label="Word count";Expression={$_.Sum}}, 
 	@{label="Maximum occurrence of any word";Expression={$_.Maximum}} | fl
 
-$chapterContent
-
-$chapterContent | `
-	Where { $_.Count -gt 2 } | `
+$chapterWordHints = $chapterWordCount | `
+	#Where { $_.Count -gt 2 } | `
 	Where { $_.Length -gt 2 } | `
 	foreach { $_.Word } | `
 	python theasaurus.py | `
 	ConvertFrom-Csv
 	
+Write-Output $chapterWordHints 
+
 # Stop mucking about, make the book
 
 pandoc --version
