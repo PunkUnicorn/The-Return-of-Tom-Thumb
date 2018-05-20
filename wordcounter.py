@@ -24,21 +24,23 @@ def makeWords(line):
     words = words.split()     
     return words
 
+def roundPercentage(roundMe):
+    return round(roundMe, 5)
+
 def percentageOf(whatsMyPercent, total):
     if (total == 0):
-        return ""
-    percentage = round((float(whatsMyPercent) / float(total)) * float(100), 3)
-    return str(percentage) + "%"
+        return roundPercentage(0)
+    unroundedPercentage = (float(whatsMyPercent) / float(total)) * float(100)
+    percentage = roundPercentage(unroundedPercentage)
+    return percentage
 
 # START
 counts = collections.Counter()
 for line in sys.stdin:
-    # Get and count the words
     words = makeWords(line)   
     counts.update(words)
 
-totalWordCount = sum(counts.values())
-    
+totalWordCount = sum(counts.values())    
 first=True
 for word, count in counts.most_common():
     percent = percentageOf(count, totalWordCount)

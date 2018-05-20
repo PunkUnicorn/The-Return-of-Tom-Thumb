@@ -23,7 +23,7 @@ def makeWords(line):
     words = words.split()     
     return words
 
-def getTheasaurusHint(word):
+def getSynonymHint(word):
     synonyms = []
     antonyms = []
     for syn in wordnet.synsets(word):
@@ -31,7 +31,6 @@ def getTheasaurusHint(word):
             synonyms.append(l.name())
     return ", ".join( set(synonyms) )
     
-
 # START
 first=True
 words=[]
@@ -42,9 +41,9 @@ for line in sys.stdin:
 for word in words:
     writer = csv.writer(sys.stdout, delimiter=',', quotechar='\"', quoting=csv.QUOTE_MINIMAL)
     if (first == True):
-        writer.writerow([ 'Word' ] + [ 'theasaurus' ])
+        writer.writerow([ 'Word' ] + [ 'Synonyms' ])
         first=False
-    hint = getTheasaurusHint
+    hint = getSynonymHint(word)
     writer.writerow([ word ] + [ hint ])
 
 sys.stdout.flush()
