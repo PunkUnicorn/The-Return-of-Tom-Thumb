@@ -38,7 +38,8 @@ first=True
 words=[]
 for line in sys.stdin:
     lineWords = makeWords(line)
-    words.append(lineWords)
+    for word in lineWords:
+        words.append(word)
 
 for word in words:
     writer = csv.writer(sys.stdout, delimiter=',', quotechar='\"', quoting=csv.QUOTE_MINIMAL)
