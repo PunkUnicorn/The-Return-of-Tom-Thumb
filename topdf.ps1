@@ -116,8 +116,8 @@ cat "Prose - Chapter One1.md",
 		"Prose - Chapter One2.md", 
 		"Prose - Chapter One3.md", 
 		"Prose - Chapter Two1.md", 
-		"Prose - Blank line.md" | sc "Prose - Final.md"
-Write-Output "...Prose - Final.md created"
+		"Prose - Blank line.md" | sc "The-Return-of-Tom-Thumb.md"
+Write-Output "...The-Return-of-Tom-Thumb.md created"
 
 
 # Superfluous mucking about
@@ -150,5 +150,12 @@ Write-Output $chapterWordHints
 pandoc --version
 pandoc --css epubstyle.css `
   "title.md" `
-  "Prose - Final.md" `
+  "The-Return-of-Tom-Thumb.md" `
   -o The-Return-of-Tom-Thumb.epub
+
+# Make the audio book
+pandoc --css epubstyle.css `
+  "title.md" `
+  "The-Return-of-Tom-Thumb.md" `
+  -o The-Return-of-Tom-Thumb.txt
+#Get-Content The-Return-of-Tom-Thumb.txt -Encoding UTF8 | Replace-FancyQuotes | python googleTextToSpeech.py

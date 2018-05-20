@@ -4,6 +4,7 @@ install:
   - pip install -U pyenchant #for spelling
   - pip install -U nltk #for theasurus
   - python -m nltk.downloader all #for theasurus *** VERY SLOW ***
+  - pip install gTTS #google text to speech
 
 build: false
 
@@ -22,4 +23,13 @@ artifacts:
     type: file
   - path: The-Return-of-Tom-Thumb.epub
     name: is_book_yeah
+    type: file
+  - path: The-Return-of-Tom-Thumb.md
+    name: is_book_yeah_md
+    type: file
+  - path: The-Return-of-Tom-Thumb.txt
+    name: is_book_yeah_txt
+    type: file
+  - path: The-Return-of-Tom-Thumb.mp3
+    name: is_book_yeah_mp3
     type: file
