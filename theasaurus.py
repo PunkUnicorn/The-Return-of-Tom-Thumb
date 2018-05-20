@@ -30,7 +30,7 @@ def getSynonymHint(word):
     antonyms = []
     for syn in wordnet.synsets(word):
         for l in syn.lemmas():
-            synonyms.append(l.name().replace("_", " ")
+            synonyms.append(l.name().replace("_", " "))
     return ", ".join( set(synonyms) )
     
 # START
