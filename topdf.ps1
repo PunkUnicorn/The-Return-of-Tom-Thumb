@@ -124,6 +124,9 @@ Write-Output "...Prose - Final.md created"
 $chapterName = "Chapter One"
 $chapterContent = Get-Content -Path "Prose - $chapterName*.md" -Encoding UTF8 | Replace-FancyQuotes 
 $chapterWordCount = $chapterContent | python wordcounter.py | ConvertFrom-Csv # Four columns: Word, Length, Count, Percent
+$chapterWordCount | `
+	#Where { $_.Count -gt 2 } | `
+	Where { $_.Length -gt 2 }	
 $chapterWordCount | Measure-Object Count -Sum -Maximum | Select -Property `
 	@{Label="Unique word count";Expression={$_.Count}}, 
 	@{label="Word count";Expression={$_.Sum}}, 
