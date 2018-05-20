@@ -1,7 +1,7 @@
 
 # Chapter Two
 
-Kim held the tether of the cow and Tom waved Jack farewell. Jack was keen to depart after the transaction. He left quickly siting mis-matched excuses. Tom wished Jack had been more social instead of hurrying off. Despite now owning a cow she felt dissatisfied.
+Kim held the tether of the cow and Tom waved Jack farewell. Jack was keen to depart after the transaction. He left quickly citing mismatched excuses. Tom wished Jack had been more social instead of hurrying off. Despite now owning a cow she felt dissatisfied.
 
 Tom scanned the village hoping to see something that would cascade her excitement. The sun was lower in the sky and the crowds had thinned, the day retiring. With the purpose for her journey spent, there was nothing left to justify staying. 
 
@@ -11,13 +11,13 @@ Tom was not ready for this. With a reflex from desperation she found an excuse: 
 
 Kim looked to the cow, who was even less keen to hurry than Tom. He sighed and did not instantly disagree. Tom could see in Kim's face he had not given up: “Why don't you make your boots 'go fast'?” he countered.
 
-At this exact moment another traveler was walking past. Tom saw him: a well dressed young man. Something her and her brother were saying had caught his attention and he flashed an awkward glance towards Tom as Kim said that but averted a connection.
+At this exact moment another traveller was walking past. Tom saw him: a well dressed young man. Something her and her brother were saying had caught his attention and he flashed an awkward glance towards Tom as Kim said that but averted a connection.
 
-The man had thought how odd: a pair of urchins in wrags, one of which with impeccable boots. They also had that cow the lad Jack was trying to sell (for too high a price) all day. “I wonder how how?” he thought, on all counts. 
+The man had thought how odd: a pair of urchins in rags, one of which with impeccable boots. They also had that cow the lad Jack was trying to sell (for too high a price) all day. “I wonder how how?” he thought, on all counts. 
 
 On hearing the boy talk about the smart boots 'going fast' he was more curious than he had been for a long time. There had been nothing for leagues this side of the far north as interesting as this pair of teenagers. Glancing at the one with the boots he could see it was a girl not a boy. He walked past them. 
 
-Using the remaining light to see ahead, the long road north looked cold and sparce. Also he rekoned it was more cold and dull than the trail leading up to it; possibly dangerous too (he had heard.) 
+Using the remaining light to see ahead, the long road north looked cold and sparse. Also he reckoned it was more cold and dull than the trail leading up to it; possibly dangerous too (he had heard.) 
 
 This was because he was alert, wise and clever. 
 
