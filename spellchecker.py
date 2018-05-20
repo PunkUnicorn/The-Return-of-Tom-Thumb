@@ -4,7 +4,8 @@
 from __future__ import print_function
 import sys
 import enchant 
-import json
+#import json
+import csv
 
 def makeWords(line):
     words = line.replace('\"', '')
@@ -33,7 +34,7 @@ with open("spellchecker.exceptions.txt") as fp:
         for ignoreWord in makeWords(line):
             ignoreWords.append(ignoreWord)
 
-sys.stdout.write("{ \"Results\":[")
+#sys.stdout.write("{ \"Results\":[")
 first=True
 d = enchant.Dict("en_UK") # or en_US, de_DE, fr_FR, en_AU on my system
 for line in sys.stdin:
@@ -50,12 +51,18 @@ for line in sys.stdin:
 
         if not d.check(word):
             hint = ' or '.join(d.suggest(word)[:7])
-            data = { 'Word': word, 'Status': 'Failed', 'Hint': hint }
-            if (first == False):
-                sys.stdout.write(",")
-            else:
+            writer = csv.writer(sys.stdout, delimiter=',', quotechar='\"', quoting=csv.QUOTE_MINIMAL)
+            if (first == True):
+                writer.writerow([ 'Word' ] + [ 'Hint' ])
                 first=False
-            json.dump(data, sys.stdout)
+            writer.writerow([ word ] + [ hint ])
 
-sys.stdout.write("]}")
+            #data = { 'Word': word, 'Status': 'Failed', 'Hint': hint }
+            #if (first == False):
+            #    sys.stdout.write(",")
+            #else:
+            #    first=False
+            #json.dump(data, sys.stdout)
+
+#sys.stdout.write("]}")
 sys.stdout.flush()

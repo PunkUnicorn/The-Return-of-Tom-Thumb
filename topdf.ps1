@@ -26,21 +26,21 @@ Function Spellcheck-Chapter($chapterName, $spellingFailFilename) {
 	Write-Output "$chapterName Spelling starts:"
 	
 	$chapter = Get-Content -Path "Prose - $chapterName*.md" -Encoding UTF8
-	$chapterSpelling = $chapter | Replace-FancyQuotes | python spellchecker.py | ConvertFrom-Json
-	$chapterSpelling | %{ $_.Results } | fl; 
+	$chapterSpelling = $chapter | Replace-FancyQuotes | python spellchecker.py | ConvertFrom-Csv
+	$chapterSpelling 
 	
+	,$chapterSpelling  | Where {$_.Length -gt 0 } | ForEach { $_ } | Out-File -FilePath $spellingFailFilename -Append
 	
-	$chapterSpelling | %{ $_.Results } | fl | Out-File -FilePath $spellingFailFilename -Append
-	$chapterSpelling  | %{ $_.Results } | `
+	$chapterSpelling | `
 		%{ Add-AppveyorTest `
-			-Name "$($_.Word) - Spelling" `
+			-Name "$($_.Word) - Spelling $chapterName" `
 			-Framework NUnit `
 			-Filename "$($_.Hint)" `
 			-ErrorMessage "$($_.Word)? $($_.Hint)" `
-			-Outcome "$($_.Status)" 
+			-Outcome "Failure" 
 		}
 
-	$chapterSpelling  | %{ $_.Results } | `
+	$chapterSpelling  | `
 		%{ Add-AppveyorMessage `
 			-Message "$($_.Word) - $chapterName" `
 			-Details "$($_.Hint)" `
@@ -102,6 +102,7 @@ Spellcheck-Chapter "Chapter One" "Chapter-One-Spelling.txt"
 Spellcheck-Chapter "Chapter Two" "Chapter-Two-Spelling.txt"
 Write-Output "Spelling Ends"
 
+
 # word counts and Thesaurus
 Write-Output "Thesaurunocerous Starts"
 Thesaurunocerous-Chapter "Chapter One" "Chapter-One-Words.txt"
@@ -118,7 +119,8 @@ cat "Prose - Chapter One1.md",
 		"Prose - Blank line.md" | sc "Prose - Final.md"
 Write-Output "...Prose - Final.md created"
 
-# Muck about
+
+# Superfluous mucking about
 
 # Word counts
 $chapterName = "Chapter One"
@@ -141,8 +143,10 @@ $chapterWordHints = $chapterWordCount | `
 	
 Write-Output $chapterWordHints 
 
-# Stop mucking about, make the book
+# End of superfluous mucking about
 
+
+# Make the book
 pandoc --version
 pandoc --css epubstyle.css `
   "title.md" `
