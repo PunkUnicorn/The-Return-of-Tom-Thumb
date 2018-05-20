@@ -1,4 +1,4 @@
-While she was at the apple Tom scooped a handful of apple flesh then walked towards the house. She paused to finish eating, gobbling messy mouthfuls. The door latch caught Toms attention: a mangled, rusted wreck that had once been a latch. But Tom had never seen it any other way. The latch on the giants door was the first functioning one she had seen. 
+While she was at the apple Tom scooped a handful of apple flesh then walked towards the house. She paused to finish eating, gobbling messy mouthfuls. The door latch caught Tom’s attention: a mangled, rusted wreck that had once been a latch. But Tom had never seen it any other way. The latch on the giants door was the first functioning one she had seen. 
 
 Eating her hands clean she wondered if her mangled latch could be bent back into shape. Then shadows of anxiety arrived remembering how others would react. 
 
@@ -16,7 +16,7 @@ Wiggling her toes, squashing them against the leather of the boots, the comfort 
 
 Next morning Tom woke earlier than anyone else. With well practised tiptoeing she stepped between sleeping siblings, got to the door and slipped outside. The first thing she saw: brown leaning apple core. 
 
-The dazzling morning sun spared the eye no mercy: the giant apple core was looking far from adequate. Tom released her expectations were wrong. 
+The dazzling morning sun spared the eye no mercy: the giant apple core was looking far from adequate. Tom realised her expectations were wrong. 
 
 The house door opened quietly behind her, Tom looked round. It was the oldest and biggest of the brothers, Kim. Relaxing Tom looked back at the apple. Kim joined her 
 
@@ -30,7 +30,7 @@ Tom wanted to tell Kim of her plan to head to the village and sell the pips. At 
 
 Tom braced her upper body and relaxed her legs, shifting weight between feet, ready to flinch. “I’m going to the village.” Tom replied.
 
-Nothing happened. Nothing happened for too long. Very quickly several more possible outcomes sprung to Toms mind; she was ready to dodge. But no, nothing. Tom chanced a gauging side glance towards Kim.
+Nothing happened. Nothing happened for too long. Very quickly several more possible outcomes sprung to Tom’s mind; she was ready to dodge. But no, nothing. Tom chanced a gauging side glance towards Kim.
 
 Kim walked a few steps then stopped to pick up a choice stick. A sturdy branch used the previous day by her brothers in high spirits. It was almost as tall as Tom. Kim held it as a staff vertically, it’s base on the floor. 
 
@@ -42,7 +42,7 @@ She strongly suspected they would fit whoever held them the same way they had fi
 
 The long walk (mostly in silence) gave Tom ample time to muse. Dreaming up scenarios starring jealous people at the village, an intuitive cry reminded her: be discrete. Progress along the south trail that morning was pleasant enough, but they pushed themselves hard with no stopping.
 
-The forest thinned and the trail became a road. It was afternoon by the time they could see the dotted buildings far in the distance. Two rolling hills to cross, they could be there before dark. They hurried to Toms fastest.
+The forest thinned and the trail became a road. It was afternoon by the time they could see the dotted buildings far in the distance. Two rolling hills to cross, they could be there before dark. They hurried to Tom’s fastest.
 
 By early afternoon the two had reached the village. Kim carried Tom piggy back for the last stretch and he was exhausted. Tom jumped down fidgeting her legs back to normal. With her feet on the ground and her legs becoming legs again she assessed their destination. They had been to this place recently, when fleeing the giants.
 
