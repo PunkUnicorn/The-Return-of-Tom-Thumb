@@ -1,24 +1,18 @@
 import sys
 from gtts import gTTS
+import io
 
 # START
-for line in sys.stdin:
-    if (line is None):
-        continue;
-    if (len(line) == 0):
-        continue;
-    word = ' '.join(line.split())
-    tts = gTTS(text=str(word) +' ', lang='en-GB')
-    try: 
-        #dumbFilename = 'The-Return-of-Tom-Thumb-temp.mp3'
-        with io.BytesIO() as f:
-            tts.save(dumbFilename)
-        #with open(dumbFilename, 'rb') as f:
-            f.flush()
-            stuff = bytes(f.read())
-            f.flush()
-            sys.stdout.write(stuff)
-            sys.stdout.flush()
+with io.BytesIO() as f:
+    for line in sys.stdin:
+        if (line is None):
+            continue;
+        if (len(line) == 0):
+            continue;
+        word = ' '.join(line.split())
+        tts = gTTS(text=str(word) +' ', lang='en-GB')
+        try: 
+            tts.write_to_fp(f)
         # dumbFilename = 'The-Return-of-Tom-Thumb-temp.mp3'
         # tts.save(dumbFilename)
         # with open(dumbFilename, 'rb') as f:
@@ -26,6 +20,12 @@ for line in sys.stdin:
             # f.flush()
             # sys.stdout.buffer.write(stuff)
             # sys.stdout.flush()
-    except:
-        continue;
+        except:
+            continue;
 
+    f.flush()
+    f.seek(0)
+    stuff = bytes(f.read())
+    with open('The-Return-of-Tom-Thumb-temp.mp3', 'wb') as save:
+        save.write(stuff)
+        save.flush()
