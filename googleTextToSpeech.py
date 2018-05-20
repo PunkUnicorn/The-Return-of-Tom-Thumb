@@ -13,13 +13,6 @@ with io.BytesIO() as f:
         tts = gTTS(text=word + '\n', lang='en-GB')
         try: 
             tts.write_to_fp(f)
-        # dumbFilename = 'The-Return-of-Tom-Thumb-temp.mp3'
-        # tts.save(dumbFilename)
-        # with open(dumbFilename, 'rb') as f:
-            # stuff = bytes(f.read())
-            # f.flush()
-            # sys.stdout.buffer.write(stuff)
-            # sys.stdout.flush()
         except:
             continue;
 

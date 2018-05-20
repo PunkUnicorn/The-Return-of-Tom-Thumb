@@ -18,6 +18,22 @@ Function Replace-FancyQuotes {
 	}
 }
 
+#
+# Destroy quote solution: 
+# https://stackoverflow.com/questions/6968270/replacing-smart-quotes-in-powershell
+#
+Function Destroy-FancyQuotes {
+	Process {
+		$fancySingleQuotes = "[\u2019\u2018]" 
+		$fancyDoubleQuotes = "[\u201C\u201D]" 		
+		%{ `
+			$_ = `
+			[regex]::Replace($_, $fancySingleQuotes, " ")
+			[regex]::Replace($_, $fancyDoubleQuotes, ' ') `
+		}
+	}
+}
+
 #`
 # Spellchecks chapter files by filename convention
 # Outputs test result messages and all the jazz
@@ -161,5 +177,5 @@ pandoc --css epubstyle.css `
   -o The-Return-of-Tom-Thumb.html
 	
 # Make the audio book (WIP)
-Get-Content -Path "The-Return-of-Tom-Thumb.txt" -Encoding UTF8 | Replace-FancyQuotes >test1.txt
+Get-Content -Path "The-Return-of-Tom-Thumb.txt" -Encoding UTF8 | Destroy-FancyQuotes >test1.txt
 cat test1.txt | python .\googleTextToSpeech.py 
