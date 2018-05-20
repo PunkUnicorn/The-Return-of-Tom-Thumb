@@ -122,24 +122,24 @@ Write-Output "...Prose - Final.md created"
 
 # Word counts
 $chapterName = "Chapter One"
-
 $chapterContent = Get-Content -Path "Prose - $chapterName*.md" -Encoding UTF8 | Replace-FancyQuotes | python wordcounter.py | ConvertFrom-Csv
 Write-Output $chapterContent
-
-Write-Output "Count of unique words, Sum of word occurrences, Maximum occurrence"
-Write-Output $chapterContent | Measure-Object Count -Sum -Maximum | Select Count, Sum, Maximum | fl
+Write-Output $chapterContent | Measure-Object Count -Sum -Maximum | Select Count, Sum, Maximum -Property `
+	@{Label="Unique word count";Expression={$_.Count}},
+	@{label="Word count";Expression={{$_.Sum}},
+	@{label="Maximum occurrence";Expression={{$_.Maximum}} | fl
 
 # Thesaurus look up
 # Hint! $chapterContent has three columns: Word, Count, Percent
 Write-Output $chapterContent | `
-	? { $_.Count -gt 2} `
-	? { $_Word.length -gt 2 } ` 
+	? { $_.Count -gt 2} | `
+	? { $_Word.length -gt 2 } | ` 
 	Select Word | `
 	python theasaurus.py | `
 	ConvertFrom-Csv 
 
+# Stop mucking about, make the book
 
-# Stop mucking about and make the book
 pandoc --version
 pandoc --css epubstyle.css `
   "title.md" `
