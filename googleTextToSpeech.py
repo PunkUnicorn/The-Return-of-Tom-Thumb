@@ -3,7 +3,6 @@ from gtts import gTTS
 import io
 
 # START
-first=True
 saveFilename = 'audio.mp3'
 debugFilename = ''
 if len(sys.argv) > 2: # -o <output filename.mp3>
@@ -19,11 +18,7 @@ with io.BytesIO() as f:
         if (len(line) == 0):
             continue;
             
-        word = ' '.join(line.split())
-        if (first):
-            word = "  " + word
-            first=False
-            
+        word = '   ' + ' '.join(line.split())
         if len(debugFilename) > 0:
             with open(debugFilename, 'a') as debugFile:
                 debugFile.write(word)
