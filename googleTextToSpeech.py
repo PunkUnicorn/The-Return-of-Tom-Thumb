@@ -19,7 +19,7 @@ with io.BytesIO() as f:
         word = ' '.join(line.split())
         
         if len(debugFilename) > 0:
-            with open(debugFilename, 'a') as debugFile
+            with open(debugFilename, 'a') as debugFile:
                 debugFile.write(word)
                 
         tts = gTTS(text=word + '\n', lang='en-GB')
