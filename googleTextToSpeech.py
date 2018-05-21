@@ -5,7 +5,7 @@ import io
 # START
 saveFilename = 'audio.mp3'
 if len(sys.argv) == 3:
-    saveFilename = sys.argv[2]
+    saveFilename = str(sys.argv[2])
 
 with io.BytesIO() as f:
     for line in sys.stdin:
