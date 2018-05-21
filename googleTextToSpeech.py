@@ -3,6 +3,10 @@ from gtts import gTTS
 import io
 
 # START
+saveFilename = 'audio.mp3'
+if len(sys.argv) == 3:
+    saveFilename = sys.argv[2]
+
 with io.BytesIO() as f:
     for line in sys.stdin:
         if (line is None):
@@ -19,6 +23,6 @@ with io.BytesIO() as f:
     f.flush()
     f.seek(0)
     stuff = bytes(f.read())
-    with open('The-Return-of-Tom-Thumb.mp3', 'wb') as save:
+    with open(saveFilename, 'wb') as save:
         save.write(stuff)
         save.flush()

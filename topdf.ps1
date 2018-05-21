@@ -137,7 +137,8 @@ $chapterWordCount | `
 $chapterWordCount | Measure-Object Count -Sum -Maximum | Select -Property `
 	@{Label="Unique word count";Expression={$_.Count}}, 
 	@{label="Word count";Expression={$_.Sum}}, 
-	@{label="Maximum occurrence of any word";Expression={$_.Maximum}} | fl
+	@{label="Maximum occurrence of any word";Expression={$_.Maximum}} | fl #`
+
 
 $chapterWordHints = $chapterWordCount | `
 	Where { $_.Count -gt 1 } | `
@@ -148,7 +149,7 @@ $chapterWordHints = $chapterWordCount | `
 	
 Write-Output $chapterWordHints 
 
-# End of superfluous mucking about
+# End of superfluous mucking about `
 
 
 # Make the book
@@ -160,7 +161,7 @@ cat "Prose - Chapter One1.md",
 		"Prose - Chapter One2.md", 
 		"Prose - Chapter One3.md", 
 		"Prose - Chapter Two1.md", 
-		"Prose - Blank line.md" | sc "The-Return-of-Tom-Thumb.md"
+		"Prose - Blank line.md" | sc "The-Return-of-Tom-Thumb.md" #`
 Get-Content "The-Return-of-Tom-Thumb.md" -Encoding UTF8 | Replace-FancyQuotes | Out-File "The-Return-of-Tom-Thumb.txt" -Encoding UTF8 -Append
 Write-Output "...The-Return-of-Tom-Thumb.md created"
 
@@ -178,4 +179,4 @@ pandoc --css epubstyle.css `
 	
 # Make the audio book (WIP)
 Get-Content -Path "The-Return-of-Tom-Thumb.txt" -Encoding UTF8 | Destroy-FancyQuotes >test1.txt
-cat test1.txt | python .\googleTextToSpeech.py 
+cat test1.txt | python .\googleTextToSpeech.py -o The-Return-of-Tom-Thum.mp3
