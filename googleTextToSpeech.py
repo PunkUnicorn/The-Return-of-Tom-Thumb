@@ -18,7 +18,7 @@ with io.BytesIO() as f:
         if (len(line) == 0):
             continue;
             
-        word = '   ' + ' '.join(line.split())
+        word = '  ' + ' '.join(line.split()) + '  '
         if len(debugFilename) > 0:
             with open(debugFilename, 'a') as debugFile:
                 debugFile.write(word)
