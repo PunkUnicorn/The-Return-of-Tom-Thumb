@@ -54,7 +54,7 @@ Tom was sure she had answered this already. “I want to sell it.”
 
 Kim stopped but kept his grip on Tom, her jumper stretching as she turned to Jack: “I’ve got three.”
 
-“Ah!” said Jack as if this changed everything. “Three! why didn’t you say so?”   
+“Ah!” said Jack as if this changed everything. “Three! why didn’t you say so?”
 
 Kim was not convinced. Without hesitation he turned away, pulling Tom with him.  
 
