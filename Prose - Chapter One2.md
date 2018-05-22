@@ -34,7 +34,7 @@ Nothing happened. Nothing happened for too long. Very quickly several more possi
 
 Kim walked a few steps then stopped to pick up a choice stick. A sturdy branch used the previous day by her brothers in high spirits. It was almost as tall as Tom. Kim held it as a staff vertically, it’s base on the floor. 
 
-Leaning his weight twice, the staff held. He started walking towards the south trail. “You’re a stupid sod.” he muttered. After a few more steps he inclined his head towards Tom: “Are you coming then?”
+Leaning his weight twice, the staff held. He started walking towards the south trail. “You’re a stupid sod.” he muttered. After a few more steps he inclined his head towards Tom: “Are you coming then?”.
 
 The south trail was easy in comfortable boots. Kim had father’s hand-me-downs which were only second generation. They looked more or less like normal old boots. Tom’s pair looked new, but obviously too small for anyone other than her and her tiny frame. Early on she had relied on this to stave off others desires on the boots.
 
