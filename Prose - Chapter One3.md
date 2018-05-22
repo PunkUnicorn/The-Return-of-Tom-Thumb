@@ -50,7 +50,7 @@ Tom was sure she had answered this already. “I want to sell it.”
 
 “Come on.” said Kim and took firm steps towards the greater village hubbub, his hand grabbing Tom.
 
-“No, wait!” burst Jack, his interest in the pip confirmed.
+“No!" burst Jack, "Wait!", his interest in the pip confirmed.
 
 Kim stopped but kept his grip on Tom, her jumper stretching as she turned to Jack: “I’ve got three.”
 
