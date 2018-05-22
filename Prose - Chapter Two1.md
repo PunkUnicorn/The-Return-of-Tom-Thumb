@@ -21,7 +21,7 @@ On hearing the boy talk about the smart boots 'going fast' he was more than curi
 
 Using the remaining light to see ahead, the long road north looked sparse. Also he reckoned it was more bitterly cold. Also he had heard it was dangerous further up. As he walked he made a choice: he would stop, turn around and head back south from where he came. It had been a long venture, starting the previous spring. The months spent travelling north had reached their conclusion. 
 
-So he slowed his steps. He could hear the two with the cow arguing: the girl didn't want to get lost in the forest, the boy wanted to get home; The girl said the boots didn't work like that, the boy getting a little frustrated. Her final gambit: to pleed caution, for fear of getting lost. The boy seeming to be swayed. They stopped talking. 
+So he slowed his steps. He could hear the two with the cow arguing: the girl didn't want to get lost in the forest, the boy wanted to get home; The girl said the boots didn't work like that, the boy getting a little frustrated. Her final gambit: to plead caution, for fear of getting lost. The boy seeming to be swayed. They stopped talking. 
 
 Our travelling man turned around. He could see the two were still there, he was behind them. The cow did face him however.
 
@@ -29,4 +29,4 @@ He took a few steps towards them. They were silent. He stopped slightly too far 
 
 “Greetings.” he said smiling shyly, more shyly than his snappy clothes and confident posture would have suggested.
 
-"Hello." Tom beemed. Kim stayed silent.
+"Hello." Tom beamed. Kim stayed silent.
