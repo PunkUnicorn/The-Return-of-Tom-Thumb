@@ -1,6 +1,6 @@
 While she was at the apple Tom scooped a handful of apple flesh then walked towards the house. She paused to finish eating, gobbling messy mouthfuls. The door latch caught Tom’s attention: a mangled, rusted wreck that had once been a latch. But Tom had never seen it any other way. The latch on the giants door was the first functioning one she had seen. 
 
-Eating her hands clean she wondered if her mangled latch could be bent back into shape. Then shadows of anxiety arrived remembering how others would react. 
+Licking her hands clean she wondered if her mangled latch could be bent back into shape. Then shadows of anxiety arrived remembering how others would react. 
 
 And now aware of her family behind the door defensive instincts pulled her back: stay unnoticed, be invisible: don’t change the latch. Tom closed her mind, stiffened her muscles and pulled the heavy door open.
 
