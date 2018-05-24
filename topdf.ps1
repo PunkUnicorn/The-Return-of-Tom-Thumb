@@ -107,7 +107,7 @@ Function Thesaurunocerous-Chapter($chapterName, $wordsFilename) {
 			-Category "$($_.Status)" 
 		}	
 	Write-Output "$chapterName Thesaurunocerous end!"	
-	
+}	
 	
 #
 # Word analysis chapter files by filename convention
