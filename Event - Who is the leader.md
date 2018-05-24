@@ -4,32 +4,17 @@
 
 The Knight is not pompous. He objectively shares his perspective that he's the leader of the group. 
 
-Red says: 
-> "Uh excuse me, I'm the leader."
+Red says: "Uh excuse me, I'm the leader."
 
-Tom says:
-> "I'm following him" 
+Tom says: "I'm following him...", nodding towards The Tailor.
 
-...nodding towards The Tailor.
+The Tailor fumbles: "Whu?", gathers his composure quickly: "I'm not leading anyone!". He turns back to Tom: "This is your adventure."
 
-The Tailor says: 
-> "Whu? I'm not leading anyone!" 
+Tom quirks her eyebrows defensively. She has no sense or desire for authoritative power.
 
-He turns back to Tom:
-> "This is your adventure."
+The  Knight joins the conversation observing: "Hmm, well, perhaps we have no branched structure here? Perhaps the idea of a leader, as such, does not fit our situation?". The Knight is silent, deep in thought. His brow furried; readjusting something, looking for the structure.
 
-Tom quirks her eyebrows defensively; she has no sense or desire for authoritative power.
-
-The  Knight observes: 
-> "Hmm well perhaps we have no branched structure here? Perhaps the idea of a leader, as such, does not fit our situation?"
-
-The Knight is silent, deep in thought. His brow furried; readjusting something, looking for the structure.
-
-There's a pause. Red says:
-
-> "I was right the first time."
-
-> "Yeah, and it's my adventure."
+There's a pause. Red says: "I was right the first time.", then a shorter pause: "And it's my adventure."
 
 
 Summary:
