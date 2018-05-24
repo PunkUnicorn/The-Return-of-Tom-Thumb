@@ -28,14 +28,13 @@ Function Destroy-Quotes {
 		%{ `
 			$_ = `
 			[regex]::Replace($_, $fancySingleQuotes, " ")
-			[regex]::Replace($_, $fancyDoubleQuotes, ' ') 
-			[regex]::Replace($_, "'", " ")
-			[regex]::Replace($_, '"', ' ') `
+			[regex]::Replace($_, $fancyDoubleQuotes, ' ') ` #`
+			#[regex]::Replace($_, "'", " ")
+			#[regex]::Replace($_, '"', ' ') 
 		}
 	}
 }
 
-#`
 # Spellchecks chapter files by filename convention
 # Outputs test result messages and all the jazz
 #
