@@ -23,10 +23,12 @@ Function Replace-FancyQuotes {
 #
 Function Destroy-Quotes {
 	Process {
-		$fancyDoubleQuotes = "[\u201C\u201D]"
+		$fancySingleQuotes = "[\u2019\u2018]" 
+		$fancyDoubleQuotes = "[\u201C\u201D]" 		
 		%{ `
-			$_ = `  
-			[regex]::Replace($_, $fancyDoubleQuotes, ' ') ` 
+			$_ = `
+			[regex]::Replace($_, $fancySingleQuotes, " ")
+			[regex]::Replace($_, $fancyDoubleQuotes, ' ') `
 		}
 	}
 }
