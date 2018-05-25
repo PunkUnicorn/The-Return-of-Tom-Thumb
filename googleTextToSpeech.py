@@ -23,7 +23,7 @@ with io.BytesIO() as f:
             with open(debugFilename, 'a') as debugFile:
                 debugFile.write(word)
                 
-        tts = gTTS(text=word + '\n', lang='en-IE') #https://cloud.google.com/speech-to-text/docs/languages  en-GB
+        tts = gTTS(text=word + '\n', lang='de-DE') #https://cloud.google.com/speech-to-text/docs/languages  en-GB
         try: 
             tts.write_to_fp(f)
         except:
