@@ -23,10 +23,11 @@ Function Replace-FancyQuotes {
 #
 Function Destroy-Quotes {
 	Process {
-		$doubleQuotes = '[\u201C\u201D"]'
+		$fancyDoubleQuotes = "[\u201C\u201D]"
 		%{ `
 			$_ = `  
-			[regex]::Replace($_, $doubleQuotes, ' ') ` 
+			[regex]::Replace($_, '"', $fancyDoubleQuotes)
+			[regex]::Replace($_, $fancyDoubleQuotes, ' ') ` 
 		}
 	}
 }
