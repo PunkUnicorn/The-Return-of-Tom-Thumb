@@ -23,14 +23,12 @@ Function Replace-FancyQuotes {
 #
 Function Destroy-Quotes {
 	Process {
-		$fancySingleQuotes = "[\u2019\u2018]" 
-		$fancyDoubleQuotes = "[\u201C\u201D]" 		
+		$singleQuotes = "[\u2019\u2018']" 
+		$doubleQuotes = '[\u201C\u201D"]'
 		%{ `
 			$_ = `
-			[regex]::Replace($_, $fancySingleQuotes, " ")
-			[regex]::Replace($_, $fancyDoubleQuotes, ' ') ` #`
-			#[regex]::Replace($_, "'", " ")
-			#[regex]::Replace($_, '"', ' ') 
+			[regex]::Replace($_, $singleQuotes, " ")
+			[regex]::Replace($_, $doubleQuotes, ' ') ` #`
 		}
 	}
 }
@@ -70,7 +68,7 @@ Function Spellcheck-Chapter($chapterName, $spellingFailFilename) {
 			-Name "Spelling" `
 			-Framework NUnit `
 			-Filename $chapterName `
-			-ErrorMessage "All passed" `
+			-ErrorMessage "All passed" ` #`
 			-Outcome "Passed"
 			
 		Write-Output "No spelling errors"		
@@ -125,15 +123,15 @@ Function WordAnalysis-Chapter($chapterName) {
 	$chapterWordCount | `
 		Where { $_.Count -gt 1 } | `
 		Where { $_.Length -gt 2 }	
-	$chapterWordCount | Measure-Object Count -Sum -Maximum | Select -Property `
+	$chapterWordCount | Measure-Object Count -Sum -Maximum | Select -Property ` #`
 		@{Label="Unique word count";Expression={$_.Count}}, 
 		@{label="Word count";Expression={$_.Sum}}, 
-		@{label="Maximum occurrence of any word";Expression={$_.Maximum}} | fl #`
+		@{label="Maximum occurrence of any word";Expression={$_.Maximum}} | fl
 	$chapterWordHints = $chapterWordCount | `
 		Where { $_.Count -gt 1 } | `
 		Where { $_.Length -gt 2 } | `
 		foreach { $_.Word } | `
-		python theasaurus.py | `
+		python theasaurus.py | ` #`
 		ConvertFrom-Csv
 	Write-Output $chapterWordHints 
 	Write-Output "$chapterName WordAnalysis ends!"
@@ -147,7 +145,6 @@ Spellcheck-Chapter "Chapter One" "Chapter-One-Spelling.txt"
 Spellcheck-Chapter "Chapter Two" "Chapter-Two-Spelling.txt"
 Write-Output "Spelling Ends"
 
-
 # word counts and Thesaurus
 Write-Output "Thesaurunocerous Starts"
 Thesaurunocerous-Chapter "Chapter One" "Chapter-One-Words.txt"
@@ -156,41 +153,18 @@ Write-Output "Thesaurunocerous Ends"
 # word analysis
 WordAnalysis-Chapter "Chapter One" | Out-File "Chapter-One-Words.txt" -Append
 
-# Superfluous mucking about
-# Word counts
-#$chapterName = "Chapter One"
-#$chapterContent = Get-Content -Path "Prose - $chapterName*.md" -Encoding UTF8 | Replace-FancyQuotes 
-#$chapterWordCount = $chapterContent | python wordcounter.py | ConvertFrom-Csv # Four columns: Word, Length, Count, Percent
-#$chapterWordCount | `
-#	Where { $_.Count -gt 1 } | `
-#	Where { $_.Length -gt 2 }	
-#$chapterWordCount | Measure-Object Count -Sum -Maximum | Select -Property `
-#	@{Label="Unique word count";Expression={$_.Count}}, 
-#	@{label="Word count";Expression={$_.Sum}}, 
-#	@{label="Maximum occurrence of any word";Expression={$_.Maximum}} | fl #`
-#
-#
-#$chapterWordHints = $chapterWordCount | `
-#	Where { $_.Count -gt 1 } | `
-#	Where { $_.Length -gt 2 } | `
-#	foreach { $_.Word } | `
-#	python theasaurus.py | `
-#	ConvertFrom-Csv
-#	
-#Write-Output $chapterWordHints 
-# End of superfluous mucking about `
-
-
 # Make the book
+#
 # pandoc seems to get upset with chapter two at the top of a new file
 # pandoc really really likes a blank line at the end!!! It can be funny on some readers without
+#
 Write-Output "Combining files ..."
 Write-output `n | Out-File "Prose - Blank line.md" -Append
 cat "Prose - Chapter One1.md", 
 		"Prose - Chapter One2.md", 
 		"Prose - Chapter One3.md", 
 		"Prose - Chapter Two1.md", 
-		"Prose - Blank line.md" | sc "The-Return-of-Tom-Thumb.md" #`
+		"Prose - Blank line.md" | sc "The-Return-of-Tom-Thumb.md" 
 Get-Content "The-Return-of-Tom-Thumb.md" -Encoding UTF8 | Replace-FancyQuotes | Out-File "The-Return-of-Tom-Thumb.txt" -Encoding UTF8 -Append
 Write-Output "...The-Return-of-Tom-Thumb.md and The-Return-of-Tom-Thumb.txt created"
 
@@ -213,5 +187,9 @@ Write-Output "... made The-Return-of-Tom-Thumb.html..."
 Get-Content -Path "The-Return-of-Tom-Thumb.txt" -Encoding UTF8 | Destroy-Quotes >test1.txt
 cat test1.txt | python .\googleTextToSpeech.py -o The-Return-of-Tom-Thumb.mp3 -d The-Return-of-Tom-Thumb.mp3.log
 Write-Output "... made The-Return-of-Tom-Thumb.mp3 and The-Return-of-Tom-Thumb.mp3.log..."
+
+Get-Content -Path "gTTS_debug.txt" -Encoding UTF8 | Destroy-Quotes >test2.txt
+cat test2.txt | python .\googleTextToSpeech.py -o testymctestface.mp3 -d The-Return-of-Tom-Thumb.mp3.log
+
 Write-Output "Finished!"
 Write-Output "woos awesum YO'UR AWSUM"

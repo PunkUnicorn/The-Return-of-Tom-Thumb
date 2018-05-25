@@ -39,4 +39,7 @@ artifacts:
   - path: The-Return-of-Tom-Thumb.mp3.log
     name: is_book_yeah_mp3_log
     type: file
+  - path: testymctestface.mp3
+    name: testy_mc_testface
+    type: file
     
