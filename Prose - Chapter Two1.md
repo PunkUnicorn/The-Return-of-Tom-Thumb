@@ -3,7 +3,7 @@
 
 Kim held the tether of the cow. Tom waved Jack farewell, who was keen to depart after the transaction. Tom wished Jack had been more social instead of hurrying off. She felt dissatisfied.
 
-Tom scanned the village hoping to see something that would cascade her enthusiasm. The sun was lower in the sky and the crowds had thinned; the day was retiring. She had sold the pips, there was no reason left to stay.
+Tom scanned the village hoping to see something that would cascade her enthusiasm. However, the sun was lower in the sky and the crowds had thinned; the day was retiring. She had sold the pips, there was no reason left to stay.
 
 “We'd better head back.” suggested Kim.
 
