@@ -26,7 +26,6 @@ Function Destroy-Quotes {
 		$fancyDoubleQuotes = "[\u201C\u201D]"
 		%{ `
 			$_ = `  
-			[regex]::Replace($_, '"', $fancyDoubleQuotes)
 			[regex]::Replace($_, $fancyDoubleQuotes, ' ') ` 
 		}
 	}
@@ -186,9 +185,6 @@ Write-Output "... made The-Return-of-Tom-Thumb.html..."
 Get-Content -Path "The-Return-of-Tom-Thumb.txt" -Encoding UTF8 | Destroy-Quotes >test1.txt
 cat test1.txt | python .\googleTextToSpeech.py -o The-Return-of-Tom-Thumb.mp3 -d The-Return-of-Tom-Thumb.mp3.log
 Write-Output "... made The-Return-of-Tom-Thumb.mp3 and The-Return-of-Tom-Thumb.mp3.log..."
-
-#Get-Content -Path "gTTS_debug.txt" -Encoding UTF8 | Destroy-Quotes >test2.txt
-cat gTTS_debug.txt | python .\googleTextToSpeech.py -o testymctestface.mp3 -d The-Return-of-Tom-Thumb.mp3.log
 
 Write-Output "Finished!"
 Write-Output "woos awesum YO'UR AWSUM"
