@@ -27,6 +27,23 @@ Our travelling man turned around. He could see the two were still there, he was 
 
 He took a few steps towards them. They were silent. He stopped slightly too far away from them; giving them adequate space. With a polite cough he introduced his presents. They turned around. The man bowed slightly, moderately spread his hands as a gesture of openness. 
 
-“Greetings.” he said smiling shyly, more shyly than his snappy clothes and confident posture would have suggested.
+“Greetings.” he said smiling shyly, more shyly than his snappy clothes and confident posture would suggest.
 
 "Hello." Tom beamed. Kim stayed silent.
+
+"Could, I... possibly ask you... one hundred billion things?" the well dressed man continued, begging as much as composure would allow.
+
+Tom laughed; this smart, handsome figure fooling around. Kim snorted out enough to give away he found it funny.
+
+"Firstly," continued the man, "please allow me to introduce myself: I am a humble tailor." and he bowed slightly.
+
+"I'm Tom. A tailor? Do you really want to ask questions?"
+
+The Tailor took a step forward, nodded to confirm, "Yes." He paused. "If I could ask one thing that I am curious about: did you buy that cow off that lad Jack?"
+
+Tom was proud of buying the cow; an achievement: "Yes." but she noticed The Tailor was concerned: "Why?".
+
+The Tailor looked at Tom's eyes with regret: "All day Jack was asking a rather high price.", but Tom did not understand. The Tailor seemed to notice, breaking the slight pause by continuing: "I wondered if...  would you share how much the cow cost you?". The Tailor was aware this was a rude question, but felt concern for the pair if Jack had swindled them.
+
+"Three apple pips." shrugged Tom. The Tailor was confused but after questions he understood: they were from a giant apple. Tom would not share where the apple came from. More than that, she seemed to shut down; shrinking away. The Tailor had to divert the conversation to something else.
+
