@@ -68,7 +68,7 @@ Function Spellcheck-Chapter($chapterName, $spellingFailFilename) {
 			-Name "Spelling" `
 			-Framework NUnit `
 			-Filename $chapterName `
-			-ErrorMessage "All passed" ` #`
+			-ErrorMessage "All passed" `
 			-Outcome "Passed"
 			
 		Write-Output "No spelling errors"		
@@ -123,7 +123,7 @@ Function WordAnalysis-Chapter($chapterName) {
 	$chapterWordCount | `
 		Where { $_.Count -gt 1 } | `
 		Where { $_.Length -gt 2 }	
-	$chapterWordCount | Measure-Object Count -Sum -Maximum | Select -Property ` #`
+	$chapterWordCount | Measure-Object Count -Sum -Maximum | Select -Property `
 		@{Label="Unique word count";Expression={$_.Count}}, 
 		@{label="Word count";Expression={$_.Sum}}, 
 		@{label="Maximum occurrence of any word";Expression={$_.Maximum}} | fl
