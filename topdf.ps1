@@ -23,11 +23,9 @@ Function Replace-FancyQuotes {
 #
 Function Destroy-Quotes {
 	Process {
-		$singleQuotes = "[\u2019\u2018']" 
 		$doubleQuotes = '[\u201C\u201D"]'
 		%{ `
-			$_ = `
-			#[regex]::Replace($_, $singleQuotes, " ")
+			$_ = `  
 			[regex]::Replace($_, $doubleQuotes, ' ') ` 
 		}
 	}
