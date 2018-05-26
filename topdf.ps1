@@ -158,19 +158,17 @@ WordAnalysis-Chapter "Chapter Two" | Out-File "Chapter-Two-Words.txt" -Append
 
 Write-Output "Thesaurunocerous Ends"
 
-
-Get-Content -Path "thetailor.txt" -Encoding UTF8 
-
 # Make the book
 #
 # pandoc seems to get upset with chapter two at the top of a new file
 # pandoc really really likes a blank line at the end!!! It can be funny on some readers without
 # ^ I'm just not really sure any more. With the blank line, it still goes funny
 #
-Write-Output "Combining files ..."
+Get-Content -Path "thetailor.txt" -Encoding UTF8 
 Write-output `n | Out-File "Prose - Blank line.md" -Append
+Write-Output "Markdown media transformation ..."
 cat "Prose - Chapter One1.md", 
-        "Prose - Blank line.md",
+		"Prose - Blank line.md",
 		"Prose - Chapter One2.md",
 		"Prose - Blank line.md",
 		"Prose - Chapter One3.md", 
@@ -180,7 +178,13 @@ cat "Prose - Chapter One1.md",
 Get-Content "The-Return-of-Tom-Thumb.md" -Encoding UTF8 | Replace-FancyQuotes | Out-File "The-Return-of-Tom-Thumb.txt" -Encoding UTF8 -Append
 Write-Output "...The-Return-of-Tom-Thumb.md and The-Return-of-Tom-Thumb.txt created"
 
-Write-Output "Combining books ..."
+Write-Output "... inserting build version into title.md"
+cat title.md, "Prose - Blank line.md" | sc title.md
+Append-Content -Path "title.md" -Value env:APPVEYOR_BUILD_NUMBER
+cat title.md, "Prose - Blank line.md" | sc title.md
+Append-Content -Path "title.md" -Value env:APPVEYOR_BUILD_VERSION
+
+Write-Output "... creating books"
 pandoc --version
 pandoc --css epubstyle.css `
   "title.md" `
@@ -206,5 +210,3 @@ cat test1.txt | python .\googleTextToSpeech.py -o testymctestface.mp3
 Write-Output "... made The-Return-of-Tom-Thumb.mp3 and The-Return-of-Tom-Thumb.mp3.log..."
 
 Write-Output "Finished!"
-Write-Output "YOUR AWSUM"
-
