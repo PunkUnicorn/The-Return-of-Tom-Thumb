@@ -179,22 +179,22 @@ Get-Content "The-Return-of-Tom-Thumb.md" -Encoding UTF8 | Replace-FancyQuotes | 
 Write-Output "...The-Return-of-Tom-Thumb.md and The-Return-of-Tom-Thumb.txt created"
 
 Write-Output "... inserting build version into title.md"
-cat title.md, "Prose - Blank line.md" | sc title.md
-Append-Content -Path "title.md" -Value env:APPVEYOR_BUILD_NUMBER
-cat title.md, "Prose - Blank line.md" | sc title.md
-Append-Content -Path "title.md" -Value env:APPVEYOR_BUILD_VERSION
+cat title.md, "Prose - Blank line.md" | sc title2.md
+Add-Content -Path "title.md" -Value env:APPVEYOR_BUILD_NUMBER
+cat title2.md, "Prose - Blank line.md" | sc title2.md
+Add-Content -Path "title2.md" -Value env:APPVEYOR_BUILD_VERSION
 
 Write-Output "... creating books"
 pandoc --version
 pandoc --css epubstyle.css `
-  "title.md" `
+  "title2.md" `
   "The-Return-of-Tom-Thumb.md" `
   -o The-Return-of-Tom-Thumb.epub
 Write-Output "... made The-Return-of-Tom-Thumb.epub..."
 
 #html version
 pandoc --css epubstyle.css `
-  "title.md" `
+  "title2.md" `
   "The-Return-of-Tom-Thumb.txt" `
   -o The-Return-of-Tom-Thumb.html
 Write-Output "... made The-Return-of-Tom-Thumb.html..."
