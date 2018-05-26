@@ -192,4 +192,4 @@ cat test1.txt | python .\googleTextToSpeech.py -o The-Return-of-Tom-Thumb.mp3 -d
 Write-Output "... made The-Return-of-Tom-Thumb.mp3 and The-Return-of-Tom-Thumb.mp3.log..."
 
 Write-Output "Finished!"
-Write-Output "woos awesum YO'UR AWSUM"
+Write-Output "YOUR AWSUM"
