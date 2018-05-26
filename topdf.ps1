@@ -44,7 +44,6 @@ Function Spellcheck-Chapter($chapterName, $spellingFailFilename) {
 	$chapterSpelling 
 	
 	,$chapterSpelling | Where {$_.Length -gt 0 } | ForEach { $_ } | `
-		Where {$_.Length -gt 0 } |`
 		Out-File -FilePath $spellingFailFilename -Append
 	
 	$chapterSpelling | `
