@@ -160,11 +160,11 @@ WordAnalysis-Chapter "Chapter One" | Out-File "Chapter-One-Words.txt" -Append
 #
 Write-Output "Combining files ..."
 Write-output `n | Out-File "Prose - Blank line.md" -Append
-cat "Prose - Chapter One1.md", 
+Get-Content "Prose - Chapter One1.md", 
 		"Prose - Chapter One2.md", 
 		"Prose - Chapter One3.md", 
 		"Prose - Chapter Two1.md", 
-		"Prose - Blank line.md" | sc "The-Return-of-Tom-Thumb.md" 
+		"Prose - Blank line.md" -Encoding UTF8 | sc "The-Return-of-Tom-Thumb.md" 
 Get-Content "The-Return-of-Tom-Thumb.md" -Encoding UTF8 | Replace-FancyQuotes | Out-File "The-Return-of-Tom-Thumb.txt" -Encoding UTF8 -Append
 Write-Output "...The-Return-of-Tom-Thumb.md and The-Return-of-Tom-Thumb.txt created"
 

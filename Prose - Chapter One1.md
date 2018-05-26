@@ -1,4 +1,3 @@
-
 # Chapter One
 
 Tom Thumb had been back home for several nights.
