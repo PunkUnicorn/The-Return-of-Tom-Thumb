@@ -43,7 +43,9 @@ Function Spellcheck-Chapter($chapterName, $spellingFailFilename) {
 	$chapterSpelling = $chapter | Replace-FancyQuotes | python spellchecker.py | ConvertFrom-Csv
 	$chapterSpelling 
 	
-	,$chapterSpelling  | Where {$_.Length -gt 0 } | ForEach { $_ } | Out-File -FilePath $spellingFailFilename -Append
+	,$chapterSpelling | Where {$_.Length -gt 0 } | ForEach { $_ } | `
+		Where {$_.Length -gt 0 } |`
+		Out-File -FilePath $spellingFailFilename -Append
 	
 	$chapterSpelling | `
 		%{ Add-AppveyorTest `
