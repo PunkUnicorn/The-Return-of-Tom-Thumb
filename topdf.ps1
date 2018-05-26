@@ -156,6 +156,9 @@ WordAnalysis-Chapter "Chapter Two" | Out-File "Chapter-Two-Words.txt" -Append
 
 Write-Output "Thesaurunocerous Ends"
 
+
+Get-Content -Path "thetailor.txt" -Encoding UTF8 
+
 # Make the book
 #
 # pandoc seems to get upset with chapter two at the top of a new file
