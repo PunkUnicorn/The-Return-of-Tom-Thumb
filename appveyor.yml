@@ -1,4 +1,5 @@
 install:
+  - ps: cat "theknight.txt"
   - cinst pandoc
   - python -m pip install --upgrade pip #for spelling and theasurus
   - pip install -U pyenchant #for spelling
@@ -13,12 +14,15 @@ test_script:
 
 artifacts:
   - path: Chapter-Two-Spelling.txt
-    name: spelling-errors-two
+    name: spelling-errors
     type: file
   - path: Chapter-One-Spelling.txt
-    name: spelling-errors-one
+    name: spelling-errors
     type: file
   - path: Chapter-One-Words.txt
+    name: word-matix
+    type: file
+  - path: Chapter-Two-Words.txt
     name: word-matix
     type: file
   - path: The-Return-of-Tom-Thumb.epub
