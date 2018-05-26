@@ -145,18 +145,22 @@ Spellcheck-Chapter "Chapter One" "Chapter-One-Spelling.txt"
 Spellcheck-Chapter "Chapter Two" "Chapter-Two-Spelling.txt"
 Write-Output "Spelling Ends"
 
-# word counts and Thesaurus
+# word counts, thesaurus and word analysis
 Write-Output "Thesaurunocerous Starts"
-Thesaurunocerous-Chapter "Chapter One" "Chapter-One-Words.txt"
-Write-Output "Thesaurunocerous Ends"
 
-# word analysis
+Thesaurunocerous-Chapter "Chapter One" "Chapter-One-Words.txt"
 WordAnalysis-Chapter "Chapter One" | Out-File "Chapter-One-Words.txt" -Append
+
+Thesaurunocerous-Chapter "Chapter One" "Chapter-Two-Words.txt"
+WordAnalysis-Chapter "Chapter Two" | Out-File "Chapter-Two-Words.txt" -Append
+
+Write-Output "Thesaurunocerous Ends"
 
 # Make the book
 #
 # pandoc seems to get upset with chapter two at the top of a new file
 # pandoc really really likes a blank line at the end!!! It can be funny on some readers without
+# ^ I'm just not really sure any more. With the blank line, it still goes funny
 #
 Write-Output "Combining files ..."
 Write-output `n | Out-File "Prose - Blank line.md" -Append
@@ -187,8 +191,13 @@ pandoc --css epubstyle.css `
 Write-Output "... made The-Return-of-Tom-Thumb.html..."
 	
 # Make the audio book (WIP)
+
 Get-Content -Path "The-Return-of-Tom-Thumb.txt" -Encoding UTF8 | Destroy-Quotes >test1.txt
 cat test1.txt | python .\googleTextToSpeech.py -o The-Return-of-Tom-Thumb.mp3 -d The-Return-of-Tom-Thumb.mp3.log
+
+Get-Content -Path "gTTS_debug.txt" -Encoding UTF8 | Destroy-Quotes >test1.txt
+cat test1.txt | python .\googleTextToSpeech.py -o testymctestface.mp3
+
 Write-Output "... made The-Return-of-Tom-Thumb.mp3 and The-Return-of-Tom-Thumb.mp3.log..."
 
 Write-Output "Finished!"
