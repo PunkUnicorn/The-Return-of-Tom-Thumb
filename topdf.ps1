@@ -179,9 +179,9 @@ Write-Output "...The-Return-of-Tom-Thumb.md and The-Return-of-Tom-Thumb.txt crea
 
 Write-Output "... inserting build version into title.md"
 cat title.md, "Prose - Blank line.md" | sc title2.md
-Add-Content -Path "title.md" -Value env:APPVEYOR_BUILD_NUMBER
+Add-Content -Path "title.md" -Value $env:APPVEYOR_BUILD_NUMBER
 cat title2.md, "Prose - Blank line.md" | sc title3.md
-Add-Content -Path "title3.md" -Value env:APPVEYOR_BUILD_VERSION
+Add-Content -Path "title3.md" -Value $env:APPVEYOR_BUILD_VERSION
 
 Write-Output "... creating books"
 pandoc --version
