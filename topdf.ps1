@@ -63,9 +63,9 @@ Function Spellcheck-Chapter($chapterName, $spellingFailFilename) {
 			-Category "Error" 
 		}
 
-	$spellingResults = $null;
-	$spellingResults = Get-Content -Path $spellingFailFilename 
-	If ($spellingResults -eq $null) {
+	#$spellingResults = $null;
+	#$spellingResults = Get-Content -Path $spellingFailFilename -Encoding UTF8 | ConvertTo-Csv 
+	If ($chapterSpelling.Length -eq 0) {
 		Add-AppveyorTest `
 			-Name "Spelling" `
 			-Framework NUnit `
