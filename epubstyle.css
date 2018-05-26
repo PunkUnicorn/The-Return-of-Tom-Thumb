@@ -1,6 +1,6 @@
 /* This defines styles and classes used in the book */
 body { margin: 5%; text-align: justify; font-size: medium; }
-p { text-indent: 1em; }
+p { text-indent: 1em; margin-bottom: 5%; }
 code { font-family: monospace; }
 h1 { text-align: left; }
 h2 { text-align: left; }
@@ -14,6 +14,6 @@ h3.date { }
 ol.toc { padding: 0; margin-left: 1em; }
 ol.toc li { list-style-type: none; margin: 0; padding: 0; }
 a.footnote-ref { vertical-align: super; }
-/*em, em em em, em em em em em { font-style: italic;}*/
-/*em em, em em em em { font-style: normal; }*/
+em, em em em, em em em em em { font-style: italic;}
+em em, em em em em { font-style: normal; }
 
