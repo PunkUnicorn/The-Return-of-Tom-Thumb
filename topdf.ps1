@@ -153,7 +153,7 @@ Write-Output "Thesaurunocerous Ends"
 Get-Content -Path "thetailor.txt" -Encoding UTF8 
 pandoc --version
 unzip -h
-zip -h
+sox -h
 
 #
 # I used to think pandoc got upset with chapter two at the top of a new file
@@ -199,7 +199,11 @@ Write-Output "... made The-Return-of-Tom-Thumb.html..."
 Get-Content -Path "The-Return-of-Tom-Thumb.txt" -Encoding UTF8 | Destroy-Quotes >test1.txt
 cat test1.txt | python .\googleTextToSpeech.py -o The-Return-of-Tom-Thumb.mp3 -d The-Return-of-Tom-Thumb.mp3.log
 
-sox -m .\Music\natural-reader-soundtrack.mp3 The-Return-of-Tom-Thumb.mp3 tRoTT-with-music.mp3 
+#
+# Copy the soundtrack file to the supposed combined file, so it is uploaded as an artifact till I fix sox and upload the combined voice and music for real
+#
+copy .\Music\natural-reader-soundtrack.mp3 tRoTT-with-music.mp3 
+sox -m .\Music\natural-reader-soundtrack.mp3 The-Return-of-Tom-Thumb.mp3 tRoTT-with-music.mp3 #expected fail ATM
 
 
 Get-Content -Path "gTTS_debug.txt" -Encoding UTF8 | Destroy-Quotes >test1.txt
@@ -208,7 +212,7 @@ cat test1.txt | python .\googleTextToSpeech.py -o testymctestface.mp3
 Write-Output "... made The-Return-of-Tom-Thumb.mp3 and The-Return-of-Tom-Thumb.mp3.log..."
 
 #try something to fix old ipad ibook reader issue
-copy The-Return-of-Tom-Thumb.epub The-Return-of-Tom-Thumb.zip
+#copy The-Return-of-Tom-Thumb.epub The-Return-of-Tom-Thumb.zip
 
 # The second command says to unzip George.epub into a directory (folder) called GeorgeProof.epub.
 # https://github.com/jgm/pandoc/issues/2456
