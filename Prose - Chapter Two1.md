@@ -30,22 +30,22 @@ He took a few steps towards them. They were silent. He stopped slightly too far 
 
 “Greetings.” he said smiling shyly, more shyly than his snappy clothes and confident posture would suggest.
 
-"Hello." Tom beamed. Kim stayed silent.
+“Hello.” Tom beamed. Kim stayed silent.
 
-"Could, I... possibly ask you... one hundred billion things?" the well dressed man begged as much as unruffled composure would allow.
+“Could, I... possibly ask you... one hundred billion things?” the well dressed man begged as much as unruffled composure would allow.
 
 Tom laughed; this smart, handsome figure fooling around. Kim snorted out enough to give away he found it funny.
 
-"Firstly," continued the man, "please allow me to introduce myself: I am a humble tailor." and he bowed slightly.
+“Firstly,” continued the man, “please allow me to introduce myself: I am a humble tailor.” and he bowed slightly.
 
-"I'm Tom." she completed, then continued: "A tailor?", she asked impressed, and then more earnst: "Do you really want to ask questions?"
+“I'm Tom.” she completed, then continued: “A tailor?”, she asked impressed, and then more earnest: “Do you really want to ask questions?”
 
-The Tailor took a step forward, nodded to confirm, "Yes." He paused. "If I could ask one thing that I am curious about: did you buy that cow off that lad Jack?"
+The Tailor took a step forward, nodded to confirm, “Yes.” He paused. “If I could ask one thing that I am curious about: did you buy that cow off that lad Jack?”
 
-Tom was proud of buying the cow; one of her proudest achievements: "Yes." but she noticed The Tailor was concerned: "Why?".
+Tom was proud of buying the cow; one of her proudest achievements: “Yes.” but she noticed The Tailor was concerned: “Why?”.
 
-The Tailor looked at Tom with regret, gently stating: "All day Jack was asking a rather high price.", but Tom did not understand. The Tailor seemed to notice, breaking the slight pause by continuing: "I wondered if...  would you share how much the cow cost you?". The Tailor was aware this was a rude question, but felt concern for the pair.
+The Tailor looked at Tom with regret, gently stating: “All day Jack was asking a rather high price.”, but Tom did not understand. The Tailor seemed to notice, breaking the slight pause by continuing: “I wondered if...  would you share how much the cow cost you?”. The Tailor was aware this was a rude question, but felt concern for the pair.
 
-Tom shrugged: "Three apple pips.". The Tailor was confused but after some questions he understood: they were from a giant apple. Tom would not share where the apple came from. In fact, she seemed to shut down when asked, she started shrinking away. The Tailor had to divert the conversation to conversations of his own travels. This woke Tom up, but not the other one, her brother he presumed.
+Tom shrugged: “Three apple pips.“. The Tailor was confused but after some questions he understood: they were from a giant apple. Tom would not share where the apple came from. In fact, she seemed to shut down when asked, she started shrinking away. The Tailor had to divert the conversation to stories of his own travels. This woke Tom up, but not the other one, her brother he presumed.
 
 Tom pressed questions about the south, it's commerce, on cosmopolitan values. Each answer was bit too much for her to grasp, and the questions were numerous. The Tailor answered best he could:

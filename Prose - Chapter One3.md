@@ -44,7 +44,7 @@ Tom was sure she had answered this already. “I want to sell it.”
 
 “Oh.” said Jack. “What for?” quickly clarifying, “How much you asking for it?”
 
-Kim interupted, demanding: “A cow.”
+Kim interrupted, demanding: “A cow.”
 
 Jack challenged: “A cow?”, he was incredulous. He looked around the sky barely containing chortles.
 
