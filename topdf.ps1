@@ -203,8 +203,10 @@ cat test1.txt | python .\googleTextToSpeech.py -o testymctestface.mp3
 Write-Output "... made The-Return-of-Tom-Thumb.mp3 and The-Return-of-Tom-Thumb.mp3.log..."
 
 #try something to fix old ipad ibook reader issue
-unzip -d The-Return-of-Tom-Thumb.epub The-Return-of-Tom-Thumb-unzipped.epub
-The second command says to unzip George.epub into a directory (folder) called GeorgeProof.epub.
+copy The-Return-of-Tom-Thumb.epub The-Return-of-Tom-Thumb.zip
+unzip -d The-Return-of-Tom-Thumb.zip "The-Return-of-Tom-Thumb-unzipped.epub"
+#The second command says to unzip George.epub into a directory (folder) called GeorgeProof.epub.
+
 Write-Output "Creating books FINISHED"
 
 Write-Output "Whole darn lot Finished!"
