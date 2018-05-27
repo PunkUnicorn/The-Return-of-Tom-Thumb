@@ -6,6 +6,7 @@ install:
   - pip install -U nltk #for theasurus
   - python -m nltk.downloader all #for theasurus *** VERY SLOW ***
   - pip install gTTS #google text to speech
+  - cinst unzip
 
 build: false
 
