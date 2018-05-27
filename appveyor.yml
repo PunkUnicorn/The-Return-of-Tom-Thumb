@@ -47,4 +47,7 @@ artifacts:
   - path: testymctestface.mp3
     name: testy_mc_testface
     type: file
+  - path: The-Return-of-Tom-Thumb-unzipped.epub
+    name: epub_unzipped
+    type: file
     
