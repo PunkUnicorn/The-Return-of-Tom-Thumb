@@ -1,9 +1,10 @@
+![](TomThumb/Tom%20Thumbnail.jpg)
 
 # Chapter Two
 
 Kim held the tether of the cow. Tom waved Jack farewell, who was keen to depart after the transaction. Tom wished Jack had been more social instead of hurrying off. She felt dissatisfied.
 
-Tom scanned the village hoping to see something that would cascade her enthusiasm. The sun was lower in the sky and the crowds had thinned; the day was retiring. She had sold the pips, there was no reason left to stay.
+Tom scanned the village hoping to see something that would cascade her enthusiasm. However, the sun was lower in the sky and the crowds had thinned; the day was retiring. She had sold the pips, there was no reason left to stay.
 
 “We'd better head back.” suggested Kim.
 
@@ -27,6 +28,24 @@ Our travelling man turned around. He could see the two were still there, he was 
 
 He took a few steps towards them. They were silent. He stopped slightly too far away from them; giving them adequate space. With a polite cough he introduced his presents. They turned around. The man bowed slightly, moderately spread his hands as a gesture of openness. 
 
-“Greetings.” he said smiling shyly, more shyly than his snappy clothes and confident posture would have suggested.
+“Greetings.” he said smiling shyly, more shyly than his snappy clothes and confident posture would suggest.
 
 "Hello." Tom beamed. Kim stayed silent.
+
+"Could, I... possibly ask you... one hundred billion things?" the well dressed man begged as much as unruffled composure would allow.
+
+Tom laughed; this smart, handsome figure fooling around. Kim snorted out enough to give away he found it funny.
+
+"Firstly," continued the man, "please allow me to introduce myself: I am a humble tailor." and he bowed slightly.
+
+"I'm Tom." she completed, then continued: "A tailor?", she asked impressed, and then more earnst: "Do you really want to ask questions?"
+
+The Tailor took a step forward, nodded to confirm, "Yes." He paused. "If I could ask one thing that I am curious about: did you buy that cow off that lad Jack?"
+
+Tom was proud of buying the cow; one of her proudest achievements: "Yes." but she noticed The Tailor was concerned: "Why?".
+
+The Tailor looked at Tom with regret, gently stating: "All day Jack was asking a rather high price.", but Tom did not understand. The Tailor seemed to notice, breaking the slight pause by continuing: "I wondered if...  would you share how much the cow cost you?". The Tailor was aware this was a rude question, but felt concern for the pair.
+
+Tom shrugged: "Three apple pips.". The Tailor was confused but after some questions he understood: they were from a giant apple. Tom would not share where the apple came from. In fact, she seemed to shut down when asked, she started shrinking away. The Tailor had to divert the conversation to conversations of his own travels. This woke Tom up, but not the other one, her brother he presumed.
+
+Tom pressed questions about the south, it's commerce, on cosmopolitan values. Each answer was bit too much for her to grasp, and the questions were numerous. The Tailor answered best he could:

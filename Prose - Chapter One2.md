@@ -49,3 +49,4 @@ By early afternoon the two had reached the village. Kim carried Tom piggy back f
 Tom saw the collection of buildings as if for the first time. She could not remember much about it previously, having been preoccupied. She could remember the relief on arriving at the village. But then the nightmare before that, at the giants house: giant trying to kill her.
 
 With a concerted breath, the reassurance of the pips in her pocket and the village in front of her Tom gathered her focus. Which, being Tom, took her straight through tunnels into fantasy daydreams... of what the pips could be worth?
+

@@ -1,4 +1,3 @@
-
 # Chapter One
 
 Tom Thumb had been back home for several nights.
@@ -7,9 +6,9 @@ As usual her thoughts were occupied replaying the past troubling days. The terri
 
 Tom wondered: “How did the lady giant know?”. A pang of regret that it was heard from a stranger, but it blended into the despair at being left in the forest. Tom had no reason to doubt the words of the kind giant, the motherly one: “No you beautiful young thing: make no mistake you are a girl.” 
 
-The giant’s words echoed in her thoughts and again Tom felt surprise and shock. The words spoken by the giant had said themselves over and over bringing a churn to her gut. For as many times as she came to terms with this, it would return to unsettle her.
+The words echoed in her thoughts and again Tom felt surprise and shock. The words had said themselves over and over bringing a churn to her gut. For as many times as she came to terms with this, it would return to unsettle her.
 
-Tom knew she had known, despite her father’s intimidating insistence he only had boys. “Hide away.” and she would try to think where but there was no denial left.
+She had known, despite her father’s intimidating insistence he only had boys. Tom thought: “Hide away.”, and try to think where. But there was no denial left.
 
 Chewing a grass stalk with her arms behind her head, she realised she was not actually looking at the sky. But now she did as her thoughtscape vanished and she saw the clouds in front of her. It would be getting dark soon.
 
@@ -29,7 +28,9 @@ Spring would break and the family could get back to a merry life of hunting rode
 
 With a sigh she pulled herself up to sit, muscles stretching which brought her back to the present.
 
-Wiggling her toes she felt the exquisite comfort in the soft leather of the boots; she could do that all day. She had been doing that all day. Now the worry of what would happen when the apple core ran out.. There would be arguing at best. Being the smallest child (significantly smaller than the next smallest) Tom was not sure that being a girl made any difference. She would still have to fight for pretty much anything.
+Wiggling her toes she felt the exquisite comfort in the soft leather of the boots; she could do that all day. She had been doing that all day. Now the worry of what would happen when the apple core ran out.. There would be arguing at best. 
+
+Being the smallest child (significantly smaller than the next smallest) Tom was not sure that being a girl made any difference. She would still have to fight for pretty much anything.
 
 Sitting and not sure whether to get up or not, she was glad everyone had enough to eat today: the luxury of a full belly.
 
@@ -38,3 +39,4 @@ Sitting and not sure whether to get up or not, she was glad everyone had enough 
 Gently rising to her feet she walked to the core until she was close enough to judge where the pips should be. Squaring her knuckles with her shoulder, readjusting her footing to channel her body weight Tom punched through the seed chamber.
 
 Pushing her hand in she felt a pip. Reaching in further, feeling around blindly, her hand mapped the pip’s orientation. With a concerted push the pip nudged to a better grip. Tom curled her hand around the pip’s back easing it out. Once she had freed one pip another two became accessible. Using a stick she worked these out. Tom put the three pips in her pockets.
+

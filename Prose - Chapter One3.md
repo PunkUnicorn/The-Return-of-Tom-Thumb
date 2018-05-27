@@ -44,22 +44,18 @@ Tom was sure she had answered this already. “I want to sell it.”
 
 “Oh.” said Jack. “What for?” quickly clarifying, “How much you asking for it?”
 
-“A cow.” Kim demanded.
+Kim interupted, demanding: “A cow.”
 
-“A cow?” Jack challenged, incredulous. He looked around the sky barely containing chortles.
+Jack challenged: “A cow?”, he was incredulous. He looked around the sky barely containing chortles.
 
-“Come on.” said Kim and took firm steps towards the greater village hubbub, his hand grabbing Tom.
+“Come on.” said Kim to Tom, grabbing her as he took firm steps towards the greater village hubbub.
 
-“No!" burst Jack, "Wait!", his interest in the pip confirmed.
+Jack burst: “No! Wait!"; his interest in the pip confirmed.
 
 Kim stopped but kept his grip on Tom, her jumper stretching as she turned to Jack: “I’ve got three.”
 
-“Ah!” said Jack as if this changed everything. “Three! why didn’t you say so?”
+“Ah!” exclaimed Jack as if this changed everything. “Three! why didn’t you say so?”
 
 Kim was not convinced. Without hesitation he turned away, pulling Tom with him.  
 
 “Alright, alright. The cow for the pips,” Jack negotiated, “but only for all three of them.”                                          
-
-![](TomThumb/Tom%20Thumbnail.jpg)
-
-

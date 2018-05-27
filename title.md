@@ -1,5 +1,5 @@
 % The Return of Tom Thumb
-% PunkUnicorn; gnutgnut; Purplejoby
+% PunkUnicorn; gnutgnut; Purplejoby; Igot-knoider; rob-gee.
 
 
  <sub>Once upon a time in a land far away,</sub>
