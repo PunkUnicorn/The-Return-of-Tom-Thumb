@@ -43,7 +43,6 @@ Function Spellcheck-Chapter($chapterName, $spellingFailFilename) {
 	$chapterSpelling = $chapter | Replace-FancyQuotes | python spellchecker.py | ConvertFrom-Csv
 	$chapterSpelling 
 	
-	#,$chapterSpelling | Where {$_.Length -gt 0 } | ForEach { $_ } | `
 	$chapterSpelling | Out-File -FilePath $spellingFailFilename -Append
 	
 	$chapterSpelling | `
@@ -66,7 +65,7 @@ Function Spellcheck-Chapter($chapterName, $spellingFailFilename) {
 	#$spellingResults = Get-Content -Path $spellingFailFilename -Encoding UTF8 | ConvertTo-Csv 
 	If ($chapterSpelling.Length -eq 0) {
 		Add-AppveyorTest `
-			-Name "Spelling" `
+			-Name "Spelling $chapterName" `
 			-Framework NUnit `
 			-Filename $chapterName `
 			-ErrorMessage "All passed" `
