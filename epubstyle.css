@@ -1,6 +1,6 @@
 /* This defines styles and classes used in the book */
 body { margin: 5%; text-align: justify; font-size: medium; }
-p { text-indent: 1em; margin-bottom: 5%; }
+p { text-indent: 1em; margin-top: 20%; }
 code { font-family: monospace; }
 h1 { text-align: left; }
 h2 { text-align: left; }
