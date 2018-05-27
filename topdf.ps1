@@ -153,6 +153,7 @@ Write-Output "Thesaurunocerous Ends"
 Get-Content -Path "thetailor.txt" -Encoding UTF8 
 pandoc --version
 unzip -h
+zip -h
 
 #
 # I used to think pandoc got upset with chapter two at the top of a new file
@@ -176,7 +177,7 @@ Write-Output "Combining markdown FINISHED"
 
 Write-Output "Adding build version to title.md..."
 cat title.md, "Prose - Blank line.md" | sc title2.md
-Add-Content -Path "title.md" -Value $env:APPVEYOR_BUILD_NUMBER
+#Add-Content -Path "title.md" -Value $env:APPVEYOR_BUILD_NUMBER
 cat title2.md, "Prose - Blank line.md" | sc title3.md
 Add-Content -Path "title3.md" -Value $env:APPVEYOR_BUILD_VERSION
 Write-Output "Adding build version to title.md FINISHED"
@@ -198,6 +199,9 @@ Write-Output "... made The-Return-of-Tom-Thumb.html..."
 Get-Content -Path "The-Return-of-Tom-Thumb.txt" -Encoding UTF8 | Destroy-Quotes >test1.txt
 cat test1.txt | python .\googleTextToSpeech.py -o The-Return-of-Tom-Thumb.mp3 -d The-Return-of-Tom-Thumb.mp3.log
 
+sox -m .\Music\natural-reader-soundtrack.mp3 The-Return-of-Tom-Thumb.mp3 tRoTT-with-music.mp3 
+
+
 Get-Content -Path "gTTS_debug.txt" -Encoding UTF8 | Destroy-Quotes >test1.txt
 cat test1.txt | python .\googleTextToSpeech.py -o testymctestface.mp3
 
@@ -208,9 +212,9 @@ copy The-Return-of-Tom-Thumb.epub The-Return-of-Tom-Thumb.zip
 
 # The second command says to unzip George.epub into a directory (folder) called GeorgeProof.epub.
 # https://github.com/jgm/pandoc/issues/2456
-unzip The-Return-of-Tom-Thumb.zip -d tRoTT-unzipped.epub
-#unzip The-Return-of-Tom-Thumb.zip -p | sc The-Return-of-Tom-Thumb-unzipped-pipe.epub
-#funzip The-Return-of-Tom-Thumb.zip | sc The-Return-of-Tom-Thumb-unzipped.epub
+#unzip The-Return-of-Tom-Thumb.zip -d tRoTT-unzipped
+#zip -r 0 -d tRoTT-unzipped tRoTT-rezipped.zip
+#copy tRoTT-rezipped.zip tRoTT-rezipped.epub
 
 Write-Output "Creating books FINISHED"
 

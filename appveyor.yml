@@ -1,5 +1,5 @@
 install:
-  - ps: cat "theknight.txt"
+  - ps: cat ".\TheKnight\the-knight-thumbnail.txt"
   - cinst pandoc
   - python -m pip install --upgrade pip #for spelling and theasurus
   - pip install -U pyenchant #for spelling
@@ -7,6 +7,8 @@ install:
   - python -m nltk.downloader all #for theasurus *** VERY SLOW ***
   - pip install gTTS #google text to speech
   - cinst unzip
+  #- cinst 7zip
+  - cinst sox.portable
 
 build: false
 
@@ -41,13 +43,13 @@ artifacts:
   - path: The-Return-of-Tom-Thumb.mp3
     name: is_book_yeah_mp3
     type: file
-  - path: The-Return-of-Tom-Thumb.mp3.log
-    name: is_book_yeah_mp3_log
+  - path: tRoTT-with-music.mp3
+    name: is_book_yeah_mp3_w_music
     type: file
-  - path: testymctestface.mp3
-    name: testy_mc_testface
-    type: file
-  - path: tRoTT-unzipped.epub
-    name: epub_unzipped
-    type: file
+#  - path: testymctestface.mp3
+#    name: testy_mc_testface
+#    type: file
+#  - path: tRoTT-rezipped.epub
+#    name: epub_no_compression
+#    type: file
     
