@@ -204,7 +204,12 @@ Write-Output "... made The-Return-of-Tom-Thumb.mp3 and The-Return-of-Tom-Thumb.m
 
 #try something to fix old ipad ibook reader issue
 copy The-Return-of-Tom-Thumb.epub The-Return-of-Tom-Thumb.zip
-unzip -d The-Return-of-Tom-Thumb.zip "The-Return-of-Tom-Thumb-unzipped.epub"
+
+
+unzip -h
+funzip The-Return-of-Tom-Thumb.zip | sc The-Return-of-Tom-Thumb-unzipped.epub
+
+#unzip The-Return-of-Tom-Thumb.zip  "The-Return-of-Tom-Thumb-unzipped.epub"
 #The second command says to unzip George.epub into a directory (folder) called GeorgeProof.epub.
 
 Write-Output "Creating books FINISHED"
