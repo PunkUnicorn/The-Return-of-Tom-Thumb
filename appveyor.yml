@@ -7,9 +7,9 @@ install:
   - python -m nltk.downloader all #for theasurus *** VERY SLOW ***
   - pip install gTTS #google text to speech
   - cinst unzip
-  #- cinst 7zip
-  - cinst sox.portable
-
+  #- cinst sox.portable
+  - brew install sox --with-lame --with-flac --with-libvorbis
+  
 build: false
 
 test_script:
