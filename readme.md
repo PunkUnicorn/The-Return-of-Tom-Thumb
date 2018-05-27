@@ -21,6 +21,7 @@ ENFP-A  https://www.youtube.com/watch?v=ieVlCLhAsiY
 
 ___
 # The Knight
+![The Tailor](/TheKnight/the-knight-thumbnail.jpg)
 
 ISTJ-A  https://www.youtube.com/watch?v=7jgCtOmuWJg
 
