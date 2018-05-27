@@ -1,4 +1,4 @@
-﻿After recovering his breath Kim moved to join his sister. Tom acknowledged him, her train of thought gone with the eye contact.
+After recovering his breath Kim moved to join his sister. Tom acknowledged him, her train of thought gone with the eye contact.
 
 They walked towards the village at a slow pace to absorb everything: sights, sounds and smells, geese, dogs and people. Carts and horses. Stacks of things by the buildings. Sacks of things by the stacks. Smoke, banging. A sudden shout, but nothing to do with them.
 
