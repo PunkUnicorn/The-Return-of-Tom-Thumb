@@ -1,3 +1,5 @@
+![](TomThumb/Tom%20Thumbnail.jpg)
+
 # Chapter Two
 
 Kim held the tether of the cow. Tom waved Jack farewell, who was keen to depart after the transaction. Tom wished Jack had been more social instead of hurrying off. She felt dissatisfied.
@@ -47,4 +49,3 @@ The Tailor looked at Tom with regret, gently stating: "All day Jack was asking a
 Tom shrugged: "Three apple pips.". The Tailor was confused but after some questions he understood: they were from a giant apple. Tom would not share where the apple came from. In fact, she seemed to shut down when asked, she started shrinking away. The Tailor had to divert the conversation to conversations of his own travels. This woke Tom up, but not the other one, her brother he presumed.
 
 Tom pressed questions about the south, it's commerce, on cosmopolitan values. Each answer was bit too much for her to grasp, and the questions were numerous. The Tailor answered best he could:
-
