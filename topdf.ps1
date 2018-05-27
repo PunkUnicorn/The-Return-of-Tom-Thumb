@@ -1,7 +1,5 @@
 write-host "**topdf.ps1**"
 
-Get-Content -Path "./RedRidingHood/ASCII_RED.txt" -Encoding UTF8 
-
 #
 # Fancy quote solution: 
 # https://stackoverflow.com/questions/6968270/replacing-smart-quotes-in-powershell
@@ -61,8 +59,6 @@ Function Spellcheck-Chapter($chapterName, $spellingFailFilename) {
 			-Category "Error" 
 		}
 
-	#$spellingResults = $null;
-	#$spellingResults = Get-Content -Path $spellingFailFilename -Encoding UTF8 | ConvertTo-Csv 
 	If ($chapterSpelling.Length -eq 0) {
 		Add-AppveyorTest `
 			-Name "Spelling $chapterName" `
@@ -77,7 +73,7 @@ Function Spellcheck-Chapter($chapterName, $spellingFailFilename) {
 	Write-Output "$chapterName Spelling ends!"
 }
 
-#`
+#
 # Dumps out the contents of the spellcheck.exceptions.txt file
 # I.e. all the words that aren't spellchecked
 #
@@ -139,32 +135,31 @@ Function WordAnalysis-Chapter($chapterName) {
 
 
 # run tests
+Get-Content -Path "./RedRidingHood/ASCII_RED.txt" -Encoding UTF8 
 Write-Output "Spelling Starts" 
 Spellcheck-DumpExceptions
 Spellcheck-Chapter "Chapter One" "Chapter-One-Spelling.txt" 
 Spellcheck-Chapter "Chapter Two" "Chapter-Two-Spelling.txt"
 Write-Output "Spelling Ends"
 
-# word counts, thesaurus and word analysis
 Write-Output "Thesaurunocerous Starts"
-
 Thesaurunocerous-Chapter "Chapter One" "Chapter-One-Words.txt"
 WordAnalysis-Chapter "Chapter One" | Out-File "Chapter-One-Words.txt" -Append
-
 Thesaurunocerous-Chapter "Chapter One" "Chapter-Two-Words.txt"
 WordAnalysis-Chapter "Chapter Two" | Out-File "Chapter-Two-Words.txt" -Append
-
 Write-Output "Thesaurunocerous Ends"
 
+
 # Make the book
-#
-# pandoc seems to get upset with chapter two at the top of a new file
-# pandoc really really likes a blank line at the end!!! It can be funny on some readers without
-# ^ I'm just not really sure any more. With the blank line, it still goes funny
-#
 Get-Content -Path "thetailor.txt" -Encoding UTF8 
+#
+# I used to think pandoc got upset with chapter two at the top of a new file
+# I used to think pandoc really really likes a blank line at the end!!! It can be funny on some readers without
+# I'm not really sure about this any more. With the blank line, and all my mitigating measures it still goes funny on my out the box iPad book app
+# I think it might be the iPad book app. Other readers seem to find it ok.
+#
 Write-output `n | Out-File "Prose - Blank line.md" -Append
-Write-Output "Markdown media transformation ..."
+Write-Output "Combining markdown..."
 cat "Prose - Chapter One1.md", 
 		"Prose - Blank line.md",
 		"Prose - Chapter One2.md",
@@ -175,14 +170,16 @@ cat "Prose - Chapter One1.md",
 		"Prose - Blank line.md" | sc "The-Return-of-Tom-Thumb.md" 
 Get-Content "The-Return-of-Tom-Thumb.md" -Encoding UTF8 | Replace-FancyQuotes | Out-File "The-Return-of-Tom-Thumb.txt" -Encoding UTF8 -Append
 Write-Output "...The-Return-of-Tom-Thumb.md and The-Return-of-Tom-Thumb.txt created"
+Write-Output "Combining markdown FINISHED"
 
-Write-Output "... inserting build version into title.md"
+Write-Output "Adding build version to title.md..."
 cat title.md, "Prose - Blank line.md" | sc title2.md
 Add-Content -Path "title.md" -Value $env:APPVEYOR_BUILD_NUMBER
 cat title2.md, "Prose - Blank line.md" | sc title3.md
 Add-Content -Path "title3.md" -Value $env:APPVEYOR_BUILD_VERSION
+Write-Output "Adding build version to title.md FINISHED"
 
-Write-Output "... creating books"
+Write-Output "Creating books..."
 pandoc --version
 pandoc --css epubstyle.css `
   "title3.md" `
@@ -190,7 +187,6 @@ pandoc --css epubstyle.css `
   -o The-Return-of-Tom-Thumb.epub
 Write-Output "... made The-Return-of-Tom-Thumb.epub..."
 
-#html version
 pandoc --css epubstyle.css `
   "title3.md" `
   "The-Return-of-Tom-Thumb.txt" `
@@ -198,7 +194,6 @@ pandoc --css epubstyle.css `
 Write-Output "... made The-Return-of-Tom-Thumb.html..."
 	
 # Make the audio book (WIP)
-
 Get-Content -Path "The-Return-of-Tom-Thumb.txt" -Encoding UTF8 | Destroy-Quotes >test1.txt
 cat test1.txt | python .\googleTextToSpeech.py -o The-Return-of-Tom-Thumb.mp3 -d The-Return-of-Tom-Thumb.mp3.log
 
@@ -206,5 +201,6 @@ Get-Content -Path "gTTS_debug.txt" -Encoding UTF8 | Destroy-Quotes >test1.txt
 cat test1.txt | python .\googleTextToSpeech.py -o testymctestface.mp3
 
 Write-Output "... made The-Return-of-Tom-Thumb.mp3 and The-Return-of-Tom-Thumb.mp3.log..."
+Write-Output "Creating books FINISHED"
 
-Write-Output "Finished!"
+Write-Output "Whole darn lot Finished!"
