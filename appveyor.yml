@@ -45,9 +45,9 @@ artifacts:
   - path: tRoTT-with-music.mp3
     name: is_book_yeah_mp3_w_music
     type: file
-#  - path: testymctestface.mp3
-#    name: testy_mc_testface
-#    type: file
+  - path: testymctestface.mp3
+    name: testy_mc_testface
+    type: file
 #  - path: tRoTT-rezipped.epub
 #    name: epub_no_compression
 #    type: file
