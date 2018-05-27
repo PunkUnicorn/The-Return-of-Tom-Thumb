@@ -152,7 +152,7 @@ Write-Output "Thesaurunocerous Ends"
 # Make the book
 Get-Content -Path "thetailor.txt" -Encoding UTF8 
 pandoc --version
-unzip -v
+unzip -h
 
 #
 # I used to think pandoc got upset with chapter two at the top of a new file
@@ -206,11 +206,11 @@ Write-Output "... made The-Return-of-Tom-Thumb.mp3 and The-Return-of-Tom-Thumb.m
 #try something to fix old ipad ibook reader issue
 copy The-Return-of-Tom-Thumb.epub The-Return-of-Tom-Thumb.zip
 
-unzip -h
+# The second command says to unzip George.epub into a directory (folder) called GeorgeProof.epub.
+# https://github.com/jgm/pandoc/issues/2456
+unzip The-Return-of-Tom-Thumb.zip -d tRoTT-unzipped.epub
+#unzip The-Return-of-Tom-Thumb.zip -p | sc The-Return-of-Tom-Thumb-unzipped-pipe.epub
 #funzip The-Return-of-Tom-Thumb.zip | sc The-Return-of-Tom-Thumb-unzipped.epub
-unzip The-Return-of-Tom-Thumb.zip -d The-Return-of-Tom-Thumb-unzipped.epub
-unzip The-Return-of-Tom-Thumb.zip -p | sc The-Return-of-Tom-Thumb-unzipped-pipe.epub
-#The second command says to unzip George.epub into a directory (folder) called GeorgeProof.epub.
 
 Write-Output "Creating books FINISHED"
 
