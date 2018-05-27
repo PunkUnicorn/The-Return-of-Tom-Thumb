@@ -84,25 +84,6 @@ Function Spellcheck-DumpExceptions() {
 }
 
 #
-# Thesaurunocerous chapter files by filename convention
-# Outputs word stat results messages etc
-#
-Function Thesaurunocerous-Chapter($chapterName, $wordsFilename) {
-	Write-Output "$chapterName Thesaurunocerous starts:"	
-	$chapter = Get-Content -Path "Prose - $chapterName*.md" -Encoding UTF8 | Replace-FancyQuotes 
-	$chapterTheasurus = $chapter | python thesaurunocerous.py | ConvertFrom-Json | %{ $_.Results }
-	$chapterTheasurus | fl
-	$chapterTheasurus | fl | Out-File -FilePath $wordsFilename -Append
-	$chapterTheasurus | `
-		%{ Add-AppveyorMessage `
-			-Message "$($_.Word) x $($_.Occurs) - $chapterName" `
-			-Details "$($_.Hint)" `
-			-Category "$($_.Status)" 
-		}	
-	Write-Output "$chapterName Thesaurunocerous end!"	
-}	
-	
-#
 # Word analysis chapter files by filename convention
 # Outputs word stats for files
 #
@@ -133,6 +114,26 @@ Function WordAnalysis-Chapter($chapterName) {
 	Write-Output "$chapterName WordAnalysis ends!"
 }
 
+#
+# Thesaurunocerous chapter files by filename convention
+# Outputs word stat results messages etc
+#
+Function Thesaurunocerous-Chapter($chapterName, $wordsFilename) {
+	Write-Output "$chapterName Thesaurunocerous starts:"	
+	$chapter = Get-Content -Path "Prose - $chapterName*.md" -Encoding UTF8 | Replace-FancyQuotes 
+	$chapterTheasurus = $chapter | python thesaurunocerous.py | ConvertFrom-Json | %{ $_.Results }
+	$chapterTheasurus | fl
+	$chapterTheasurus | fl | Out-File -FilePath $wordsFilename -Append
+	$chapterTheasurus | `
+		%{ Add-AppveyorMessage `
+			-Message "$($_.Word) x $($_.Occurs) - $chapterName" `
+			-Details "$($_.Hint)" `
+			-Category "$($_.Status)" 
+		}	
+	WordAnalysis-Chapter $chapterName | Out-File wordsFilename -Append
+	Write-Output "$chapterName Thesaurunocerous end!"	
+}	
+	
 
 # run tests
 Get-Content -Path "./RedRidingHood/ASCII_RED.txt" -Encoding UTF8 
@@ -144,14 +145,15 @@ Write-Output "Spelling Ends"
 
 Write-Output "Thesaurunocerous Starts"
 Thesaurunocerous-Chapter "Chapter One" "Chapter-One-Words.txt"
-WordAnalysis-Chapter "Chapter One" | Out-File "Chapter-One-Words.txt" -Append
-Thesaurunocerous-Chapter "Chapter One" "Chapter-Two-Words.txt"
-WordAnalysis-Chapter "Chapter Two" | Out-File "Chapter-Two-Words.txt" -Append
+Thesaurunocerous-Chapter "Chapter Two" "Chapter-Two-Words.txt"
 Write-Output "Thesaurunocerous Ends"
 
 
 # Make the book
 Get-Content -Path "thetailor.txt" -Encoding UTF8 
+pandoc --version
+unzip -v
+
 #
 # I used to think pandoc got upset with chapter two at the top of a new file
 # I used to think pandoc really really likes a blank line at the end!!! It can be funny on some readers without
@@ -180,7 +182,6 @@ Add-Content -Path "title3.md" -Value $env:APPVEYOR_BUILD_VERSION
 Write-Output "Adding build version to title.md FINISHED"
 
 Write-Output "Creating books..."
-pandoc --version
 pandoc --css epubstyle.css `
   "title3.md" `
   "The-Return-of-Tom-Thumb.md" `
@@ -205,11 +206,10 @@ Write-Output "... made The-Return-of-Tom-Thumb.mp3 and The-Return-of-Tom-Thumb.m
 #try something to fix old ipad ibook reader issue
 copy The-Return-of-Tom-Thumb.epub The-Return-of-Tom-Thumb.zip
 
-
 unzip -h
-funzip The-Return-of-Tom-Thumb.zip | sc The-Return-of-Tom-Thumb-unzipped.epub
-
-#unzip The-Return-of-Tom-Thumb.zip  "The-Return-of-Tom-Thumb-unzipped.epub"
+#funzip The-Return-of-Tom-Thumb.zip | sc The-Return-of-Tom-Thumb-unzipped.epub
+unzip The-Return-of-Tom-Thumb.zip -d The-Return-of-Tom-Thumb-unzipped.epub
+unzip The-Return-of-Tom-Thumb.zip -p | sc The-Return-of-Tom-Thumb-unzipped-pipe.epub
 #The second command says to unzip George.epub into a directory (folder) called GeorgeProof.epub.
 
 Write-Output "Creating books FINISHED"
