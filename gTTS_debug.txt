@@ -3,13 +3,13 @@ them over there
 all of them
 daydream
 day-dream
-<s>
+<break time="2s"/>
 all of thehm
 some of 'them
 'them over there
-<s>
-Spring would break and the family could get back to a merry life of hunting rodents for meals, served with nettles. A banquet. But just a day-dream. A lovely image while she laid on her back. 
-<s>
-They walked towards the village at a slow pace to absorb everything: sights, sounds and smells, geese, dogs and people. Carts and horses. Stacks of things by the buildings. Sacks of things by the stacks. Smoke, banging. A sudden shout, but nothing to do with 'them.
-<s>
-They walked towards the village at a slow pace to absorb everything: sights, sounds and smells, geese, dogs and people. Carts and horses. Stacks of things by the buildings. Sacks of things by the stacks. Smoke, banging. A sudden shout, but nothing to do with thehm.
+<break time="2s"/>
+Spring would break and the family could get back to a merry life of hunting rodents for meals, served with nettles. A banquet. But just a daydream . A lovely image while she laid on her back. 
+<break time="2s"/>
+They walked towards the village at a slow pace to absorb everything: sights, sounds and smells, geese, dogs and people. Carts and horses. Stacks of things by the buildings. Sacks of things by the stacks. Smoke, banging. A sudden shout, but nothing to do with 'them .
+<break time="0.8s"/>
+They walked towards the village at a slow pace to absorb everything: sights, sounds and smells, geese, dogs and people. Carts and horses. Stacks of things by the buildings. Sacks of things by the stacks. Smoke, banging. A sudden shout, but nothing to do with them .
