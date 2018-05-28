@@ -150,7 +150,7 @@ Write-Output "Thesaurunocerous Ends"
 
 
 # Make the book
-Get-Content -Path "thetailor.txt" -Encoding UTF8 
+Get-Content -Path ".\TheTailor\the-tailor.txt" -Encoding UTF8 
 pandoc --version
 unzip -h
 lame --help
