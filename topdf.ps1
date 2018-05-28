@@ -162,13 +162,11 @@ sox -h
 # I'm not really sure about this any more. With the blank line, and all my mitigating measures it still goes funny on my out the box iPad book app
 # I think it might be the iPad book app. Other readers seem to find it ok.
 #
-Write-output "`n`n" | Out-File "Prose - Blank line.md" -Append
+Write-output "`n" | Out-File "Prose - Blank line.md" -Append
 
 Write-Output "Adding build version to final-title.md..."
-cat title.md, "Prose - Blank line.md" | sc title2.md
-cat title2.md, "Prose - Blank line.md" | sc title3.md
-Add-Content -Path "title3.md" -Value $env:APPVEYOR_BUILD_VERSION
-cat title3.md, "Prose - Blank line.md" | sc final-title.md
+Add-Content -Path "book-version.txt" -Value $env:APPVEYOR_BUILD_VERSION
+cat title.md, "Prose - Blank line.md", book-version.txt, "Prose - Blank line.md" | sc final-title.md
 Write-Output "Adding build version to final-title.md FINISHED"
 
 Write-Output "Combining markdown..."
