@@ -201,7 +201,7 @@ Write-Output "... made The-Return-of-Tom-Thumb.html..."
 # Make the audio book (WIP)
 Get-Content -Path "The-Return-of-Tom-Thumb.txt" -Encoding UTF8 | `
 	Destroy-Quotes | `
-	%{ $_.Replace("%", "`n").Replace("<sub>","").Replace("<sub/>", "") } >> gTTS_word_input.txt
+	%{ $_.Replace("%", "`n").Replace("<sub>","").Replace("</sub>", "") } >> gTTS_word_input.txt
 	
 cat gTTS_word_input.txt | python .\googleTextToSpeech.py -o The-Return-of-Tom-Thumb.mp3 -d The-Return-of-Tom-Thumb.mp3.log
 
