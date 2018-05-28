@@ -210,8 +210,8 @@ cat gTTS_word_input.txt | python .\googleTextToSpeech.py -o The-Return-of-Tom-Th
 #
 # Add a backing track to the audio book
 #
-lame --decode .\Music\natural-reader-soundtrack.mp3 natural-reader-soundtrack.wav --silent
-lame --decode The-Return-of-Tom-Thumb.mp3 The-Return-of-Tom-Thumb.wav --silent
+lame --decode .\Music\natural-reader-soundtrack.mp3 natural-reader-soundtrack.wav -m m --silent
+lame --decode The-Return-of-Tom-Thumb.mp3 The-Return-of-Tom-Thumb.wav -m m --silent
 #----> lol copy .\Music\natural-reader-soundtrack.mp3 tRoTT-with-music.mp3 # default result if next step fails
 sox -m natural-reader-soundtrack.wav The-Return-of-Tom-Thumb.wav tRoTT-with-music.wav -q 
 lame -f tRoTT-with-music.wav tRoTT-with-music.mp3 --silent
