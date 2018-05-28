@@ -2,6 +2,25 @@ import sys
 from gtts import gTTS
 import io
 
+def makeWords(line):
+    words = line.replace('\"', '')
+    words = words.replace('*', ' * ')
+    words = words.replace('#', ' # ')
+    words = words.replace(';', ' ; ')
+    words = words.replace(':', ' : ')
+    words = words.replace(',', ' , ')
+    words = words.replace('?', ' ? ')
+    words = words.replace('.', ' . ')
+    # words = words.replace('\'', '')
+    #words = words.replace('\\', ' \\ ')
+    #words = words.replace('/', ' / ')
+    #words = words.replace('!', '')
+    #words = words.replace(')', '')
+    #words = words.replace('(', '')
+    #words = words.lower()
+    words = words.split()     
+    return words
+    
 # START
 saveFilename = 'audio.mp3'
 debugFilename = ''
@@ -17,13 +36,13 @@ with io.BytesIO() as f:
             
         if (len(line) == 0):
             continue;
-            
-        word = '  ' + ' '.join(line.split()) + '  '
+        words = makeWords(line)
+        ttsInput = '  ' + ' '.join(words) + '  '
         if len(debugFilename) > 0:
             with open(debugFilename, 'a') as debugFile:
-                debugFile.write(word)
+                debugFile.write(lineInput)
                 
-        tts = gTTS(text=word + '\n', lang='en-US') #https://cloud.google.com/speech-to-text/docs/languages  en-GB es-US
+        tts = gTTS(text=lineInput + '\n', lang='en-GB') #https://cloud.google.com/speech-to-text/docs/languages  en-GB es-US
         try: 
             tts.write_to_fp(f)
         except:
