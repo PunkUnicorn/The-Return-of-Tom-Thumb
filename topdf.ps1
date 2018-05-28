@@ -212,10 +212,8 @@ cat gTTS_word_input.txt | python .\googleTextToSpeech.py -o The-Return-of-Tom-Th
 #
 lame --decode .\Music\natural-reader-soundtrack.mp3 natural-reader-soundtrack.wav --silent
 lame --decode The-Return-of-Tom-Thumb.mp3 The-Return-of-Tom-Thumb.wav --silent
-# Copy the soundtrack file to the supposed combined file, so it is uploaded as an artifact till I fix sox and upload the combined voice and music for real
-copy .\Music\natural-reader-soundtrack.mp3 tRoTT-with-music.mp3 # default result if next step fails
+#----> lol copy .\Music\natural-reader-soundtrack.mp3 tRoTT-with-music.mp3 # default result if next step fails
 sox -m natural-reader-soundtrack.wav The-Return-of-Tom-Thumb.wav tRoTT-with-music.wav -q 
-#sox -M natural-reader-soundtrack.wav The-Return-of-Tom-Thumb.wav tRoTT-with-music.wav remix -m 1,3 2,3 -q 
 lame -f tRoTT-with-music.wav tRoTT-with-music.mp3 --silent
 
 #
