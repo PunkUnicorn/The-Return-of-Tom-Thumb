@@ -162,18 +162,6 @@ sox -h
 # I think it might be the iPad book app. Other readers seem to find it ok.
 #
 Write-output `n | Out-File "Prose - Blank line.md" -Append
-Write-Output "Combining markdown..."
-cat "Prose - Chapter One1.md", 
-		"Prose - Blank line.md",
-		"Prose - Chapter One2.md",
-		"Prose - Blank line.md",
-		"Prose - Chapter One3.md", 
-		"Prose - Blank line.md",
-		"Prose - Chapter Two1.md", 
-		"Prose - Blank line.md" | sc "The-Return-of-Tom-Thumb.md" 
-Get-Content "The-Return-of-Tom-Thumb.md" -Encoding UTF8 | Replace-FancyQuotes | Out-File "The-Return-of-Tom-Thumb.txt" -Encoding UTF8 -Append
-Write-Output "...The-Return-of-Tom-Thumb.md and The-Return-of-Tom-Thumb.txt created"
-Write-Output "Combining markdown FINISHED"
 
 Write-Output "Adding build version to title.md..."
 cat title.md, "Prose - Blank line.md" | sc title2.md
@@ -181,6 +169,21 @@ cat title.md, "Prose - Blank line.md" | sc title2.md
 cat title2.md, "Prose - Blank line.md" | sc title3.md
 Add-Content -Path "title3.md" -Value $env:APPVEYOR_BUILD_VERSION
 Write-Output "Adding build version to title.md FINISHED"
+
+Write-Output "Combining markdown..."
+cat "title3.md", 
+	"Prose - Chapter One1.md", 
+	"Prose - Blank line.md",
+	"Prose - Chapter One2.md",
+	"Prose - Blank line.md",
+	"Prose - Chapter One3.md", 
+	"Prose - Blank line.md",
+	"Prose - Chapter Two1.md", 
+	"Prose - Blank line.md" | sc "The-Return-of-Tom-Thumb.md" 
+	
+Get-Content "The-Return-of-Tom-Thumb.md" -Encoding UTF8 | Replace-FancyQuotes | Out-File "The-Return-of-Tom-Thumb.txt" -Encoding UTF8 -Append
+Write-Output "...The-Return-of-Tom-Thumb.md and The-Return-of-Tom-Thumb.txt created"
+Write-Output "Combining markdown FINISHED"
 
 Write-Output "Creating books..."
 pandoc --css epubstyle.css `
@@ -196,7 +199,10 @@ pandoc --css epubstyle.css `
 Write-Output "... made The-Return-of-Tom-Thumb.html..."
 	
 # Make the audio book (WIP)
-Get-Content -Path "The-Return-of-Tom-Thumb.txt" -Encoding UTF8 | Destroy-Quotes >test1.txt
+Get-Content -Path "The-Return-of-Tom-Thumb.txt" -Encoding UTF8 | `
+	Destroy-Quotes | `
+	$_.Replace("%", "`n") >test1.txt
+	
 cat test1.txt | python .\googleTextToSpeech.py -o The-Return-of-Tom-Thumb.mp3 -d The-Return-of-Tom-Thumb.mp3.log
 
 #
