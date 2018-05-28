@@ -153,6 +153,7 @@ Write-Output "Thesaurunocerous Ends"
 Get-Content -Path "thetailor.txt" -Encoding UTF8 
 pandoc --version
 unzip -h
+lame --help
 sox -h
 
 #
@@ -205,11 +206,15 @@ Get-Content -Path "The-Return-of-Tom-Thumb.txt" -Encoding UTF8 | `
 	
 cat gTTS_word_input.txt | python .\googleTextToSpeech.py -o The-Return-of-Tom-Thumb.mp3 -d The-Return-of-Tom-Thumb.mp3.log
 
+
+lame --decode .\Music\natural-reader-soundtrack.mp3 natural-reader-soundtrack.wav
+lame --decode The-Return-of-Tom-Thumb.mp3 The-Return-of-Tom-Thumb.wav
 #
 # Copy the soundtrack file to the supposed combined file, so it is uploaded as an artifact till I fix sox and upload the combined voice and music for real
 #
-copy .\Music\natural-reader-soundtrack.mp3 tRoTT-with-music.mp3 
-sox -m .\Music\natural-reader-soundtrack.mp3 The-Return-of-Tom-Thumb.mp3 tRoTT-with-music.mp3 #expected fail ATM
+copy .\Music\natural-reader-soundtrack.mp3 tRoTT-with-music.mp3
+sox -m natural-reader-soundtrack.wav The-Return-of-Tom-Thumb.wav tRoTT-with-music.wav
+lame tRoTT-with-music.wav tRoTT-with-music.mp3
 
 
 Get-Content -Path "gTTS_debug.txt" -Encoding UTF8 | Destroy-Quotes >test1.txt
