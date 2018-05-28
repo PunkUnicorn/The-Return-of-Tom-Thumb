@@ -214,7 +214,7 @@ lame --decode .\Music\natural-reader-soundtrack.mp3 natural-reader-soundtrack.wa
 lame --decode The-Return-of-Tom-Thumb.mp3 The-Return-of-Tom-Thumb.wav --silent
 # Copy the soundtrack file to the supposed combined file, so it is uploaded as an artifact till I fix sox and upload the combined voice and music for real
 copy .\Music\natural-reader-soundtrack.mp3 tRoTT-with-music.mp3 # default result if next step fails
-sox -q -m natural-reader-soundtrack.wav The-Return-of-Tom-Thumb.wav tRoTT-with-music.wav
+sox -m natural-reader-soundtrack.wav The-Return-of-Tom-Thumb.wav tRoTT-with-music.wav -q 
 lame -f tRoTT-with-music.wav tRoTT-with-music.mp3 --silent
 
 #
