@@ -210,12 +210,12 @@ cat gTTS_word_input.txt | python .\googleTextToSpeech.py -o The-Return-of-Tom-Th
 #
 # Add a backing track to the audio book
 #
-lame --decode .\Music\natural-reader-soundtrack.mp3 natural-reader-soundtrack.wav --nohist -S
-lame --decode The-Return-of-Tom-Thumb.mp3 The-Return-of-Tom-Thumb.wav --nohist -S
+lame --decode .\Music\natural-reader-soundtrack.mp3 natural-reader-soundtrack.wav --silent
+lame --decode The-Return-of-Tom-Thumb.mp3 The-Return-of-Tom-Thumb.wav --silent
 # Copy the soundtrack file to the supposed combined file, so it is uploaded as an artifact till I fix sox and upload the combined voice and music for real
 copy .\Music\natural-reader-soundtrack.mp3 tRoTT-with-music.mp3 # default result if next step fails
-sox -m natural-reader-soundtrack.wav The-Return-of-Tom-Thumb.wav tRoTT-with-music.wav
-lame -f tRoTT-with-music.wav tRoTT-with-music.mp3 --nohist -S
+sox -q -m natural-reader-soundtrack.wav The-Return-of-Tom-Thumb.wav tRoTT-with-music.wav
+lame -f tRoTT-with-music.wav tRoTT-with-music.mp3 --silent
 
 #
 # Debug google text to speech, to see how words sound (reads contents of gTTS_debug.txt and makes an mp3 debug artifact)
