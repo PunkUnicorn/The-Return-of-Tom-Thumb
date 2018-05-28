@@ -37,7 +37,7 @@ with io.BytesIO() as f:
         if (len(line) == 0):
             continue;
         words = makeWords(line)
-        ttsInput = '  ' + ' '.join(words) + '  '
+        ttsInput = ' . ' + ' '.join(words) + '  '
         if len(debugFilename) > 0:
             with open(debugFilename, 'a') as debugFile:
                 debugFile.write(ttsInput)
