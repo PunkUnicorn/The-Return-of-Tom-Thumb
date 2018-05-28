@@ -162,17 +162,17 @@ sox -h
 # I'm not really sure about this any more. With the blank line, and all my mitigating measures it still goes funny on my out the box iPad book app
 # I think it might be the iPad book app. Other readers seem to find it ok.
 #
-Write-output `n | Out-File "Prose - Blank line.md" -Append
+Write-output "`n`n" | Out-File "Prose - Blank line.md" -Append
 
-Write-Output "Adding build version to title.md..."
+Write-Output "Adding build version to final-title.md..."
 cat title.md, "Prose - Blank line.md" | sc title2.md
-#Add-Content -Path "title.md" -Value $env:APPVEYOR_BUILD_NUMBER
 cat title2.md, "Prose - Blank line.md" | sc title3.md
 Add-Content -Path "title3.md" -Value $env:APPVEYOR_BUILD_VERSION
-Write-Output "Adding build version to title.md FINISHED"
+cat title3.md, "Prose - Blank line.md" | sc final-title.md
+Write-Output "Adding build version to final-title.md FINISHED"
 
 Write-Output "Combining markdown..."
-cat "title3.md", 
+cat "final-title.md", 
 	"Prose - Chapter One1.md", 
 	"Prose - Blank line.md",
 	"Prose - Chapter One2.md",
@@ -188,13 +188,13 @@ Write-Output "Combining markdown FINISHED"
 
 Write-Output "Creating books..."
 pandoc --css epubstyle.css `
-  "title3.md" `
+  "final-title.md" `
   "The-Return-of-Tom-Thumb.md" `
   -o The-Return-of-Tom-Thumb.epub
 Write-Output "... made The-Return-of-Tom-Thumb.epub..."
 
 pandoc --css epubstyle.css `
-  "title3.md" `
+  "final-title.md" `
   "The-Return-of-Tom-Thumb.txt" `
   -o The-Return-of-Tom-Thumb.html
 Write-Output "... made The-Return-of-Tom-Thumb.html..."
@@ -221,7 +221,6 @@ lame --decode The-Return-of-Tom-Thumb.mp3 The-Return-of-Tom-Thumb.wav --silent
 Write-Output "... made The-Return-of-Tom-Thumb.wav"
 
 sox The-Return-of-Tom-Thumb.wav --channels 2 The-Return-of-Tom-Thumb-stereo.wav -q
-#lame The-Return-of-Tom-Thumb.wav The-Return-of-Tom-Thumb-stereo.wav --silent
 Write-Output "... made natural-reader-soundtrack-stereo.wav"
 
 copy .\Music\natural-reader-soundtrack.mp3 tRoTT-with-music.mp3 # default result if next step fails
