@@ -217,8 +217,8 @@ Write-Output "Making audio book with soundtrack..."
 lame --decode .\Music\natural-reader-soundtrack.mp3 natural-reader-soundtrack.wav  --silent
 Write-Output "... made natural-reader-soundtrack.wav"
 
-lame natural-reader-soundtrack.wav -m m natural-reader-soundtrack-mono.pcm --silent
-Write-Output "... made natural-reader-soundtrack.pcm (previously wav)"
+lame natural-reader-soundtrack.wav -m j natural-reader-soundtrack-mono.wav --silent
+Write-Output "... made natural-reader-soundtrack.wav"
 
 lame --decode The-Return-of-Tom-Thumb.mp3 The-Return-of-Tom-Thumb.wav --silent
 Write-Output "... made The-Return-of-Tom-Thumb.wav"
@@ -226,7 +226,7 @@ Write-Output "... made The-Return-of-Tom-Thumb.wav"
 copy .\Music\natural-reader-soundtrack.mp3 tRoTT-with-music.mp3 # default result if next step fails
 Write-Output "... made default upload artifact (backing track with no voice) tRoTT-with-music.mp3"
 
-sox -m natural-reader-soundtrack-mono.pcm The-Return-of-Tom-Thumb.wav tRoTT-with-music.wav -q 
+sox -m natural-reader-soundtrack-mono.wav The-Return-of-Tom-Thumb.wav tRoTT-with-music.wav -q 
 Write-Output "... made sox mix of tRoTT-with-music.wav"
 
 lame -f tRoTT-with-music.wav tRoTT-with-music.mp3 --silent
