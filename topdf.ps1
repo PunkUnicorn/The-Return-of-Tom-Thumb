@@ -201,9 +201,9 @@ Write-Output "... made The-Return-of-Tom-Thumb.html..."
 # Make the audio book (WIP)
 Get-Content -Path "The-Return-of-Tom-Thumb.txt" -Encoding UTF8 | `
 	Destroy-Quotes | `
-	$_.Replace("%", "`n") >test1.txt
+	%{ $_.Replace("%", "`n") } >> gTTS_word_input.txt
 	
-cat test1.txt | python .\googleTextToSpeech.py -o The-Return-of-Tom-Thumb.mp3 -d The-Return-of-Tom-Thumb.mp3.log
+cat gTTS_word_input.txt | python .\googleTextToSpeech.py -o The-Return-of-Tom-Thumb.mp3 -d The-Return-of-Tom-Thumb.mp3.log
 
 #
 # Copy the soundtrack file to the supposed combined file, so it is uploaded as an artifact till I fix sox and upload the combined voice and music for real
