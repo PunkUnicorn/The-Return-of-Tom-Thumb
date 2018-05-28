@@ -8,6 +8,7 @@ install:
   - pip install gTTS #google text to speech
   - cinst unzip
   - cinst sox.portable
+  - cinst lame
   
 build: false
 
@@ -48,7 +49,3 @@ artifacts:
   - path: testymctestface.mp3
     name: testy_mc_testface
     type: file
-#  - path: tRoTT-rezipped.epub
-#    name: epub_no_compression
-#    type: file
-    
