@@ -198,24 +198,39 @@ pandoc --css epubstyle.css `
   "The-Return-of-Tom-Thumb.txt" `
   -o The-Return-of-Tom-Thumb.html
 Write-Output "... made The-Return-of-Tom-Thumb.html..."
-	
+
+
 # Make the audio book (WIP)
+Write-Output "Making Audio book ..."
 Get-Content -Path "The-Return-of-Tom-Thumb.txt" -Encoding UTF8 | `
 	Destroy-Quotes | `
 	%{ $_.Replace("%", "`n").Replace("<sub>","").Replace("</sub>", "") } >> gTTS_word_input.txt
-	
-cat gTTS_word_input.txt | python .\googleTextToSpeech.py -o The-Return-of-Tom-Thumb.mp3 -d The-Return-of-Tom-Thumb.mp3.log
+Write-Output "... made gTTS_word_input.txt"
 
+cat gTTS_word_input.txt | python .\googleTextToSpeech.py -o The-Return-of-Tom-Thumb.mp3 -d The-Return-of-Tom-Thumb.mp3.log
+Write-Output "... made The-Return-of-Tom-Thumb.mp3 and The-Return-of-Tom-Thumb.mp3.log"
 
 #
 # Add a backing track to the audio book
 #
+Write-Output "Making audio book with soundtrack..."
 lame --decode .\Music\natural-reader-soundtrack.mp3 natural-reader-soundtrack.wav  --silent
-lame natural-reader-soundtrack.wav -m m natural-reader-soundtrack-mono.wav --silent
+Write-Output "... made natural-reader-soundtrack.wav"
+
+lame natural-reader-soundtrack.wav -m m natural-reader-soundtrack-mono.pcm --silent
+Write-Output "... made natural-reader-soundtrack.pcm (previously wav)"
+
 lame --decode The-Return-of-Tom-Thumb.mp3 The-Return-of-Tom-Thumb.wav --silent
-#----> lol copy .\Music\natural-reader-soundtrack.mp3 tRoTT-with-music.mp3 # default result if next step fails
-sox -m natural-reader-soundtrack-mono.wav The-Return-of-Tom-Thumb.wav tRoTT-with-music.wav -q 
+Write-Output "... made The-Return-of-Tom-Thumb.wav"
+
+copy .\Music\natural-reader-soundtrack.mp3 tRoTT-with-music.mp3 # default result if next step fails
+Write-Output "... made default upload artifact (backing track with no voice) tRoTT-with-music.mp3"
+
+sox -m natural-reader-soundtrack-mono.pcm The-Return-of-Tom-Thumb.wav tRoTT-with-music.wav -q 
+Write-Output "... made sox mix of tRoTT-with-music.wav"
+
 lame -f tRoTT-with-music.wav tRoTT-with-music.mp3 --silent
+Write-Output "... made proper tRoTT-with-music.mp3"
 
 #
 # Debug google text to speech, to see how words sound (reads contents of gTTS_debug.txt and makes an mp3 debug artifact)
