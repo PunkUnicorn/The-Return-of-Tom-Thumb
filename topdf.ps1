@@ -220,7 +220,7 @@ Write-Output "... made natural-reader-soundtrack.wav"
 lame --decode The-Return-of-Tom-Thumb.mp3 The-Return-of-Tom-Thumb.wav --silent
 Write-Output "... made The-Return-of-Tom-Thumb.wav"
 
-sox The-Return-of-Tom-Thumb.wav The-Return-of-Tom-Thumb-stereo.wav --channels 2 -q
+sox The-Return-of-Tom-Thumb.wav --channels 2 The-Return-of-Tom-Thumb-stereo.wav -q
 #lame The-Return-of-Tom-Thumb.wav The-Return-of-Tom-Thumb-stereo.wav --silent
 Write-Output "... made natural-reader-soundtrack-stereo.wav"
 
