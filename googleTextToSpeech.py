@@ -37,12 +37,12 @@ with io.BytesIO() as f:
         if (len(line) == 0):
             continue;
         words = makeWords(line)
-        ttsInput = ' . ' + ' '.join(words) + '  '
+        ttsInput = ' ' + ' '.join(words) + '  '
         if len(debugFilename) > 0:
             with open(debugFilename, 'a') as debugFile:
                 debugFile.write(ttsInput)
                 
-        tts = gTTS(text=ttsInput + '\n', lang='en-GB') #https://cloud.google.com/speech-to-text/docs/languages  en-GB es-US
+        tts = gTTS(text=ttsInput + '\n\n', lang='en-GB') #https://cloud.google.com/speech-to-text/docs/languages  en-GB es-US
         try: 
             tts.write_to_fp(f)
         except:
