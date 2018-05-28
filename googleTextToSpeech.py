@@ -32,9 +32,10 @@ if len(sys.argv) > 3: # -d <debug filename.txt>
 with io.BytesIO() as f:
     for line in sys.stdin:
         if (line is None):
-            continue;
-            
+            continue;            
         if (len(line) == 0):
+            continue;
+        if (line[:2] == '!['): # ugly hack - ignore markdown images
             continue;
         words = makeWords(line)
         ttsInput = ' ' + ' '.join(words) + '  '
