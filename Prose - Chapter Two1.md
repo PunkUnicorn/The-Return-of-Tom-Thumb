@@ -12,9 +12,9 @@ Tom was not ready for this. She found an excuse, a reflex born from desperation:
 
 Kim looked to the cow, who was even less keen to hurry than Tom. He sighed and did not instantly disagree. Tom could see in Kim's face he had not given up: “Why don't you make your boots 'go fast'?” he countered.
 
-At this exact moment another traveller was walking past. Tom saw him, a well dressed young man. 
+At this exact moment another traveller was walking past. Tom saw him, a well dressed young man. Something she and her brother were saying had caught his attention. He had flashed an awkward glance towards Tom, but averted a connection.
 
-Something she and her brother were saying had caught his attention. He had flashed an awkward glance towards Tom, but averted a connection.
+Let us switch to the perspective of this traveller.
 
 He had thought how odd: a pair of urchins in rags, one of which with impeccable boots. They also had that cow the lad Jack was trying to sell all day (for too high a price). “I wonder?” he thought, on all counts. 
 
