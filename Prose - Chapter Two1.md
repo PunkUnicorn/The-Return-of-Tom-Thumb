@@ -46,6 +46,8 @@ Tom was proud of buying the cow; one of her proudest achievements: “Yes.” bu
 
 The Tailor looked at Tom with regret, gently stating: “All day Jack was asking a rather high price.”, but Tom did not understand. The Tailor seemed to notice, breaking the slight pause by continuing: “I wondered if...  would you share how much the cow cost you?”. The Tailor was aware this was a rude question, but felt concern for the pair.
 
-Tom shrugged: “Three apple pips.“. The Tailor was confused but after some questions he understood: they were from a giant apple. Tom would not share where the apple came from. In fact, she seemed to shut down when asked, she started shrinking away. The Tailor had to divert the conversation to stories of his own travels. This woke Tom up, but not the other one, her brother he presumed.
+Tom shrugged: “Three apple pips.“. The Tailor was confused but after some questions he understood: they were from a giant apple. Tom would not share where the apple came from. In fact, she seemed to shut down when asked; she started shrinking away. The Tailor would liked to have asked more questions, to correlate against stories he had known. Instead he worked hard, diverting the conversation to tales of his own travels from the south. This woke Tom up, but not the other one: her brother he presumed.
 
-Tom pressed questions about the south, it's commerce, on cosmopolitan values. Each answer was bit too much for her to grasp, and the questions were numerous. The Tailor answered best he could:
+Tom pressed questions about the south: it's commerce, on cosmopolitan values. Each answer was a bit too much for her to grasp, and the questions were numerous. The Tailor answered best he could. 
+
+Kim interupted: “It's cold.”
