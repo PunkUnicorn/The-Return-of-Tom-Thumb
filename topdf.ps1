@@ -171,8 +171,7 @@ cat final-title.md
 Write-Output "Adding build version to final-title.md FINISHED"
 
 Write-Output "Combining markdown..."
-cat "final-title.md", 
-	"Prose - Chapter One1.md", 
+cat "Prose - Chapter One1.md", 
 	"Prose - Blank line.md",
 	"Prose - Chapter One2.md",
 	"Prose - Blank line.md",
@@ -182,7 +181,7 @@ cat "final-title.md",
 	"Prose - Blank line.md" | sc "The-Return-of-Tom-Thumb.md" 
 	
 Get-Content "The-Return-of-Tom-Thumb.md" -Encoding UTF8 | Replace-FancyQuotes | Out-File "The-Return-of-Tom-Thumb.txt" -Encoding UTF8 -Append
-Write-Output "...The-Return-of-Tom-Thumb.md and The-Return-of-Tom-Thumb.txt created"
+Write-Output "... made The-Return-of-Tom-Thumb.md and The-Return-of-Tom-Thumb.txt created"
 Write-Output "Combining markdown FINISHED"
 
 Write-Output "Creating books..."
@@ -201,7 +200,9 @@ Write-Output "... made The-Return-of-Tom-Thumb.html..."
 
 # Make the audio book (WIP)
 Write-Output "Making Audio book ..."
-Get-Content -Path "The-Return-of-Tom-Thumb.txt" -Encoding UTF8 | `
+# Add the title page in, which pandoc takes in as a separate file in addition to the book files. Here we want to include it all in one file
+cat "final-title.md", The-Return-of-Tom-Thumb.txt | sc The-Return-of-Tom-Thumb-with-title.txt
+Get-Content -Path "The-Return-of-Tom-Thumb-with-title.txt" -Encoding UTF8 | `
 	Destroy-Quotes | `
 	%{ $_.Replace("%", "`n").Replace("<sub>","").Replace("</sub>", "") } >> gTTS_word_input.txt
 Write-Output "... made gTTS_word_input.txt"
