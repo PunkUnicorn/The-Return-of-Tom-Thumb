@@ -14,7 +14,7 @@
 
 # Chapter One
 
-Tom Thumb had been back home for several nights.
+Tom Thumb had been back home for three nights.
 
 As usual her thoughts were occupied replaying the past troubling days. The terrifying giant; coming to terms with their parents leaving them to die in the forest: and finding out she was not the same as her brothers. 
 
