@@ -1,5 +1,3 @@
-# Chapter Zero
-
  <sub>Once upon a time in a land far away,</sub>
  
  <sub>Children were lost, by their parents betrayed,</sub>
