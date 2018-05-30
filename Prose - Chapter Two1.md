@@ -20,13 +20,13 @@ He had thought how odd: a pair of urchins in rags, one of which with impeccable 
 
 On hearing the boy talk about the smart boots 'going fast' he was more than curious. On his long journey there had been nothing interesting for leagues. Glancing at the one with the boots he could see it was a girl not a boy. She noticed his glance, so he looked away, not wanting to intrude. He walked past them. 
 
-Using the remaining light to see ahead, the long road north looked sparse. Also he reckoned it was more bitterly cold. Also he had heard it was dangerous further up. As he walked he made a choice: he would stop, turn around and head back south from where he came. It had been a long venture, starting the previous spring. The months spent travelling north had reached their conclusion. 
+Using the remaining light to see ahead, the long road north looked sparse. Also he reckoned it was more bitterly cold and he had heard it was dangerous further up. As he walked he made a choice: he would stop, turn around and head back south from where he came. It had been a long venture, starting the previous spring. The months spent travelling north had reached their conclusion. 
 
 So he slowed his steps. He could hear the two with the cow arguing: the girl didn't want to get lost in the forest, the boy wanted to get home; The girl said the boots didn't work like that, the boy getting a little frustrated. Her final gambit: to plead caution, for fear of getting lost. The boy seeming to be swayed. They stopped talking. 
 
 Our travelling man turned around. He could see the two were still there, he was behind them. The cow did face him however.
 
-He took a few steps towards them. They were silent. He stopped slightly too far away from them; giving them adequate space. With a polite cough he introduced his presents. They turned around. The man bowed slightly, moderately spread his hands as a gesture of openness. 
+He took a few steps towards them. They were silent. He stopped slightly too far away from them; giving them adequate space. With a polite cough he introduced his presence. They turned around. The man bowed slightly, moderately spread his hands as a gesture of openness. 
 
 “Greetings.” he said smiling shyly, more shyly than his snappy clothes and confident posture would suggest.
 
@@ -48,6 +48,6 @@ The Tailor looked at Tom with regret, gently stating: “All day Jack was asking
 
 Tom shrugged: “Three apple pips.“. The Tailor was confused but after some questions he understood: they were from a giant apple. Tom would not share where the apple came from. In fact, she seemed to shut down when asked; she started shrinking away. The Tailor would liked to have asked more questions, to correlate against stories he had known. Instead he worked hard, diverting the conversation to tales of his own travels from the south. This woke Tom up, but not the other one: her brother he presumed.
 
-Tom pressed questions about the south: it's commerce, on cosmopolitan values. Each answer was a bit too much for her to grasp, and the questions were numerous. The Tailor answered best he could. 
+Tom pressed questions about the south: it's commerce, on cosmopolitan values. Each answer was a bit too much for her to grasp, and the questions were numerous. The Tailor answered as best he could. 
 
 Kim interupted: “It's cold.”
