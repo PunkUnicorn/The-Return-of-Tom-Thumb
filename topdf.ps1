@@ -171,7 +171,9 @@ cat final-title.md
 Write-Output "Adding build version to final-title.md FINISHED"
 
 Write-Output "Combining markdown..."
-cat "Prose - Chapter One1.md", 
+cat "Prose - Chapter One0.md", 
+    "Prose - Blank line.md",
+    "Prose - Chapter One1.md", 
 	"Prose - Blank line.md",
 	"Prose - Chapter One2.md",
 	"Prose - Blank line.md",
