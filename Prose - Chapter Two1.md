@@ -1,6 +1,6 @@
 ![](TomThumb/Tom%20Thumbnail.jpg)
 
-# Chapter Two
+# Chapter Three
 
 Kim held the tether of the cow. Tom waved Jack farewell, who was keen to depart after the transaction. Tom wished Jack had been more social instead of hurrying off. She felt dissatisfied.
 
