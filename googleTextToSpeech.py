@@ -38,13 +38,13 @@ with io.BytesIO() as f:
         if (line[:2] == '!['): # ugly hack - ignore markdown images
             continue;
         words = makeWords(line)
-        ttsInput = ' ' + ' '.join(words) + '  '
+        pause = '\n\n ! \n ! \n ! \n'
+        ttsInput = ' ' + ' '.join(words) + '  ' + pause
         if len(debugFilename) > 0:
             with open(debugFilename, 'a') as debugFile:
                 debugFile.write(ttsInput)
                 
-        pause = '\n !\n !\n ! BREAK HERE!\n'				
-        tts = gTTS(text=ttsInput + pause, lang='en-GB') #https://cloud.google.com/speech-to-text/docs/languages  en-GB es-US
+        tts = gTTS(text=ttsInput, lang='en-GB') #https://cloud.google.com/speech-to-text/docs/languages  en-GB es-US
         try: 
             tts.write_to_fp(f)
         except:
