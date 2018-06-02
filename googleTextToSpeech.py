@@ -38,7 +38,7 @@ with io.BytesIO() as f:
         if (line[:2] == '!['): # ugly hack - ignore markdown images
             continue;
         words = makeWords(line)
-        pause = '\n ! \n ! \n !\n' # this pause only works if the next line after is not blank, otherwise the TTS speaks the ! ! !
+        pause = '\n ! \n !\n' # this pause only works if the next line after is not blank, otherwise the TTS speaks the ! ! !
         if len(words) == 0:
             continue;
         ttsInput = pause + ' '.join(words) + '  '
