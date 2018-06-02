@@ -59,3 +59,5 @@ Kim stopped but kept his grip on Tom, her jumper stretching as she turned to Jac
 Kim was not convinced. Without hesitation he turned away, pulling Tom with him.  
 
 “Alright, alright. The cow for the pips,” Jack negotiated, “but only for all three of them.”                                          
+
+![](TomThumb/Tom%20Thumbnail.jpg)

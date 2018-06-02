@@ -38,7 +38,12 @@ Function Spellcheck-Chapter($chapterName, $spellingFailFilename) {
 	Write-Output "$chapterName Spelling starts:"
 	
 	$chapter = Get-Content -Path "Prose - $chapterName*.md" -Encoding UTF8
-	$chapterSpelling = $chapter | Replace-FancyQuotes | python spellchecker.py | ConvertFrom-Csv
+	$chapterSpelling = $chapter | `
+		Replace-FancyQuotes | `
+		%{ $_.Replace("%", "`n").Replace("<sub>","").Replace("</sub>", "") } | `
+		python spellchecker.py | `
+		ConvertFrom-Csv
+		
 	$chapterSpelling 
 	
 	$chapterSpelling | Out-File -FilePath $spellingFailFilename -Append
@@ -95,8 +100,8 @@ Function WordAnalysis-Chapter($chapterName) {
 	# Four columns: Word, Length, Count, Percent: 
 	# - Word is the word
 	# - Length is it's length of characters 
-	# - Count is it's number of occurances in the chapter
-	# - Percent is it's percent occurance in the chapter
+	# - Count is it's number of occurrences in the chapter
+	# - Percent is it's percent occurrence in the chapter
 	$chapterWordCount | `
 		Where { $_.Count -gt 1 } | `
 		Where { $_.Length -gt 2 }	
@@ -108,7 +113,7 @@ Function WordAnalysis-Chapter($chapterName) {
 		Where { $_.Count -gt 1 } | `
 		Where { $_.Length -gt 2 } | `
 		foreach { $_.Word } | `
-		python theasaurus.py | ` #`
+		python theasaurus.py | ` 
 		ConvertFrom-Csv
 	Write-Output $chapterWordHints 
 	Write-Output "$chapterName WordAnalysis ends!"
@@ -130,7 +135,8 @@ Function Thesaurunocerous-Chapter($chapterName, $wordsFilename) {
 			-Details "$($_.Hint)" `
 			-Category "$($_.Status)" 
 		}	
-	WordAnalysis-Chapter $chapterName | Out-File wordsFilename -Append
+		
+	WordAnalysis-Chapter $chapterName | Out-File $wordsFilename -Append
 	Write-Output "$chapterName Thesaurunocerous end!"	
 }	
 	
@@ -141,11 +147,13 @@ Write-Output "Spelling Starts"
 Spellcheck-DumpExceptions
 Spellcheck-Chapter "Chapter One" "Chapter-One-Spelling.txt" 
 Spellcheck-Chapter "Chapter Two" "Chapter-Two-Spelling.txt"
+Spellcheck-Chapter "Chapter Three" "Chapter-Three-Spelling.txt"
 Write-Output "Spelling Ends"
 
 Write-Output "Thesaurunocerous Starts"
 Thesaurunocerous-Chapter "Chapter One" "Chapter-One-Words.txt"
 Thesaurunocerous-Chapter "Chapter Two" "Chapter-Two-Words.txt"
+Thesaurunocerous-Chapter "Chapter Three" "Chapter-Three-Words.txt"
 Write-Output "Thesaurunocerous Ends"
 
 
@@ -166,16 +174,18 @@ Write-output `n | Out-File "Prose - Blank line.md" -Append
 
 Write-Output "Adding build version to final-title.md..."
 Add-Content -Path "book-version.txt" -Value $env:APPVEYOR_BUILD_VERSION
-cat title.md, "Prose - Blank line.md", book-version.txt, "Prose - Blank line.md" | sc final-title.md # title.md contents at the top
+cat book-version.txt, "Prose - Blank line.md", title.md, "Prose - Blank line.md" | sc final-title.md # title.md contents at the top
 cat final-title.md
 Write-Output "Adding build version to final-title.md FINISHED"
 
 Write-Output "Combining markdown..."
 cat "Prose - Chapter One1.md", 
 	"Prose - Blank line.md",
-	"Prose - Chapter One2.md",
+	"Prose - Chapter Two1.md",
 	"Prose - Blank line.md",
-	"Prose - Chapter One3.md", 
+	"Prose - Chapter Two2.md", 
+	"Prose - Blank line.md",
+	"Prose - Chapter Two3.md", 
 	"Prose - Blank line.md",
 	"Prose - Chapter Two1.md", 
 	"Prose - Blank line.md" | sc "The-Return-of-Tom-Thumb.md" 
@@ -229,8 +239,8 @@ Write-Output "... made default upload artifact (backing track with no voice) tRo
 sox -m natural-reader-soundtrack.wav The-Return-of-Tom-Thumb-stereo.wav tRoTT-with-music.wav -q 
 Write-Output "... made sox mix of tRoTT-with-music.wav"
 
-lame tRoTT-with-music.wav tRoTT-with-music.mp3 --silent
-Write-Output "... made proper tRoTT-with-music.mp3"
+lame tRoTT-with-music.wav The-Return-of-Tom-Thumb-with-music.mp3 --silent
+Write-Output "... made The-Return-of-Tom-Thumb-with-music.mp3"
 
 #
 # Debug google text to speech, to see how words sound (reads contents of gTTS_debug.txt and makes an mp3 debug artifact)

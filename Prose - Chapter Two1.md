@@ -1,53 +1,42 @@
-![](TomThumb/Tom%20Thumbnail.jpg)
 
-# Chapter Three
+# Chapter Two
 
-Kim held the tether of the cow. Tom waved Jack farewell, who was keen to depart after the transaction. Tom wished Jack had been more social instead of hurrying off. She felt dissatisfied.
+Tom Thumb had been back home for three nights.
 
-Tom scanned the village hoping to see something that would cascade her enthusiasm. However, the sun was lower in the sky and the crowds had thinned; the day was retiring. She had sold the pips, there was no reason left to stay.
+As usual her thoughts were occupied replaying the past troubling days. The terrifying giant; coming to terms with their parents leaving them to die in the forest: and finding out she was not the same as her brothers. 
 
-“We'd better head back.” suggested Kim.
+Tom wondered: “How did the lady giant know?”. A pang of regret that it was heard from a stranger, but it blended into the despair at being left in the forest. Tom had no reason to doubt the words of the kind giant, the motherly one: “No you beautiful young thing: make no mistake you are a girl.” 
 
-Tom was not ready for this. She found an excuse, a reflex born from desperation: “The trail will be dark. Shouldn't we wait till first light?”
+The words echoed in her thoughts and again Tom felt surprise and shock. The words had said themselves over and over bringing a churn to her gut. For as many times as she came to terms with this, it would return to unsettle her.
 
-Kim looked to the cow, who was even less keen to hurry than Tom. He sighed and did not instantly disagree. Tom could see in Kim's face he had not given up: “Why don't you make your boots 'go fast'?” he countered.
+She had known, despite her father’s intimidating insistence he only had boys. Tom thought: “Hide away.”, and try to think where. But there was no denial left.
 
-At this exact moment another traveller was walking past. Tom saw him, a well dressed young man. Something she and her brother were saying had caught his attention. He had flashed an awkward glance towards Tom, but averted a connection.
+Chewing a grass stalk with her arms behind her head, she realised she was not actually looking at the sky. But now she did as her thoughtscape vanished and she saw the clouds in front of her. It would be getting dark soon.
 
-Let us switch to the perspective of this traveller.
+She pulled her head up to look at the remaining apple core beyond the house: the apple sat looking a little sorry for itself. It was more than thin now, and slushy. 
 
-He had thought how odd: a pair of urchins in rags, one of which with impeccable boots. They also had that cow the lad Jack was trying to sell all day (for too high a price). “I wonder?” he thought, on all counts. 
+She and her brothers had dragged this giant apple from the strange house. “And what a great idea that was.” Tom congratulated herself; it was a feast for everyone. “That was me.” she continued surprised. At that moment she felt immensely proud.
 
-On hearing the boy talk about the smart boots 'going fast' he was more than curious. On his long journey there had been nothing interesting for leagues. Glancing at the one with the boots he could see it was a girl not a boy. She noticed his glance, so he looked away, not wanting to intrude. He walked past them. 
+The apple would last them two more days Tom thought, weighing it up in her mind. Full bellies all round. A heavenly comfort but with a nagging feeling. What was that nagging feeling? An awareness catching up with her. 
 
-Using the remaining light to see ahead, the long road north looked sparse. Also he reckoned it was more bitterly cold and he had heard it was dangerous further up. As he walked he made a choice: he would stop, turn around and head back south from where he came. It had been a long venture, starting the previous spring. The months spent travelling north had reached their conclusion. 
+Probing her thoughts she reluctantly opened blocks obscuring doubt. “Oh yes,” she murmured. The apple would inevitably be eaten. With no apple left the family would be back to the way it was before. Which was nothing. Winter was not over yet.
 
-So he slowed his steps. He could hear the two with the cow arguing: the girl didn't want to get lost in the forest, the boy wanted to get home; The girl said the boots didn't work like that, the boy getting a little frustrated. Her final gambit: to plead caution, for fear of getting lost. The boy seeming to be swayed. They stopped talking. 
+“It’s ages till spring.” Tom thought, looking towards the core. Somehow, her focus left the apple even though she was looking straight at it. 
 
-Our travelling man turned around. He could see the two were still there, he was behind them. The cow did face him however.
+Tom’s mind drifted.
 
-He took a few steps towards them. They were silent. He stopped slightly too far away from them; giving them adequate space. With a polite cough he introduced his presence. They turned around. The man bowed slightly, moderately spread his hands as a gesture of openness. 
+Spring would break and the family could get back to a merry life of hunting rodents for meals, served with nettles. A banquet. But just a daydream. A lovely image while she laid on her back. 
 
-“Greetings.” he said smiling shyly, more shyly than his snappy clothes and confident posture would suggest.
+With a sigh she pulled herself up to sit, muscles stretching which brought her back to the present.
 
-“Hello.” Tom beamed. Kim stayed silent.
+Wiggling her toes she felt the exquisite comfort in the soft leather of the boots; she could do that all day. She had been doing that all day. Now the worry of what would happen when the apple core ran out.. There would be arguing at best. 
 
-“Could, I... possibly ask you... one hundred billion things?” the well dressed man begged as much as unruffled composure would allow.
+Being the smallest child (significantly smaller than the next smallest) Tom was not sure that being a girl made any difference. She would still have to fight for pretty much anything.
 
-Tom laughed; this smart, handsome figure fooling around. Kim snorted out enough to give away he found it funny.
+Sitting and not sure whether to get up or not, she was glad everyone had enough to eat today: the luxury of a full belly.
 
-“Firstly,” continued the man, “please allow me to introduce myself: I am a humble tailor.” and he bowed slightly.
+“So,” she said to herself “What I need is a plan.”. It was not an easy problem to solve. But quickly Tom had an idea! In fact, the answer was clear: get another giant apple. Apples grow from apple pips. “But not in a day.” disagreeing with herself. But it was something. Tom understood there was yet another treasure hidden in the giant apple core. The giant apple pips. 
 
-“I'm Tom.” she completed, then continued: “A tailor?”, she asked impressed, and then more earnest: “Do you really want to ask questions?”
+Gently rising to her feet she walked to the core until she was close enough to judge where the pips should be. Squaring her knuckles with her shoulder, readjusting her footing to channel her body weight Tom punched through the seed chamber.
 
-The Tailor took a step forward, nodded to confirm, “Yes.” He paused. “If I could ask one thing that I am curious about: did you buy that cow off that lad Jack?”
-
-Tom was proud of buying the cow; one of her proudest achievements: “Yes.” but she noticed The Tailor was concerned: “Why?”.
-
-The Tailor looked at Tom with regret, gently stating: “All day Jack was asking a rather high price.”, but Tom did not understand. The Tailor seemed to notice, breaking the slight pause by continuing: “I wondered if...  would you share how much the cow cost you?”. The Tailor was aware this was a rude question, but felt concern for the pair.
-
-Tom shrugged: “Three apple pips.“. The Tailor was confused but after some questions he understood: they were from a giant apple. Tom would not share where the apple came from. In fact, she seemed to shut down when asked; she started shrinking away. The Tailor would liked to have asked more questions, to correlate against stories he had known. Instead he worked hard, diverting the conversation to tales of his own travels from the south. This woke Tom up, but not the other one: her brother he presumed.
-
-Tom pressed questions about the south: it's commerce, on cosmopolitan values. Each answer was a bit too much for her to grasp, and the questions were numerous. The Tailor answered as best he could. 
-
-Kim interupted: “It's cold.”
+Pushing her hand in she felt a pip. Reaching in further, feeling around blindly, her hand mapped the pip’s orientation. With a concerted push the pip nudged to a better grip. Tom curled her hand around the pip’s back easing it out. Once she had freed one pip another two became accessible. Using a stick she worked these out. Tom put the three pips in her pockets.
