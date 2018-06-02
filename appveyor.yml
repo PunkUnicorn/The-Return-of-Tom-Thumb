@@ -37,6 +37,9 @@ artifacts:
   - path: The-Return-of-Tom-Thumb.mp3
     name: is_book_yeah_mp3
     type: file
+  - path: The-Return-of-Tom-Thumb.mp3.log
+    name: is_book_yeah_mp3_log
+    type: file
   - path: The-Return-of-Tom-Thumb-with-music.mp3
     name: is_book_yeah_mp3_w_music
     type: file

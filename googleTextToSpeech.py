@@ -43,7 +43,7 @@ with io.BytesIO() as f:
             with open(debugFilename, 'a') as debugFile:
                 debugFile.write(ttsInput)
                 
-        pause = '\n! \n! \n!'
+        pause = '\n !\n !\n ! BREAK HERE!\n'				
         tts = gTTS(text=ttsInput + pause, lang='en-GB') #https://cloud.google.com/speech-to-text/docs/languages  en-GB es-US
         try: 
             tts.write_to_fp(f)
