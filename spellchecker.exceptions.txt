@@ -1,6 +1,8 @@
 #spellchecker.exceptions.txt
 #lowercase only please
 #also in this file avoid 'fancy' single and double quotes. Use the " and ' available on they keyboard only (not the exotic Unicode variations). Python really doesn't like them
+#Chapter One
+slayed
 #Chapter Two
 thoughtscape
 doin'

@@ -11,7 +11,7 @@ Tom was not ready for this. She found an excuse, a reflex born from desperation:
 
 Kim looked to the cow, who was even less keen to hurry than Tom. He sighed and did not instantly disagree. Tom could see in Kim's face he had not given up: “Why don't you make your boots 'go fast'?” he countered.
 
-At this exact moment another traveller was walking past. Tom saw him, a well dressed young man. Something she and her brother were saying had caught his attention. He had flashed an awkward glance towards Tom, but averted a connection.
+At this exact moment another traveller was walking past. Tom saw him, a well dressed young man with a bright spotless shirt. Something she and her brother were saying had caught his attention. He had flashed an awkward glance towards Tom, but averted a connection.
 
 Let us switch to the perspective of this traveller.
 
@@ -25,7 +25,7 @@ So he slowed his steps. He could hear the two with the cow arguing: the girl did
 
 Our travelling man turned around. He could see the two were still there, he was behind them. The cow did face him however.
 
-He took a few steps towards them. They were silent. He stopped slightly too far away from them; giving them adequate space. With a polite cough he introduced his presence. They turned around. The man bowed slightly, moderately spread his hands as a gesture of openness. 
+He took a few steps towards them. They were silent. He stopped a little too far away; giving them adequate space. He introduced himself with a polite cough. They turned around. The man bowed slightly, moderately spreading his hands as a gesture of openness. 
 
 “Greetings.” he said smiling shyly, more shyly than his snappy clothes and confident posture would suggest.
 
@@ -49,4 +49,4 @@ Tom shrugged: “Three apple pips.“. The Tailor was confused but after some qu
 
 Tom pressed questions about the south: it's commerce, on cosmopolitan values. Each answer was a bit too much for her to grasp, and the questions were numerous. The Tailor answered as best he could. 
 
-Kim interupted: “It's cold.”
+Kim interrupted, slightly angry: “It's cold.” Tom and The Tailor stopped talking and silently agreed.

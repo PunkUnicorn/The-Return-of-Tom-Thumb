@@ -7,10 +7,8 @@
  
  <sub>Encountered a house, a good place to stay,</sub>
  
- <sub>Giants lived there, pursuit underway!</sub>
+ <sub>Giants lived there, pursuit under sway!</sub>
  
  <sub>Boots were stolen, a giant was slayed,</sub>
 
  <sub>The brothers and Tom escaped, hurray.</sub>
-
- 
