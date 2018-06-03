@@ -29,6 +29,8 @@ if len(sys.argv) > 2: # -o <output filename.mp3>
 if len(sys.argv) > 3: # -d <debug filename.txt>
     debugFilename = str(sys.argv[4])    
     
+tts_pause = gTTS(text=' \n ', lang='en-GB') #https://cloud.google.com/speech-to-text/docs/languages  en-GB es-US
+
 with io.BytesIO() as f:
     for line in sys.stdin:
         if (line is None):
@@ -48,6 +50,7 @@ with io.BytesIO() as f:
         tts = gTTS(text=ttsInput, lang='en-GB') #https://cloud.google.com/speech-to-text/docs/languages  en-GB es-US
         try: 
             tts.write_to_fp(f)
+            tts_pause.write_to_fp(fp)
         except:
             continue;            
     #end for line in sys.stdin
