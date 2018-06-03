@@ -32,13 +32,13 @@ The boy saw her offering but after no time he was astonished, which was accompan
 
 “No one, you’re the first.” Tom’s quick reply.
 
-“Where’d you get that then?”, the boy asked adding “My name’s Jack by the way.”
+“Where’d you get that from then?”, the boy asked adding: “I'm Jack by the way.”
 
-“A giant apple.” she answered. “Nice to meet you Jack.”
+“Nice to meet you Jack, I'm Tom. We got it from a giant apple.” she answered.
 
 Jack did not seem to notice her greeting which was her favourite part.
 
-“What you planning on doing with it?” Jack asked.
+Instead he asked: “What you planning on doing with it?”
 
 Tom was sure she had answered this already. “I want to sell it.” 
 
@@ -50,14 +50,14 @@ Jack challenged a question back: “A cow?” He was incredulous. He looked arou
 
 “Come on.” said Kim to Tom, grabbing her as he took firm steps towards the greater village hubbub.
 
-Jack burst: “No! Wait!"; his interest in the pip confirmed.
+“No!” Jack burst, “Wait!”; his interest in the pip confirmed.
 
 Kim stopped but kept his grip on Tom, her jumper stretching as she turned to Jack: “I’ve got three.”
 
-“Ah!” exclaimed Jack as if this changed everything. “Three! why didn’t you say so?”
+“Oh!” exclaimed Jack, as if this changed everything, “Three! why didn’t you say so?”
 
 Kim was not convinced. Without hesitation he turned away, pulling Tom with him.  
 
-“Alright, alright. The cow for the pips,” Jack negotiated, “but only for all three of them.”                                          
+“Alright, alright. The cow for the pips,” Jack negotiated, “but only for all three of them.”  
 
 ![](TomThumb/Tom%20Thumbnail.jpg)
