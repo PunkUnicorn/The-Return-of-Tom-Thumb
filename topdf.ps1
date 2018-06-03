@@ -246,10 +246,16 @@ Write-Output "... made default upload artifact (backing track with no voice) The
 sox natural-reader-soundtrack.wav natural-reader-soundtrack.wav natural-reader-soundtrack-doubled.wav -q 
 Write-Output "... made natural-reader-soundtrack-doubled.wav"
 
-sox -m natural-reader-soundtrack-doubled.wav The-Return-of-Tom-Thumb-stereo.wav tRoTT-with-music.wav trim 0 "$(soxi -D The-Return-of-Tom-Thumb-stereo.wav)" -q 
+sox -m natural-reader-soundtrack-doubled.wav The-Return-of-Tom-Thumb-stereo.wav tRoTT-with-music.wav -q
 Write-Output "... made sox mix of tRoTT-with-music.wav"
 
-lame tRoTT-with-music.wav The-Return-of-Tom-Thumb-with-music.mp3 --silent
+$trimToMinutes="$([int]($(soxi -D The-Return-of-Tom-Thumb-stereo.wav)/60))"
+$trimToMinutes=([int]$trimToMinutes)+1
+$trimToParam="$trimToMinutes`:00"
+sox tRoTT-with-music.wav tRoTT-with-music-trimmed.wav trim 0 $trimToParam 
+Write-Output "... made tRoTT-with-music-trimmed.wav"
+
+lame tRoTT-with-music-trimmed.wav The-Return-of-Tom-Thumb-with-music.mp3 --silent
 Write-Output "... made The-Return-of-Tom-Thumb-with-music.mp3"
 
 #
