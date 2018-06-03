@@ -6,6 +6,8 @@
 * gnutgnut [![gnutgnut Build status](https://ci.appveyor.com/api/projects/status/lb3g13dict5g7l4i?svg=true)](https://ci.appveyor.com/project/gnutgnut/the-return-of-tom-thumb)
 [epub](https://ci.appveyor.com/project/gnutgnut/the-return-of-tom-thumb/build/artifacts)
 * Purplejoby
+* Igot-knoider
+* rob-gee
 
 *Starring...*
 # Tom Thumb
