@@ -217,7 +217,7 @@ Get-Content -Path "The-Return-of-Tom-Thumb-with-title.txt" -Encoding UTF8 | `
 	%{ $_.Replace("%", "`n").Replace("<sub>","").Replace("</sub>", "") } >> gTTS_word_input.txt
 Write-Output "... made gTTS_word_input.txt"
 
-cat gTTS_word_input.txt | python .\googleTextToSpeech.py -o The-Return-of-Tom-Thumb.mp3 -d The-Return-of-Tom-Thumb.mp3.log
+cat gTTS_word_input.txt | python .\googleTextToSpeech.py -o The-Return-of-Tom-Thumb.mp3 -d The-Return-of-Tom-Thumb.mp3.log 
 Write-Output "... made The-Return-of-Tom-Thumb.mp3 and The-Return-of-Tom-Thumb.mp3.log"
 
 #
@@ -246,7 +246,7 @@ Write-Output "... made The-Return-of-Tom-Thumb-with-music.mp3"
 # Debug google text to speech, to see how words sound (reads contents of gTTS_debug.txt and makes an mp3 debug artifact)
 #
 Get-Content -Path "gTTS_debug.txt" -Encoding UTF8 | Destroy-Quotes >test1.txt
-cat test1.txt | python .\googleTextToSpeech.py -o testymctestface.mp3
+cat test1.txt | python .\googleTextToSpeech.py -o testymctestface.mp3 -d testymctestface.mp3.log -l de-DE
 
 Write-Output "... made The-Return-of-Tom-Thumb.mp3 and The-Return-of-Tom-Thumb.mp3.log..."
 

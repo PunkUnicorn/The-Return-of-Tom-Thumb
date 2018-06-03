@@ -13,19 +13,19 @@ Kim looked to the cow, who was even less keen to hurry than Tom. He sighed, and 
 
 At this exact moment another traveller was walking past. Tom saw him, a well dressed young man with a bright spotless shirt. Handsome, relaxed and wearing rather good boots. Something she and her brother were saying caught his attention. He flashed an awkward glance towards Tom, but averted a connection.
 
-Let us switch to the perspective of this handsome, relaxed traveller (with good boots).
+Let us switch to the perspective of this handsome, relaxed traveller.
 
 He thought: “How odd; a pair of urchins in rags. One of which with impeccable boots.” 
 
-And how did they get to be holding Jack's cow? The hasty lad had been trying to sell it for too much coin. He was in a hurry and seemed desperate, but would not move on his price. “I wonder?” he thought, on all counts. 
+And how did they get to be holding Jack's cow? The hasty lad had been trying to sell it for too much coin; he seemed desperate, but would not change his mind on the price. “I wonder?” he thought, on all counts. 
 
 As he passed the scruffy pair, seeing Jack's cow and hearing one of them talking about 'make your boots go fast' he was more than curious. 
 
 On his months long journey there had been nothing interesting for leagues. Glancing at the one with the boots he could see it was a girl not a boy. She wore boys clothes that were too big for her. She noticed his glance, so he looked away, not wanting to intrude. 
 
-He walked past them. 
+He walked past them; he had to assess the road ahead.
 
-Using the remaining light to see ahead the long road north looked sparse. Also he reckoned it was more bitterly cold, and he had heard it was dangerous further up. As he walked he made a choice: he would stop, turn around and head back south from where he came. It had been an ambitious venture starting the previous spring. The seasons spent travelling north had reached their conclusion. 
+Using the remaining light to see ahead, the long road north looked sparse. Also he reckoned it was more bitterly cold, and he had heard it was dangerous further up. As he walked he made a choice: he would stop, turn around and head back south from where he came. It had been an ambitious venture starting the previous spring. The seasons spent travelling north had reached their conclusion, here at this spot.
 
 So he slowed his steps. There was nothing in front of him. Behind him the two (with the cow) were arguing: the girl did not want to get lost in the forest, the boy wanted to get home; the girl said “The boots didn't work like that.”, the boy getting a little frustrated. Her final gambit: to plead caution, for fear of getting lost. The boy seeming to be swayed. They stopped talking. 
 
@@ -55,7 +55,7 @@ Tom shrugged: “Three apple pips.“. The Tailor was confused but after some qu
 
 Tom pressed questions about the south: it's commerce, on cosmopolitan values. Each answer was a bit too much for her to grasp, and the questions were numerous. The Tailor answered as best he could. 
 
-Kim interrupted, slightly angry: “It's cold.” Tom and The Tailor stopped talking and silently agreed with him, yet they could talk more. The Tailor had not satisfied any curiosity, there was still too much about the girl Tom that was a mystery. And what about this giant apple?
+Kim interrupted, slightly angry: “It's cold.” Tom and The Tailor stopped talking and silently agreed with him, yet they could have talked more. The Tailor had not satisfied any curiosity, there was still too much about the girl Tom that was a mystery. And what about this giant apple?
 
 Tom equally was enthralled by this travelling tailor. The places he had seen; he seems to have seen the whole world! The Tailor was friendly, easy to talk to. Unlike Jack this man would listen to what she said. He took an interest in her questions, and was gentle with her mis-understandings. She felt invigorated talking to him. 
 
@@ -63,6 +63,6 @@ Listening to his tails of travels and antics, Tom built a picture in her mind of
 
 Kim ignored the two while they were talking. All the time he had been wondering how the town people choose which building they are going to sleep in. He was expecting he would have to fight for space, but he was not sure how it worked here.
 
-“Lets get to the inn.” The Tailor did not notice how unaccustomed these two were to town life, but they followed him. The Tailor, Kim and Tom walked slowly, the pace of the cow, The Tailor certain of his direction. As they approached their destination building Tom could hear music and loud voices from inside.  
+“Lets get to the inn.” The Tailor did not notice how unaccustomed these two were to town life, but they followed him. They walked slowly at the pace of the cow, The Tailor certain of his direction. As they approached the building of the destination, Tom could hear music and loud voices inside. 
 
 “”
