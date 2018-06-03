@@ -161,10 +161,14 @@ Write-Output "Thesaurunocerous Ends"
 
 # Make the book
 Get-Content -Path ".\TheTailor\the-tailor.txt" -Encoding UTF8 
+Write-Output "Introducing ... pandoc!"
 pandoc --version
-unzip -h
+Write-Output "Introducing ... lame!"
 lame --help
+Write-Output "Introducing ... sox!"
 sox -h
+Write-Output "Introducing ... soxi!"
+soxi
 
 #
 # I used to think pandoc got upset with chapter two at the top of a new file
@@ -240,8 +244,9 @@ Write-Output "... made default upload artifact (backing track with no voice) The
 
 #double length of The-Return-of-Tom-Thumb-with-music.mp3
 sox natural-reader-soundtrack.wav natural-reader-soundtrack.wav natural-reader-soundtrack-doubled.wav -q 
+Write-Output "... made natural-reader-soundtrack-doubled.wav"
 
-sox -m natural-reader-soundtrack-doubled.wav The-Return-of-Tom-Thumb-stereo.wav tRoTT-with-music.wav -q 
+sox -m natural-reader-soundtrack-doubled.wav The-Return-of-Tom-Thumb-stereo.wav tRoTT-with-music.wav trim 0 "$(soxi -D The-Return-of-Tom-Thumb-stereo.wav)" -q 
 Write-Output "... made sox mix of tRoTT-with-music.wav"
 
 lame tRoTT-with-music.wav The-Return-of-Tom-Thumb-with-music.mp3 --silent
