@@ -25,7 +25,7 @@ On his months long journey there had been nothing interesting for leagues. Glanc
 
 He walked past them; he had to assess the road ahead.
 
-Using the remaining light to see ahead, the long road north looked sparse. Also he reckoned it was more bitterly cold, and he had heard it was dangerous further up. As he walked he made a choice: he would stop, turn around and head back south from where he came. It had been an ambitious venture starting the previous spring. The seasons spent travelling north had reached their conclusion, here at this spot.
+Using the remaining light to see ahead, the long road north was sparse. Also he reckoned it was more bitterly cold, and he had heard it was dangerous further up. As he walked he made a choice: he would stop, turn around and head back south from where he came. It had been an ambitious venture starting the previous spring. The seasons spent travelling north had reached their conclusion, here at this spot.
 
 So he slowed his steps. There was nothing in front of him. Behind him the two (with the cow) were arguing: the girl did not want to get lost in the forest, the boy wanted to get home; the girl said “The boots didn't work like that.”, the boy getting a little frustrated. Her final gambit: to plead caution, for fear of getting lost. The boy seeming to be swayed. They stopped talking. 
 

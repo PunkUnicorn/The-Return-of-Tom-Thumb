@@ -235,10 +235,13 @@ Write-Output "... made The-Return-of-Tom-Thumb.wav"
 sox The-Return-of-Tom-Thumb.wav --channels 2 The-Return-of-Tom-Thumb-stereo.wav -q
 Write-Output "... made natural-reader-soundtrack-stereo.wav"
 
-copy .\Music\natural-reader-soundtrack.mp3 tRoTT-with-music.mp3 # default result if next step fails
-Write-Output "... made default upload artifact (backing track with no voice) tRoTT-with-music.mp3"
+copy .\Music\natural-reader-soundtrack.mp3 The-Return-of-Tom-Thumb-with-music.mp3 # default result if next step fails
+Write-Output "... made default upload artifact (backing track with no voice) The-Return-of-Tom-Thumb-with-music.mp3"
 
-sox -m natural-reader-soundtrack.wav The-Return-of-Tom-Thumb-stereo.wav tRoTT-with-music.wav -q 
+#double length of The-Return-of-Tom-Thumb-with-music.mp3
+sox natural-reader-soundtrack.wav natural-reader-soundtrack.wav natural-reader-soundtrack-doubled.wav -q 
+
+sox -m natural-reader-soundtrack-doubled.wav The-Return-of-Tom-Thumb-stereo.wav tRoTT-with-music.wav -q 
 Write-Output "... made sox mix of tRoTT-with-music.wav"
 
 lame tRoTT-with-music.wav The-Return-of-Tom-Thumb-with-music.mp3 --silent
