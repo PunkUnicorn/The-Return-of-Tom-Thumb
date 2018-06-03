@@ -154,6 +154,8 @@ Write-Output "Thesaurunocerous Starts"
 Thesaurunocerous-Chapter "Chapter One" "Chapter-One-Words.txt"
 Thesaurunocerous-Chapter "Chapter Two" "Chapter-Two-Words.txt"
 Thesaurunocerous-Chapter "Chapter Three" "Chapter-Three-Words.txt"
+
+Thesaurunocerous-Chapter "Chapter *" "Chapter-All-Words.txt"
 Write-Output "Thesaurunocerous Ends"
 
 
@@ -246,7 +248,7 @@ Write-Output "... made The-Return-of-Tom-Thumb-with-music.mp3"
 # Debug google text to speech, to see how words sound (reads contents of gTTS_debug.txt and makes an mp3 debug artifact)
 #
 Get-Content -Path "gTTS_debug.txt" -Encoding UTF8 | Destroy-Quotes >test1.txt
-cat test1.txt | python .\googleTextToSpeech.py -o testymctestface.mp3 -d testymctestface.mp3.log -l de-DE
+cat test1.txt | python .\googleTextToSpeech.py -o testymctestface.mp3 -d testymctestface.mp3.log -l nl-NL
 
 Write-Output "... made The-Return-of-Tom-Thumb.mp3 and The-Return-of-Tom-Thumb.mp3.log..."
 

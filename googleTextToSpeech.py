@@ -28,7 +28,7 @@ def makeWords(line):
 # START
 saveFilename = 'audio.mp3'
 debugFilename = ''
-languageCode='en-GB'  #https://cloud.google.com/speech-to-text/docs/languages  en-US, es-US, fr-FR?, nl-NL?, de-DE?
+languageCode='en-GB'  #https://cloud.google.com/speech-to-text/docs/languages  en-US, es-US, fr-FR?, nl-NL?, X-de-DE
 if len(sys.argv) > 2: # -o <output filename.mp3>
     saveFilename = str(sys.argv[2])
 if len(sys.argv) > 4: # -d <debug filename.txt>
