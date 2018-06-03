@@ -57,12 +57,12 @@ Tom pressed questions about the south: it's commerce, on cosmopolitan values. Ea
 
 Kim interrupted, slightly angry: “It's cold.” Tom and The Tailor stopped talking and silently agreed with him, yet they could have talked more. The Tailor had not satisfied any curiosity, there was still too much about the girl Tom that was a mystery. And what about this giant apple?
 
-Tom equally was enthralled by this travelling tailor. The places he had seen; he seems to have seen the whole world! The Tailor was friendly, easy to talk to. Unlike Jack this man would listen to what she said. He took an interest in her questions, and was gentle with her mis-understandings. She felt invigorated talking to him. 
+Tom equally was enthralled by this travelling tailor. The places he had seen; he seems to have seen the whole world! The Tailor was friendly, easy to talk to. Unlike Jack this man would listen to what she said. He took an interest in her questions, and was gentle with her misunderstandings. She felt invigorated talking to him. 
 
 Listening to his tails of travels and antics, Tom built a picture in her mind of towns further south: of people and lifestyles, how others lived and the wonders of life outside the forest.
 
 Kim ignored the two while they were talking. All the time he had been wondering how the town people choose which building they are going to sleep in. He was expecting he would have to fight for space, but he was not sure how it worked here.
 
-“Lets get to the inn.” The Tailor did not notice how unaccustomed these two were to town life, but they followed him. They walked slowly at the pace of the cow, The Tailor certain of his direction. As they approached the building of the destination, Tom could hear music and loud voices inside. 
+“Lets get to the inn.” The Tailor did not notice how unaccustomed these two were to town life, but they followed him. They walked slowly at the pace of the cow, The Tailor certain of his direction. As they approached the building of their destination, Tom could hear music and loud voices inside. 
 
 “”

@@ -10,7 +10,7 @@ doin'
 20Thumbnailjpg
 []TomThumbTom
 #Chapter Three
-'go
+'make
 fast'
 'going
 fast'
