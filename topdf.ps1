@@ -187,7 +187,7 @@ cat "Prose - Chapter One1.md",
 	"Prose - Blank line.md",
 	"Prose - Chapter Two3.md", 
 	"Prose - Blank line.md",
-	"Prose - Chapter Two1.md", 
+	"Prose - Chapter Three1.md", 
 	"Prose - Blank line.md" | sc "The-Return-of-Tom-Thumb.md" 
 	
 Get-Content "The-Return-of-Tom-Thumb.md" -Encoding UTF8 | Replace-FancyQuotes | Out-File "The-Return-of-Tom-Thumb.txt" -Encoding UTF8 -Append
