@@ -127,8 +127,8 @@ Function Thesaurunocerous-Chapter($chapterName, $wordsFilename) {
 	Write-Output "$chapterName Thesaurunocerous starts:"	
 	$chapter = Get-Content -Path "Prose - $chapterName*.md" -Encoding UTF8 | Replace-FancyQuotes 
 	$chapterTheasurus = $chapter | python thesaurunocerous.py | ConvertFrom-Json | %{ $_.Results }
-	$chapterTheasurus | fl
-	$chapterTheasurus | fl | Out-File -FilePath $wordsFilename -Append
+	#$chapterTheasurus | fl
+	#$chapterTheasurus | fl | Out-File -FilePath $wordsFilename -Append
 	$chapterTheasurus | `
 		%{ Add-AppveyorMessage `
 			-Message "$($_.Word) x $($_.Occurs) - $chapterName" `
@@ -137,7 +137,7 @@ Function Thesaurunocerous-Chapter($chapterName, $wordsFilename) {
 		}	
 		
 	WordAnalysis-Chapter $chapterName | Out-File $wordsFilename -Append
-	Write-Output "$chapterName Thesaurunocerous end!"	
+	#Write-Output "$chapterName Thesaurunocerous end!"	
 }	
 	
 
