@@ -172,13 +172,13 @@ Write-Output "Thesaurunocerous Ends"
 
 # Make the book
 Get-Content -Path ".\TheTailor\the-tailor.txt" -Encoding UTF8 
-Write-Output "Introducing ... pandoc!"
+Write-Output "`n`nIntroducing ... pandoc!`n"
 pandoc --version
-Write-Output "Introducing ... lame!"
+Write-Output "`n`nIntroducing ... lame!`n"
 lame --help
-Write-Output "Introducing ... sox!"
+Write-Output "`n`nIntroducing ... sox!`n"
 sox -h
-Write-Output "Introducing ... soxi!"
+Write-Output "`n`nIntroducing ... soxi!`n"
 soxi
 
 #
@@ -193,7 +193,6 @@ Write-output `n | Out-File "Prose - Blank line.md" -Append
 Write-Output "Adding build version to final-title.md..."
 Add-Content -Path "book-version.txt" -Value $env:APPVEYOR_BUILD_VERSION
 cat title-top.md, "Prose - Blank line.md", book-version.txt, "Prose - Blank line.md", title-bottom.md, "Prose - Blank line.md" | sc final-title.md # title.md contents at the top
-cat final-title.md
 Write-Output "Adding build version to final-title.md FINISHED"
 
 Write-Output "Combining markdown..."
