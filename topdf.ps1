@@ -93,28 +93,35 @@ Function Spellcheck-DumpExceptions() {
 # Outputs word stats for files
 #
 Function WordAnalysis-Chapter($chapterName) {
-	# $chapterName = "Chapter One"
-	Write-Output "$chapterName WordAnalysis starts:"	
+	Write-Output "$chapterName Word Analysis starts:"	
+	
 	$chapterContent = Get-Content -Path "Prose - $chapterName*.md" -Encoding UTF8 | Replace-FancyQuotes 
+	
 	$chapterWordCount = $chapterContent | python wordcounter.py | ConvertFrom-Csv 
 	# Four columns: Word, Length, Count, Percent: 
 	# - Word is the word
 	# - Length is it's length of characters 
 	# - Count is it's number of occurrences in the chapter
 	# - Percent is it's percent occurrence in the chapter
-	$chapterWordCount | `
+
+	$smallWords = $chapterWordCount | `
+		Where { $_.Count -lt 2 } | `
+		Where { $_.Length -lt 3 }
+
+	$bigWords = $chapterWordCount | `
 		Where { $_.Count -gt 1 } | `
-		Where { $_.Length -gt 2 }	
+		Where { $_.Length -gt 2 }
+
 	$chapterWordCount | Measure-Object Count -Sum -Maximum | Select -Property `
 		@{Label="Unique word count";Expression={$_.Count}}, 
 		@{label="Word count";Expression={$_.Sum}}, 
 		@{label="Maximum occurrence of any word";Expression={$_.Maximum}} | fl
-	$chapterWordHints = $chapterWordCount | `
-		Where { $_.Count -gt 1 } | `
-		Where { $_.Length -gt 2 } | `
+		
+	$chapterWordHints = $bigWords | `
 		foreach { $_.Word } | `
 		python theasaurus.py | ` 
 		ConvertFrom-Csv
+		
 	Write-Output $chapterWordHints 
 	Write-Output "$chapterName WordAnalysis ends!"
 }
@@ -156,6 +163,10 @@ Thesaurunocerous-Chapter "Chapter Two" "Chapter-Two-Words.txt"
 Thesaurunocerous-Chapter "Chapter Three" "Chapter-Three-Words.txt"
 
 Thesaurunocerous-Chapter "Chapter *" "Chapter-All-Words.txt"
+
+# something for the colsole
+WordAnalysis-Chapter "Chapter *"
+
 Write-Output "Thesaurunocerous Ends"
 
 
@@ -175,6 +186,7 @@ soxi
 # I used to think pandoc really really likes a blank line at the end!!! It can be funny on some readers without
 # I'm not really sure about this any more. With the blank line, and all my mitigating measures it still goes funny on my out the box iPad book app
 # I think it might be the iPad book app. Other readers seem to find it ok.
+# Sometimes I worry that I don't over-think things enough
 #
 Write-output `n | Out-File "Prose - Blank line.md" -Append
 
@@ -239,7 +251,7 @@ Write-Output "... made The-Return-of-Tom-Thumb.wav"
 sox The-Return-of-Tom-Thumb.wav --channels 2 The-Return-of-Tom-Thumb-stereo.wav -q
 Write-Output "... made natural-reader-soundtrack-stereo.wav"
 
-copy .\Music\natural-reader-soundtrack.mp3 The-Return-of-Tom-Thumb-with-music.mp3 # default result if next step fails
+copy .\Music\natural-reader-soundtrack.mp3 The-R#eturn-of-Tom-Thumb-with-music.mp3 # default result if next step fails
 Write-Output "... made default upload artifact (backing track with no voice) The-Return-of-Tom-Thumb-with-music.mp3"
 
 #double length of The-Return-of-Tom-Thumb-with-music.mp3
