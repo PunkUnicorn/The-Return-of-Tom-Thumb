@@ -2,7 +2,7 @@
 A Croconosaurus “Tale”
 
 (As translated from the tablets of “ancient Hadriel” by “Majalofalic the occasional”, one summers day. 
-* Parts marked <unreadable> either missing or damaged.)
+* Parts marked __unreadable__ either missing or damaged.)
 
 1) 
 
@@ -145,7 +145,7 @@ A Croconosaurus “Tale”
 
 	avoid this thing so vile.
 
-            <unreadable>
+            __unreadable__
      
 14)
 
@@ -167,7 +167,7 @@ A Croconosaurus “Tale”
 
 	kill man or fish or beast.
 
-            <unreadable>
+            __unreadable__
     
 16)
 
