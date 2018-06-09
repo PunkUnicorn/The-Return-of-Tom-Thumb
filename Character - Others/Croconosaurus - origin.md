@@ -44,9 +44,9 @@ A Croconosaurus “Tale”
 
 	then darkness came & twisted their view…
 
-- Oh woe to us for these
+        Oh woe to us for these
 
-        Foolish few!
+                  Foolish few!
         
 5)
 
@@ -56,7 +56,7 @@ A Croconosaurus “Tale”
 
 	all to have a new thing to eat…
 
-    The Croconousaurus!
+        The Croconousaurus!
     
 6)
 
@@ -117,9 +117,9 @@ A Croconosaurus “Tale”
 
 	to make his mighty stand.
 
-    - (it has been said that trees did grow,
+    (it has been said that trees did grow,
     
-                    where they hit our sand)
+                  where they hit our sand)
                     
 12)
 
@@ -131,9 +131,9 @@ A Croconosaurus “Tale”
 
 	fear and wait!
 
-    - Much woe did come upon us,
+            Much woe did come upon us,
     
-      for we realised our fait...
+            for we realised our fait...
       
 13) 
 
@@ -145,8 +145,8 @@ A Croconosaurus “Tale”
 
 	avoid this thing so vile.
 
-    <unreadable>
-    
+            <unreadable>
+     
 14)
 
   Then our wisest mages did convene,
@@ -167,7 +167,7 @@ A Croconosaurus “Tale”
 
 	kill man or fish or beast.
 
-    <unreadable>
+            <unreadable>
     
 16)
 
