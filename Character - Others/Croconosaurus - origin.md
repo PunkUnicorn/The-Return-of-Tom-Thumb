@@ -145,7 +145,7 @@ A Croconosaurus “Tale”
 
 	avoid this thing so vile.
 
-            __unreadable__
+            unreadable
      
 14)
 
@@ -167,7 +167,7 @@ A Croconosaurus “Tale”
 
 	kill man or fish or beast.
 
-            __unreadable__
+            unreadable
     
 16)
 
