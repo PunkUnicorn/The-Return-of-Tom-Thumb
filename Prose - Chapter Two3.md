@@ -6,7 +6,7 @@ And how people were dressed. Everyone had good boots or clogs. Tom gave her own 
 
 Tom peeked a check at Kim: he looked perturbed, as if the whole thing was a bad idea. Tom turned to face her brother inviting him into her excitement. Kim returned her look but it was clear he was not influenced. Instead Kim's face echoed his dread.
 
-Suddenly there was someone behind them: “You two are new”, someone said. Tom and Kim stopped abruptly and turned: there was a relaxed, fair haired boy. A bit older than them. He was holding a cow by a nose ring tether. “Where you from?”. The boy glanced between Tom and Kim, but ended on Tom.
+Suddenly there was someone behind them: “You two are new”, they said. Tom and Kim stopped abruptly and turned: there was a fair haired boy. A bit older than them. He was holding a cow by a nose ring tether. “Where you from?”. The boy glanced between Tom and Kim, but ended on Tom.
 
 Kim barely said anything, a slight disapproval for a greeting.
 
