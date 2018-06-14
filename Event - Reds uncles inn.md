@@ -18,17 +18,17 @@ They shouldnt be there. The Knight is oblivious, worries if other Knights would 
 
 The Tailor says "No" laughs. Explains the situation.
 
-Red comes back and the owner is her uncle. Her father was worried, the uncle shouldn't let her go
+Red comes back and the owner is her uncle. Her father was worried, the uncle shouldn't let her go.
 
-Red says purring delightedly to the others, and her uncle "I'd like to see you try and stop me"
+Red says purring delightedly to the others, and her uncle "I'd like to see you try and stop me."
 
-U@ncle would laugh, say to the others "She's just like her mother"
+Uncle would laugh, say to the others "She's just like her mother."
 
-Red would say "Look uncle, I have my own little crew"
+Red would say "Look uncle, I have my own little gang."
 
-Uncle sees Knight, Thief, Bard but not said directly 
+Uncle sees a fighter, thief and a bard. A bloody adventuring party. But this is never said directly in the prose, but alluded to.
 
-He laughs. Red is a genius
+He laughs. Red is a genius he thinks.
 
 Summary:
 - Red is a genius
