@@ -10,7 +10,7 @@ Tom and The Knight opposite.
 
 The Tailor next to Tom.
 
-Tom is against the wall, the most hidden spot (this is not actually relevant to this story segment)
+Tom is against the wall, the most hidden spot. (this is not actually relevant)
 
 The Tailor gets nervous because inns like this (empty with muscle behind the bar) are underworld hubs.
 
