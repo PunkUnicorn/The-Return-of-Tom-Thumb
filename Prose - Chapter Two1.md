@@ -11,7 +11,7 @@ The words echoed in her thoughts and again Tom felt surprise and shock. The word
 
 She had known, despite her father’s intimidating insistence he only had boys. Tom thought: “Hide away.”, and try to think where. But there was no denial left.
 
-Chewing a grass stalk with her arms behind her head, she realised she was not actually looking at the sky. But now she did as her thoughtscape vanished and she saw the clouds in front of her. It would be getting dark soon.
+Chewing a grass stalk, her arms behind her head, a frosty breeze caught her nose and she realised she was not actually looking at the sky. But now she did as her thoughtscape vanished and she saw the clouds in front of her. It would be getting dark soon.
 
 She pulled her head up to look at the remaining apple core beyond the house: the apple sat looking a little sorry for itself. It was more than thin now, and slushy. 
 
@@ -27,7 +27,7 @@ Tom’s mind drifted.
 
 Spring would break and the family could get back to a merry life of hunting rodents for meals, served with nettles. A banquet. But just a daydream. A lovely image while she laid on her back. 
 
-With a sigh she pulled herself up to sit, muscles stretching which brought her back to the present.
+With a sigh and the biting cold descending, she pulled herself up to sit. Her muscles stretching (which with the chill) brought her back to the present.
 
 Wiggling her toes she felt the exquisite comfort in the soft leather of the boots; she could do that all day. She had been doing that all day. Now the worry of what would happen when the apple ran out.. There would be arguing at best. 
 
@@ -37,6 +37,6 @@ Sitting and not sure whether to get up or not, she was glad everyone had enough 
 
 “So,” she said to herself “What I need is a plan.”. It was not an easy problem to solve. But quickly Tom had an idea! In fact, the answer was clear: get another giant apple. Apples grow from apple pips. “But not in a day.” disagreeing with herself. But it was something. Tom understood there was yet another treasure hidden in the giant apple core. The giant apple pips. 
 
-Gently rising to her feet she walked to the core until she was close enough to judge where the pips should be. Squaring her knuckles with her shoulder, readjusting her footing to channel her body weight Tom punched through the seed chamber.
+Gently rising to her feet she walked to the core until she was close enough to judge where the pips should be. Squaring her knuckles with her shoulder, readjusting her footing to channel her body weight Tom punched a hole through the seed chamber. Gripping the breach with both hands she ripped it wider.
 
-Pushing her hand in she felt a pip. Reaching in further, feeling around blindly, her hand mapped the pip’s orientation. With a concerted push the pip nudged to a better grip. Tom curled her hand around the pip’s back easing it out. Once she had freed one pip another two became accessible. Using a stick she worked these out. Tom put the three pips in her pockets.
+Pushing her hand in deeply she felt a pip. Pushing further, feeling around blindly, her hand mapped the pip’s orientation. With a concerted push the pip nudged to a better grip. Tom curled her hand around the pip’s back easing it out. Once she had freed one pip another two became accessible. Using a stick she worked these out. Although large, Tom could fit all three in her pockets.
