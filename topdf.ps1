@@ -121,7 +121,13 @@ Function WordAnalysis-Chapter($chapterName) {
 		foreach { $_.Word } | `
 		python theasaurus.py | ` 
 		ConvertFrom-Csv
-		
+	
+	
+	
+	# JASON HULP! ADD $chapterWordCount to $bigWords!!! SO KNOW WORD COUNT WITH SYNONYM LOOKUP??? 
+	# wut $hintsWithCount = $bigWords | Add-Member 
+	
+	
 	Write-Output $chapterWordHints 
 	Write-Output "$chapterName WordAnalysis ends!"
 }
