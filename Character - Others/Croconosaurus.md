@@ -1,6 +1,6 @@
 # Croconosaurus
 
-![o hai just eatin ur rock](o_hai_just_eatin_ur_rock.png)
+![o hai just eatin ur rock](/Croconocerous/o_hai_just_eatin_ur_rock.png)
 
 Little is known about this most fearsome of creatures except it is rumoured it is half crocodile half rhinoceros. It has also been rumoured to be half of alot of something and half of a lot of something else.
 
