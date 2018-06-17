@@ -1,5 +1,7 @@
 # Tom Thumb
 
+![Tom Thumb](/TomThumb/Tom%20Thumbnail.jpg)
+
 `@}}>-----` | `--------{---(@`
 ---: | :--- 
 Class | Ranger 1 
