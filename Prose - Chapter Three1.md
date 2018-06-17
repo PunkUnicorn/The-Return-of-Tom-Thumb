@@ -67,7 +67,7 @@ Kim interrupted, slightly angry: “It's cold.”. Tom and The Tailor stopped ta
 
 The Tailor had not satisfied any curiosity, there was still too much about the girl Tom that was a mystery. 
 
-Tom equally was enthralled by this travelling tailor. The places he had seen; he seems to have seen the whole world! This man was friendly, easy to talk to. Unlike Jack this man would listen to what she said. 
+Tom equally was enthralled by this travelling tailor. The places he had seen; he seems to have seen the whole world! This man was friendly, easy to talk to. Unlike Jack, The Tailor would listen to what she said.
 
 He took an interest in her questions, and was gentle with her misunderstandings. She felt invigorated talking to him. Talking to this traveller was like having a window to the world. 
 
@@ -79,10 +79,10 @@ The Tailor did not notice how unaccustomed these two were to town life: “Let�
 
 They walked slowly at the pace of the cow, The Tailor certain of his direction. As they approached the building of their destination, Tom could hear music and loud voices inside. 
 
-The Tailor gestured towards the cow: “They won’t her inside.”, adding to the cow: “Sorry old girl.”. Turning to Tom and Kim, his facing palms asking them to wait: “I’ll talk to the innkeeper, and see if we can stay in the barn.”
+The Tailor gestured towards the cow: “They won’t her inside.”, adding to the cow: “Sorry old girl.”. Turning to Tom and Kim, his palms facing them, asking them to wait: “I’ll talk to the innkeeper and see if we can stay in the barn.”
 
-Tom wondered what an innkeeper was building a picture of a large man. He had a club and a serious agenda. She did not want to get the attention of this innkeeper. She did as The Tailor suggested; stopped and waited. Kim seemed to have reached the same conclusion.
+Tom wondered what an innkeeper was, building a picture of a large man. He had a club and a serious agenda. She did not want to get the attention of this innkeeper. She did as The Tailor suggested; stopped and waited. Kim seemed to have reached the same conclusion.
 
-The Tailor opened the door letting out layers of noise and the smell of warm food. Tom was suddenly aware of her hunger. This encouraged her to consider peeking inside; to acquire food. These instincts battled against the image of the innkeeper. 
+The Tailor opened the door letting out layers of noise and the smell of warm food. Suddenly Tom was aware of her hunger. This encouraged her to consider peeking inside; to acquire food. These instincts battled against the image of the innkeeper. 
 
 The door opened again, The Tailor had returned. “We can stay in the barn tonight,” he reported cheerfully. “It’s this way, follow me.”, and they followed him to around the other side of the inn. 
