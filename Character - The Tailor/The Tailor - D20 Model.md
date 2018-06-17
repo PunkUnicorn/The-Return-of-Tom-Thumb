@@ -1,5 +1,7 @@
 # The Tailor
 
+![The Tailor](/TheTailor/TheTailorFaceOnWhite.png)
+
 `@}}>-----` | `--------{---(@`
 ---: | :--- 
 Class | Bard 3 
