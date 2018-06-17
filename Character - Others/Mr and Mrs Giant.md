@@ -1,6 +1,8 @@
-Mr & Mrs Giant
+# Mr & Mrs Giant
 
-Mrs Giant 
+![Chez Giant](MrGiant/ChezGiant.png)
+
+## Mrs Giant 
 As per typical fairytales she represents the ultra motheringness feminine. If Mrs Giant needs to hide an Englishman from the giant she will hide the man in very motherly feminine places, in utter innocence. This might include the oven, under her dress (esp in classic fairy tales) or in the modern world, perhaps she would hide the Englishman in her maternaty leave entitlement wut
 
 As a litarary construct she represents motherly safety and concern. 
@@ -8,8 +10,10 @@ As a litarary construct she represents motherly safety and concern.
 She is the first one who recognises Tom as a girl.
 
 
-Mr Giant
+## Mr Giant
 Mr Giant is bigger than Mrs Giant by a large margin, being a different type of giant from further west than Mrs Giant originates.
 He's a horrible aggressive war like monster. However because large giants are sleepy he has to sleep often. When he's sleeping not much will wake him and in our story Tom and her brothers jump all over this giant when he's sleeping and they're not half enough to wake this one.
 
 Don't wake the sleeping giant - a well known phrase that Mr Giant the litarary character figurises.
+
+![Woken sleeping giant](MrGiant/TheAngryGreenGiant.png)
