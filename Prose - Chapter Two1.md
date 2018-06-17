@@ -39,4 +39,4 @@ Sitting and not sure whether to get up or not, she was glad everyone had enough 
 
 Gently rising to her feet she walked to the core until she was close enough to judge where the pips should be. Squaring her knuckles with her shoulder, readjusting her footing to channel her body weight Tom punched a hole through the seed chamber. Gripping the breach with both hands she ripped it wider.
 
-Pushing her hand in deeply she felt a pip. Pushing further, feeling around blindly, her hand mapped the pip’s orientation. With a concerted push the pip nudged to a better grip. Tom curled her hand around the pip’s back easing it out. Once she had freed one pip another two became accessible. Using a stick she worked these out. Although large, Tom could fit all three in her pockets.
+Pushing her hand in deeply she felt a pip. Pushing further, feeling around blindly, her hand mapped the pip’s orientation. With a concerted shunt the pip nudged to a better grip. Tom curled her hand around the pip’s back easing it out. Once she had freed one pip another two became accessible. Using a stick she worked these out. Although large, Tom could fit all three in her pockets.
