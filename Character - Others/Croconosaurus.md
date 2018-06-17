@@ -7,8 +7,10 @@ Little is known about this most fearsome of creatures except it is rumoured it i
 On the 'Change Curve' the Croconocerous is never past blame, going back to shock. 
 
 - i.e. Normal 'Change Curve':
--* Shock => Denial => Blame => Self Blame => Bargening => Resolution
--* Croconocerous 'Change Curve': Shock => Denial => Blame => Self Blame => Shock => Denial => Blame => Self Blame => Shock => Denial => Blame => Self Blame => Shock => Denial => Blame => Self Blame => Shock => Denial => Blame => Self Blame => etc
+
+   * Shock => Denial => Blame => Self Blame => Bargening => Resolution
+   
+   * Croconocerous 'Change Curve': Shock => Denial => Blame => Self Blame => Shock => Denial => Blame => Self Blame => Shock => Denial => Blame => Self Blame => Shock => Denial => Blame => Self Blame => Shock => Denial => Blame => Self Blame => etc
 
 But it isn't edgy with it's blame or what-not. It's 'salty' or dryly sarcastic. Facetious if possible]
 
