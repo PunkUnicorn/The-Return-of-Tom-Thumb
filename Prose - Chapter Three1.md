@@ -77,7 +77,7 @@ Kim ignored the two while they were talking. All the time he had been wondering 
 
 The Tailor did not notice how unaccustomed these two were to town life: “Let’s get to the inn.”, they followed him. 
 
-Walking slowly at the pace of the cow, The Tailor certain of his direction. On pproaching the building of their destination, Tom could hear music and loud voices. 
+Walking slowly at the pace of the cow, The Tailor certain of his direction. On approaching the building of their destination, Tom could hear music and loud voices. 
 
 The Tailor gestured towards the cow: “I doubt she will be allowed inside.”, adding to the cow: “Sorry old girl.”. Turning to Tom and Kim, his palms facing them, asking them to wait: “I’ll talk to the innkeeper and see if we can stay in the barn.”
 
