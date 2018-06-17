@@ -67,7 +67,7 @@ Kim interrupted, slightly angry: “It's cold.”. Tom and The Tailor stopped ta
 
 The Tailor had not satisfied any curiosity, there was still too much about the girl Tom that was a mystery. 
 
-Tom equally was enthralled by this travelling tailor. The places he had seen; he seems to have seen the whole world! This The Tailor was friendly, easy to talk to. Unlike Jack this man would listen to what she said. 
+Tom equally was enthralled by this travelling tailor. The places he had seen; he seems to have seen the whole world! This man was friendly, easy to talk to. Unlike Jack this man would listen to what she said. 
 
 He took an interest in her questions, and was gentle with her misunderstandings. She felt invigorated talking to him. Talking to this traveller was like having a window to the world. 
 
