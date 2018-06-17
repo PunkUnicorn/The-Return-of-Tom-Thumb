@@ -1,5 +1,7 @@
 # The Knight
 
+![The Knight](/TheKnight/the-knight-thumbnail.jpg)
+
 `@}}>-----` | `--------{---(@`
 ---: | :--- 
 Class | Fighter 2 
