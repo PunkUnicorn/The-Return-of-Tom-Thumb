@@ -35,7 +35,7 @@ He slowed his steps. There was nothing in front of him. Behind him the two (with
 
 Our well dressed travelling man slowed to a stop, and turned around. He could see the strange two with the cow. He was behind them. The cow faced him however.
 
-He took a few steps towards them. They were silent. He stopped a little too far away; giving them adequate space. He introduced his presence with a polite cough. They turned around. The man bowed slightly, moderately spreading his hands as a gesture of openness. 
+He took a few steps towards them. They were silent. He stopped a little too far away; giving them adequate space. He introduced his presence with a polite cough. They turned around. The man bowed slightly, moderately spreading his hands; a gesture of openness. 
 
 “Greetings.” he said smiling shyly, more shyly than his snappy clothes and confident posture would suggest.
 
@@ -47,7 +47,7 @@ Tom laughed; this smart, handsome figure fooling around. Kim snorted out enough 
 
 “Firstly,” continued the man, “please allow me to introduce myself: I am a humble tailor.” and he bowed slightly.
 
-“I'm Tom.” she completed, and then continued with a question: “A tailor?”, she asked, impressed with this. And then more earnestly: “Do you really want to ask questions?”
+“I'm Tom.” she completed, and then continued with a question: “A tailor?”, she asked impressed. And then more earnestly: “Do you really want to ask questions?”
 
 The Tailor took a step forward, nodded to confirm, “Yes.” He paused. “If I could ask one thing that I am curious about: did you buy that cow off that lad Jack?”
 
@@ -65,24 +65,29 @@ Tom pressed questions about the south: it's commerce, on cosmopolitan values. Ea
 
 Kim interrupted, slightly angry: “It's cold.”. Tom and The Tailor stopped talking and silently agreed with him, yet they could have talked more. 
 
-The Tailor had not satisfied any curiosity, there was still too much about the girl Tom that was a mystery. 
+The Tailor had not satisfied his curiosity, there was still too much about the girl Tom that was a mystery. 
 
-Tom equally was enthralled by this travelling tailor. The places he had seen; he seems to have seen the whole world! This man was friendly, easy to talk to. Unlike Jack, The Tailor would listen to what she said.
+Tom was equally enthralled by The Tailor. The places he had seen; he seems to have seen the whole world! This man was friendly, easy to talk to. Unlike Jack, The Tailor would listen to what she said.
 
-He took an interest in her questions, and was gentle with her misunderstandings. She felt invigorated talking to him. Talking to this traveller was like having a window to the world. 
+He took an interest in her questions, and was gentle with her misunderstandings. She felt invigorated. 
 
 Listening to his tails of travels and antics, Tom built a picture in her mind of towns further south: of people and lifestyles, how others lived and the wonders of life outside the forest.
 
-Kim ignored the two while they were talking. All the time he had been wondering how the town people choose which building they sleep in. He was expecting to fight for space, but he was not sure how it worked here.
+Kim ignored the two while they were talking. All the time he had been wondering how the town's people choose which building to sleep in. He was expecting to fight for space, but he was not sure how it worked here.
 
-The Tailor did not notice how unaccustomed these two were to town life: “Let’s get to the inn.”, they followed him. 
+The Tailor did not notice how unaccustomed these two were to town life: “Let’s get to the inn.”, and they followed him.
 
-Walking slowly at the pace of the cow, The Tailor certain of his direction. On approaching the building of their destination, Tom could hear music and loud voices. 
+Walking slowly (at the pace of the cow) The Tailor was certain of his direction. The building of their destination was obvious by the noise, music and loud voices. 
 
 The Tailor gestured towards the cow: “I doubt she will be allowed inside.”, adding to the cow: “Sorry old girl.”. Turning to Tom and Kim, his palms facing them, asking them to wait: “I’ll talk to the innkeeper and see if we can stay in the barn.”
 
-Tom wondered what an innkeeper was, building a picture of a large man. He had a solid club and a serious agenda. She did not want to get the attention of this innkeeper. She did as The Tailor suggested; stopped and waited. Kim seemed to have reached the same conclusion.
+Tom wondered what an innkeeper was. She built an imaginary picture of a large man. He had a solid club and a serious agenda. She did not want to get the attention of the innkeeper. She did as The Tailor suggested; stopped and waited. Kim seemed to have reached the same conclusion.
 
-The Tailor opened the door letting out layers of noise and the smell of warm food. Suddenly Tom was aware of her hunger. This encouraged her to consider peeking inside; to acquire food. These instincts battled against the image of the innkeeper. 
+The Tailor opened the door erupting layers of noise, and the smell of warm food. Suddenly Tom was aware of her hunger. This encouraged her to consider peeking inside to acquire food. These instincts battled against the image of the innkeeper. 
 
-The door opened again, The Tailor had returned. “We can stay in the barn tonight,” he reported cheerfully. “It’s this way, follow me.”, and they followed him to around the other side of the inn. 
+The door opened again bringing back the smell of food. The Tailor had returned. “We can stay in the barn tonight,” he reported cheerfully. “It’s this way, follow me.”, and they followed him to around the other side of the inn. 
+
+The barn door swung open silently. Inside was a large barn, the smell of fresh hay and no horses. It was dark but The Tailor could just about make out the finest barn he thinks he has ever seen. “Well...” he exclaimed, stopped dead in his tracks. “This thorpe might be one of the grottiest hovels, but they have the finest barns.”.
+
+Tom was stunned to silence at the space and piles of lushous hay. 
+“”
