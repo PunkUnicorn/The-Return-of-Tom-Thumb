@@ -85,7 +85,7 @@ Tom wondered what an innkeeper was. She built an imaginary picture of a large ma
 
 The Tailor opened the door erupting layers of noise, and the smell of warm food. Suddenly Tom was aware of her hunger. This encouraged her to consider peeking inside to acquire food. These instincts battled against the image of the innkeeper. 
 
-The door opened again bringing back the smell of food. The Tailor had returned. “We can stay in the barn tonight,” he reported cheerfully. “It’s this way, follow me.”, and they followed him to around the other side of the inn. 
+The door opened, and again the smell of food. The Tailor had returned. “We can stay in the barn tonight,” he reported cheerfully. “it’s this way, follow me.”, and they followed him to around the other side of the inn. 
 
 The barn door swung open silently. Inside was a large barn, the smell of fresh hay and no horses. It was dark but The Tailor could just about make out the finest barn he thinks he has ever seen. “Well...” he exclaimed, stopped dead in his tracks. “This thorpe might be one of the grottiest hovels, but they have the finest barns.”.
 
