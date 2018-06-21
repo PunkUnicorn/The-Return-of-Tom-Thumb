@@ -79,7 +79,7 @@ The Tailor did not notice how unaccustomed these two were to town life: “Let�
 
 Walking slowly (at the pace of the cow) The Tailor was certain of his direction. The building of their destination was obvious by the noise, music and loud voices. 
 
-The Tailor gestured towards the cow: “I doubt she will be allowed inside.”, adding to the cow: “Sorry old girl.”. Turning to Tom and Kim, his palms facing them, asking them to wait: “I’ll talk to the innkeeper and see if we can stay in the barn.”
+The Tailor gestured towards the cow: “I doubt she will be allowed inside.”, adding to the cow: “Sorry old girl.”. Turning to Tom and Kim, his palms facing them; asking them to wait: “I’ll talk to the innkeeper and see if we can stay in the barn.”
 
 Tom wondered what an innkeeper was. She built an imaginary picture of a large man. He had a solid club and a serious agenda. She did not want to get the attention of the innkeeper. She did as The Tailor suggested; stopped and waited. Kim seemed to have reached the same conclusion.
 
