@@ -81,7 +81,7 @@ Walking slowly (at the pace of the cow) The Tailor was certain of his direction.
 
 The Tailor gestured towards the cow: “I doubt she will be allowed inside.”, adding to the cow: “Sorry old girl.”. Turning to Tom and Kim, his palms facing them; asking them to wait: “I’ll talk to the innkeeper and see if we can stay in the barn.”
 
-Tom wondered what an innkeeper was. She built an imaginary picture of a large man. He had a solid club and a serious agenda. She did not want to get the attention of the innkeeper. She did as The Tailor suggested; stopped and waited. Kim seemed to have reached the same conclusion.
+Tom wondered what an innkeeper was. She built an imaginary picture of a large man. He had a solid club and a serious agenda. She did not want to get the attention of the innkeeper. So she did as The Tailor suggested; stopped and waited. Kim seemed to have reached the same conclusion.
 
 The Tailor opened the door erupting layers of noise, and the smell of warm food. Suddenly Tom was aware of her hunger. This encouraged her to consider peeking inside to acquire food. These instincts battled against the image of the innkeeper. 
 
