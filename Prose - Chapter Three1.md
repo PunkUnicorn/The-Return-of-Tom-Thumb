@@ -83,11 +83,12 @@ The Tailor gestured towards the cow: “I doubt she will be allowed inside.”, 
 
 Tom wondered what an innkeeper was. She built an imaginary picture of a large man. He had a solid club and a serious agenda. She did not want to get the attention of the innkeeper. So she did as The Tailor suggested; stopped and waited. Kim seemed to have reached the same conclusion.
 
-The Tailor opened the door erupting layers of noise, and the smell of warm food. Suddenly Tom was aware of her hunger. This encouraged her to consider peeking inside. These instincts battled against the image of the innkeeper. 
+The Tailor opened the door erupting layers of noise and the smell of warm food. There was bread and gravey in there. Suddenly Tom was aware of her hunger. This encouraged her to consider peeking inside. These instincts battled against the image of the innkeeper. 
 
-The door opened, and again the smell of food. The Tailor had returned. “We can stay in the barn tonight,” he reported cheerfully. “it’s this way, follow me.”, and they followed him to around the other side of the inn. 
+The door opened, and again the smell/sound medley. The Tailor had returned. “We can stay in the barn tonight,” he reported cheerfully. “it’s this way, follow me.”, and they followed him to around the other side of the inn. 
 
-The barn door swung open easily (and silently). Inside was a large barn offering the smell of fresh hay and no horses. It was dark but The Tailor could just about make out the finest barn he thought he had ever seen. “Well...” he exclaimed, stopping dead in his tracks. “This thorp might be one of the grottiest hovels, but they have the finest barns.”.
+The barn door swung open easily (and silently). Inside was a large barn offering fresh hay and no horses. It was dark but The Tailor could just about make out the finest barn he thought he had ever seen. “Well...” he exclaimed, stopping dead in his tracks. “This thorp might be one of the grottiest hovels, but they have the finest barns.”.
 
 Tom was stunned to silence at the sight of the space and the lushous piles of hay. 
+
 “”
