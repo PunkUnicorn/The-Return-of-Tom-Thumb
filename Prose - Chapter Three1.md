@@ -87,8 +87,8 @@ The Tailor opened the door erupting layers of noise and the smell of warm food. 
 
 The door opened, and again the smell/sound medley. The Tailor had returned. “We can stay in the barn tonight,” he reported cheerfully. “it’s this way, follow me.”, and they followed him to around the other side of the inn. 
 
-The barn door swung open easily (and silently). Inside was a large barn offering fresh hay and no horses. It was dark but The Tailor could just about make out the finest barn he thought he had ever seen. “Well...” he exclaimed, stopping dead in his tracks. “This thorp might be one of the grottiest hovels, but they have the finest barns.”.
+The barn door swung open easily (and silently). Inside was a large barn offering fresh hay and no horses. It was dark but The Tailor could just about make out the finest barn he thought he had ever seen. “Well...” he exclaimed, stopping dead in his tracks. “This thorpe might be one of the grottiest hovels, but they have the finest barns.”.
 
-Tom was stunned to silence at the sight of the space and the lushous piles of hay. 
+Tom was stunned to silence at the sight of the space and the luscious piles of hay. 
 
 “”
