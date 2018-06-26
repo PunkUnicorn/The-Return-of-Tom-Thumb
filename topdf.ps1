@@ -276,6 +276,18 @@ lame tRoTT-with-music-trimmed.wav The-Return-of-Tom-Thumb-with-music.mp3 --silen
 Write-Output "... made The-Return-of-Tom-Thumb-with-music.mp3"
 
 #
+# Croconocerous poem text to speech
+#
+Get-Content -Path ".\Character - Others\Croconosaurus - origin.md" -Encoding UTF8 | `
+	Destroy-Quotes | `
+	%{ $_.Replace("%", "`n").Replace("<sub>","").Replace("</sub>", "") } >> gTTS_croconosaurus_word_input.txt
+Write-Output "... gTTS_croconosaurus_word_input.txt"
+
+cat gTTS_croconosaurus_word_input.txt | python .\googleTextToSpeech.py -o A_Croconosaurus_Tale.mp3 -d A_Croconosaurus_Tale.mp3.log 
+Write-Output "... made A_Croconosaurus_Tale.mp3"
+
+
+#
 # Debug google text to speech, to see how words sound (reads contents of gTTS_debug.txt and makes an mp3 debug artifact)
 #
 Get-Content -Path "gTTS_debug.txt" -Encoding UTF8 | Destroy-Quotes >test1.txt
