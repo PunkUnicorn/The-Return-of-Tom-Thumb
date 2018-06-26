@@ -280,7 +280,7 @@ Write-Output "... made The-Return-of-Tom-Thumb-with-music.mp3"
 #
 Get-Content -Path ".\Character - Others\Croconosaurus - origin.md" -Encoding UTF8 | `
 	Destroy-Quotes | `
-	%{ $_.Replace("%", "`n").Replace("<sub>","").Replace("</sub>", "") } >> gTTS_croconosaurus_word_input.txt
+	%{ $_.Replace("__", "") } >> gTTS_croconosaurus_word_input.txt
 Write-Output "... gTTS_croconosaurus_word_input.txt"
 
 cat gTTS_croconosaurus_word_input.txt | python .\googleTextToSpeech.py -o A_Croconosaurus_Tale.mp3 -d A_Croconosaurus_Tale.mp3.log 
