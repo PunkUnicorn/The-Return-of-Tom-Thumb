@@ -42,6 +42,9 @@ artifacts:
   - path: The-Return-of-Tom-Thumb-with-music.mp3
     name: is_book_yeah_mp3_w_music
     type: file
+  - path: A_Croconosaurus_Tale.mp3
+    name: is_croconosaurus_real
+    type: file
   - path: testymctestface.mp3
     name: testy_mc_testface
     type: file
