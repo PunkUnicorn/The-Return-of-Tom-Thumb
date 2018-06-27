@@ -99,9 +99,9 @@ The Tailor closed a door on the lantern then cautiously let go as if he was not 
 
 Watching the lantern The Tailor reached towards the rope, letting it swing into his hand. Gently pulling, the lantern lowered slightly. He laughed curtly and looked towards the rope, taking hold of a second higher rope next to the first. 
 
-Pulling this caused the lantern to rise, which rose to above the Tailors head hight. Then it stopped and The Tailor stared at the dangling lantern. It swung strangley, having been agiteted. Tom liked the entertainment, seeing something swing from a long rope. It suddenly lowered then stopped suddenly. 
+Pulling this caused the lantern to rise, which rose to above the Tailors head hight. Then it stopped and The Tailor stared at the dangling lantern. It swung strangley, having been agiteted. Tom liked the entertainment, seeing something swing from a long rope. It suddenly lowered then stopped just as suddenly. 
 
-Tom looked towards The Tailor who was grinning. He pulled on the other rope and the lantern rose to it's previous origin, just as quickly. “I love that.” He concluded. “The inkeeper said it housed more people in than horses. I doubt people actually travel to this place.” looking around. “It would explain a lot.”
+Worried Tom looked The Tailor, who was grinning. He pulled on the other rope and the lantern rose to it's previous hight, just as quickly. “I love that.” He concluded. “The inkeeper said it housed more people than horses. I doubt people actually travel to this place.” looking around. “It would explain a lot.”
 
 Suddenly The Tailor turned towards the door; “I have to settle up with the innkeeper,” he remembered, “and get us some food, I'm really hungry.”. He left quickly.
 
