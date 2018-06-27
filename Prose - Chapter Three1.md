@@ -83,12 +83,28 @@ The Tailor gestured towards the cow: “I doubt she will be allowed inside.”, 
 
 Tom wondered what an innkeeper was. She built an imaginary picture of a large man. He had a solid club and a serious agenda. She did not want to get the attention of the innkeeper. So she did as The Tailor suggested; stopped and waited. Kim seemed to have reached the same conclusion.
 
-The Tailor opened the door erupting layers of noise and the smell of warm food. There was bread and gravey in there. Suddenly Tom was aware of her hunger. This encouraged her to consider peeking inside. These instincts battled against the image of the innkeeper. 
+The Tailor opened the door erupting layers of noise and the smell of warm food. There was bread and gravy in there. Suddenly Tom was aware of her hunger. This encouraged her to consider peeking inside. These instincts battled against the image of the innkeeper. 
 
-The door opened, and again the smell/sound medley. The Tailor had returned. “We can stay in the barn tonight,” he reported cheerfully. “it’s this way, follow me.”, and they followed him to around the other side of the inn. 
+The door opened, this time gravy with laughter. The Tailor had returned. “We can stay in the barn tonight,” he reported cheerfully. “it’s this way, follow me.”, and they followed him to around the other side of the inn. 
 
 The barn door swung open easily (and silently). Inside was a large barn offering fresh hay and no horses. It was dark but The Tailor could just about make out the finest barn he thought he had ever seen. “Well...” he exclaimed, stopping dead in his tracks. “This thorpe might be one of the grottiest hovels, but they have the finest barns.”.
 
-Tom was stunned to silence at the sight of the space and the luscious piles of hay. 
+Tom was stunned to silence at the sight of the space and the luscious piles of hay. Tom saw that Kim had found a close corner section. She layed claim to the equal corner opposite and The Tailor joined Tom's side, both having ample space. 
+
+The Tailor sat briefly but got up quickly, fumbling at his sides then reaching up on tip toes towards something dangling. Grunting he pulled this down and something above rattled. Tom saw a rope swinging in and out of the edge of the open barn door. 
+
+“Ahh” shared The Tailor; as if this answered something. A spark of light illuminating The Tailors face and the dangling thing became a lantern. The barn was lit with a soft flickering glow. 
+
+The Tailor closed a door on the lantern then cautiously let go as if he was not sure it would float. He walked towards the massive open door watching the lantern. It swung from the long rope anchored to the roof.
+
+Watching the lantern The Tailor reached towards the rope, letting it swing into his hand. Gently pulling, the lantern lowered slightly. He laughed curtly and looked towards the rope, taking hold of a second higher rope next to the first. 
+
+Pulling this caused the lantern to rise, which rose to above the Tailors head hight. Then it stopped and The Tailor stared at the dangling lantern. It swung strangley, having been agiteted. Tom liked the entertainment, seeing something swing from a long rope. It suddenly lowered then stopped suddenly. 
+
+Tom looked towards The Tailor who was grinning. He pulled on the other rope and the lantern rose to it's previous origin, just as quickly. “I love that.” He concluded. “The inkeeper said it housed more people in than horses. I doubt people actually travel to this place.” looking around. “It would explain a lot.”
+
+Suddenly The Tailor turned towards the door; “I have to settle up with the innkeeper,” he remembered, “and get us some food, I'm really hungry.”. He left quickly.
+
+
 
 “”
