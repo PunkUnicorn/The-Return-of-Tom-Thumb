@@ -91,7 +91,7 @@ The stable door swung open easily (and silently). Inside was a large space offer
 
 Tom was stunned to silence at the sight of the space and the luscious piles of hay. Kim claimed one of the close corner sections. She layed claim to the equal corner opposite and The Tailor joined Tom's side, both having ample space. 
 
-The Tailor sat briefly but got up quickly, fumbling at his sides, walking to the center of the open space. Reaching up on tip-toes towards something dangling from the tall ceiling. Grunting slightly with the strain, he pulled the dangling thing down. Something far above rattled. Tom saw a rope swinging in and out of the edge of the open door. 
+The Tailor sat briefly but got up quickly, fumbling at his sides, walking to the centre of the open space. Reaching up on tip-toes towards something dangling from the tall ceiling. Grunting slightly with the strain, he pulled the dangling thing down. Something far above rattled. Tom saw a rope swinging in and out of the edge of the open door. 
 
 “Ahh” shared The Tailor as if this answered something. Working with his hands, a spark of light illuminated his face. The dangling thing became a lantern. The stables were lit with a soft flickering glow. 
 
@@ -101,7 +101,7 @@ Reaching towards the rope by the door, letting it swing into his hand, he pulled
 
 Pulling this caused the lantern to rise. Then it stopped and The Tailor stared at the dangling lantern. It swung strangley. Tom liked this; how it wibble-wobbled. It suddenly lowered with a jaunt. Then stopped just as suddenly. 
 
-Worried, Tom looked to The Tailor. He was grinning. He pulled the other rope and the lantern rose to it's previous hight, just as quickly. “I love that.” He concluded. “The inkeeper said it housed more people than horses. I doubt anyone actually travels *to* this place.” looking around again. The aggitated lantern animating it's shadows. “Explains a lot.”
+Worried, Tom looked to The Tailor. He was grinning. He pulled the other rope and the lantern rose to it's previous hight, just as quickly. “I love that.” He concluded. “The innkeeper said it housed more people than horses. I doubt anyone actually travels *to* this place.” looking around again. The agitated lantern animating it's shadows. “Explains a lot.”
 
 Suddenly The Tailor turned towards the door; “I have to settle up with the innkeeper,” he remembered, “and get us some food, I'm really hungry.”. He left quickly.
 
