@@ -89,19 +89,19 @@ The door opened, this time a waft of gravy with the sound of laughter. The Tailo
 
 The stable door swung open easily (and silently). Inside was a large space offering fresh hay and no horses. “Well...” The Tailor exclaimed, stopping dead in his tracks. “This thorpe might be one of the grottiest hovels, but they have the finest stables.”
 
-Tom was stunned to silence at the sight of the space and the luscious piles of hay. Kim claimed one of the close corner sections. She layed claim to the equal corner opposite and The Tailor joined Tom's side, both having ample space. 
+Tom was stunned to silence at the sight of the space, and the luscious piles of hay. Kim claimed one of the close corner sections. She laid claim to the equal corner opposite and The Tailor joined Tom's side, both having ample space. 
 
 The Tailor sat briefly but got up quickly, fumbling at his sides, walking to the centre of the open space. Reaching up on tip-toes towards something dangling from the tall ceiling. Grunting slightly with the strain, he pulled the dangling thing down. Something far above rattled. Tom saw a rope swinging in and out of the edge of the open door. 
 
-“Ahh” shared The Tailor as if this answered something. Working with his hands, a spark of light illuminated his face. The dangling thing became a lantern. The stables were lit with a soft flickering glow. 
+“Ah!” shared The Tailor as if this answered something. Working with his hands a spark of light illuminated his face. The dangling thing became a lantern. The stables were lit with a soft flickering glow. 
 
-Closing a tiny door on the lantern, he then tentatively let go, as if it would drop. But it did not. He walked towards the massive open door, watching the lantern all the time. It swung slightly.
+Closing a tiny door on the lantern he then tentatively let go, as if it would drop. But it did not. He walked towards the massive open door, watching the lantern all the time. It swung slightly.
 
-Reaching towards the rope by the door, letting it swing into his hand, he pulled gently. The lantern lowered slightly. The Tailor laughed curtly and looked towards the rope, taking hold of a second higher rope next to the first. 
+Reaching towards the rope by the door, letting it swing into his hand, he pulled gently. The lantern lowered slightly. The Tailor laughed in victory, looking towards the rope and taking hold of a second higher rope next to the first. 
 
-Pulling this caused the lantern to rise. Then it stopped and The Tailor stared at the dangling lantern. It swung strangley. Tom liked this; how it wibble-wobbled. It suddenly lowered with a jaunt. Then stopped just as suddenly. 
+Pulling the second one caused the lantern to rise. Then it stopped and The Tailor stared at the dangling lantern. It swung strangley. Tom liked this; how it wibble-wobbled. It suddenly lowered with a jaunt. Then stopped just as suddenly. 
 
-Worried, Tom looked to The Tailor. He was grinning. He pulled the other rope and the lantern rose to it's previous hight, just as quickly. “I love that.” He concluded. “The innkeeper said it housed more people than horses. I doubt anyone actually travels *to* this place.” looking around again. The agitated lantern animating it's shadows. “Explains a lot.”
+Worried, Tom looked to The Tailor. He was grinning. He pulled the other rope causing the lantern's rise to it's previous hight, just as quickly. “I love that.” He concluded. “The innkeeper said it housed more people than horses. I doubt anyone actually travels *to* this place.” looking around again. The agitated lantern animating it's shadows. “Explains a lot.”
 
 Suddenly The Tailor turned towards the door; “I have to settle up with the innkeeper,” he remembered, “and get us some food, I'm really hungry.”. He left quickly.
 
