@@ -36,13 +36,14 @@ A Croconosaurus “Tale”
 
 4)
 
-  Those days where long and relaxed and breezy,
+  Those days where long , relaxed and breezy,
   
  	but some got bored & stood un-easy.
 
  	They spoke of finding something new,
 
  	then darkness came & twisted their view…
+ 	
 
         Oh woe to us for these
 
@@ -125,15 +126,16 @@ A Croconosaurus “Tale”
 
   Then with crashing feet and snarling breath
   
- 	and swish of might[y] tail,
+ 	and swish of mighty
+ 	tail,
 
  	the people of all Hadriel did learn to
 
- 	fear and wait!
+ 	fear and wail !
 
             Much woe did come upon us,
     
-            for we realised our fait...
+            for we realised our fate...
       
 13) 
 
@@ -171,7 +173,7 @@ A Croconosaurus “Tale”
     
 16)
 
-  He noble beast now all alone,
+  The noble beast now all alone,
   
  	did wonder for a while.
 
