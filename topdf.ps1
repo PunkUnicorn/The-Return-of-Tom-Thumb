@@ -281,7 +281,7 @@ Write-Output "... made The-Return-of-Tom-Thumb-with-music.mp3"
 $numberingRegEx = "[\d+\)]" 
 Get-Content -Path ".\Character - Others\Croconossorus - origin.md" -Encoding UTF8 | `
 	Destroy-Quotes | `
-	%{ [regex]::Replace($_, $numberingRegEx, "").Replace("__unreadable__", "") } >> gTTS_croconossorus_word_input.txt
+	%{ [regex]::Replace($_, $numberingRegEx, "").Replace("__", "").Replace("unreadable", "") } >> gTTS_croconossorus_word_input.txt
 
 cat gTTS_croconossorus_word_input.txt
 
