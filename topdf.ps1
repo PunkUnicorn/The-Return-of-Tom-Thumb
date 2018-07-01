@@ -281,9 +281,8 @@ Write-Output "... made The-Return-of-Tom-Thumb-with-music.mp3"
 $numberingRegEx = "[\d+\)]" 
 Get-Content -Path ".\Character - Others\Croconossorus - origin.md" -Encoding UTF8 | `
 	Destroy-Quotes | `
-	%{ $_.Replace("__unreadable__", "") | `
-	$_ = [regex]::Replace($_, $numberingRegEx, "") } >> gTTS_croconossorus_word_input.txt
-		 
+	%{ [regex]::Replace($_, $numberingRegEx, "").Replace("__unreadable__", "") } >> gTTS_croconossorus_word_input.txt
+
 cat gTTS_croconossorus_word_input.txt
 
 cat gTTS_croconossorus_word_input.txt | python .\googleTextToSpeech.py -o A_Croconossorus_Tale.mp3 -d A_Croconossorus_Tale.mp3.log 
