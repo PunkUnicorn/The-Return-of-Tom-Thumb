@@ -1,4 +1,4 @@
-# Croconosaurus
+# Croconossorus
 
 ![o hai just eatin ur rock](/Croconocerous/o_hai_just_eatin_ur_rock.png)
 
@@ -35,7 +35,7 @@ But it isn't edgy with it's blame or what-not. It's 'salty' or dryly sarcastic. 
 
 ## Possible Origin:
 *note: see origin story in another file!*
-[The oldest known story](Croconosaurus%20-%20origin.md)
+[The oldest known story](Croconossorus%20-%20origin.md)
 
 The Croconocerous lives in the salty forest exhiled by the Croconocerous' for being too grumpy. Stuck in the salt forest makes this Croconocerous even more grumpy and delirious with thirst. Any carnage caused by this beast is because it hasn't had a nice drink of water. It may have destroyed a village or two but really likes to hide away.
 

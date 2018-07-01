@@ -278,13 +278,13 @@ Write-Output "... made The-Return-of-Tom-Thumb-with-music.mp3"
 #
 # Croconocerous poem text to speech
 #
-Get-Content -Path ".\Character - Others\Croconosaurus - origin.md" -Encoding UTF8 | `
+Get-Content -Path ".\Character - Others\Croconossorus - origin.md" -Encoding UTF8 | `
 	Destroy-Quotes | `
-	%{ $_.Replace("__", "") } >> gTTS_croconosaurus_word_input.txt
-Write-Output "... gTTS_croconosaurus_word_input.txt"
+	%{ $_.Replace("__", "") } >> gTTS_croconossorus_word_input.txt
+Write-Output "... gTTS_croconossorus_word_input.txt"
 
-cat gTTS_croconosaurus_word_input.txt | python .\googleTextToSpeech.py -o A_Croconosaurus_Tale.mp3 -d A_Croconosaurus_Tale.mp3.log 
-Write-Output "... made A_Croconosaurus_Tale.mp3"
+cat gTTS_croconossorus_word_input.txt | python .\googleTextToSpeech.py -o A_Croconossorus_Tale.mp3 -d A_Croconossorus_Tale.mp3.log 
+Write-Output "... made A_Croconossorus_Tale.mp3"
 
 
 #

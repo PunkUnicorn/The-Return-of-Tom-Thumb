@@ -1,12 +1,12 @@
 
-A Croconosaurus “Tale”
+A Croconossorus “Tale”
 
 (As translated from the tablets of “ancient Hadriel” by “Majalofalic the occasional”, one summers day. 
 * Parts marked __unreadable__ either missing or damaged.)
 
 1) 
 
-  O, Croconosaurus of Fable, 
+  O, Croconossorus of Fable, 
   
  	the noble beast of ancient Hadriel,
 
@@ -76,7 +76,7 @@ A Croconosaurus “Tale”
 
  	“What about our old, loyal friends,
 
- 	The Croconosaurus?”.
+ 	The Croconossorus?”.
 
 8)
 
@@ -90,7 +90,7 @@ A Croconosaurus “Tale”
 
 9)
 
-  Though Croconosaurus he hoped,
+  Though Croconossorus he hoped,
   
  	this thing not long to last,
 
