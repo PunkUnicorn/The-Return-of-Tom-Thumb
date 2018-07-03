@@ -198,7 +198,8 @@ Write-output `n | Out-File "Prose - Blank line.md" -Append
 
 Write-Output "Adding build version to final-title.md..."
 Add-Content -Path "book-version.txt" -Value $env:APPVEYOR_BUILD_VERSION
-cat title-top.md, "Prose - Blank line.md", book-version.txt, "Prose - Blank line.md", title-bottom.md, "Prose - Blank line.md" | sc final-title.md # title.md contents at the top
+#cat title-top.md, "Prose - Blank line.md", book-version.txt, "Prose - Blank line.md", title-bottom.md, "Prose - Blank line.md" | sc final-title.md # title.md contents at the top
+cat title-top.md, "Prose - Blank line.md", book-version.txt, "Prose - Blank line.md" | sc final-title.md # title.md contents at the top
 Write-Output "Adding build version to final-title.md FINISHED"
 
 Write-Output "Combining markdown..."
@@ -237,7 +238,7 @@ Write-Output "Making Audio book ..."
 cat "final-title.md", The-Return-of-Tom-Thumb.txt | sc The-Return-of-Tom-Thumb-with-title.txt
 Get-Content -Path "The-Return-of-Tom-Thumb-with-title.txt" -Encoding UTF8 | `
 	Destroy-Quotes | `
-	%{ $_.Replace("%", "`n").Replace("<sub>","").Replace("</sub>", "") } >> gTTS_word_input.txt
+	%{ $_.Replace("%", "").Replace("<sub>","").Replace("</sub>", "") } >> gTTS_word_input.txt
 Write-Output "... made gTTS_word_input.txt"
 
 cat gTTS_word_input.txt | python .\googleTextToSpeech.py -o The-Return-of-Tom-Thumb.mp3 -d The-Return-of-Tom-Thumb.mp3.log 
