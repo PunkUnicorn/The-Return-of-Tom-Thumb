@@ -198,8 +198,8 @@ Write-output `n | Out-File "Prose - Blank line.md" -Append
 
 Write-Output "Adding build version to final-title.md..."
 Add-Content -Path "book-version.txt" -Value $env:APPVEYOR_BUILD_VERSION
-#cat title-top.md, "Prose - Blank line.md", book-version.txt, "Prose - Blank line.md", title-bottom.md, "Prose - Blank line.md" | sc final-title.md # title.md contents at the top
-cat title-top.md, "Prose - Blank line.md", book-version.txt, "Prose - Blank line.md" | sc final-title.md # title.md contents at the top
+cat title-top.md, "Prose - Blank line.md", book-version.txt, "Prose - Blank line.md", title-bottom.md, "Prose - Blank line.md" | sc final-title.md # title.md contents at the top
+#cat title-top.md, "Prose - Blank line.md", book-version.txt, "Prose - Blank line.md" | sc final-title.md # title.md contents at the top
 Write-Output "Adding build version to final-title.md FINISHED"
 
 Write-Output "Combining markdown..."

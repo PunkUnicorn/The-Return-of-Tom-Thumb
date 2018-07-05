@@ -1,14 +1,14 @@
 
 # Chapter One
 
- Once upon a time in a land far away,
+ <sub>Once upon a time in a land far away,</sub>
  
- Children were lost, by their parents betrayed,
+ <sub>Children were lost, by their parents betrayed,</sub>
  
- Encountered a house, a good place to stay,
+ <sub>Encountered a house, a good place to stay,</sub>
  
- Giants lived there, pursuit under way!
+ <sub>Giants lived there, pursuit under way!</sub>
  
- Boots were stolen, a giant was slayed,
+ <sub>Boots were stolen, a giant was slayed,</sub>
 
- The brothers and Tom escaped, hurray.
+ <sub>The brothers and Tom escaped, hurray.</sub>
