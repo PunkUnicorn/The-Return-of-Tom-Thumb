@@ -33,7 +33,7 @@ He is the crown prince.
 
 The stone of the palace walls were deeply cold. The Knight looked out of the arrow slit to see the dusk lit expance of the city. His pack was ready, he was in the formal knight's robes with standard knight armour. He had his 'letter from The Prince' safe on his belt: his disguise complete. Putting on the heavy visor was a strange confort; it's weight a reassurance: it will be a good a disguise as it is heavy.
 
-There would be no-one on the south stair from the lower tower at this time, his passage would be unnoticed. Sure enough, dispite the noise his pack and him made, his exit through the south tunnels went unnoticed.
+There would be no-one on the south stair from the lower tower at this time, his passage would be unobserved. Sure enough, dispite the noise his pack and him made, his exit through the south tunnels went unnoticed.
 
 Each step through the tunnel brought a sharp rememberance of what he was walking away from: the responsibility of an heir to the throne, the state, and the honour of his lineage. The shame on his shoulders. 
 
