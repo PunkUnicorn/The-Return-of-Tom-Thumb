@@ -33,12 +33,26 @@ He is the crown prince.
 
 The stone of the palace walls were deeply cold. The Knight looked out of the arrow slit to see the dusk lit expance of the city. His pack was ready, he was in the formal knight's robes with standard knight armour. He had his 'letter from The Prince' safe on his belt: his disguise complete. Putting on the heavy visor was a strange confort; it's weight a reassurance: it will be a good a disguise as it is heavy.
 
-There would be no-one on the south stair from the lower tower at this time, his passage would be unnoticed. Sure enough, dispite the noise him and his pack made, his exit through the south tunnels was observed by nobody.
+There would be no-one on the south stair from the lower tower at this time, his passage would be unnoticed. Sure enough, dispite the noise his pack and him made, his exit through the south tunnels went unnoticed.
 
-Each step through the tunnel brought a sharp rememberance of what he was walking away from: ascention, state, being beholden to an ancient archaic machine that needs a puppet. Why be edjucated? why be well read. It makes the puppet role of King so much more crueler for the person in the crown; no free will, no personal judgement, beholden to hundreds of years of history. 
+Each step through the tunnel brought a sharp rememberance of what he was walking away from: the responsibility of an heir to the throne, the state, and the honour of his lineage. The shame on his shoulders. 
 
 And after the rememberance of the life left behind, there was also a flash of what layed ahead: The open road, a life of freedom; to look and smell, and hear and read. The expansive world and the treasure of ones own selfish curiocity.
 
-And another step remembering the disapointment of his sick father, of his younger sister left to inherit the crown... unprepared; the burden forced onto her.
+And before the next step remembering how he would be beholden to ancient archaic feudal court, that needs a puppet at the top to complete the control. And why have an edjucated king? It makes the crown so much more crueler; no personal judgement permitted, beholden to hundreds of years of history.
 
-But again the life away from dogmatic duties, from sicophantic dignitories, petty dukes.
+And another step remembering that his own escape would disapointment his sick father. His younger sister would be left to inherit the burden; unprepared, the heavy crown falling on her...
+
+More steps, faster. But hurrying did not abate the remorse. Regret pushed against guilt. He flashed a thought of regret: not preparing a tourch for this tunnel escape. He had packed a bundle of tourches (he had packed everything he could think of actually).
+
+"I could stop and get the tourches out..." he thought, navigating through the layers of compacted equipment to where the tourches were packed. But also he might be out of the tunnel soon. It was hard to tell in the dark.
+
+More steps forward but mis-placing his footing tempered his speed; calming down to a slower pace. 
+
+A draft of air, the tunnel must conclude soon. "Am I doing the right thing?" he felt anxious. He stopped. The weight of his choice tipping back and forth; his stomache churning.
+
+The breeze stronger, biting his face cold, and the sound of rushing. He stopped. It was the sound of rain. Listening. Somehow the prospect of rain was exhillerating. The long routes north, the new experience: isolated villages and towns, the open road. It was dangerous out there and this added to the exhilleration. 
+
+There would be no surprises for him though, since he had thouroughly studied and investigated the range of possible dangers; he had prepared: bandits were prevelant north on the isolated trails, a criminal network is growing. 
+
+A knight of the crown would have little problem passing through dwellings. It was the perfect disguise. As for bandits... he could take them on. But strength in numbers. He was hoping to latch onto a group already travelling northwards.
