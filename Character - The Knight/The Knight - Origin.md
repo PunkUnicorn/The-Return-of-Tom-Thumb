@@ -45,14 +45,14 @@ And another step remembering that his own escape would disapointment his sick fa
 
 More steps, faster. But hurrying did not abate the remorse. Regret pushed against guilt. He flashed a thought of regret: not preparing a tourch for this tunnel escape. He had packed a bundle of tourches (he had packed everything he could think of actually).
 
-"I could stop and get the tourches out..." he thought, navigating through the layers of compacted equipment to where the tourches were packed. But also he might be out of the tunnel soon. It was hard to tell in the dark.
+"I could stop and get the tourches out..." he thought, mentally navigating through the layers of compacted equipment to where the tourches were packed. He knew where everything was, each item compactly packed. But also he might be out of the tunnel soon. It was hard to tell in the dark.
 
-More steps forward but mis-placing his footing tempered his speed; calming down to a slower pace. 
+More steps forward but mis-placing his footing tempered his speed; he calmed to a slower pace. 
 
 A draft of air, the tunnel must conclude soon. "Am I doing the right thing?" he felt anxious. He stopped. The weight of his choice tipping back and forth; his stomache churning.
 
-The breeze stronger, biting his face cold, and the sound of rushing. He stopped. It was the sound of rain. Listening. Somehow the prospect of rain was exhillerating. The long routes north, the new experience: isolated villages and towns, the open road. It was dangerous out there and this added to the exhilleration. 
+The breeze stronger, biting his face cold, and the sound of rushing. He stopped. It was the sound of rain. Listening. Somehow the prospect of rain was exhillerating. The long routes north, the new experience: isolated villages and towns, the open road. It was dangerous out there and this added to the exhilleration. He could cross the rain into his new life. There was no rain for an heir to the throne. Welcome to his new life: starring rain and regret.
 
-There would be no surprises for him though, since he had thouroughly studied and investigated the range of possible dangers; he had prepared: bandits were prevelant north on the isolated trails, a criminal network is growing. 
+He had prepared thouroughly; studied and investigated the range of possible dangers: bandits were prevelant north on the isolated trails, a criminal network is growing. There are always desparate people. 
 
-A knight of the crown would have little problem passing through dwellings. It was the perfect disguise. As for bandits... he could take them on. But strength in numbers. He was hoping to latch onto a group already travelling northwards.
+A knight of the crown would have little problem passing through civilised dwellings. It was the perfect disguise. As for bandits... he could take them on. But strength in numbers: hoping to latch onto a group already travelling northwards, and travell with them.
