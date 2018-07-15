@@ -284,8 +284,6 @@ Get-Content -Path ".\Character - Others\Croconossorus - origin.md" -Encoding UTF
 	Destroy-Quotes | `
 	%{ [regex]::Replace($_, $numberingRegEx, "").Replace("__", "").Replace("unreadable", "") } >> gTTS_croconossorus_word_input.txt
 
-cat gTTS_croconossorus_word_input.txt
-
 cat gTTS_croconossorus_word_input.txt | python .\googleTextToSpeech.py -o A_Croconossorus_Tale.mp3 -d A_Croconossorus_Tale.mp3.log 
 Write-Output "... made A_Croconossorus_Tale.mp3"
 
