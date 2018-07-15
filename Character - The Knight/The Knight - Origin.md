@@ -28,3 +28,17 @@ He is the crown prince.
       
       * There is no hope of change without risk of war, uprising or upsetting the geo-political landscape
       
+      * He just wants a quiet life
+
+
+The stone of the palace walls were deeply cold. The Knight looked out of the arrow slit to see the dusk lit expance of the city. His pack was ready, he was in the formal knight's robes with standard knight armour. He had his 'letter from The Prince' safe on his belt: his disguise complete. Putting on the heavy visor was a strange confort; it's weight a reassurance: it will be a good a disguise as it is heavy.
+
+There would be no-one on the south stair from the lower tower at this time, his passage would be unnoticed. Sure enough, dispite the noise him and his pack made, his exit through the south tunnels was observed by nobody.
+
+Each step through the tunnel brought a sharp rememberance of what he was walking away from: ascention, state, being beholden to an ancient archaic machine that needs a puppet. Why be edjucated? why be well read. It makes the puppet role of King so much more crueler for the person in the crown; no free will, no personal judgement, beholden to hundreds of years of history. 
+
+And after the rememberance of the life left behind, there was also a flash of what layed ahead: The open road, a life of freedom; to look and smell, and hear and read. The expansive world and the treasure of ones own selfish curiocity.
+
+And another step remembering the disapointment of his sick father, of his younger sister left to inherit the crown... unprepared; the burden forced onto her.
+
+But again the life away from dogmatic duties, from sicophantic dignitories, petty dukes.
