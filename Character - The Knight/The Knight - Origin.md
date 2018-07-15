@@ -43,16 +43,18 @@ And before the next step remembering how he would be beholden to ancient archaic
 
 And another step remembering that his own escape would disapointment his sick father. His younger sister would be left to inherit the burden; unprepared, the heavy crown falling on her...
 
-More steps, faster. But hurrying did not abate the remorse. Regret pushed against guilt. He flashed a thought of regret: not preparing a tourch for this tunnel escape. He had packed a bundle of tourches (he had packed everything he could think of actually).
+More steps, faster. But hurrying did not abate the remorse. Regret pushed against guilt. A new flashed of regret: not preparing a tourch for this tunnel escape. He had packed a bundle of tourches (he had packed everything he could think of actually).
 
-"I could stop and get the tourches out..." he thought, mentally navigating through the layers of compacted equipment to where the tourches were packed. He knew where everything was, each item compactly packed. But also he might be out of the tunnel soon. It was hard to tell in the dark.
+"I could stop and get the tourches out..." he thought, mentally navigating through the layers of compacted equipment to where the tourches were packed. He knew where everything was, each item packed carefully as it's smallest possible bundle. But also he might be out of the tunnel soon. It was hard to tell in the dark.
 
-More steps forward but mis-placing his footing tempered his speed; he calmed to a slower pace. 
+More steps forward but mis-placing his footing tempered his speed. He calmed to a slower pace. 
 
 A draft of air, the tunnel must conclude soon. "Am I doing the right thing?" he felt anxious. He stopped. The weight of his choice tipping back and forth; his stomache churning.
 
-The breeze stronger, biting his face cold, and the sound of rushing. He stopped. It was the sound of rain. Listening. Somehow the prospect of rain was exhillerating. The long routes north, the new experience: isolated villages and towns, the open road. It was dangerous out there and this added to the exhilleration. He could cross the rain into his new life. There was no rain for an heir to the throne. Welcome to his new life: starring rain and regret.
+The breeze stronger, biting his face cold; stinging his lips. And the sound of rushing. He stopped. It was the sound of rain. Listening. Somehow the prospect of rain was exhillerating; there was no rain for an heir to the throne. 
 
-He had prepared thouroughly; studied and investigated the range of possible dangers: bandits were prevelant north on the isolated trails, a criminal network is growing. There are always desparate people. 
+The long routes north and the new experiences: isolated villages and towns, the open road. It was dangerous out there and this added to the exhilleration. He could cross the rain into his new life, there it was. His new life starring rain.
 
-A knight of the crown would have little problem passing through civilised dwellings. It was the perfect disguise. As for bandits... he could take them on. But strength in numbers: hoping to latch onto a group already travelling northwards, and travell with them.
+He had prepared thouroughly; studied and investigated the range of possible dangers: bandits were prevelant north on the isolated trails, a criminal network is growing and becoming more bold. Aside from this there are always desparate people.
+
+A knight would have little problem passing through civilised dwellings. It was the perfect disguise. As for bandits... he could take them on. But strength in numbers: he was hoping to latch onto a group already travelling northwards, and travell with them.
