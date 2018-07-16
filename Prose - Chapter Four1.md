@@ -4,7 +4,7 @@ Meanwhile, far south, in the most south city, in the southern part of the kings 
 
 He had the life of a prince. However, if he knew where Tom was, or even who Tom was, he would have been jelous of her life tonight. 
 
-No more was he a prince in his mind. To him, being an heir to the throne was like being a caged creature: trapped because of his specific blood-line. But soon he would be free.
+No more was he a prince in his mind. To him, being an heir to the throne was like being a caged creature: trapped because of his specific bloodline. But soon he would be free.
 
 For a long time he had been preparing himself a new identity: the appearance and paraphernalia of one of the kings many knights.
 
@@ -22,7 +22,7 @@ And after the rememberance of the guilt, there was also a flash of what laid ahe
 
 And before his foot hits the floor, an awareness created by his guilt. That he was born beholden to the crown. The court. The court that needs a figure at the top to complete the control and balance of state. 
 
-But why have an educated king? It makes the crown so much more crueller for the wearer; no personal judgement permitted, beholden to hundreds of years of history. Advisors, petty dukes and baroque tradition to not ever offend. But these things need critisisng if anything in the world does. That is the point, the terrible burden.
+But why have an educated king? It makes the crown so much more crueller for the wearer; no personal judgement permitted, beholden to hundreds of years of history. 
 
 And another step remembering how his escape would affect his sick father. His younger sister would be left to inherit the burden; unprepared, the heavy crown falling on her...
 
