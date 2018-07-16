@@ -119,7 +119,7 @@ The Tailor planted the same on Tom, then sat in Tom's adjacent section. He happi
 
 Tom and Kim took their cue and started eating. It was simply the finest broth Tom had ever tasted, and the freshest bread. Butter, bread and broth. 
 
-“This is the life.”, Tom thought, looking through the open door as she ate. So it was, and not that Tom knew but she was looking southwards. She brought fantasies of The Tailors stories to mind, and added in broth like this one. The south had broth and hay beds fit for princes.
+“This is the life.”, Tom thought, looking through the open door as she ate. So it was, (not that Tom knew), she was looking southwards. She brought fantasies of The Tailors stories to mind, and added in broth like this one. The south had broth and hay beds fit for princes.
 
 ![](TheTailor/TheTailor1.png)
 
