@@ -161,12 +161,14 @@ Spellcheck-DumpExceptions
 Spellcheck-Chapter "Chapter One" "Chapter-One-Spelling.txt" 
 Spellcheck-Chapter "Chapter Two" "Chapter-Two-Spelling.txt"
 Spellcheck-Chapter "Chapter Three" "Chapter-Three-Spelling.txt"
+Spellcheck-Chapter "Chapter Four" "Chapter-Four-Spelling.txt"
 Write-Output "Spelling Ends"
 
 Write-Output "Thesaurunocerous Starts"
 Thesaurunocerous-Chapter "Chapter One" "Chapter-One-Words.txt"
 Thesaurunocerous-Chapter "Chapter Two" "Chapter-Two-Words.txt"
 Thesaurunocerous-Chapter "Chapter Three" "Chapter-Three-Words.txt"
+Thesaurunocerous-Chapter "Chapter Four" "Chapter-Four-Words.txt"
 
 Thesaurunocerous-Chapter "Chapter *" "Chapter-All-Words.txt"
 
@@ -212,7 +214,8 @@ cat "Prose - Chapter One1.md",
 	"Prose - Chapter Two3.md", 
 	"Prose - Blank line.md",
 	"Prose - Chapter Three1.md", 
-	"Prose - Blank line.md" | sc "The-Return-of-Tom-Thumb.md" 
+	"Prose - Blank line.md",
+	"Prose - Chapter Four1.md" | sc "The-Return-of-Tom-Thumb.md" 
 	
 Get-Content "The-Return-of-Tom-Thumb.md" -Encoding UTF8 | Replace-FancyQuotes | Out-File "The-Return-of-Tom-Thumb.txt" -Encoding UTF8 -Append
 Write-Output "... made The-Return-of-Tom-Thumb.md and The-Return-of-Tom-Thumb.txt created"
