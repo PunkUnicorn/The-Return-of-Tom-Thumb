@@ -18,21 +18,23 @@ And then into the tunnels below the keep. Each step through the arches brought a
 
 There it was: the shame on his shoulders.
 
-And after the rememberance of the guilt, there was also a flash of what laid ahead: the open road, a life of freedom, hide away from the chains of state level consequences. Instead, live day to day; each morning a new life. Each morning free again.
+And after the rememberance of the guilt, there was also a flash of what laid ahead: the open road, a life of freedom, hide away from the chains of state, of historical consequences. Instead, be alive day to day; each morning a new life. Each morning free again.
 
-And before his foot hits the floor, an awareness created by his guilt. That he was born beholden to the crown. The court. The court that needs a figure at the top to complete the control and balance of state. 
+And before his foot hits the floor, an awareness from guilt: that he was born beholden to the crown. The court. The court that needs a figure at the top to complete the balance of state function.
 
-But why have an educated king? It makes the crown so much more crueller for the wearer; no personal judgement permitted, beholden to hundreds of years of history. 
+But why have an educated king? It makes the crown so much more crueller for the wearer; no personal judgement permitted, beholden to hundreds of years of history.
 
 And another step remembering how his escape would affect his sick father. His younger sister would be left to inherit the burden; unprepared, the heavy crown falling on her...
 
 More steps, faster steps. But hurrying did not abate the remorse. Regret pushed against guilt. And a new flash of regret: not preparing a torch for this tunnel escape. He had packed a bundle of torches (he had packed everything useful he could think of).
 
-“I could stop and get the torches out...” he thought, mentally navigating through the layers of compacted equipment to where the torches were packed. He knew the location of everything in his backpack, each item packed carefully as it's smallest possible bundle. But also he might be out of the tunnel soon. It was hard to tell in the dark.
+“I could stop and get the torches out...” he thought, mentally navigating through the layers of compacted equipment to where the torches were. He knew the location of everything in his backpack, each item crammed to it's smallest possible bundle. 
 
-More steps forward but mis-placing his footing tempered his speed. He calmed to a slower pace. 
+However, he might be out of the tunnel soon. It was hard to tell in the dark.
 
-A draft of air, the tunnel must conclude soon. “Am I doing the right thing?” he felt anxious. He stopped. The weight of his choice tipping back and forth; his stomache churning.
+More steps forward but misplacing his footing tempered his speed. He calmed to a slower pace. 
+
+A draft of air, the tunnel must conclude soon. “Am I doing the right thing?” he felt anxious. He stopped. The weight of his choice tipping back and forth; his stomach churning.
 
 The breeze stronger, biting his face cold; stinging his lips. And the sound of rushing. He stopped. It was the sound of rain. Listening. Somehow the prospect of rain was exhillerating; there was no rain in the life of an heir to the throne. Yet here he was, a few steps away.
 
