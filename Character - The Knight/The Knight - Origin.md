@@ -31,30 +31,38 @@ He is the crown prince.
       * He just wants a quiet life
 
 
-The stone of the palace walls were deeply cold. The Knight looked out of the arrow slit to see the dusk lit expance of the city. His pack was ready, he was in the formal knight's robes with standard knight armour. He had his 'letter from The Prince' safe on his belt: his disguise complete. Putting on the heavy visor was a strange confort; it's weight a reassurance: it will be a good a disguise as it is heavy.
+The stone walls were deeply cold. The Knight looked out of the arrow slit to see the dusk lit city. His pack was ready, he was in the formal knight's robes, with standard knight armour. He had his 'letter from The Prince' safe on his belt: his disguise complete. Putting on the heavy visor it's weight was a strange confort; a reassurance: it would be as good a disguise as it was heavy.
 
-There would be no-one on the south stair from the lower tower at this time, his passage would be unobserved. Sure enough, dispite the noise his pack and him made, his exit through the south tunnels went unnoticed.
+The south stair would be deserted, especially at this time; his passage would be unobserved. Sure enough, dispite the noise his pack and him made, his exit through the south tower stairs was unnoticed.
 
-Each step through the tunnel brought a sharp rememberance of what he was walking away from: the responsibility of an heir to the throne, the state, and the honour of his lineage. The shame on his shoulders. 
+And then into the tunnels below the keep. Each step through the arches brought a sharp rememberance of what he was walking away from: the responsibility, the throne and the honour of his lineage. There it was: the shame on his shoulders.
 
-And after the rememberance of the life left behind, there was also a flash of what layed ahead: The open road, a life of freedom; to look and smell, and hear and read. The expansive world and the treasure of ones own selfish curiocity.
+And after the rememberance of the guilt, there was also a flash of what laid ahead: The open road, a life of freedom, hide away from the chains of consiquence born from state descisions. Live day to day; each morning a new life. Each morning free again.
 
-And before the next step remembering how he would be beholden to ancient archaic feudal court, that needs a puppet at the top to complete the control. And why have an edjucated king? It makes the crown so much more crueler; no personal judgement permitted, beholden to hundreds of years of history.
+And before the next step an awareness created by his guilt: how he should be beholden to the feudal court, that which needs a figure at the top to complete the control. But why have an educated king? It makes the crown so much more crueler; no personal judgement permitted, beholden to hundreds of years of history.
 
 And another step remembering that his own escape would disapointment his sick father. His younger sister would be left to inherit the burden; unprepared, the heavy crown falling on her...
 
-More steps, faster. But hurrying did not abate the remorse. Regret pushed against guilt. A new flashed of regret: not preparing a tourch for this tunnel escape. He had packed a bundle of tourches (he had packed everything he could think of actually).
+More steps, faster. But hurrying did not abate the remorse. Regret pushed against guilt. A new flash of regret: not preparing a tourch for this tunnel escape. He had packed a bundle of tourches (he had packed everything he could think of actually).
 
-"I could stop and get the tourches out..." he thought, mentally navigating through the layers of compacted equipment to where the tourches were packed. He knew where everything was, each item packed carefully as it's smallest possible bundle. But also he might be out of the tunnel soon. It was hard to tell in the dark.
+"I could stop and get the tourches out..." he thought, mentally navigating through the layers of compacted equipment to where the tourches were packed. He knew the location of everything in his back-pack, each item packed carefully as it's smallest possible bundle. But also he might be out of the tunnel soon. It was hard to tell in the dark.
 
 More steps forward but mis-placing his footing tempered his speed. He calmed to a slower pace. 
 
 A draft of air, the tunnel must conclude soon. "Am I doing the right thing?" he felt anxious. He stopped. The weight of his choice tipping back and forth; his stomache churning.
 
-The breeze stronger, biting his face cold; stinging his lips. And the sound of rushing. He stopped. It was the sound of rain. Listening. Somehow the prospect of rain was exhillerating; there was no rain for an heir to the throne. 
+The breeze stronger, biting his face cold; stinging his lips. And the sound of rushing. He stopped. It was the sound of rain. Listening. Somehow the prospect of rain was exhillerating; there was no rain in the life of an heir to the throne. Yet here he was, a few steps away from a different life.
 
-The long routes north and the new experiences: isolated villages and towns, the open road. It was dangerous out there and this added to the exhilleration. He could cross the rain into his new life, there it was. His new life starring rain.
+The tunnel narrowed and led round to the left. Following this: the smell of rain. The tunnel became a narrow cave and an opening overlooking fields. This was it: the new life, and his reading, studying and all his preparation came flooding back.
 
-He had prepared thouroughly; studied and investigated the range of possible dangers: bandits were prevelant north on the isolated trails, a criminal network is growing and becoming more bold. Aside from this there are always desparate people.
+The long routes north, isolated villages and towns, trade points and knight barracks. Points of safety. It was dangerous out there on the whole, but this added to the exhilleration. He could cross the rain into his new life, there it was: right there: all that he had prepared for.
 
-A knight would have little problem passing through civilised dwellings. It was the perfect disguise. As for bandits... he could take them on. But strength in numbers: he was hoping to latch onto a group already travelling northwards, and travell with them.
+He had studied (and sometimes personally investigated) the range of possible dangers: bandits were prevelant north on the isolated trails, a criminal network is growing and has become more bold. Aside from this there are always desparate people.
+
+A knight would have little problem passing through civilised dwellings. It was the perfect disguise. As for bandits... he might be able to take them on and defeat them. The best solution to the risk: travel with a group; strength in numbers. Again the disguise as a knight should make this viable.
+
+A deep sigh and he felt the peek of his remorse: the prospect of the constricting life behind him, the escape to freedom in front. The sound of the rain neither diminishing or increasing; a flat boring constant he ached for.
+
+He stepped forward, the rain ringing each hit on his helmet. Footing difficult in the wet mud, progress almost humourously slow. The wet robe becoming heavyer. A field's fence a major obsticle. And so his first steps went, the night seeming to go on forever. Until morning broke and the rain stopped. For the first time he dared to look back: the castle far in the distance, but not that far. Far enough though.
+
+He had calculated that first light would be the time when people realised he had gone. Now with the sun he could find north, latch onto a suitable trail, and follow this as far north as possible: right up to the Expansive Forest perhaps.
