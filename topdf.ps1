@@ -241,7 +241,7 @@ Write-Output "Making Audio book ..."
 cat "final-title.md", The-Return-of-Tom-Thumb.txt | sc The-Return-of-Tom-Thumb-with-title.txt
 Get-Content -Path "The-Return-of-Tom-Thumb-with-title.txt" -Encoding UTF8 | `
 	Destroy-Quotes | `
-	%{ $_.Replace("%", "").Replace("<sub>","").Replace("</sub>", "") } >> gTTS_word_input.txt
+	%{ $_.Replace("%", "").Replace("<sub>","").Replace("</sub>", "").Replace("*to*", "TO") } >> gTTS_word_input.txt
 Write-Output "... made gTTS_word_input.txt"
 
 cat gTTS_word_input.txt | python .\googleTextToSpeech.py -o The-Return-of-Tom-Thumb.mp3 -d The-Return-of-Tom-Thumb.mp3.log 
