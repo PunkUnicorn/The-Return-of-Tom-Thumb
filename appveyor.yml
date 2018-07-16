@@ -8,7 +8,6 @@ install:
   - pip install gTTS #google text to speech
   - cinst lame
   - cinst sox.portable
-  - ps: cat ".\Croconocerous\croco_on_mostly_blank_except_some_grass_man.txt"
   
 build: false
 
