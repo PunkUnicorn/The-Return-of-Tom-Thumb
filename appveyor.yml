@@ -13,6 +13,7 @@ build: false
 
 test_script:
   - ps: .\topdf.ps1
+  - ps: cat ".\Croconocerous\croco_on_mostly_blank_except_some_grass_man.txt
 
 artifacts:
   - path: Chapter-*-Spelling.txt
@@ -48,8 +49,6 @@ artifacts:
   - path: testymctestface.mp3
     name: testy_mc_testface
     type: file
-    
-after_build:
-  - ps: cat ".\Croconocerous\croco_on_mostly_blank_except_some_grass_man.txt
+
 
   
