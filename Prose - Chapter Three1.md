@@ -119,5 +119,5 @@ The Tailor planted the same on Tom, then sat in Tom's adjacent section. He happi
 
 Tom and Kim took their cue and started eating. It was simply the finest broth Tom had ever tasted, and the freshest bread. Butter, bread and broth. “This is the life.”, Tom thought, and brought fantasies of life in the south to mind with broth and hay beds fit for princes.
 
-![The Tailor](/TheTailor/TheTailor1.jpg)
+![The Tailor](TheTailor/TheTailor1.png)
 
