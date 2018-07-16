@@ -2,9 +2,9 @@
 
 Meanwhile, far south, in the most south city, in the southern part of the kings castle, itself in the cities south, an heir to the throne, the crown prince himself, was looking out northwards. 
 
-He had the life of a prince. But if he knew where Tom was, or even who Tom was, he would be jelous of her life tonight. 
+He had the life of a prince. However, if he knew where Tom was, or even who Tom was, he would have been jelous of her life tonight. 
 
-But no more was he a prince in his mind. To him being an heir to the throne was like being a caged creature. Trapped due to having a specific blood-line. Put in a caged, false, environment, observed by everyone as entertainment. And what a grim show. 
+No more was he a prince in his mind. To him, being an heir to the throne was like being a caged creature: trapped because of his specific blood-line. But soon he would be free.
 
 For a long time he had been preparing himself a new identity: the appearance and paraphernalia of one of the kings many knights.
 
