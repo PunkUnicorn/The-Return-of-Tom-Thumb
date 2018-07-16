@@ -56,4 +56,5 @@ Until morning broke and the rain stopped. For the first time he dared to look ba
 
 He had calculated that first light would be the time when people realised he was missing. Now with the sun he could find north, latch onto a suitable trail, and follow this as far north as possible: right up to the Expansive Forest perhaps.
 
+But first, get as far away as possible. North.
 “”
