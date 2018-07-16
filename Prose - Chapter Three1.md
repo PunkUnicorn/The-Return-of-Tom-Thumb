@@ -113,11 +113,13 @@ Suddenly The Tailor turned quickly towards the door saying: “I have to settle 
 
 Tom looked between Kim and the cow, both were settled and looking like they were ready to sleep. The shaddows moved with the lantern but more gently. She thought to get up and give it more swing, but was not sure she could escape the soft hay. 
 
-Time passed and Tom almost drifted off to sleep when The Tailor returned. Carrying three bowls, balanced with grace, and a richer smell of gravey. He handed one bowl to Kim, who sat up quickly surprised. A chunk of bread and a wooden spoon added to the surprise, Kim unsure what has just happened. 
+Time passed and Tom almost drifted off to sleep when The Tailor returned. Carrying three bowls, balanced with grace, and a richer smell of gravey. He handed one bowl to Kim, who sat up quickly surprised. A chunk of bread and a wooden spoon added to the surprise, Kim was unsure what this all meant, or what had just happened.
 
-The Tailor planted the same on Tom, then sat in Tom's adjacent section. He happily spooned the broth to his mouth. Looking up to both Kim and Tom, they were looking surprised and not eating. “It's better than it looks.”, The Tailor assured them.
+The Tailor planted the same on Tom, then sat in Tom's adjacent section. He happily spooned the broth. Looking up to both Kim and Tom, they were looking surprised, still holding bread and spoons as when first handed to them. The Tailor finished a mouthfull, then gesturing with his spoon, and still cheweing a bit, he assured them; “It's better than it looks.”
 
-Tom and Kim took their cue and started eating. It was simply the finest broth Tom had ever tasted, and the freshest bread. Butter, bread and broth. “This is the life.”, Tom thought, and brought fantasies of life in the south to mind with broth and hay beds fit for princes.
+Tom and Kim took their cue and started eating. It was simply the finest broth Tom had ever tasted, and the freshest bread. Butter, bread and broth. 
+
+“This is the life.”, Tom thought, looking through the open door as she ate. So it was, and not that Tom knew but she was looking southwards. She brought fantasies of The Tailors stories to mind, and added in broth like this one. The south had broth and hay beds fit for princes.
 
 ![](TheTailor/TheTailor1.png)
 
