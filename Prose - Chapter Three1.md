@@ -115,7 +115,7 @@ Tom looked between Kim and the cow, both were settled and looking like they were
 
 Time passed and Tom almost drifted off to sleep when The Tailor returned. Carrying three bowls, balanced with grace, and a richer smell of gravey. He handed one bowl to Kim, who sat up quickly surprised. A chunk of bread and a wooden spoon added to the surprise, Kim was unsure what this all meant, or what had just happened.
 
-The Tailor planted the same on Tom, then sat in Tom's adjacent section. He happily spooned the broth. Looking up to both Kim and Tom, they were looking surprised, still holding bread and spoons as when first handed to them. The Tailor finished a mouthfull, then gesturing with his spoon, and still cheweing a bit, he assured them; “It's better than it looks.”
+The Tailor planted the same on Tom, then sat in Tom's adjacent section. He happily spooned the broth. Looking up to both Kim and Tom, they were looking surprised, still holding bread and spoons as when first handed to them. The Tailor finished a mouthfull, then gesturing with his spoon, and still cheweing a bit: “It's better than it looks.”; he assured them.
 
 Tom and Kim took their cue and started eating. It was simply the finest broth Tom had ever tasted, and the freshest bread. Butter, bread and broth. 
 
