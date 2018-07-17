@@ -31,11 +31,9 @@ With a sigh and the biting cold descending, she pulled herself up to sit. Her mu
 
 Wiggling her toes she felt the exquisite comfort in the soft leather of the boots; she could do that all day. She had been doing that all day. Now the worry of what would happen when the apple ran out.. There would be arguing at best. 
 
-Being the smallest child (significantly smaller than the next smallest) Tom was not sure that being a girl made any difference. She would still have to fight for pretty much anything.
+Being the smallest child, (significantly smaller than the next smallest), Tom was not sure that being a girl made any difference. She would still have to fight for pretty much anything.
 
-Sitting and not sure whether to get up or not, she was glad everyone had enough to eat today: the luxury of a full belly.
-
-“So,” she said to herself “What I need is a plan.”. It was not an easy problem to solve. But quickly Tom had an idea! In fact, the answer was clear: get another giant apple. Apples grow from apple pips. “But not in a day.” disagreeing with herself. But it was something. Tom understood there was yet another treasure hidden in the giant apple core. The giant apple pips. 
+“So,” she said to herself “What I need is a plan.”. It was not an easy problem to solve. But quickly Tom had an idea! In fact, the answer was clear: get another giant apple. Apples grow from apple pips. “But not in a day.”, disagreeing with herself. But it was something. Tom understood there was yet another treasure hidden in the giant apple core. The giant apple pips. 
 
 Gently rising to her feet she walked to the core until she was close enough to judge where the pips should be. Squaring her knuckles with her shoulder, readjusting her footing to channel her body weight Tom punched a hole through the seed chamber. Gripping the breach with both hands she ripped it wider.
 
