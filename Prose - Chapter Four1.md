@@ -12,41 +12,41 @@ He looked out of the northwards arrow slit to see the dusk lit city. The stone w
 
 Putting on the heavy visor, it's weight a strange comfort; it would be as good a disguise as it was heavy.
 
-The south stair would be deserted, especially at this time; his passage would be unobserved. Sure enough, despite the noise his pack and him made, his exit through the south tower stairs was unnoticed.
+The south stair would be deserted at this time; his passage would be unobserved. Sure enough, despite the noise from his pack and him, his exit through the south tower stairs went unheard.
 
-And then into the tunnels below the keep. Each step through the arches brought a sharp remembrance of what he was walking away from: the responsibility, the throne and the honour of his lineage. 
+And then, following the spiralling stairs into the tunnels, below the keep. Each step through the arches brought a sharp remembrance: what he was walking away from; the responsibility, the throne and the honour of his lineage. 
 
 There it was: the shame on his shoulders.
 
-And after the remembrance of the guilt, there was also a flash of what laid ahead: the open road, a life of freedom, hide away from the chains of state, of historical consequences. Instead, be alive day to day; each morning a new life. Each morning free again.
+But a flash of what laid ahead: the open road, a life of freedom, hide away from the chains of state, of historical consequences. Instead be alive day to day; each morning a new life. Each morning free again.
 
-And before his foot hits the floor, an awareness from guilt: that he was born beholden to the crown. The court. The court that needs a figure at the top to complete the balance of state function.
+And before his foot hit the floor, an awareness from guilt, that he was born to the crown; beholden to the court. The court that needs a figure at the top to complete the balance of control and function.
 
-But why have an educated king? It makes the crown so much more crueller for the wearer; no personal judgement permitted, beholden to hundreds of years of history.
+But why have an educated king? It makes the crown so much more crueller for the wearer; no personal judgement permitted, beholden to hundreds of years of history. Risk of uprising, or worse.
 
-And another step remembering how his escape would affect his sick father. His younger sister would be left to inherit the burden; unprepared, the heavy crown falling on her...
+Another step: his escape effecting his (already sick) father. His younger sister left to inherit the burden; unprepared, multiple effects ready to fall onto her... including a heavy crown.
 
-More steps, faster steps. But hurrying did not abate the remorse. Regret pushed against guilt. And a new flash of regret: not preparing a torch for this tunnel escape. He had packed a bundle of torches (he had packed everything useful he could think of).
+So he took more steps, faster steps. But hurrying did not abate the remorse. Regret pushed against guilt. And a new flash of regret: not preparing a torch for this tunnel escape. He had packed a bundle of torches (he had packed everything useful he could think of).
 
-“I could stop and get the torches out...” he thought, mentally navigating through the layers of compacted equipment to where the torches were. He knew the location of everything in his backpack, each item crammed to it's smallest possible bundle. 
+“I could stop and get the torches out...” he thought, mentally navigating through the layers of compacted equipment. He knew the location of everything in his backpack, each item crammed to it's smallest possible bundle. 
 
 However, he might be out of the tunnel soon. It was hard to tell in the dark.
 
-More steps forward but misplacing his footing tempered his speed. He calmed to a slower pace. 
+More steps forward but misplacing his footing caused him to temper his speed, calming to a slower pace. 
 
-A draft of air, the tunnel must conclude soon. “Am I doing the right thing?” he felt anxious. He stopped. The weight of his choice tipping back and forth; his stomach churning.
+A draft of air, the tunnel must conclude soon. “Am I doing the right thing?”; he felt anxious. He stopped. The weight of his choice tipping back and forth, stomach churning.
 
-The breeze stronger, biting his face cold; stinging his lips. And the sound of rushing. He stopped. It was the sound of rain. Listening. Somehow the prospect of rain was exhilarating; there was no rain in the life of an heir to the throne. Yet here he was, a few steps away.
+The breeze stronger, the cold biting his face, lips stinging. And the sound of rushing. He stopped. It was the sound of rain. Listening. Somehow the prospect of rain was exhilarating; there was no rain in the life of an heir to the throne. Yet here he was, a few steps away.
 
-The tunnel narrowed and led round to the left. Following this: the smell of rain. The tunnel became a narrow cave and an opening overlooking fields. Looking out he remembered what he had read, what he had studied, and all his preparations: the long routes north, isolated villages and towns, trade points and knight's barracks. These were points of safety. It was rather dangerous out there on the whole, but this added to the exhilaration. 
+The tunnel narrowed and led round to the left. Following this: the smell of rain. The tunnel became a narrow cave and an opening overlooking fields. Looking out recalling what he had read, what he had studied, and all his preparations: the long routes north, isolated villages and towns, trade points and knight's barracks. These were points of safety.
 
-He could cross the rain into his new life, there it was: right there: all that he had prepared for.
-
-He had studied (and sometimes personally investigated) the range of possible dangers: bandits were prevalent north on the isolated trails, a criminal network is growing and has become more bold. Aside from this there are always desperate people. 
+It was rather dangerous out there on the whole, but this added to the exhilaration. He had studied (and sometimes personally investigated) the range of possible dangers: bandits were prevalent north on the isolated trails, a criminal network is growing and has become more bold. Aside from this there are always desperate people. 
 
 Two or three towns or small cities in the south had their own particular problems, with tax collecting and organised crime. Typically it was the north that had these problems.
 
 A knight would have little problem passing through civilised dwellings. It was the perfect disguise. As for bandits... he might be able to take them on and defeat them. The best solution to the risk: travel with a group; strength in numbers. Again the disguise as a knight should make this viable.
+
+He could cross the rain into his new life, there it was: right there: all that he had prepared for.
 
 A deep sigh, and he felt the peek of his remorse: the prospect of the constricting life behind him, the escape to freedom in front. The sound of the rain neither diminishing or increasing; it was a flat boring constant he found himself aching for.
 
@@ -56,5 +56,4 @@ Until morning broke and the rain stopped. For the first time he dared to look ba
 
 He had calculated that first light would be the time when people realised he was missing. Now with the sun he could find north, latch onto a suitable trail, and follow this as far north as possible: right up to the Expansive Forest perhaps.
 
-But first, get as far away as possible. North.
 “”
