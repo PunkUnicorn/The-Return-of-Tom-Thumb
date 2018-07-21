@@ -107,9 +107,9 @@ Pulling the second rope caused the lantern to rise. Then it stopped and The Tail
 
 The speaking more to himself than the two sitting down: “The innkeeper said it housed more people than horses. I doubt anyone actually travels *to* this place.” 
 
-He looked around again: the agitated lantern animated the shadows. “If more people stay here than horses, then this explains a lot.”, he continued and turned towards the section Tom was in.
+He looked around again: the agitated lantern animated the shadows. “A stable situation!” he laughed, and continued: “If more people stay here than horses, then this explains a lot.”, then turned towards the section Tom was in.
 
-Suddenly The Tailor turned quickly towards the door saying: “I have to settle up with the innkeeper. And get us some food, I'm really hungry.” Then he left. 
+Suddenly The Tailor turned back quickly towards the door saying: “I have to settle up with the innkeeper. And get us some food, I'm really hungry.” Then he left. 
 
 Tom looked between Kim and the cow, both were settled and looking like they were ready to sleep. The shaddows moved with the lantern but more gently. She thought to get up and give it more swing, but was not sure she could escape the soft hay. 
 
