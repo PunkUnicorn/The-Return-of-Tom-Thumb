@@ -60,4 +60,4 @@ He had calculated that first light would be the time when people realised he was
 
 “”
 
-![The Knight](/TheKnight/the-knight-thumbnail.jpg)
+![The Knight](TheKnight/the-knight-thumbnail.jpg)
