@@ -70,13 +70,13 @@ Tom stood looking northwards, imagining how far Kim had gotten. The cow was slow
 
 But she could not take a step. The was reason elusive, buried. Kim was walking away slowly, wherever he was. Again, she thought she could catch up with him.
 
-Kim was telling her something though. He had travlled without her for a reason. The elusive reason gaining painful clarity: home was danger.
+Kim was telling her something though. He had travelled without her for a reason. The elusive reason gaining painful clarity: home was danger.
 
 The hay inside had lost it's bliss, but it felt like the closest thing she had to a home right now, so she went inside.
 
-The Tailor was sitting up looking at her. His face and eyes showing sympathetic sombracity. Could she live here? she asked herself. She thought The Tailor would not stop and live here. “Where are you going?” she asked.
+The Tailor was sitting up looking at her. His face and eyes showing sympathetic sombracity. “Could I live here?” she asked herself. However would The Tailor stop and live here? “Where are you going?” she asked him.
 
-He thought about this but rebuffed it laying back: “That's a rather deep question for the morning. How about some breakfast first? Then we can philosophise.”. Tom deduced she was welcome to be with The Tailor for the foreseeable future, which was breakfast.
+He thought about this but rebuffed it laying back: “That's a rather deep question for the morning. How about some breakfast first? Then we can philosophise.”; Tom deduced she was welcome to be with The Tailor for the foreseeable future, which was breakfast.
 
 “”
 
