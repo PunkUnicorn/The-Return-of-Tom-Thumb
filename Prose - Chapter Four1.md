@@ -62,11 +62,21 @@ In the north, for Tom, The Tailor and Kim the weather was dry. There had been no
 
 Still groggy she pulled her calves taught; stretching her feet to a point. Arms arching back, the stretch bringing a wave of lucidity. She looked at the dust darting through the sumbeams which entered through each knot hole. She had nothing to worry about, no concern. There was no need to hide; she was free.
 
-Kim had gone and so had he cow. She instantly knew what this meant: he was telling her to go.
+Kim had gone and so had the cow. She instantly knew what this meant: he was telling her to go.
 
-Her feeling of comfort dislodged. She sat up to reassess. The Tailor was still asleep, and Kim and the cow had gone. She got up and quietly pushed the large doors open, enough to peek outside. There was no trace of Kim. Pushing the doors more she stepped outside and looked in the direction of the north trail. Kim and the cow were long gone, not a trace of either. 
+Her feeling of comfort dislodged. She sat up to reassess. The Tailor was still asleep. Getting up quietly she took a few careful steps towards the door, pushing it open; enough to peek outside. There was no trace of her brother. Pushing the doors more she stepped outside looking in the direction of the north trail. Kim and the cow were long gone, no trace of either.
 
-She stood looking northwards, imagining how far Kim had got. The cow was slow; he would not have got that far. She could catch up with him, 
+Tom stood looking northwards, imagining how far Kim had gotten. The cow was slow; he would be close. She could catch him up, it would be easy. 
+
+But she could not take a step. The reason ellusive, burried. Kim was walking away slowly, wherever he was. Again, she thought she could catch up with him.
+
+Kim was telling her something though. He had travlled without her for a reason. The ellusive reason gaining clarity: home was danger.
+
+The hay inside had lost it's bliss this morning, but it felt like the closest thing she had to a home right now, so she went inside.
+
+The Tailor was sitting up looking at her as she returned. His face and eyes showing sympathetic sombracity.
+
+
 
 “”
 
