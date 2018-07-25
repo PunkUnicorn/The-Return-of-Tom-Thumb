@@ -58,6 +58,8 @@ Until morning broke and the rain stopped. For the first time he dared to look ba
 
 He had calculated that first light was the time people would realise he was missing. Now with the sun he could find north, latch onto a suitable trail and follow this as far north as possible: right up to the Expansive Forest perhaps.
 
+![](TheKnight/the-knight-thumbnail.jpg)
+
 In the north, for Tom, The Tailor and Kim the weather was dry. There had been no rain that night. Tom woke later than usual; it was already light. Groggy and disorientated she thought she was at home untill the sleep dusted off. It was with some relief she remembered she was at the village; the sense of liberation was a surprise. This was the first time she recognised the burden of life at home.
 
 Still groggy she pulled her calves taught; stretching her feet to a point. Arms arching back, the stretch bringing a wave of lucidity. She looked at the dust darting through the sumbeams which entered through each knot hole. She had nothing to worry about, no concern. There was no need to hide; she was free.
@@ -74,10 +76,10 @@ Kim was telling her something though. He had travelled without her for a reason.
 
 The hay inside had lost it's bliss, but it felt like the closest thing she had to a home right now, so she went inside.
 
-The Tailor was sitting up looking at her. His face and eyes showing sympathetic sombracity. “Could I live here?” she asked herself. However would The Tailor stop and live here? “Where are you going?” she asked him.
+The Tailor was sitting up looking at her. His face and eyes showing sympathetic sombracity. “Could I live here?” she thought to herself. However, would The Tailor live here? “Where are you going?” she asked him.
 
 He thought about this but rebuffed it laying back: “That's a rather deep question for the morning. How about some breakfast first? Then we can philosophise.”; Tom deduced she was welcome to be with The Tailor for the foreseeable future, which was breakfast.
 
 “”
 
-![The Knight](TheKnight/the-knight-thumbnail.jpg)
+![](TomThumb/Tom%20Thumbnail.jpg)
