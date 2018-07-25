@@ -63,7 +63,7 @@ To re-engage the girl he diverted the conversation to tales of his own travels f
 
 Tom pressed questions about the south: it's commerce, on cosmopolitan values. Each answer was too much for her to grasp, and yet the questions were numerous. The Tailor answered as best he could.
 
-Kim interrupted, slightly angry: “It's cold.”. Tom and The Tailor stopped talking and silently agreed with him, yet they could have talked more. 
+Kim interrupted, slightly angry: “It's cold.”. Tom and The Tailor stopped talking and silently agreed, yet they could have talked more. 
 
 The Tailor had not satisfied his curiosity, there was still too much about the girl Tom that was a mystery. He wanted to stare at her boots, but resisted.
 
@@ -107,19 +107,20 @@ Pulling the second rope caused the lantern to rise. Then it stopped and The Tail
 
 The speaking more to himself than the two sitting down: “The innkeeper said it housed more people than horses. I doubt anyone actually travels *to* this place.” 
 
-He looked around again: the agitated lantern animated the shadows. “A stable situation!” he laughed, and continued: “If more people stay here than horses, then this explains a lot.”, then turned towards the section Tom was in.
+He looked around again: the agitated lantern animated the shadows. “Well,”: he said, “we have ourselves a stable situation!”, he laughed at his own play on words and continued: “If more people stay here than horses, this explains a lot.”
 
-Suddenly The Tailor turned back quickly towards the door saying: “I have to settle up with the innkeeper. And get us some food, I'm really hungry.” Then he left. 
+Suddenly The Tailor turned quickly towards the door saying: “I have to settle up with the innkeeper. And get us some food, I'm really hungry.” Then he left. 
 
-Tom looked between Kim and the cow, both were settled and looking like they were ready to sleep. The shaddows moved with the lantern but more gently. She thought to get up and give it more swing, but was not sure she could escape the soft hay. 
+Tom looked between Kim and the cow, both were settled and looking ready to sleep. The shaddows moved with the lantern but more gently. She thought to get up and give it more swing, but was not sure she could escape the hay. 
 
-Time passed and Tom almost drifted off to sleep when The Tailor returned. Carrying three bowls, balanced with grace, and a richer smell of gravey. He handed one bowl to Kim, who sat up quickly surprised. A chunk of bread and a wooden spoon added to the surprise, Kim was unsure what this all meant, or what had just happened.
+Time passed and Tom almost drifted off to sleep when The Tailor returned. Carrying three bowls, balanced with grace, and the rich smell of gravy. He handed one bowl to Kim, who sat up quickly surprised. A chunk of bread and a wooden spoon added to the surprise, Kim was unsure what this all meant, or what had just happened.
 
-The Tailor planted the same on Tom, then sat in Tom's adjacent section. He happily spooned the broth. Looking up to both Kim and Tom, they were looking surprised, still holding bread and spoons as when first handed to them. The Tailor finished a mouthfull, then gesturing with his spoon, and still cheweing a bit: “It's better than it looks.”; he assured them.
+The Tailor planted the same on Tom, then sat in Tom's adjacent section. He happily spooned the broth. Looking to both Kim and Tom, they were surprised, still holding bread and spoons as when first handed to them. The Tailor finished a mouthfull, then gesturing with his spoon: “It's better than it looks, I promise.”; he assured them.
 
 Tom and Kim took their cue and started eating. It was simply the finest broth Tom had ever tasted, and the freshest bread. Butter, bread and broth. 
 
-“This is the life.”, Tom thought, looking through the open door as she ate. So it was, (not that Tom knew), she was looking southwards. She brought fantasies of The Tailors stories to mind, and added in broth like this one. The south had broth and hay beds fit for princes.
+“This is the life.”, Tom thought, looking through the open door as she ate. So it was (and not that Tom knew) she was looking southwards. She brought fantasies of The Tailors stories to mind, and embellished them with broth like this. 
+
+The south had broth and hay beds fit for princes.
 
 ![](TheTailor/TheTailor1.png)
-
