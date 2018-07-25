@@ -63,7 +63,7 @@ To re-engage the girl he diverted the conversation to tales of his own travels f
 
 Tom pressed questions about the south: it's commerce, on cosmopolitan values. Each answer was too much for her to grasp, and yet the questions were numerous. The Tailor answered as best he could.
 
-Kim interrupted, slightly angry: “It's cold.”. Tom and The Tailor stopped talking and silently agreed with him, yet they could have talked more. 
+Kim interrupted, slightly angry: “It's cold.”. Tom and The Tailor stopped talking and silently agreed, yet they could have talked more. 
 
 The Tailor had not satisfied his curiosity, there was still too much about the girl Tom that was a mystery. He wanted to stare at her boots, but resisted.
 
@@ -113,7 +113,7 @@ Suddenly The Tailor turned quickly towards the door saying: “I have to settle 
 
 Tom looked between Kim and the cow, both were settled and looking ready to sleep. The shaddows moved with the lantern but more gently. She thought to get up and give it more swing, but was not sure she could escape the hay. 
 
-Time passed and Tom almost drifted off to sleep when The Tailor returned. Carrying three bowls, balanced with grace, and the rich smell of gravey. He handed one bowl to Kim, who sat up quickly surprised. A chunk of bread and a wooden spoon added to the surprise, Kim was unsure what this all meant, or what had just happened.
+Time passed and Tom almost drifted off to sleep when The Tailor returned. Carrying three bowls, balanced with grace, and the rich smell of gravy. He handed one bowl to Kim, who sat up quickly surprised. A chunk of bread and a wooden spoon added to the surprise, Kim was unsure what this all meant, or what had just happened.
 
 The Tailor planted the same on Tom, then sat in Tom's adjacent section. He happily spooned the broth. Looking to both Kim and Tom, they were surprised, still holding bread and spoons as when first handed to them. The Tailor finished a mouthfull, then gesturing with his spoon: “It's better than it looks, I promise.”; he assured them.
 
