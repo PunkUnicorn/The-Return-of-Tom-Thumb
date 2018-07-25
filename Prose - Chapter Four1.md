@@ -69,3 +69,5 @@ Her feeling of comfort dislodged. She sat up to reassess. The Tailor was still a
 She stood looking northwards, imagining how far Kim had got. The cow was slow; he would not have got that far. She could catch up with him, 
 
 “”
+
+![The Knight](TheKnight/the-knight-thumbnail.jpg)

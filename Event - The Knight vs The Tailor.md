@@ -1,3 +1,5 @@
+
+
 The Kngiht is asking questions to discover the fighting prowess of the group, he is concerned how they will hold up against a bandit attack.
 
 The Tailor would respond to The Knights questions answering honestly, but not proud, that he is a master fencer.
