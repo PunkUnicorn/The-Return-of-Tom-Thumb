@@ -62,21 +62,21 @@ In the north, for Tom, The Tailor and Kim the weather was dry. There had been no
 
 Still groggy she pulled her calves taught; stretching her feet to a point. Arms arching back, the stretch bringing a wave of lucidity. She looked at the dust darting through the sumbeams which entered through each knot hole. She had nothing to worry about, no concern. There was no need to hide; she was free.
 
-Kim had gone and so had the cow. She instantly knew what this meant: he was telling her to go.
+But there was something wrong. Kim and the cow had gone. She instantly knew what this meant: he was telling her to go. Her feeling of comfort dislodged. She sat up to reassess. The Tailor was still asleep. Kim and the cow had still gone.
 
-Her feeling of comfort dislodged. She sat up to reassess. The Tailor was still asleep. Getting up quietly she took a few careful steps towards the door, pushing it open; enough to peek outside. There was no trace of her brother. Pushing the doors more she stepped outside looking in the direction of the north trail. Kim and the cow were long gone, no trace of either.
+Getting up quietly she took a few careful steps towards the door, pushing it open; enough to peek outside. There was no trace of her brother. Pushing the doors more she stepped outside looking in the direction of the north trail. Kim and the cow were long gone, no trace of either.
 
 Tom stood looking northwards, imagining how far Kim had gotten. The cow was slow; he would be close. She could catch him up, it would be easy. 
 
-But she could not take a step. The reason ellusive, burried. Kim was walking away slowly, wherever he was. Again, she thought she could catch up with him.
+But she could not take a step. The was reason elusive, buried. Kim was walking away slowly, wherever he was. Again, she thought she could catch up with him.
 
-Kim was telling her something though. He had travlled without her for a reason. The ellusive reason gaining clarity: home was danger.
+Kim was telling her something though. He had travlled without her for a reason. The elusive reason gaining painful clarity: home was danger.
 
-The hay inside had lost it's bliss this morning, but it felt like the closest thing she had to a home right now, so she went inside.
+The hay inside had lost it's bliss, but it felt like the closest thing she had to a home right now, so she went inside.
 
-The Tailor was sitting up looking at her as she returned. His face and eyes showing sympathetic sombracity.
+The Tailor was sitting up looking at her. His face and eyes showing sympathetic sombracity. Could she live here? she asked herself. She thought The Tailor would not stop and live here. “Where are you going?” she asked.
 
-
+He thought about this but rebuffed it laying back: “That's a rather deep question for the morning. How about some breakfast first? Then we can philosophise.”. Tom deduced she was welcome to be with The Tailor for the foreseeable future, which was breakfast.
 
 “”
 
