@@ -56,6 +56,16 @@ He stepped forward, the rain ringing each hit on his helmet. Footing difficult i
 
 Until morning broke and the rain stopped. For the first time he dared to look back: the castle far in the distance, but not that far... far enough.
 
-He had calculated that first light would be the time when people realised he was missing. Now with the sun he could find north, latch onto a suitable trail, and follow this as far north as possible: right up to the Expansive Forest perhaps.
+He had calculated that first light was the time people would realise he was missing. Now with the sun he could find north, latch onto a suitable trail and follow this as far north as possible: right up to the Expansive Forest perhaps.
+
+In the north, for Tom, The Tailor and Kim the weather was dry. There had been no rain that night. Tom woke later than usual; it was already light. Groggy and disorientated she thought she was at home untill the sleep dusted off. It was with some relief she remembered she was at the village; the sense of liberation was a surprise. This was the first time she recognised the burden of life at home.
+
+Still groggy she pulled her calves taught; stretching her feet to a point. Arms arching back, the stretch bringing a wave of lucidity. She looked at the dust darting through the sumbeams which entered through each knot hole. She had nothing to worry about, no concern. There was no need to hide; she was free.
+
+Kim had gone and so had he cow. She instantly knew what this meant: he was telling her to go.
+
+Her feeling of comfort dislodged. She sat up to reassess. The Tailor was still asleep, and Kim and the cow had gone. She got up and quietly pushed the large doors open, enough to peek outside. There was no trace of Kim. Pushing the doors more she stepped outside and looked in the direction of the north trail. Kim and the cow were long gone, not a trace of either. 
+
+She stood looking northwards, imagining how far Kim had got. The cow was slow; he would not have got that far. She could catch up with him, 
 
 “”
