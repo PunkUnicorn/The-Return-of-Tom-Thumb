@@ -66,11 +66,11 @@ Still groggy she pulled her calves taught; stretching her feet to a point. Arms 
 
 But there was something wrong. Kim and the cow had gone. She instantly knew what this meant: he was telling her to go. Her feeling of comfort dislodged. She sat up to reassess. The Tailor was still asleep. Kim and the cow had still gone.
 
-Getting up quietly she took a few careful steps towards the door, pushing it open; enough to peek outside. There was no trace of her brother. Pushing the doors more she stepped outside looking in the direction of the north trail. Kim and the cow were long gone, no trace of either.
+Getting up quietly Tom took a few careful steps towards the door, pushing it open; enough to peek outside. There was no trace of her brother. Pushing the doors more she stepped outside looking in the direction of the north trail. Kim and the cow were long gone, no trace of either.
 
 Tom stood looking northwards, imagining how far Kim had gotten. The cow was slow; he would be close. She could catch him up, it would be easy. 
 
-But she could not take a step. The was reason elusive, buried. Kim was walking away slowly, wherever he was. Again, she thought she could catch up with him.
+But she could not take a step. The reason was elusive, buried. Kim was walking away slowly, wherever he was. Again, she thought she could catch up with him.
 
 Kim was telling her something though. He had travelled without her for a reason. The elusive reason gaining painful clarity: home was danger.
 
@@ -78,7 +78,7 @@ The hay inside had lost it's bliss, but it felt like the closest thing she had t
 
 The Tailor was sitting up looking at her. His face and eyes showing sympathetic sombracity. “Could I live here?” she thought to herself. However, would The Tailor live here? “Where are you going?” she asked him.
 
-He thought about this but rebuffed it laying back: “That's a rather deep question for the morning. How about some breakfast first? Then we can philosophise.”; Tom deduced she was welcome to be with The Tailor for the foreseeable future, which was breakfast.
+He thought about this but rebuffed it laying back: “That's a rather deep question for the morning. How about some breakfast first? Then we can philosophise later.”; Tom deduced she was welcome to be with The Tailor for the foreseeable future, which was breakfast.
 
 “”
 
