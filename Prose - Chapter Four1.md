@@ -70,7 +70,7 @@ Getting up quietly Tom took a few careful steps towards the door, pushing it ope
 
 Tom stood looking northwards, imagining how far Kim had gotten. The cow was slow; he would be close. She could catch him up, it would be easy. 
 
-But she could not take a step. The reason was elusive, buried. Kim was walking away slowly, wherever he was. Again, she thought she could catch up with him.
+But she could not take a step; blocked by an elusive, buried reason. Wherever he was Kim was walking away slowly. Again, she thought she could catch up with him.
 
 Kim was telling her something though. He had travelled without her for a reason. The elusive reason gaining painful clarity: home was danger.
 
