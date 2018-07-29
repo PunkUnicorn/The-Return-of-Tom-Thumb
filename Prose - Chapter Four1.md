@@ -6,7 +6,7 @@ He had the life of a prince. However, if he knew where Tom was, or even who Tom 
 
 No more was he a prince in his mind. To him, being an heir to the throne was like being a caged creature: trapped because of his specific bloodline. But soon he would be free.
 
-For a long time he had been preparing himself a new identity: the appearance and paraphernalia to pass as one of the kings many knights. The most difficult item to aquire: a genuine 'knights ring'. It was also the most necessary piece.
+For a long time he had been preparing himself a new identity: the appearance and paraphernalia to pass as one of the kings many knights. The most difficult item to acquire: a genuine 'knights ring'. It was also the most necessary piece.
 
 He looked out of the northwards arrow slit to see the dusk lit city. The stone walls of the south tower were deeply cold. His pack was ready, he was in the formal knight's robes, with standard knight armour. He had his 'letter from The Prince' safe in his pouch: his disguise complete. 
 
@@ -60,9 +60,9 @@ He had calculated that first light was the time people would realise he was miss
 
 ![](TheKnight/the-knight-thumbnail.jpg)
 
-In the north, for Tom, The Tailor and Kim the weather was dry. There had been no rain that night. Tom woke later than usual; it was already light. Groggy and disorientated she thought she was at home untill the sleep dusted off. It was with some relief she remembered she was at the village; the sense of liberation was a surprise. This was the first time she recognised the burden of life at home.
+In the north, for Tom, The Tailor and Kim the weather was dry. There had been no rain that night. Tom woke later than usual; it was already light. Groggy and disorientated she thought she was at home until the sleep dusted off. It was with some relief she remembered she was at the village; the sense of liberation was a surprise. This was the first time she recognised the burden of life at home.
 
-Still groggy she pulled her calves taught; stretching her feet to a point. Arms arching back, the stretch bringing a wave of lucidity. She looked at the dust darting through the sumbeams which entered through each knot hole. She had nothing to worry about, no concern. There was no need to hide; she was free.
+Still groggy she pulled her calves taught; stretching her feet to a point. Arms arching back, the stretch bringing a wave of lucidity. She looked at the dust darting through the sunbeams which entered through each knot hole. She had nothing to worry about, no concern. There was no need to hide; she was free.
 
 But there was something wrong. Kim and the cow had gone. She instantly knew what this meant: he was telling her to go. Her feeling of comfort dislodged. She sat up to reassess. The Tailor was still asleep. Kim and the cow had still gone.
 
