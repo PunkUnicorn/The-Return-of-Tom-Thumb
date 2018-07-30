@@ -37,6 +37,6 @@ Wiggling her toes, she felt the exquisite comfort in the soft leather of the boo
 
 Gently rising to her feet she walked to the core, close enough to judge where the pips could be. Squaring her knuckles with her shoulder, readjusting her footing; channelling body weight, Tom punched a level blow, ripping through the seed chamber. Gripping the breach with both hands she tore it wider.
 
-Pushing a hand in deeply, she felt a pip. Pushing further, feeling around blindly, her hand mapped the pip’s orientation. With a concerted shunt the pip nudged to a better grip. Tom curled her hand around the pip’s back easing it out. 
+Pushing a hand in deeply, she felt a pip. Pushing further, feeling around blindly, she mapped the pip’s orientation. With a concerted shunt the pip nudged to a better grip. Tom curled her hand around the pip’s back and eased it out.
 
 Once she had freed one, another two became accessible: she worked these out. Although large, Tom could fit all three in her pockets.
