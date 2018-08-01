@@ -29,21 +29,21 @@ This was the point that he almost caught Tom’s eye. She noticed his glance, so
 
 Using the remaining light, the long road north was sparse. Also he reckoned it was more bitterly cold, and he had heard it was dangerous further up. 
 
-As he walked he created a new choice: including an option to stop, turn around and head back south from where he came. It had been an ambitious venture starting the previous spring. Perhaps journey north had reached their conclusion here at this spot? 
+As he walked he created a new choice: including an option to stop, turn around and head back south from where he came. It had been an ambitious venture starting the previous spring. Perhaps his long journey north had reached their conclusion; here at this spot? 
 
 He stopped.
 
-He slowed his steps. There was nothing in front of him. Behind him the two (with the cow) were arguing: he could hear them; the girl did not want to get lost in the forest, the boy wanted to get home; the girl said “The boots didn't work like that.”, the boy getting a little frustrated. Her final gambit: to plead caution, for fear of getting lost. The boy seeming to be swayed. They stopped talking. 
+He slowed his steps. There was nothing in front of him. Behind him the two (with the cow) were arguing: he could hear them; the girl with the boots did not want to get lost in the forest, the boy with the cow wanted to get home; the girl said “The boots didn't work like that.”, the boy getting a little frustrated. Her final gambit: to plead caution, for fear of getting lost. The boy seeming to be swayed. They stopped talking. 
 
-Our well dressed, travelling man turned around. He could see the strange two with the cow. They had their backs to him, except the cow who was facing him.
+Our well dressed, travelling man turned around. He could see the strange two with the cow. They had their backs to him, except the cow who faced him.
 
-He took a few steps towards them. They were silent. He stopped a little too far away; giving them adequate space. He introduced his presence with a polite cough. They turned around. The man bowed slightly, moderately spreading his hands; a gesture of openness. 
+He took a few steps towards them. They were silent. He stopped a little too far away; giving them adequate space. He introduced his presence with a polite cough. They turned around. He bowed slightly, moderately spreading his hands; a gesture of openness. 
 
 “Greetings.” he said smiling shyly, more shyly than his snappy clothes and confident posture would suggest.
 
 “Hello.” Tom beamed. Kim stayed silent.
 
-“Could, I... possibly, ask you... one hundred billion things?”: the well dressed man begged; more desperation than composure.
+“Could, I... possibly, ask you... one hundred billion things?”: the well dressed man begged; more desperate than composed.
 
 Tom laughed; this smart, handsome figure fooling around. Kim snorted out enough to give away he found it funny.
 
