@@ -23,17 +23,19 @@ And, this traveller thought, how did they get to be holding Jack's cow? The hast
 
 As he passed the scruffy pair, seeing Jack's cow and hearing: 'make your boots go fast', he was more than curious. On his months long journey there had been nothing interesting for leagues. 
 
-Glancing at the one with the boots he could see it was a girl not a boy. She wore boys clothes that were too big for her, except for her adult male boots. Which looked tailored. This was the point that he almost caught Tom’s eye. She noticed his glance, so he looked away, not wanting to intrude. 
+Glancing at the one with the boots he could see it was a girl not a boy. She wore boys clothes that were too big for her, except for her adult male boots. Which looked tailored. 
 
-He walked past them; he had to assess the road ahead.
+This was the point that he almost caught Tom’s eye. She noticed his glance, so he looked away, not wanting to intrude. He walked past them and put them to the back of his mind: onwards north.
 
-Using the remaining light to see ahead, the long road north was sparse. Also he reckoned it was more bitterly cold, and he had heard it was dangerous further up. 
+Using the remaining light, the long road north was sparse. Also he reckoned it was more bitterly cold, and he had heard it was dangerous further up. 
 
-As he walked he made a choice: he would stop, turn around and head back south from where he came. It had been an ambitious venture starting the previous spring. The seasons spent travelling north had reached their conclusion, here at this spot.
+As he walked he created a new choice: including an option to stop, turn around and head back south from where he came. It had been an ambitious venture starting the previous spring. Perhaps the seasons spent travelling north had reached their conclusion, here at this spot? 
 
-He slowed his steps. There was nothing in front of him. Behind him the two (with the cow) were arguing: the girl did not want to get lost in the forest, the boy wanted to get home; the girl said “The boots didn't work like that.”, the boy getting a little frustrated. Her final gambit: to plead caution, for fear of getting lost. The boy seeming to be swayed. They stopped talking. 
+He stopped.
 
-Our well dressed travelling man slowed to a stop, and turned around. He could see the strange two with the cow. He was behind them. The cow faced him however.
+He slowed his steps. There was nothing in front of him. Behind him the two (with the cow) were arguing: he could hear them; the girl did not want to get lost in the forest, the boy wanted to get home; the girl said “The boots didn't work like that.”, the boy getting a little frustrated. Her final gambit: to plead caution, for fear of getting lost. The boy seeming to be swayed. They stopped talking. 
+
+Our well dressed, travelling man turned around. He could see the strange two with the cow. They had their backs to him, except the cow who was facing him.
 
 He took a few steps towards them. They were silent. He stopped a little too far away; giving them adequate space. He introduced his presence with a polite cough. They turned around. The man bowed slightly, moderately spreading his hands; a gesture of openness. 
 
@@ -41,13 +43,13 @@ He took a few steps towards them. They were silent. He stopped a little too far 
 
 “Hello.” Tom beamed. Kim stayed silent.
 
-“Could, I... possibly ask you... one hundred billion things?” the well dressed man begged, as much as unruffled composure would allow.
+“Could, I... possibly, ask you... one hundred billion things?”: the well dressed man begged; more desperation than composure.
 
 Tom laughed; this smart, handsome figure fooling around. Kim snorted out enough to give away he found it funny.
 
-“Firstly,” continued the man, “please allow me to introduce myself: I am a humble tailor.” and he bowed slightly.
+“Firstly,” continued the man, “please, allow me to introduce myself: I am a humble tailor.” and he bowed slightly.
 
-“I'm Tom.” she completed, and then continued with a question: “A tailor?”, she asked impressed. And then more earnestly: “Do you really want to ask questions?”
+“I'm Tom.” she completed, and then continued with a question: “A tailor?”, she asked impressed. And then more earnestly: “Do you really want to ask questions? What about?”
 
 The Tailor took a step forward, nodded to confirm, “Yes.” He paused. “If I could ask one thing that I am curious about: did you buy that cow off that lad Jack?”
 
