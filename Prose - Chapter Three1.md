@@ -29,7 +29,7 @@ This was the point that he almost caught Tom’s eye. She noticed his glance, so
 
 Using the remaining light, the long road north was sparse. Also he reckoned it was more bitterly cold, and he had heard it was dangerous further up. 
 
-As he walked he created a new choice: including an option to stop, turn around and head back south from where he came. It had been an ambitious venture starting the previous spring. Perhaps the seasons spent travelling north had reached their conclusion, here at this spot? 
+As he walked he created a new choice: including an option to stop, turn around and head back south from where he came. It had been an ambitious venture starting the previous spring. Perhaps journey north had reached their conclusion here at this spot? 
 
 He stopped.
 
