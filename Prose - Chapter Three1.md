@@ -13,7 +13,7 @@ Kim looked to the cow, who was even less keen to hurry than Tom. He sighed, and 
 
 At this exact moment another traveller was walking past. Tom saw him, a well dressed young man with a bright spotless shirt. Handsome, relaxed and wearing suave boots. Something caught his attention. 
 
-He flashed an awkward glance towards Tom, but averted a connection. However, Tom had to answer Kim.
+He flashed an awkward glance towards Tom, but averted a connection. Besides, Tom could not allow herself to be distracted right now: she had to answer Kim.
 
 But let us switch to the perspective of this handsome, relaxed traveller.
 
