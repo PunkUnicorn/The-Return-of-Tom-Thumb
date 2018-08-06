@@ -7,21 +7,19 @@ As usual her thoughts were occupied replaying the past troubling days. The terri
 
 Tom wondered: “How did the lady giant know?”. A pang of regret that it was heard from a stranger, but it blended into the despair at being left in the forest. Tom had no reason to doubt the words of the kind giant, the motherly one: “No you beautiful young thing: make no mistake you are a girl.” 
 
-The words echoed in her thoughts and again Tom felt surprise and shock. For as many times as she came to terms with this, it would return to unsettle her. 
-
-She had known, despite her father’s intimidating insistence he only had boys. Tom thought: “Hide away.”, and try to think where. But there was no denial left.
+She had known, despite her father’s intimidating insistence he only had boys. Tom thought: “Hide away.”, and try to think where. But there was no denial left. The words echoed in her thoughts and again Tom felt surprise and shock. For as many times as she came to terms with this, it would return to unsettle her. 
 
 Chewing a grass stalk, her arms behind her head, a frosty breeze caught her nose and she realised she was not actually looking at the sky. But now she did as her thoughtscape vanished and she saw the clouds in front of her. It would be getting dark soon.
 
-She pulled her head up to look at the remaining apple core beyond the house: the apple sat looking a little sorry for itself. It was more than thin now, and slushy. 
+She pulled her head up and looked at the remaining apple core beyond the house: it sat looking a little sorry for itself; it was more than thin now, and slushy. 
 
-She and her brothers had dragged this giant apple from the strange house. “And what a great idea that was.” Tom congratulated herself; it was a feast for everyone. “That was me.” she continued surprised. At that moment she felt immensely proud.
+She and her brothers had dragged this giant apple from the strange house. “What a great idea.” Tom congratulated herself; it was a feast for everyone. “That was me.” she continued surprised. At that moment she felt immensely proud.
 
 The apple would last two more days; weighing it up in her mind. Full bellies all round. A heavenly comfort but with a nagging feeling. What was that nagging feeling? An awareness catching up with her. 
 
-Probing her thoughts, reluctantly opening blocks: “Oh yes,” murmuring. The apple would inevitably be eaten. With no apple left the family would be back to the way it was before. Which was nothing. Winter was not over yet.
+Probing her thoughts, reluctantly opening blocks: “Oh yes,” she murmurred; the apple would inevitably be eaten. With no apple left the family would be back to the way it was before. Which was nothing. Winter was not over yet.
 
-Being the smallest child, (significantly smaller than the next smallest), Tom was not sure that being a girl made any difference. She would still have to fight for pretty much anything.
+Being the smallest child, (significantly smaller than the next smallest), Tom was not sure that being a girl would make any difference. She would still have to fight for pretty much anything.
 
 Somehow, her focus left the apple even though she was looking straight at it. 
 
