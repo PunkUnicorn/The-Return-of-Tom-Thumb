@@ -17,7 +17,7 @@ She and her brothers had dragged this giant apple from the strange house. “Wha
 
 The apple would last two more days; weighing it up in her mind. Full bellies all round. A heavenly comfort but with a nagging feeling. What was that nagging feeling? An awareness catching up with her. 
 
-Probing her thoughts, reluctantly opening blocks: “Oh yes,” she murmurred; the apple would inevitably be eaten. With no apple left the family would be back to the way it was before. Which was nothing. Winter was not over yet.
+Probing her thoughts, reluctantly opening blocks: “Oh yes,” she murmured; the apple would inevitably be eaten. With no apple left the family would be back to the way it was before. Which was nothing. Winter was not over yet.
 
 Being the smallest child, (significantly smaller than the next smallest), Tom was not sure that being a girl would make any difference. She would still have to fight for pretty much anything.
 
