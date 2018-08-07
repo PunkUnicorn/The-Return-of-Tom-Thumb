@@ -225,21 +225,21 @@ Write-Output "Creating books..."
 pandoc --css epubstyle.css `
   "final-title.md" `
   "The-Return-of-Tom-Thumb.md" `
-  -w epub
+  -t epub `
   -o The-Return-of-Tom-Thumb1.epub
 Write-Output "... made The-Return-of-Tom-Thumb1.epub... (epub v1)"
 
 pandoc --css epubstyle.css `
   "final-title.md" `
   "The-Return-of-Tom-Thumb.md" `
-  -w epub2
+  -t epub2 `
   -o The-Return-of-Tom-Thumb2.epub
 Write-Output "... made The-Return-of-Tom-Thumb1.epub... (epub v2)"
 
 pandoc --css epubstyle.css `
   "final-title.md" `
   "The-Return-of-Tom-Thumb.md" `
-  -w epub3
+  -t epub3 `
   -o The-Return-of-Tom-Thumb3.epub
 Write-Output "... made The-Return-of-Tom-Thumb1.epub... (epub v3)"
 
