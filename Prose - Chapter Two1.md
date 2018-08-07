@@ -5,7 +5,7 @@ Tom Thumb had been back home for several nights.
 
 As usual her thoughts were occupied replaying the past troubling days. The terrifying giant; coming to terms with their parents leaving them to die in the forest: and finding out she was not the same as her brothers. 
 
-She had known she was not the same, despite her father’s intimidating insistence he only had boys. The words of the kind, motherly giant echoed in her thoughts: “Make no mistake you beautiful young thing: you are a girl.”, and again Tom felt surprise and shock. For as many times as she came to terms with this, it would return to unsettle her. 
+She had known she was not the same, despite her father’s intimidating insistence he only had boys. The words of the motherly giant echoed in her thoughts: “Make no mistake you beautiful young thing: you are a girl.”, and again Tom felt surprise and shock. For as many times as she came to terms with this, it would return to unsettle her.
 
 Chewing a grass stalk, her arms behind her head, a frosty breeze caught her nose and she realised she was not looking at the sky. But now she did as her thoughtscape vanished and she saw the clouds in front of her. It would be getting dark soon.
 
