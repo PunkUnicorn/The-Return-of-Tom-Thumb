@@ -44,7 +44,7 @@ Function Spellcheck-Chapter($chapterName, $spellingFailFilename) {
 		python spellchecker.py | `
 		ConvertFrom-Csv
 		
-	$chapterSpelling 
+	Write-Output $chapterSpelling 
 	
 	$chapterSpelling | Out-File -FilePath $spellingFailFilename -Append
 	
