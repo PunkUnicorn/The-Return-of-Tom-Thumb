@@ -234,14 +234,14 @@ pandoc --css epubstyle.css `
   "The-Return-of-Tom-Thumb.md" `
   -t epub2 `
   -o The-Return-of-Tom-Thumb2.epub
-Write-Output "... made The-Return-of-Tom-Thumb1.epub... (epub v2)"
+Write-Output "... made The-Return-of-Tom-Thumb2.epub... (epub v2)"
 
 pandoc --css epubstyle.css `
   "final-title.md" `
   "The-Return-of-Tom-Thumb.md" `
   -t epub3 `
   -o The-Return-of-Tom-Thumb3.epub
-Write-Output "... made The-Return-of-Tom-Thumb1.epub... (epub v3)"
+Write-Output "... made The-Return-of-Tom-Thumb3.epub... (epub v3)"
 
 pandoc --css epubstyle.css `
   "final-title.md" `
