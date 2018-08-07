@@ -22,7 +22,7 @@ artifacts:
   - path: Chapter-*-Words.txt
     name: word-matix
     type: file
-  - path: The-Return-of-Tom-Thumb.epub
+  - path: The-Return-of-Tom-Thumb*.epub
     name: is_book_yeah
     type: file
   - path: The-Return-of-Tom-Thumb.md
