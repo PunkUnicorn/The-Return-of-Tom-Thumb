@@ -8,7 +8,7 @@ thoughtscape
 doin'
 #[]TomThumbTom%20Thumbnailjpg
 20Thumbnailjpg
-[]TomThumbTom
+[]TomThumbTomthumb1png
 #Chapter Three
 'make
 'go
