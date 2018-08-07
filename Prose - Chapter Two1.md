@@ -5,9 +5,7 @@ Tom Thumb had been back home for several nights.
 
 As usual her thoughts were occupied replaying the past troubling days. The terrifying giant; coming to terms with their parents leaving them to die in the forest: and finding out she was not the same as her brothers. 
 
-Tom wondered: “How did the lady giant know?”. A pang of regret that it was heard from a stranger, but it blended into the despair at being left in the forest. Tom had no reason to doubt the words of the kind giant, the motherly one: “No you beautiful young thing: make no mistake you are a girl.” 
-
-She had known, despite her father’s intimidating insistence he only had boys. Tom thought: “Hide away.”, and try to think where. But there was no denial left. The words echoed in her thoughts and again Tom felt surprise and shock. For as many times as she came to terms with this, it would return to unsettle her. 
+She had known she was not the same, despite her father’s intimidating insistence he only had boys. The words of the kind, motherly giant echoed in her thoughts: “Make no mistake you beautiful young thing: you are a girl.”, and again Tom felt surprise and shock. For as many times as she came to terms with this, it would return to unsettle her. 
 
 Chewing a grass stalk, her arms behind her head, a frosty breeze caught her nose and she realised she was not actually looking at the sky. But now she did as her thoughtscape vanished and she saw the clouds in front of her. It would be getting dark soon.
 
@@ -33,8 +31,8 @@ Wiggling her toes, she felt the exquisite comfort in the soft leather of the boo
 
 “So,” she said to herself “What I need is a plan.”. It was not an easy problem to solve, but quickly Tom had an idea! In fact the answer was clear: get another giant apple. Apples grow from apple pips. “But not in a day.”, disagreeing with herself. It was something. Tom understood there was a hidden treasure: the giant apple pips. 
 
-Gently rising to her feet she walked to the core, close enough to judge where the pips could be. Squaring her knuckles with her shoulder, readjusting her footing; channelling body weight, Tom punched a level blow, ripping through the seed chamber. Gripping the breach with both hands she tore it wider.
+Gently rising to her feet she walked to the core, close enough to judge where the pips could be. Squaring her knuckles with her shoulder, readjusting her footing; channelling body weight, she punched a level blow, ripping a small hole through to the seed chamber. Gripping the breach with both hands she tore it wider.
 
 Pushing a hand in deeply, she felt a pip. Pushing further, feeling around blindly, she mapped the pip’s orientation. With a concerted shunt the pip nudged to a better grip. Tom curled her hand around the pip’s back and eased it out.
 
-Once she had freed one, another two became accessible: she worked these out. Although large, Tom could fit all three in her pockets.
+Once she had freed one, another two became accessible: she worked these out and fitted all three of the large pips in her pockets.
