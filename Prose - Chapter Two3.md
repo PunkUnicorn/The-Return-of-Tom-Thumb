@@ -2,9 +2,9 @@ After recovering his breath Kim moved to join his sister. Tom acknowledged him, 
 
 <div style="float: right">
 <img align="right" src="TomThumb/tomthumb2mugshot_small.png" width="50%" height="50%">
-</div>
 
 They walked towards the village at a slow pace to absorb everything: sights, sounds and smells, geese, dogs and people. Carts and horses. Stacks of things by the buildings. Sacks of things by the stacks. Smoke, banging. A sudden shout, but nothing to do with them.
+</div>
 
 <img align="right" src="TomThumb/tomthumb2mugshot_small.png" width="50%" height="50%">
 
