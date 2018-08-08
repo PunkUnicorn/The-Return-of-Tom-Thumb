@@ -6,7 +6,7 @@ He had the life of a prince. However, if he knew where Tom was, or even who Tom 
 
 No more was he a prince in his mind. To him, being an heir to the throne was like being a caged creature: trapped because of his specific bloodline. But soon he would be free.
 
-![](TheKnight/TheKnightPensive.png)
+![](TheKnight/TheKnightPensive_small.png)
 
 For a long time he had been preparing himself a new identity: the appearance and paraphernalia to pass as one of the kings many knights. The most difficult item to acquire: a genuine 'knights ring'. It was also the most necessary piece.
 
@@ -78,7 +78,7 @@ But she could not take a step; blocked by an elusive, buried reason. She did not
 
 Kim was telling her something though. He had travelled without her for a reason. The elusive reason gaining painful clarity: home was danger.
 
-![](TomThumb/Tomthumb1.png)
+![](TomThumb/tomthumb1_small_equalised.png)
 
 The hay inside had lost it's bliss, but it felt like the closest thing she had to a home right now, so she went inside.
 
