@@ -1,6 +1,6 @@
 # Chapter Four
 
-<span style="float: left"><img align="left" src="TheKnight/TheKnightPensive_small.png">Meanwhile, far south, in the most south city, in the southern part of the kings castle, itself in the cities south, an heir to the throne, the crown prince himself, was looking out northwards. 
+</p><span style="float: left"><img align="left" src="TheKnight/TheKnightPensive_small.png"><p>Meanwhile, far south, in the most south city, in the southern part of the kings castle, itself in the cities south, an heir to the throne, the crown prince himself, was looking out northwards. 
 
 He had the life of a prince. However, if he knew where Tom was, or even who Tom was, he would have been jealous of her life tonight. 
 
@@ -70,7 +70,7 @@ But there was something wrong. Kim and the cow had gone. She instantly knew what
 
 Getting up quietly Tom took a few careful steps towards the door, pushing it open; enough to peek outside. There was no trace of her brother. Pushing the doors more she stepped outside looking in the direction of the north trail. Kim and the cow were long gone, no trace of either.
 
-<span style="float: left"><img align="left" src="TomThumb/tomthumb1_small_equalised.png">Tom stood looking northwards, imagining how far Kim had gotten. The cow was slow; he would be close. She could catch him up, it would be easy. 
+</p><span style="float: left"><img align="left" src="TomThumb/tomthumb1_small_equalised.png"><p>Tom stood looking northwards, imagining how far Kim had gotten. The cow was slow; he would be close. She could catch him up, it would be easy. 
 
 But she could not take a step; blocked by an elusive, buried reason. She did not want to bring the reason to awareness. Wherever he was, Kim was walking away slowly. Again, she thought she could catch up with him.
 
