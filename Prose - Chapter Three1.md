@@ -111,6 +111,8 @@ The speaking more to himself than the two sitting down: “The innkeeper said it
 
 He looked around again: the agitated lantern animated the shadows. “Well,”: he said, “we have ourselves a stable situation!”, he laughed at his own play on words and continued: “If more people stay here than horses, this explains a lot.”
 
+![](TheTailor/TheTailor1.png)
+
 Suddenly The Tailor turned quickly towards the door saying: “I have to settle up with the innkeeper. And get us some food, I'm really hungry.” Then he left. 
 
 Tom looked between Kim and the cow, both were settled and looking ready to sleep. The shadows moved with the lantern but more gently. She thought to get up and give it more swing, but was not sure she could escape the hay. 
@@ -124,5 +126,3 @@ Tom and Kim took their cue and started eating. It was simply the finest broth To
 “This is the life.”, Tom thought, looking through the open door as she ate. So it was (and not that Tom knew) she was looking southwards. She brought fantasies of The Tailors stories to mind, and embellished them with broth like this. 
 
 The south had broth and hay beds fit for princes.
-
-![](TheTailor/TheTailor1.png)

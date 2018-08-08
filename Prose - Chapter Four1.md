@@ -6,9 +6,13 @@ He had the life of a prince. However, if he knew where Tom was, or even who Tom 
 
 No more was he a prince in his mind. To him, being an heir to the throne was like being a caged creature: trapped because of his specific bloodline. But soon he would be free.
 
+![](TheKnight/TheKnightPensive.png)
+
 For a long time he had been preparing himself a new identity: the appearance and paraphernalia to pass as one of the kings many knights. The most difficult item to acquire: a genuine 'knights ring'. It was also the most necessary piece.
 
-He looked out of the northwards arrow slit to see the dusk lit city. The stone walls of the south tower were deeply cold. His pack was ready, he was in the formal knight's robes, with standard knight armour. He had his 'letter from The Prince' safe in his pouch: his disguise complete. 
+He looked out northwards: the dusk lit city below the castle battlements. It was time, so he went inside. The stone walls of the south tower were deeply cold. 
+
+His pack was ready: his formal knight's robe, his standard knight's armour; laid out in neat pieces. He had the 'letter from The Prince' he had written as part of his cover. It was safe in his pouch: his disguise complete. 
 
 Putting on the heavy visor, it's weight a strange comfort; it would be as good a disguise as it was heavy. The sound of his breath amplified, his vision cropped.
 
@@ -58,8 +62,6 @@ Until morning broke and the rain stopped. For the first time he dared to look ba
 
 He had calculated that first light was the time people would realise he was missing. Now with the sun he could find north, latch onto a suitable trail and follow this as far north as possible: right up to the Expansive Forest perhaps.
 
-![](TheKnight/the-knight-thumbnail.jpg)
-
 In the north, for Tom, The Tailor and Kim the weather was dry. There had been no rain that night. Tom woke later than usual; it was already light. Groggy and disorientated she thought she was at home until the sleep dusted off. It was with some relief she remembered she was at the village; the sense of liberation was a surprise. This was the first time she recognised the burden of life at home.
 
 Still groggy she pulled her calves taught; stretching her feet to a point. Arms arching back, the stretch bringing a wave of lucidity. She looked at the dust darting through the sunbeams which entered through each knot hole. She had nothing to worry about, no concern. There was no need to hide; she was free.
@@ -70,16 +72,16 @@ Getting up quietly Tom took a few careful steps towards the door, pushing it ope
 
 Tom stood looking northwards, imagining how far Kim had gotten. The cow was slow; he would be close. She could catch him up, it would be easy. 
 
-But she could not take a step; blocked by an elusive, buried reason. Wherever he was Kim was walking away slowly. Again, she thought she could catch up with him.
+But she could not take a step; blocked by an elusive, buried reason. Wherever he was, Kim was walking away slowly. Again, she thought she could catch up with him.
 
 Kim was telling her something though. He had travelled without her for a reason. The elusive reason gaining painful clarity: home was danger.
 
+![](TomThumb/Tomthumb1.png)
+
 The hay inside had lost it's bliss, but it felt like the closest thing she had to a home right now, so she went inside.
 
-The Tailor was sitting up looking at her. His face and eyes showing sympathetic sombracity. “Could I live here?” she thought to herself. However, would The Tailor live here? “Where are you going?” she asked him.
+The Tailor was sitting up looking at her. His face and eyes showing sympathy. “Could I live here?” she thought to herself. However, would The Tailor live here? “Where are you going?” she asked him.
 
-He thought about this but rebuffed it laying back: “That's a rather deep question for the morning. How about some breakfast first? Then we can philosophise later.”; Tom deduced she was welcome to be with The Tailor for the foreseeable future, which was breakfast.
+He thought about this but rebuffed it laying back: “That's a rather deep question for the morning. How about some breakfast first?“, he traced a close sunbeam with one of his hands. “We can philosophise later.”
 
-“”
-
-![](TomThumb/Tom%20Thumbnail.jpg)
+Tom deduced she was welcome to be with The Tailor for the foreseeable future, which was breakfast.
