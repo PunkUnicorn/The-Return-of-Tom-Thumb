@@ -1,10 +1,10 @@
-<meta /><span style="float: right"><img align="right" src="TomThumb/tomthumb2mugshot_small.png">After recovering his breath Kim moved to join his sister. Tom acknowledged him, her train of thought gone with the eye contact.
+After recovering his breath Kim moved to join his sister. Tom acknowledged him, her train of thought gone with the eye contact.
 
 They walked towards the village at a slow pace to absorb everything: sights, sounds and smells, geese, dogs and people. Carts and horses. Stacks of things by the buildings. Sacks of things by the stacks. Smoke, banging. A sudden shout, but nothing to do with them.
 
 And how people were dressed. Everyone had good boots or clogs. Tom gave her own boots a quick look. Pride enveloped her with a dawning thought: she was fitting in.
 
-Tom peeked a check at Kim: he looked perturbed, as if the whole thing was a bad idea. Tom turned to face her brother inviting him into her excitement. Kim returned her look but it was clear he was not influenced. Instead Kim's face echoed his dread.</span>
+Tom peeked a check at Kim: he looked perturbed, as if the whole thing was a bad idea. Tom turned to face her brother inviting him into her excitement. Kim returned her look but it was clear he was not influenced. Instead Kim's face echoed his dread.
 
 Suddenly there was someone behind them: “You two are new”, the person said. Tom and Kim stopped abruptly and turned: there was a fair haired boy. A bit older than them. He was holding a cow by a nose ring tether. “Where you from?”. The boy glanced between Tom and Kim, but ended on Tom.
 
@@ -59,3 +59,4 @@ Kim stopped but kept his grip on Tom, her jumper stretching as she turned to Jac
 Kim was not convinced. Without hesitation he turned away, pulling Tom with him.  
 
 “Alright, alright. The cow for the pips,” Jack negotiated, “but only for all three of them.”  
+</span>

@@ -1,5 +1,6 @@
 
 # Chapter Two
+<span style="float: right"><img align="right" src="TomThumb/tomthumb2mugshot_small.png">
 
 Tom Thumb had been back home for several nights.
 
