@@ -1,16 +1,16 @@
 After recovering his breath Kim moved to join his sister. Tom acknowledged him, her train of thought gone with the eye contact.
 
 <div style="float: right">
-![](TomThumb/Tom%20Thumbnail.jpg)
+<img align="right" src="TomThumb/tomthumb2mugshot_small.png" width="50%" height="50%">
 </div>
 
 They walked towards the village at a slow pace to absorb everything: sights, sounds and smells, geese, dogs and people. Carts and horses. Stacks of things by the buildings. Sacks of things by the stacks. Smoke, banging. A sudden shout, but nothing to do with them.
 
-<img align="right" src="TomThumb/Tom%20Thumbnail.jpg" width="50%" height="50%">
+<img align="right" src="TomThumb/tomthumb2mugshot_small.png" width="50%" height="50%">
 
 And how people were dressed. Everyone had good boots or clogs. Tom gave her own boots a quick look. Pride enveloped her with a dawning thought: she was fitting in.
 
-![](TomThumb/Tom%20Thumbnail.jpg){:style="float: right;margin-right: 7px;margin-top: 7px;"}
+![](TomThumb/tomthumb2mugshot_small.png)
 
 Tom peeked a check at Kim: he looked perturbed, as if the whole thing was a bad idea. Tom turned to face her brother inviting him into her excitement. Kim returned her look but it was clear he was not influenced. Instead Kim's face echoed his dread.
 
