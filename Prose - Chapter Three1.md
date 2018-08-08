@@ -101,13 +101,13 @@ Something far above rattled. Movement caught Toms eye, and she saw a rope swingi
 
 “Ah!” shared The Tailor, as if this answered something. Working with his hands, a spark of light illuminated his face. The dangling thing became a lantern. The stables were lit. A soft flickering glow. 
 
-Closing a tiny door on the lantern he then tentatively let go, as if it would drop. But it did not. He walked towards the massive open door, watching the lantern the whole time. It swung slightly.
+Closing a tiny door on the lantern, he tentatively let go; as if it would drop. But it did not. He walked towards the massive open door, watching the lantern the whole time. It swung slightly.
 
 Grasping the rope, which swung by the door, he pulled gently. The lantern lowered slightly. The Tailor laughed in victory, looking towards the rope and taking hold of a second higher rope next to the first. 
 
 Pulling the second rope caused the lantern to rise. Then it stopped and The Tailor stared at the dangling lantern. It swung strangely. Tom liked this; how it wibble-wobbled. “I love that.” The Tailor concluded.  
 
-The speaking more to himself than the two sitting down: “The innkeeper said it housed more people than horses. I doubt anyone actually travels *to* this place.” 
+Then speaking more to himself than the two sitting down: “The innkeeper said it housed more people than horses. I doubt anyone actually travels *to* this place.” 
 
 He looked around again: the agitated lantern animated the shadows. “Well,”: he said, “we have ourselves a stable situation!”, he laughed at his own play on words and continued: “If more people stay here than horses, this explains a lot.”
 
