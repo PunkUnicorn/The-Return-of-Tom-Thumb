@@ -1,6 +1,6 @@
 # Chapter Four
 
-<span style="float: left">
+</p><span style="float: left"><p>
 <img align="left" src="TheKnight/TheKnightPensive_small.png">
 Meanwhile, far south, in the most south city, in the southern part of the kings castle, itself in the cities south, an heir to the throne, the crown prince himself, was looking out northwards. 
 
@@ -11,7 +11,7 @@ No more was he a prince in his mind. To him, being an heir to the throne was lik
 For a long time he had been preparing himself a new identity: the appearance and paraphernalia to pass as one of the kings many knights. The most difficult item to acquire: a genuine 'knights ring'. It was also the most necessary piece.
 
 He looked out northwards: the dusk lit city below the castle battlements. It was time, so he went inside. The stone walls of the south tower were deeply cold. 
-</span>
+</p></span><p>
 
 His pack was ready: his formal knight's robe, his standard knight's armour; laid out in neat pieces. He had the 'letter from The Prince' he had written as part of his cover. It was safe in his pouch: his disguise complete. 
 
@@ -73,7 +73,7 @@ But there was something wrong. Kim and the cow had gone. She instantly knew what
 
 Getting up quietly Tom took a few careful steps towards the door, pushing it open; enough to peek outside. There was no trace of her brother. Pushing the doors more she stepped outside looking in the direction of the north trail. Kim and the cow were long gone, no trace of either.
 
-<span style="float: left">
+</p><span style="float: left"><p>
 <img align="left" src="TomThumb/tomthumb1_small_equalised.png">
 Tom stood looking northwards, imagining how far Kim had gotten. The cow was slow; he would be close. She could catch him up, it would be easy. 
 
@@ -88,4 +88,4 @@ The Tailor was sitting up looking at her. His face and eyes showing sympathy. �
 He thought about this but rebuffed it laying back: “That's a rather deep question for the morning. How about some breakfast first?“, he traced a sunbeam with one of his hands. “We can philosophise later.”
 
 Tom deduced she was welcome to be with The Tailor for the foreseeable future, which was breakfast.
-</span>
+</p></span><p>
