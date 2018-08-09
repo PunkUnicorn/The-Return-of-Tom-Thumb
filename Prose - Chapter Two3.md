@@ -1,8 +1,8 @@
-![](TomThumb/tomthumb2mugshot_small.png)
 After recovering his breath Kim moved to join his sister. Tom acknowledged him, her train of thought gone with the eye contact.
 
 They walked towards the village at a slow pace to absorb everything: sights, sounds and smells, geese, dogs and people. Carts and horses. Stacks of things by the buildings. Sacks of things by the stacks. Smoke, banging. A sudden shout, but nothing to do with them.
 
+![](TomThumb/tomthumb2mugshot_small.png)
 And how people were dressed. Everyone had good boots or clogs. Tom gave her own boots a quick look. Pride enveloped her with a dawning thought: she was fitting in.
 
 Tom peeked a check at Kim: he looked perturbed, as if the whole thing was a bad idea. Tom turned to face her brother inviting him into her excitement. Kim returned her look but it was clear he was not influenced. Instead Kim's face echoed his dread.
@@ -25,7 +25,6 @@ There was a pause but this one dropped.
 
 “Oh.” said the boy after some thought.
 
-![](TomThumb/tomthumb2mugshot_small.png)
 Tom produced one of the giant pips, holding it in her outstretched palms for the boy to see; instructing: “Look.”
 
 The boy saw her offering but after no time he was astonished, which was accompanied by silence.

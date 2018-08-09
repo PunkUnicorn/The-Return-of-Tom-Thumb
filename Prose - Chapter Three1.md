@@ -107,11 +107,10 @@ Grasping the rope, which swung by the door, he pulled gently. The lantern lowere
 
 Pulling the second rope caused the lantern to rise. Then it stopped and The Tailor stared at the dangling lantern. It swung strangely. Tom liked this; how it wibble-wobbled. “I love that.” The Tailor concluded.  
 
+![](TheTailor/thetailor1_small.png)
 Then speaking more to himself than the two sitting down: “The innkeeper said it housed more people than horses. I doubt anyone actually travels *to* this place.” 
 
 He looked around again: the agitated lantern animated the shadows. “Well,”: he said, “we have ourselves a stable situation!”, he laughed at his own play on words and continued: “If more people stay here than horses, this explains a lot.”
-
-![](TheTailor/TheTailor1.png)
 
 Suddenly The Tailor turned quickly towards the door saying: “I have to settle up with the innkeeper. And get us some food, I'm really hungry.” Then he left. 
 

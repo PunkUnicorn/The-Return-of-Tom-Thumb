@@ -1,8 +1,7 @@
 /* This defines styles and classes used in the book */
-body { margin: 5%; font-size: medium; width=100% }
-section { }
-img { style="float: left" }
-p { text-align: justify; text-indent: 1em; style="float: none" }
+body { margin: 5%; font-size: medium; width: 100%; }
+img { float: right; }
+p { text-align: justify; text-indent: 1em; float: none; }
 code { font-family: monospace; }
 h1 { text-align: left; }
 h2 { text-align: left; }
@@ -19,3 +18,12 @@ a.footnote-ref { vertical-align: super; }
 em, em em em, em em em em em { font-style: italic;}
 em em, em em em em { font-style: normal; }
 
+/* https://friendsofepub.github.io/eBookTricks/ */
+element {
+  -webkit-hyphenate-limit-before: 3;
+  -webkit-hyphenate-limit-after: 2;
+  -ms-hyphenate-limit-chars: 6 3 2;
+  hyphenate-limit-chars: 6 3 2;
+  -webkit-hyphenate-limit-lines: 2;
+  hyphenate-limit-lines: 2;
+}
