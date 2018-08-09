@@ -23,9 +23,9 @@ Tom realised this was it, her chance to conduct business. “I’ve come to sell
 
 There was a pause but this one dropped.
 
-“Oh.” said the boy after some thought.
+“Oh.” said the boy after some thought, almost masking his doubt.
 
-Tom produced one of the giant pips, holding it in her outstretched palms for the boy to see; instructing: “Look.”
+Tom produced one of the giant pips; holding it in her outstretched palms for the boy to see, instructing: “Look.”
 
 The boy saw her offering but after no time he was astonished, which was accompanied by silence.
 

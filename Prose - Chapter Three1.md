@@ -3,7 +3,7 @@
 
 Kim held the tether of the cow. Tom waved Jack farewell, who was keen to depart after the transaction. Tom wished Jack had been more social instead of hurrying off. She felt dissatisfied.
 
-Tom scanned the village hoping to see something that would cascade her enthusiasm. However, the sun was lower in the sky and the crowds had thinned; the day was retiring. She had sold the pips, there was no reason left to stay.
+She scanned the village, hoping to be enthused. However, the sun was lower in the sky and the crowds had thinned; the day was retiring. She had sold the pips, there was no reason to stay.
 
 “We'd better head back.” suggested Kim.
 
@@ -11,7 +11,7 @@ Tom was not ready for this. She found an excuse, a reflex born from desperation:
 
 Kim looked to the cow, who was even less keen to hurry than Tom. He sighed, and did not instantly disagree. Tom could see in Kim's face he had not given up: “Why don't you make your boots 'go fast'?” he counteracted, accusing.
 
-At this exact moment another traveller was walking past. Tom saw him, a well dressed young man with a bright spotless shirt. Handsome, relaxed and wearing suave boots. Something caught his attention. 
+At this exact moment another traveller walked past. Tom saw him, a well dressed young man. A bright spotless shirt, handsome, relaxed and wearing suave boots. Something about her and her brother had caught his attention. 
 
 He flashed an awkward glance towards Tom, but averted a connection. Besides, Tom could not allow herself to be distracted right now: she had to answer Kim.
 
@@ -27,13 +27,13 @@ Glancing at the one with the boots he could see it was a girl not a boy. She wor
 
 This was the point that he almost caught Tom’s eye. She noticed his glance, so he looked away, not wanting to intrude. He walked past them and put them to the back of his mind: onwards north.
 
-Using the remaining light, the long road north was sparse. Also he reckoned it was more bitterly cold, and he had heard it was dangerous further up. 
+Using the remaining light, the long road north looked sparse. Also he reckoned it was more bitterly cold, and he heard it was isolated further up. 
 
-As he walked he created a new choice: including an option to stop, turn around and head back south from where he came. It had been an ambitious venture starting the previous spring. Perhaps his long journey north had reached their conclusion; here at this spot? 
+As he walked he created a new choice: including an option to stop, turn around and head back south from where he came. It had been an ambitious venture starting the previous spring. Perhaps his long journey north had reached it's conclusion; here at this spot? 
 
 He stopped.
 
-He slowed his steps. There was nothing in front of him. Behind him the two (with the cow) were arguing: he could hear them; the girl with the boots did not want to get lost in the forest, the boy with the cow wanted to get home; the girl said “The boots didn't work like that.”, the boy getting a little frustrated. Her final gambit: to plead caution, for fear of getting lost. The boy seeming to be swayed. They stopped talking. 
+He slowed his steps. There was nothing in front of him. Behind him the two (with the cow) were arguing: he could hear them; the girl with the boots did not want to get lost in the forest, the boy with the cow wanted to get home; the girl said “The boots didn't work like that.”, the boy getting a little frustrated. Her final gambit: to plead caution, for fear of getting lost again. The boy seeming to be swayed. They stopped talking. 
 
 Our well dressed, travelling man turned around. He could see the strange two with the cow. They had their backs to him, except the cow who faced him.
 
@@ -85,9 +85,9 @@ The Tailor gestured towards the cow: “I doubt she will be allowed inside.”, 
 
 Tom wondered what an innkeeper was. She built an imaginary picture of a large man. He had a solid club and a serious agenda. She did not want to get the attention of the innkeeper. So she did as The Tailor suggested; stopped and waited. Kim seemed to have reached the same conclusion.
 
-The Tailor opened the door erupting layers of noise. And the smell of warm food. There was bread and gravy in there. And now aware of an intense hunger, which encouraged a curiosity to peek inside. However, these instincts battled against her image of the innkeeper. 
+The Tailor opened the door erupting layers of noise. And the smell of warm food. There was bread and gravy in there. And now aware of an intense hunger, which encouraged a curiosity to peek inside. However, these instincts battled against the image of the innkeeper. 
 
-The door opened, this time a waft of gravy with the sound of laughter. The Tailor had returned. “We can stay in the stables tonight,” he reported cheerfully. “it’s this way, follow me.”, and they followed him to around the other side of the inn. 
+The door opened, this time a waft of gravy with the sound of laughter. The Tailor had returned. “We can stay in the stables tonight,” he reported cheerfully, “it’s this way, follow me.”, and they followed him to around the other side of the inn. 
 
 The stable door swung open easily (and surprisingly silently). Inside was a large space offering fresh hay, but no trace of horses. Not a scent. 
 
@@ -110,17 +110,19 @@ Pulling the second rope caused the lantern to rise. Then it stopped and The Tail
 ![](TheTailor/thetailor1_small.png)
 Then speaking more to himself than the two sitting down: “The innkeeper said it housed more people than horses. I doubt anyone actually travels *to* this place.” 
 
-He looked around again: the agitated lantern animated the shadows. “Well,”: he said, “we have ourselves a stable situation!”, he laughed at his own play on words and continued: “If more people stay here than horses, this explains a lot.”
+He looked around again: the agitated lantern animated the shadows. “Well,”: he said, “we have ourselves a stable situation!”, he laughed at his own play on words and continued: “If more people stay here than horses, it explains a lot.”
 
 Suddenly The Tailor turned quickly towards the door saying: “I have to settle up with the innkeeper. And get us some food, I'm really hungry.” Then he left. 
 
-Tom looked between Kim and the cow, both were settled and looking ready to sleep. The shadows moved with the lantern but more gently. She thought to get up and give it more swing, but was not sure she could escape the hay. 
+Tom looked between Kim and the cow. Both were settled and looking ready to sleep. The shadows moved with the lantern but more gently. She thought to get up and give it more swing, but was not sure she could escape the hay. 
 
 Time passed and Tom almost drifted off to sleep when The Tailor returned. Carrying three bowls, balanced with grace, and the rich smell of gravy. He handed one bowl to Kim, who sat up quickly surprised. A chunk of bread and a wooden spoon added to the surprise, Kim was unsure what this all meant, or what had just happened.
 
-The Tailor planted the same on Tom, then sat in Tom's adjacent section. He happily spooned the broth. Looking to both Kim and Tom, they were surprised, still holding bread and spoons as when first handed to them. The Tailor finished a mouthful, then pointing with his spoon: “It's better than it looks, I promise.”.
+The Tailor planted the same on Tom, then sat in Tom's adjacent section. He happily spooned the broth. Looking to both Kim and Tom, they were surprised, still holding bread and spoons as when first handed to them. The Tailor finished a mouthful, then pointing with his spoon: “It's better than it looks, I promise.”
 
-Tom and Kim took their cue and started eating. It was simply the finest broth Tom had ever tasted, and the freshest bread. Butter, bread and broth. 
+Tom and Kim took their cue and started eating. It was simply the finest broth Tom had ever tasted, and the freshest bread. 
+
+Butter, bread and broth. 
 
 “This is the life.”, Tom thought, looking through the open door as she ate. So it was (and not that Tom knew) she was looking southwards. She brought fantasies of The Tailors stories to mind, and embellished them with broth like this. 
 

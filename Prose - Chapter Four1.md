@@ -65,19 +65,28 @@ He had calculated that first light was the time people would realise he was miss
 
 
 - - -
+\newpage
+In the north, for Tom, The Tailor and Kim the weather was dry. There had been no rain that night. Tom woke later than usual; it was already light. Groggy and disorientated she thought she was at home until the sleep dusted off. 
 
+It was with some relief she remembered she was at the village; the sense of liberation was a surprise. This was the first time she recognised the burden of life at home.
 
-In the north, for Tom, The Tailor and Kim the weather was dry. There had been no rain that night. Tom woke later than usual; it was already light. Groggy and disorientated she thought she was at home until the sleep dusted off. It was with some relief she remembered she was at the village; the sense of liberation was a surprise. This was the first time she recognised the burden of life at home.
+Still groggy she pulled her calves taught; stretching her feet to a point. Arms arching back, the stretch bringing a wave of lucidity. 
 
-Still groggy she pulled her calves taught; stretching her feet to a point. Arms arching back, the stretch bringing a wave of lucidity. She looked at the dust darting through the sunbeams which entered through each knot hole. She had nothing to worry about, no concern. There was no need to hide; she was free.
+The dust darted through the sunbeams, which entered through each knot hole. She had nothing to worry about, no concern. There was no need to hide; she was free.
 
-But there was something wrong. Kim and the cow had gone. She instantly knew what this meant: he was telling her to go. Her feeling of comfort dislodged. She sat up to reassess. The Tailor was asleep. Kim and the cow were still gone.
+But there was something wrong. 
 
-Getting up quietly Tom took a few careful steps towards the door, pushing it open; enough to peek outside. There was no trace of her brother. Pushing the doors more she stepped outside looking in the direction of the north trail. Kim and the cow were long gone, no trace of either.
+Kim and the cow had gone. She instantly knew what this meant: he was telling her to go. 
+
+Her feeling of comfort dislodged. She sat up to reassess. The Tailor was asleep. Kim and the cow were still gone.
+
+Getting up quietly Tom took a few careful steps towards the door, pushing it open; enough to peek outside. There was no trace of her brother. 
+
+Pushing the doors more she stepped outside looking in the direction of the north trail. Kim and the cow were long gone, no trace of either.
 
 Tom stood looking northwards, imagining how far Kim had gotten. The cow was slow; he would be close. She could catch him up, it would be easy. 
 
-But she could not take a step; blocked by an elusive, buried reason. She did not want to bring the reason to awareness. Wherever he was, Kim was walking away slowly. Again, she thought she could catch up with him.
+But she could not take a step; blocked by an elusive, buried reason. She did not want to become aware of the reason. Wherever he was, Kim was walking away slowly. Again, she thought she could catch him up.
 
 Kim was telling her something though. He had travelled without her for a reason. The elusive reason gaining painful clarity: home was danger.
 
@@ -86,6 +95,6 @@ The hay inside had lost it's bliss, but it felt like the closest thing she had t
 
 The Tailor was sitting up looking at her. His face and eyes showing sympathy. “Could I live here?” she thought to herself. However, would The Tailor live here? “Where are you going?” she asked him.
 
-He thought about this but rebuffed it laying back: “That's a rather deep question for the morning. How about some breakfast first?“, he traced a sunbeam with one of his hands. “We can philosophise later.”
+He thought about this but rebuffed it laying back: “That's a rather deep question for the morning. How about some breakfast first?”, he traced a sunbeam with one of his hands. “We can philosophise later.”
 
-Tom deduced she was welcome to be with The Tailor for the foreseeable future, which was breakfast.
+Tom deduced she was welcome to be with The Tailor for the foreseeable future, which was breakfast. 
