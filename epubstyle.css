@@ -1,6 +1,6 @@
 /* This defines styles and classes used in the book */
 body { margin: 5%; font-size: medium; width: 100%; }
-img { float: right; }
+img { float: left; margin: 2%; }
 p { text-align: justify; text-indent: 1em; float: none; }
 code { font-family: monospace; }
 h1 { text-align: left; }
