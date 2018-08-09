@@ -222,21 +222,26 @@ Write-Output "... made The-Return-of-Tom-Thumb.md and The-Return-of-Tom-Thumb.tx
 Write-Output "Combining markdown FINISHED"
 
 Write-Output "Creating books..."
+pandoc --css epubstyle.css `
+  "final-title.md" `
+  "The-Return-of-Tom-Thumb.md" `
+  -t epub `
+  -o The-Return-of-Tom-Thumbv1.epub
+Write-Output "... made The-Return-of-Tom-Thumbv1.epub... (epub v1)"
 
-Function Make-PandocBook($epubVer, $outfilename) {
-	pandoc --css epubstyle.css `
-		"final-title.md" `
-		"The-Return-of-Tom-Thumb.md" `
-		-t $epubVer `
-		-o $outfilename
-}
+pandoc --css epubstyle.css `
+  "final-title.md" `
+  "The-Return-of-Tom-Thumb.md" `
+  -t epub2 `
+  -o The-Return-of-Tom-Thumbv2.epub
+Write-Output "... made The-Return-of-Tom-Thumbv2.epub... (epub v2)"
 
-Make-PandocBook("epub", "The-Return-of-Tom-Thumb1.epub")
-Write-Output "... made The-Return-of-Tom-Thumb1.epub... (epub v1)"
-Make-PandocBook("epub2", "The-Return-of-Tom-Thumb2.epub")
-Write-Output "... made The-Return-of-Tom-Thumb2.epub... (epub v2)"
-Make-PandocBook("epub3", "The-Return-of-Tom-Thumb3.epub")
-Write-Output "... made The-Return-of-Tom-Thumb3.epub... (epub v3)"
+pandoc --css epubstyle.css `
+  "final-title.md" `
+  "The-Return-of-Tom-Thumb.md" `
+  -t epub3 `
+  -o The-Return-of-Tom-Thumb.epub
+Write-Output "... made The-Return-of-Tom-Thumb.epub... (epub v3)"
 
 pandoc --css epubstyle.css `
   "final-title.md" `
@@ -251,7 +256,7 @@ Write-Output "Making Audio book ..."
 cat "final-title.md", The-Return-of-Tom-Thumb.txt | sc The-Return-of-Tom-Thumb-with-title.txt
 Get-Content -Path "The-Return-of-Tom-Thumb-with-title.txt" -Encoding UTF8 | `
 	Destroy-Quotes | `
-	%{ $_.Replace("%", "").Replace("<sub>","").Replace("</sub>", "").Replace("*to*", "TO").Replace("- ", "").Replace(" -", "").Replace("\newpage", "\n") } >> gTTS_word_input.txt
+	%{ $_.Replace("%", "").Replace("<sub>","").Replace("</sub>", "").Replace("*to*", "TO").Replace("- ", "").Replace(" -", "") } >> gTTS_word_input.txt
 Write-Output "... made gTTS_word_input.txt"
 
 cat gTTS_word_input.txt | python .\googleTextToSpeech.py -o The-Return-of-Tom-Thumb.mp3 -d The-Return-of-Tom-Thumb.mp3.log 
