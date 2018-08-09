@@ -215,7 +215,9 @@ cat "Prose - Chapter One1.md",
 	"Prose - Blank line.md",
 	"Prose - Chapter Three1.md", 
 	"Prose - Blank line.md",
-	"Prose - Chapter Four1.md" | sc "The-Return-of-Tom-Thumb.md" 
+	"Prose - Chapter Four1.md",
+	"Prose - Blank line.md",
+	"Character - Red Riding Hood\Red Riding Hood - D20 Model.md" | sc "The-Return-of-Tom-Thumb.md" 
 	
 Get-Content "The-Return-of-Tom-Thumb.md" -Encoding UTF8 | Replace-FancyQuotes | Out-File "The-Return-of-Tom-Thumb.txt" -Encoding UTF8 -Append
 Write-Output "... made The-Return-of-Tom-Thumb.md and The-Return-of-Tom-Thumb.txt created"
@@ -227,25 +229,24 @@ pandoc --css epubstyle.css `
   "The-Return-of-Tom-Thumb.md" `
   -t epub `
   -o The-Return-of-Tom-Thumbv1.epub
-Write-Output "... made The-Return-of-Tom-Thumbv1.epub... (epub v1)"
+Write-Output "... made The-Return-of-Tom-Thumb1.epub... (epub v1)"
 
 pandoc --css epubstyle.css `
   "final-title.md" `
   "The-Return-of-Tom-Thumb.md" `
   -t epub2 `
   -o The-Return-of-Tom-Thumbv2.epub
-Write-Output "... made The-Return-of-Tom-Thumbv2.epub... (epub v2)"
+Write-Output "... made The-Return-of-Tom-Thumb2.epub... (epub v2)"
 
 pandoc --css epubstyle.css `
   "final-title.md" `
   "The-Return-of-Tom-Thumb.md" `
   -t epub3 `
-  -o The-Return-of-Tom-Thumb.epub
+  -o The-Return-of-Tom-Thumb.epub `
+	-smart 
 Write-Output "... made The-Return-of-Tom-Thumb.epub... (epub v3)"
 
-pandoc --css epubstyle.css `
-  "final-title.md" `
-  "The-Return-of-Tom-Thumb.txt" `
+pandoc The-Return-of-Tom-Thumb.epub `
   -o The-Return-of-Tom-Thumb.html
 Write-Output "... made The-Return-of-Tom-Thumb.html..."
 

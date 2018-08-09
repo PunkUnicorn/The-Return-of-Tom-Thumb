@@ -33,7 +33,7 @@ As he walked he created a new choice: including an option to stop, turn around a
 
 He stopped.
 
-He slowed his steps. There was nothing in front of him. Behind him the two (with the cow) were arguing: he could hear them; the girl with the boots did not want to get lost in the forest, the boy with the cow wanted to get home; the girl said “The boots didn't work like that.”, the boy getting a little frustrated. Her final gambit: to plead caution, for fear of getting lost again. The boy seeming to be swayed. They stopped talking. 
+There was nothing in front of him. Behind him the two (with the cow) were arguing: he could hear them; the girl with the boots did not want to get lost in the forest, the boy with the cow wanted to get home; the girl said “The boots didn't work like that.”, the boy getting a little frustrated. Her final gambit: to plead caution, for fear of getting lost again. The boy seeming to be swayed. They stopped talking. 
 
 Our well dressed, travelling man turned around. He could see the strange two with the cow. They had their backs to him, except the cow who faced him.
 
@@ -51,7 +51,7 @@ Tom laughed; this smart, handsome figure fooling around. Kim snorted out enough 
 
 “I'm Tom.” she completed, and then continued with a question: “A tailor?”, she asked impressed. And then more earnestly: “Do you really want to ask questions? What about?”
 
-The Tailor took a step forward, nodded to confirm, “Yes.” He paused. “If I could ask one thing that I am curious about: did you buy that cow off that lad Jack?”
+The Tailor took a step forward, nodded to confirm, “Yes.” He paused. “If I could ask one thing, that I am curious about: did you buy that cow off that lad Jack?”
 
 Tom was proud of buying the cow; one of her proudest achievements: “Yes.” but she noticed The Tailor was concerned: “Why?”.
 
