@@ -1,8 +1,8 @@
 /* This defines styles and classes used in the book */
 body { margin: 5%; font-size: medium; width=100% }
-section { style="float: none" }
+section { }
 img { style="float: left" }
-p { text-align: justify; text-indent: 1em; }
+p { text-align: justify; text-indent: 1em; style="float: none" }
 code { font-family: monospace; }
 h1 { text-align: left; }
 h2 { text-align: left; }
