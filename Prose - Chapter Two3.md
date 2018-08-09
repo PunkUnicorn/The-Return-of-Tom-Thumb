@@ -1,3 +1,4 @@
+<img align="right" src="TomThumb/tomthumb2mugshot_small.png">
 After recovering his breath Kim moved to join his sister. Tom acknowledged him, her train of thought gone with the eye contact.
 
 They walked towards the village at a slow pace to absorb everything: sights, sounds and smells, geese, dogs and people. Carts and horses. Stacks of things by the buildings. Sacks of things by the stacks. Smoke, banging. A sudden shout, but nothing to do with them.
@@ -24,6 +25,7 @@ There was a pause but this one dropped.
 
 “Oh.” said the boy after some thought.
 
+![](TomThumb/tomthumb2mugshot_small.png)
 Tom produced one of the giant pips, holding it in her outstretched palms for the boy to see; instructing: “Look.”
 
 The boy saw her offering but after no time he was astonished, which was accompanied by silence.
@@ -59,4 +61,3 @@ Kim stopped but kept his grip on Tom, her jumper stretching as she turned to Jac
 Kim was not convinced. Without hesitation he turned away, pulling Tom with him.  
 
 “Alright, alright. The cow for the pips,” Jack negotiated, “but only for all three of them.”  
-</span>

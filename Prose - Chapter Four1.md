@@ -1,5 +1,6 @@
 # Chapter Four
-<span style="float: left"><img align="left" src="TheKnight/TheKnightPensive_small.png">
+
+![](TheKnight/TheKnightPensive_small.png)
 Meanwhile, far south, in the most south city, in the southern part of the kings castle, itself in the cities south, an heir to the throne, the crown prince himself, was looking out northwards. 
 
 He had the life of a prince. However, if he knew where Tom was, or even who Tom was, he would have been jealous of her life tonight. 
@@ -8,7 +9,7 @@ No more was he a prince in his mind. To him, being an heir to the throne was lik
 
 For a long time he had been preparing himself a new identity: the appearance and paraphernalia to pass as one of the kings many knights. The most difficult item to acquire: a genuine 'knights ring'. It was also the most necessary piece.
 
-He looked out northwards: the dusk lit city below the castle battlements. It was time, so he went inside. The stone walls of the south tower were deeply cold. </span>
+He looked out northwards: the dusk lit city below the castle battlements. It was time, so he went inside. The stone walls of the south tower were deeply cold.
 
 His pack was ready: his formal knight's robe, his standard knight's armour; laid out in neat pieces. He had the 'letter from The Prince' he had written as part of his cover. It was safe in his pouch: his disguise complete. 
 
@@ -83,4 +84,3 @@ The Tailor was sitting up looking at her. His face and eyes showing sympathy. �
 He thought about this but rebuffed it laying back: “That's a rather deep question for the morning. How about some breakfast first?“, he traced a sunbeam with one of his hands. “We can philosophise later.”
 
 Tom deduced she was welcome to be with The Tailor for the foreseeable future, which was breakfast.
-</span>
