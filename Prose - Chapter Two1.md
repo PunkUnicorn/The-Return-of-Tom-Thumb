@@ -31,7 +31,7 @@ Wiggling her toes, she felt the exquisite comfort in the soft leather of the boo
 
 “So,” she said to herself “What I need is a plan.”. It was not an easy problem to solve, but quickly Tom had an idea! In fact the answer was clear: get another giant apple. Apples grow from apple pips. “But not in a day.”, disagreeing with herself. It was something. Tom understood there was a hidden treasure: the giant apple pips. 
 
-Gently rising to her feet she walked to the core, close enough to judge where the pips could be. Squaring her knuckles with her shoulder, readjusting her footing; channelling body weight, she punched a level blow, ripping a small hole through to the seed chamber. Gripping the breach with both hands she tore it wider.
+Gently rising to her feet she walked to the core, close enough to judge where the pips could be. Squaring her knuckles with her shoulder, readjusting her footing; channelling body weight, she punched a level blow, ripping a small hole into the seed chamber. Gripping the breach with both hands she tore it wider.
 
 Pushing a hand in deeply, she felt a pip. Pushing further, feeling around blindly, she mapped the pip’s orientation. With a concerted shunt the pip nudged to a better grip. Tom curled her hand around the pip’s back and eased it out.
 
