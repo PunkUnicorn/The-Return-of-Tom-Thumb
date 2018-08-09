@@ -11,11 +11,11 @@ For a long time he had been preparing himself a new identity: the appearance and
 
 He looked out northwards: the dusk lit city below the castle battlements. It was time, so he went inside. The stone walls of the south tower were deeply cold.
 
-His pack was ready: his formal knight's robe, his standard knight's armour; laid out in neat pieces. He had the 'letter from The Prince' he had written as part of his cover. It was safe in his pouch: his disguise complete. 
+His pack was ready: his formal knight's robe, his standard knight's armour; laid out in neat pieces. He had the 'letter from The Prince' he had written as part of his cover. It was safe in his pouch. His disguise complete. 
 
-Knights armour had slightly different strappings compared to the prince's typical armour. But he had prepared and practiced, and soon in the new metal casing. Dressed in the over-robe, with his pack on his back he was almost ready.
+Knights armour had slightly different strapping compared to princely armour. But he was prepared and practiced, and soon encased in his new metal shell. Dressed in the over-robe, with his pack on his back, he was almost ready.
 
-The heavy helmet and visor the last piece, it's weight a strange comfort; it would be as good a disguise as it was heavy. The sound of his breath amplified, his vision cropped.
+The heavy helmet and visor the last parts. These amplified his own breath, and cropped his vision. The discomfort a reassurance; it would be a good a disguise. 
 
 The south stair would be deserted at this time; his passage unobserved. Sure enough, despite the noise from his pack and him, his exit through the south tower stairs went unheard.
 
