@@ -197,10 +197,7 @@ soxi
 # Sometimes I worry that I don't over-think things enough
 #
 Write-output `n | Out-File "Prose - Blank line.md" -Append
-Write-output "# Appendix 1-1" | Out-File "Prose - Appendix11.md" -Append
-Write-output "# Appendix 1-2" | Out-File "Prose - Appendix12.md" -Append
-Write-output "# Appendix 1-3" | Out-File "Prose - Appendix13.md" -Append
-Write-output "# Appendix 1-4" | Out-File "Prose - Appendix14.md" -Append
+Write-output "# Appendix 1" | Out-File "Prose - Appendix1.md" -Append
 
 Write-Output "Adding build version to final-title.md..."
 Add-Content -Path "book-version.txt" -Value $env:APPVEYOR_BUILD_VERSION
@@ -221,19 +218,13 @@ cat "Prose - Chapter One1.md",
 	"Prose - Blank line.md",
 	"Prose - Chapter Four1.md",
 	"Prose - Blank line.md",
-	"Prose - Appendix11.md",
+	"Prose - Appendix1.md",
 	"Prose - Blank line.md",
 	"Character - Red Riding Hood\Red Riding Hood - D20 Model.md",
 	"Prose - Blank line.md",
-	"Prose - Appendix12.md",
-	"Prose - Blank line.md",
 	"Character - Tom Thumb\Tom Thumb - D20 Model.md",
 	"Prose - Blank line.md",
-	"Prose - Appendix13.md",
-	"Prose - Blank line.md",
 	"Character - The Knight\The Knight - D20 Model.md",
-	"Prose - Blank line.md",
-	"Prose - Appendix14.md",
 	"Prose - Blank line.md",
 	"Character - The Tailor\The Tailor - D20 Model.md" | sc "The-Return-of-Tom-Thumb.md" 
 	
@@ -263,10 +254,15 @@ pandoc --css epubstyle.css `
   -o The-Return-of-Tom-Thumb.epub 
 Write-Output "... made The-Return-of-Tom-Thumb.epub... (epub v3)"
 
-pandoc The-Return-of-Tom-Thumb.epub `
+pandoc --css epubstyle.css `
+  The-Return-of-Tom-Thumb.epub `
   -o The-Return-of-Tom-Thumb.html --self-contained
 Write-Output "... made The-Return-of-Tom-Thumb.html..."
 
+pandoc  `
+  The-Return-of-Tom-Thumb.html `
+  -o The-Return-of-Tom-Thumb.txt
+Write-Output "... re-made The-Return-of-Tom-Thumb.txt from html, trying for better exclusion of images..."
 
 # Make the audio book (WIP)
 Write-Output "Making Audio book ..."

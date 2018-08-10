@@ -78,7 +78,6 @@ Armor Class | 2 + 10 + 0 | = 12
 | local celebrity | (*gets a +2 bonus to perform when performing to those who know of the performer. Also 1D4 close friends in any town she's performed in. With Red this is typically a large group of girl-friends, 1D4 of which are in her inner circle) |
 
 ### Languages 
-* Common
-* Thieves cant (*aka peddler's French*)
-* (note she can learn two more languages (*Int. bonus of 2*)
+Common, Thieves cant (*aka peddler's French*)
 
+(note she can learn two more languages (*Int. bonus of 2*)

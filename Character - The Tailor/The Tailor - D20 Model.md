@@ -89,8 +89,7 @@ bardic knowledge |
 countersong | 
 fascinate |
 
-### Languages:
-* Common, 
-* Thieves cant,
-* Four other languages possibly from another dimension, probably including German
+### Languages
+Common, Thieves cant
 
+Four other languages possibly from another dimension, probably including German
