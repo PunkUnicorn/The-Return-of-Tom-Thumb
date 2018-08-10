@@ -25,7 +25,7 @@ Base Attack Bonus | : | 0
 | ---: | :---: | :--- |
 | Fortitude | 0 + 1 | = 1 |
 | Reflex | 2 + 2 | = 4 |
-| Will | 0 + -1 + 2 *(*iron will*) | = 1 |
+| Will | 0 + -1 + 2 (*iron will) | = 1 |
 
 ### Melee
 | `@}}>-----` | Mod. (+Special) | Score |
@@ -60,7 +60,7 @@ Armor Class | 2 + 10 + 0 | = 12
 | bluff | 6 + 3 | = 9 |
 | craft (weaving/sewing) | 4 + 2 | = 6 |
 | diplomacy | 2 + 3 | = 5 |
-| intimidate | 6 + 3 + 4 (*connected) | = 13 |
+| intimidate | 6 + 3 (+ 4 *connected) | = 13 |
 | knowledge (local) | 4 + 2 | = 6 |
 | listen | 4 + -1 | = 3 |
 | perform (dancing) | 4 + 3 | = 7 (*local celebrity possible +2 bonus) |
@@ -70,12 +70,14 @@ Armor Class | 2 + 10 + 0 | = 12
 | ride | 1 + 3 | = 4 (preference for side-saddle) |
 
 ### Feats
-| Feats/Specials | ~ | Notes |
+| Feats | ~ | Notes |
 | ---: | --- | :--- | 
-| iron will | | |
-| persuasive | | |
-| connected | | (*well known gangster family. +4 bonus to intimidate) |
-| local celebrity | | (*gets a +2 bonus to perform when performing to those who know of the performer. Also 1D4 close friends in any town she's performed in. With Red this is typically a large group of girl-friends, 1D4 of which are in her inner circle) |
+| iron will | : | |
+| persuasive | : | |
+| | : | |
+| connected | : | (*well known gangster family. +4 bonus to intimidate) |
+| | : | |
+| local celebrity | : | (*gets a +2 bonus to perform when performing to those who know of the performer. Also 1D4 close friends in any town she's performed in. With Red this is typically a large group of girl-friends, 1D4 of which are in her inner circle) |
 
 ### Languages
 Common, Thieves cant (*aka peddler's French*)

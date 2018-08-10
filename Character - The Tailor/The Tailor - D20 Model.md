@@ -74,10 +74,10 @@ use magic device | 6 + 4 | = 10
 
 
 ### Feats
-Feats/Specials | Notes
+Feats | Notes
 ---: | ---:
 simple weapon proficiency |
-weapon finesse | 
+weapon finesse |
 combat expertise |
 improved disarm |
 improved feint |

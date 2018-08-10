@@ -46,7 +46,7 @@ He's well trained here too: bows, crossbows, spears, etc
 Armor Class | 1 + 10 + 7 (Half-plate) | = 18
 
 ### Skills
-Skill | Ranks + Mod. (+ Special) | Score
+Skill | Rank + Mod. | Score
 ---: | :---: | :---
 concentration | 2 + 3 | = 5
 disguise | 1 + -1 | = 0
@@ -59,20 +59,21 @@ knowledge (nobility) | 3 + 3 | = 6
 knowledge (anything else *royal privilege) | 0 + 3 | = 3
 
 ### Feats
-Feats/Specials | ~ | Notes
+Feats | ~ | Notes
 ---: | --- | :---
-simple weapon proficiency | | 
-martial weapon proficiency | | 
-shield proficiency | | 
-tower shield proficiency | | 
-armor proficiency light | | 
-armor proficiency medium | | 
-armor proficiency heavy | | 
-combat expertise | | 
-combat reflexes | | 
-power attack | | 
-animal affinity | | 
-royal privilege | | (*has knowledge in any subject as if untrained, +15 to intimidate & persuade when speaking as The Prince to his kingdom)
+simple weapon proficiency | : | 
+martial weapon proficiency | : | 
+shield proficiency | : | 
+tower shield proficiency | : | 
+armor proficiency light | : | 
+armor proficiency medium | : | 
+armor proficiency heavy | : | 
+combat expertise | : | 
+combat reflexes | : | 
+power attack | : | 
+animal affinity | : | 
+ | : | 
+royal privilege | : | (*has knowledge in any subject as if untrained, +15 to intimidate & persuade when speaking as The Prince to his kingdom)
 
 ### Languages
 Common
