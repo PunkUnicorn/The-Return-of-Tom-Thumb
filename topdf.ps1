@@ -197,10 +197,10 @@ soxi
 # Sometimes I worry that I don't over-think things enough
 #
 Write-output `n | Out-File "Prose - Blank line.md" -Append
-Write-output "# Appendix One" | Out-File "Prose - Appendix1.md" -Append
-Write-output "# Appendix Two" | Out-File "Prose - Appendix2.md" -Append
-Write-output "# Appendix Three" | Out-File "Prose - Appendix3.md" -Append
-Write-output "# Appendix Four" | Out-File "Prose - Appendix4.md" -Append
+Write-output "# Appendix 1" | Out-File "Prose - Appendix1.md" -Append
+Write-output "# Appendix 2" | Out-File "Prose - Appendix2.md" -Append
+Write-output "# Appendix 3" | Out-File "Prose - Appendix3.md" -Append
+Write-output "# Appendix 4" | Out-File "Prose - Appendix4.md" -Append
 
 Write-Output "Adding build version to final-title.md..."
 Add-Content -Path "book-version.txt" -Value $env:APPVEYOR_BUILD_VERSION
