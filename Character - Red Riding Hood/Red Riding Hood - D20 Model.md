@@ -1,6 +1,6 @@
 # Red Riding Hood
 
-![Red Riding Hood](RedRidingHood/Red%20Riding%20Hood%20Thumbnail.jpg)
+![](RedRidingHood/unhooded_small.png)
 
 `@}}>-----` | `--------{---(@`
 ---: | :--- 
