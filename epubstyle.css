@@ -3,12 +3,12 @@ body { margin: 4%; font-size: medium; width: 92%; height: 92%; }
 img { float: left; margin: 4%; }
 p { text-align: justify; text-indent: 1em; float: none; }
 code { font-family: monospace; }
-h1 { text-align: left; }
-h2 { text-align: left; page-break-after: avoid; page-break-before: always; }
-h3 { text-align: left; page-break-after: avoid; page-break-before: always; }
-h4 { text-align: left; }
-h5 { text-align: left; }
-h6 { text-align: left; }
+h1 { text-align: left; float: none; }
+h2 { text-align: left; float: none; page-break-after: avoid; page-break-before: always; }
+h3 { text-align: left; float: none; page-break-after: avoid; page-break-before: always; }
+h4 { text-align: left; float: none; }
+h5 { text-align: left; float: none; }
+h6 { text-align: left; float: none; }
 h1.title { color: red; font-family: monospace; }
 h2.author { }
 h3.date { }
