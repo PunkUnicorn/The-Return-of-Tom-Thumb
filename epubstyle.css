@@ -4,8 +4,8 @@ img { float: left; margin: 4%; }
 p { text-align: justify; text-indent: 1em; float: none; }
 code { font-family: monospace; }
 h1 { text-align: left; }
-h2 { text-align: left; page-break-before: always; }
-h3 { text-align: left; }
+h2 { text-align: left; page-break-after: avoid; }
+h3 { text-align: left; page-break-after: avoid; }
 h4 { text-align: left; }
 h5 { text-align: left; }
 h6 { text-align: left; }
@@ -21,7 +21,8 @@ em em, em em em em { font-style: normal; }
 table {
   font-family: "Courier New", Courier, monospace;
   width: 100%;
-  text-align: center;
+	height: 100%;
+  /* text-align: center; */
   border-collapse: collapse;
 	float: none;
 }
@@ -39,16 +40,20 @@ table tbody td {
 	overflow-wrap: normal;
 	float: none;
 }
+table tbody {
+	page-break-inside: avoid;	
+}
 table thead {
   background: #FFFFFF;
 	overflow-wrap: break-word;
 	float: none;
+	page-break-inside: avoid;	
 }
 table thead th {
   font-size: 12px;
   font-weight: bold;
   color: #333333;
-  text-align: center;
+  /*text-align: center;*/
 	float: none;
 }
 table tfoot {
