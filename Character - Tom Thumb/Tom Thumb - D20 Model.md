@@ -69,15 +69,15 @@ tumble | 2 + 3 | = 5
 use rope | 4 + 3 | = 7
 
 ### Feats
-Feats/Specials | Notes
----: | :---
-Improved Initiative | 
-Self sufficient | 
-Simple weapon proficiency |
-Favored enemy (rodents) |
-Dodge |
-Improved unarmed strike |
-Cunning fist | *(same as Stunning fist but -2 to armour class until your next turn and only a 20% chance of success)
+Feats/Specials | ~ | Notes
+---: | --- | :---
+Improved Initiative | |  
+Self sufficient | | 
+Simple weapon proficiency | | 
+Favored enemy (rodents) | | 
+Dodge | | 
+Improved unarmed strike | | 
+Cunning fist | | *(same as Stunning fist but -2 to armour class until your next turn and only a 20% chance of success)
 
 ### Languages
 Common

@@ -65,7 +65,6 @@ He had calculated that first light was the time people would realise he was miss
 
 
 - - -
-\newpage
 In the north, for Tom, The Tailor and Kim the weather was dry. There had been no rain that night. Tom woke later than usual; it was already light. Groggy and disorientated she thought she was at home until the sleep dusted off. 
 
 It was with some relief she remembered she was at the village; the sense of liberation was a surprise. This was the first time she recognised the burden of life at home.

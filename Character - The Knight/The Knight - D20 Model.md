@@ -59,20 +59,20 @@ knowledge (nobility) | 3 + 3 | = 6
 knowledge (anything else *royal privilege) | 0 + 3 | = 3
 
 ### Feats
-Feats/Specials | Notes
----: | :---
-simple weapon proficiency |
-martial weapon proficiency |
-shield proficiency |
-tower shield proficiency |
-armor proficiency light |
-armor proficiency medium |
-armor proficiency heavy |
-combat expertise |
-combat reflexes |
-power attack |
-animal affinity |
-royal privilege | (*has knowledge in any subject as if untrained, +15 to intimidate & persuade when speaking as The Prince to his kingdom)
+Feats/Specials | ~ | Notes
+---: | --- | :---
+simple weapon proficiency | | 
+martial weapon proficiency | | 
+shield proficiency | | 
+tower shield proficiency | | 
+armor proficiency light | | 
+armor proficiency medium | | 
+armor proficiency heavy | | 
+combat expertise | | 
+combat reflexes | | 
+power attack | | 
+animal affinity | | 
+royal privilege | | (*has knowledge in any subject as if untrained, +15 to intimidate & persuade when speaking as The Prince to his kingdom)
 
 ### Languages
 Common

@@ -219,7 +219,9 @@ cat "Prose - Chapter One1.md",
 	"Prose - Blank line.md",
 	"Prose - Chapter Three1.md", 
 	"Prose - Blank line.md",
-	"Prose - Chapter Four1.md",
+	"Prose - Chapter Four1.md" | sc "The-Return-of-Tom-Thumb-for-audio.md" 
+
+cat "The-Return-of-Tom-Thumb-for-audio.md",	
 	"Prose - Blank line.md",
 	"Prose - Appendix1.md",
 	"Prose - Blank line.md",
@@ -238,7 +240,11 @@ cat "Prose - Chapter One1.md",
 	"Character - The Tailor\The Tailor - D20 Model.md" | sc "The-Return-of-Tom-Thumb.md" 
 	
 Get-Content "The-Return-of-Tom-Thumb.md" -Encoding UTF8 | Replace-FancyQuotes | Out-File "The-Return-of-Tom-Thumb.txt" -Encoding UTF8 -Append
-Write-Output "... made The-Return-of-Tom-Thumb.md and The-Return-of-Tom-Thumb.txt created"
+Write-Output "... made The-Return-of-Tom-Thumb.md and The-Return-of-Tom-Thumb.txt"
+
+Get-Content "The-Return-of-Tom-Thumb-for-audio.md" -Encoding UTF8 | Replace-FancyQuotes | Out-File "The-Return-of-Tom-Thumb-for-audio.txt" -Encoding UTF8 -Append
+Write-Output "... made The-Return-of-Tom-Thumb-for-audio.md and The-Return-of-Tom-Thumb-for-audio.txt"
+
 Write-Output "Combining markdown FINISHED"
 
 Write-Output "Creating books..."
@@ -268,16 +274,12 @@ pandoc --css epubstyle.css `
   -o The-Return-of-Tom-Thumb.html --self-contained
 Write-Output "... made The-Return-of-Tom-Thumb.html..."
 
-pandoc  `
-  The-Return-of-Tom-Thumb.html `
-  -o The-Return-of-Tom-Thumb.txt
-Write-Output "... re-made The-Return-of-Tom-Thumb.txt from html, trying for better exclusion of images..."
-
 # Make the audio book (WIP)
 Write-Output "Making Audio book ..."
 # Add the title page in, which pandoc takes in as a separate file in addition to the book files. Here we want to include it all in one file
-cat "final-title.md", The-Return-of-Tom-Thumb.txt | sc The-Return-of-Tom-Thumb-with-title.txt
-Get-Content -Path "The-Return-of-Tom-Thumb-with-title.txt" -Encoding UTF8 | `
+#cat "final-title.md", The-Return-of-Tom-Thumb.txt | sc The-Return-of-Tom-Thumb-with-title.txt
+cat "final-title.md", The-Return-of-Tom-Thumb-for-audio.txt | sc The-Return-of-Tom-Thumb-for-audio-with-title.txt
+Get-Content -Path "The-Return-of-Tom-Thumb-for-audio-with-title.txt" -Encoding UTF8 | `
 	Destroy-Quotes | `
 	%{ $_.Replace("%", "").Replace("<sub>","").Replace("</sub>", "").Replace("*to*", "TO").Replace("- ", "").Replace(" -", "") } >> gTTS_word_input.txt
 Write-Output "... made gTTS_word_input.txt"
