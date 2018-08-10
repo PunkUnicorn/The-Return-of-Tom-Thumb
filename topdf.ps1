@@ -198,6 +198,9 @@ soxi
 #
 Write-output `n | Out-File "Prose - Blank line.md" -Append
 Write-output "# Appendix 1" | Out-File "Prose - Appendix1.md" -Append
+Write-output "# Appendix 2" | Out-File "Prose - Appendix2.md" -Append
+Write-output "# Appendix 3" | Out-File "Prose - Appendix3.md" -Append
+Write-output "# Appendix 4" | Out-File "Prose - Appendix4.md" -Append
 
 Write-Output "Adding build version to final-title.md..."
 Add-Content -Path "book-version.txt" -Value $env:APPVEYOR_BUILD_VERSION
@@ -222,9 +225,15 @@ cat "Prose - Chapter One1.md",
 	"Prose - Blank line.md",
 	"Character - Red Riding Hood\Red Riding Hood - D20 Model.md",
 	"Prose - Blank line.md",
+	"Prose - Appendix2.md",
+	"Prose - Blank line.md",
 	"Character - Tom Thumb\Tom Thumb - D20 Model.md",
 	"Prose - Blank line.md",
+	"Prose - Appendix3.md",
+	"Prose - Blank line.md",
 	"Character - The Knight\The Knight - D20 Model.md",
+	"Prose - Blank line.md",
+	"Prose - Appendix4.md",
 	"Prose - Blank line.md",
 	"Character - The Tailor\The Tailor - D20 Model.md" | sc "The-Return-of-Tom-Thumb.md" 
 	
