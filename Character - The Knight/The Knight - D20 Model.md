@@ -74,7 +74,7 @@ power attack |
 animal affinity |
 royal privilege | (*has knowledge in any subject as if untrained, +15 to intimidate & persuade when speaking as The Prince to his kingdom)
 
-### Languages 
+### Languages
 Common
 
 Three other known languages
