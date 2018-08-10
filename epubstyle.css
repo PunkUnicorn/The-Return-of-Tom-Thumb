@@ -18,6 +18,41 @@ a.footnote-ref { vertical-align: super; }
 em, em em em, em em em em em { font-style: italic;}
 em em, em em em em { font-style: normal; }
 
+table {
+  font-family: "Courier New", Courier, monospace;
+  width: 100%;
+  text-align: center;
+  border-collapse: collapse;
+	display: block;
+}
+table td {
+  padding: 3px 4px;	
+}
+table th {
+  padding: 3px 4px;
+	page-break-after: never;
+}
+table tbody td {
+  font-size: 11px;
+}
+table thead {
+  background: #FFFFFF;
+}
+table thead th {
+  font-size: 12px;
+  font-weight: bold;
+  color: #333333;
+  text-align: center;
+}
+table tfoot {
+  font-size: 8px;
+  font-weight: bold;
+  color: #333333;
+}
+table tfoot td {
+  font-size: 8px;
+}
+
 /* https://friendsofepub.github.io/eBookTricks/ */
 element {
   -webkit-hyphenate-limit-before: 3;

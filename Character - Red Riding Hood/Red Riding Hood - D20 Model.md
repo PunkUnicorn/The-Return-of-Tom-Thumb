@@ -1,4 +1,4 @@
-# Red Riding Hood
+## Red Riding Hood
 
 ![](RedRidingHood/unhooded_small.png)
 
@@ -77,7 +77,7 @@ Armor Class | 2 + 10 + 0 | = 12
 | connected | (*well known ganster family. +4 bonus to intimidate) |
 | local celebrity | (*gets a +2 bonus to perform when performing to those who know of the performer. Also 1D4 close friends in any town she's performed in. With Red this is typically a large group of girl-friends, 1D4 of which are in her inner circle) |
 
-### Languages 
+## Languages 
 * Common
 * Theives cant (*aka peddler's French*)
 * (note she can learn two more languages (*Int. bonus of 2*)

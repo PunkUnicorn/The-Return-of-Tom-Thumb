@@ -197,6 +197,7 @@ soxi
 # Sometimes I worry that I don't over-think things enough
 #
 Write-output `n | Out-File "Prose - Blank line.md" -Append
+Write-output "# Appendix 1" | Out-File "Prose - Appendix.md" -Append
 
 Write-Output "Adding build version to final-title.md..."
 Add-Content -Path "book-version.txt" -Value $env:APPVEYOR_BUILD_VERSION
@@ -205,7 +206,7 @@ cat title-top.md, "Prose - Blank line.md", book-version.txt, "Prose - Blank line
 Write-Output "Adding build version to final-title.md FINISHED"
 
 Write-Output "Combining markdown..."
-cat "Prose - Chapter One1.md", 
+cat "Prose - Chapter One1.md",
 	"Prose - Blank line.md",
 	"Prose - Chapter Two1.md",
 	"Prose - Blank line.md",
@@ -216,6 +217,8 @@ cat "Prose - Chapter One1.md",
 	"Prose - Chapter Three1.md", 
 	"Prose - Blank line.md",
 	"Prose - Chapter Four1.md",
+	"Prose - Blank line.md",
+	"Prose - Appendix.md",
 	"Prose - Blank line.md",
 	"Character - Red Riding Hood\Red Riding Hood - D20 Model.md" | sc "The-Return-of-Tom-Thumb.md" 
 	
