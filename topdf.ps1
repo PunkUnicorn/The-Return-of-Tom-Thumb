@@ -222,7 +222,11 @@ cat "Prose - Chapter One1.md",
 	"Prose - Blank line.md",
 	"Character - Red Riding Hood\Red Riding Hood - D20 Model.md",
 	"Prose - Blank line.md",
-	"Character - Tom Thumb\Tom Thumb - D20 Model.md"	| sc "The-Return-of-Tom-Thumb.md" 
+	"Character - Tom Thumb\Tom Thumb - D20 Model.md",
+	"Prose - Blank line.md",
+	"Character - The Knight\The Knight - D20 Model.md",
+	"Prose - Blank line.md",
+	"Character - The Tailor\The Tailor - D20 Model.md" | sc "The-Return-of-Tom-Thumb.md" 
 	
 Get-Content "The-Return-of-Tom-Thumb.md" -Encoding UTF8 | Replace-FancyQuotes | Out-File "The-Return-of-Tom-Thumb.txt" -Encoding UTF8 -Append
 Write-Output "... made The-Return-of-Tom-Thumb.md and The-Return-of-Tom-Thumb.txt created"

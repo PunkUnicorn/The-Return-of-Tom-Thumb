@@ -1,14 +1,14 @@
 ## Tom Thumb
 
-![](TomThumb/Tom Thumbnail.jpg)
+![](TomThumb/tomthumb2mugshot_small.png)
 
-`@}}>-----` | `--------{---(@`
----: | :--- 
-Class | Ranger 1 
-Race | Human
-Hit Points | 7
-Alignment | Feral/Loyal Benevolent
-Base Attack Bonus | 1
+`@}}>-----` | - | `--------{---(@`
+---: | | :--- 
+Class | | Ranger 1 
+Race | | Human
+Hit Points | | 7
+Alignment | | Feral/Loyal Benevolent
+Base Attack Bonus | | 1
 
 ### Attributes
 Attribute |  | n/18 | Mod.

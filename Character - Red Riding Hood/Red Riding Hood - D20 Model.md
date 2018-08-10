@@ -2,13 +2,13 @@
 
 ![](RedRidingHood/unhooded_small.png)
 
-`@}}>-----` | `--------{---(@`
----: | :--- 
-Class | Rogue 1
-Race | Human
-Hit Points | 7
-Alignment | Gangster/Indifferent
-Base Attack Bonus | 0
+`@}}>-----` | - | `--------{---(@`
+---: | | :--- 
+Class | | Rogue 1
+Race | | Human
+Hit Points | | 7
+Alignment | | Gangster/Indifferent
+Base Attack Bonus | | 0
 
 ### Attributes
 | Attribute | n/18 | Mod. |
