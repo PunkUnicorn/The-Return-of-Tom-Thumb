@@ -2,16 +2,16 @@
 
 ![](TheKnight/theknightpensiveextremecloseup_small.png)
 
-`@}}>-----` | - | `--------{---(@`
----: | | :--- 
-Class | | Fighter 2 
-Race | | Human
-Hit Points | | 20
-Alignment | | Fugitive Royal Prince/Decent Bloke
-Base Attack Bonus | | 2
+`@}}>-----` | ~ | `--------{---(@`
+---: | --- | :--- 
+Class | : | Fighter 2 
+Race | : | Human
+Hit Points | : | 20
+Alignment | : | Fugitive Royal Prince/Decent Bloke
+Base Attack Bonus | : | 2
 
 ### Attributes
-Attribute | n/18 | Modifier Bonus (Mod.) 
+Attribute | n/18 | Mod. 
 ---: | :---: | :--- 
 Strength | 16 | (3)
 Dexterity | 12 | (1)
