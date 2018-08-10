@@ -7,7 +7,7 @@
 Class | : | Fighter 2 
 Race | : | Human
 Hit Points | : | 20
-Alignment | : | Fugitive Royal Prince/Decent Bloke
+Alignment | : | Fugitive Royal Prince / Decent Bloke
 Base Attack Bonus | : | 2
 
 ### Attributes
@@ -59,8 +59,8 @@ knowledge (nobility) | 3 + 3 | = 6
 knowledge (anything else *royal privilege) | 0 + 3 | = 3
 
 ### Feats
-Feats | Notes
----: | :---:
+Feats | 
+---: | :---
 simple weapon proficiency | 
 martial weapon proficiency | 
 shield proficiency | 
@@ -72,9 +72,9 @@ combat expertise |
 combat reflexes | 
 power attack | 
 animal affinity | 
-royal privilege |  *^1*
+royal privilege |  *1
 
-*^1* (*has knowledge in any subject as if untrained, +15 to intimidate & persuade when speaking as The Prince to his kingdom*)
+`*1 (has knowledge in any subject as if untrained, +15 to intimidate & persuade when speaking as The Prince to his kingdom)`
 
 ### Languages
 Common

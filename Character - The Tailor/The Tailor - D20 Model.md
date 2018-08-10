@@ -7,7 +7,7 @@
 Class | : | Bard 3 
 Race | : | Human
 Hit Points | : | 15
-Alignment | : | Incognito/Benevolent Mentor
+Alignment | : | Incognito / Benevolent Mentor
 Base Attack Bonus | : | 2
 
 ### Attributes

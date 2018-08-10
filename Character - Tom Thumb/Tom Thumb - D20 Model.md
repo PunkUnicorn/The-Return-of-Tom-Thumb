@@ -7,7 +7,7 @@
 Class | : | Ranger 1 
 Race | : | Human
 Hit Points | : | 7
-Alignment | : | Feral/Loyal Benevolent
+Alignment | : | Feral / Loyal Benevolent
 Base Attack Bonus | : | 1
 
 ### Attributes
@@ -21,21 +21,24 @@ Wisdom |  | 17 | (3)
 Charisma |  | 17 | (3)
 
 ### Saves
-Save | Rank + Mod. (+ Special) | Score
+Save | Rank + Mod. | Score
 ---: | :---: | :---
 Fortitude | 2 + -1 | = 1
 Reflex | 2 + 3 | = 5
 Will | 0 + 3 | = 3
 
 ### Melee
-`@}}>-----` | Mod. (+special) | Score
+`@}}>-----` | Mod. (+ Special) | Score
 ---: | :---: | :---
 Initiative | 3 (+ 4) | 7 
 
-Attack | Base + Mod. (+ Special) | Score
+`(+ Improved Initiative)`
+
+
+Attack | Base + Mod. | Score
 ---: | :---: | :---
-Melee | 1 + -1 + 0 | = 0
-Ranged | 1 + 3 + 0 | = 4
+Melee | 1 + -1 | = 0
+Ranged | 1 + 3 | = 4
 
 *She hides to avoid this but if cornered she will fight for a chance to run when possible*
 
@@ -69,17 +72,17 @@ tumble | 2 + 3 | = 5
 use rope | 4 + 3 | = 7
 
 ### Feats
-Feats | Notes
----: | :---:
+Feats | 
+---: | :---
 Improved Initiative |   
 Self sufficient | 
 Simple weapon proficiency | 
 Favored enemy (rodents) | 
 Dodge | 
 Improved unarmed strike | 
-Cunning fist | *^1*
+Cunning fist | *1
 
-*^1* (*same as Stunning fist but -2 to armour class until your next turn and only a 25% chance of success. Can not be used twice on the same target.*)
+`*1 (same as Stunning fist but -2 to armour class until your next turn and only a 25% chance of success. Can not be used twice on the same target.)`
 
 ### Languages
 Common

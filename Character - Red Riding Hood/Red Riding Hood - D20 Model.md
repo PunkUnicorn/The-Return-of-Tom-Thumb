@@ -7,7 +7,7 @@
 Class | : | Rogue 1
 Race | : | Human
 Hit Points | : | 7
-Alignment | : | Gangster/Indifferent
+Alignment | : | Gangster / Indifferent
 Base Attack Bonus | : | 0
 
 ### Attributes
@@ -28,9 +28,10 @@ Base Attack Bonus | : | 0
 | Will | 0 + -1 + 2 (*iron will) | = 1 |
 
 ### Melee
-| `@}}>-----` | Mod. (+Special) | Score |
+| `@}}>-----` | Mod. | Score |
 | ---: | :---: | :--- |
 | Initiative | 2 + 0 | = 2 |
+
 
 | Attack | Base + Mod. (+ Special) | Score |
 | ---: | :---: | :--- |
@@ -70,16 +71,16 @@ Armor Class | 2 + 10 + 0 | = 12
 | ride | 1 + 3 | = 4 (preference for side-saddle) |
 
 ### Feats
-| Feats | Notes |
-| ---: | :---: | 
+| Feats | |
+| ---: | :--- | 
 | iron will | |
 | persuasive | |
-| connected | *^1* |
-| local celebrity | *^2* |
+| connected | *1 |
+| local celebrity | *2 |
 
-*^1* (*well known gangster family. +4 bonus to intimidate*)
+`*1 (well known gangster family. +4 bonus to intimidate)`
 
-*^2* (*gets a +2 bonus to perform when performing to those who know of the performer. Also 1D4 close friends in any town she's performed in. With Red this is typically a large group of girl-friends, 1D4 of which are in her inner circle*)
+`*2 (gets a +2 bonus to perform when performing to those who know of the performer. Also 1D4 close friends in any town she's performed in. With Red this is typically a large group of girl-friends, 1D4 of which are in her inner circle)`
 
 ### Languages
 Common, Thieves cant (*aka peddler's French*)
