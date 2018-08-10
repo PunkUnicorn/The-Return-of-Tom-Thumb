@@ -11,7 +11,7 @@ Alignment | Feral/Loyal Benevolent
 Base Attack Bonus | 1
 
 ### Attributes
-Attribute | n/18 | Modifier Bonus (Mod.)
+Attribute | n/18 | Mod.
 ---: | :---: | :---
 Strength | 8 | (-1)
 Dexterity | 16 | (3)

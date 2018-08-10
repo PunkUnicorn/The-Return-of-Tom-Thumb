@@ -11,7 +11,7 @@ Alignment | Gangster/Indifferent
 Base Attack Bonus | 0
 
 ### Attributes
-| Attribute | n/18 | Modifier Bonus (Mod.) |
+| Attribute | n/18 | Mod. |
 | ---: | :---: | :--- |
 | Strength | 7 | (-2) |
 | Dexterity | 14 | (2) |
@@ -21,14 +21,14 @@ Base Attack Bonus | 0
 | Charisma | 16 | (3) |
 
 ### Saves
-| Save | Rank + Mod. (+ Special) | Score |
+| Save | Rank + Mod. (+Special) | Score |
 | ---: | :---: | :--- |
 | Fortitude | 0 + 1 | = 1 |
 | Reflex | 2 + 2 | = 4 |
 | Will | 0 + -1 + 2 *(*iron will*) | = 1 |
 
 ### Melee
-| `@}}>-----` | Mod. (+special) | Score |
+| `@}}>-----` | Mod. (+Special) | Score |
 | ---: | :---: | :--- |
 | Initiative | 2 + 0 | = 2 |
 
@@ -39,7 +39,7 @@ Base Attack Bonus | 0
 
 **She doesn't fight**
 
-She might smash a big porcline Jug over someones head, `1d2+1 (-2 Str.) point of subdual damage`
+She might smash a big porcelain Jug over someones head, `1d2+1 (-2 Str.) point of subdual damage`
 
 But she knows all the bandits, robbers and low life, they work for her dad
 
