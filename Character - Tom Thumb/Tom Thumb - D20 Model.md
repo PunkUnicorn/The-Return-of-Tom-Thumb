@@ -11,14 +11,14 @@ Alignment | Feral/Loyal Benevolent
 Base Attack Bonus | 1
 
 ### Attributes
-Attribute | n/18 | Mod.
----: | :---: | :---
-Strength | 8 | (-1)
-Dexterity | 16 | (3)
-Constitution | 8 | (-1)
-Intelligence | 17 | (3)
-Wisdom | 17 | (3)
-Charisma | 17 | (3)
+Attribute |  | n/18 | Mod.
+---: | --- | :---: | :---
+Strength | | 8 | (-1)
+Dexterity | | 16 | (3)
+Constitution | | 8 | (-1)
+Intelligence | | 17 | (3)
+Wisdom |  | 17 | (3)
+Charisma |  | 17 | (3)
 
 ### Saves
 Save | Rank + Mod. (+ Special) | Score

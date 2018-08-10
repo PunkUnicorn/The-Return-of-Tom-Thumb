@@ -26,7 +26,6 @@ table {
   border-collapse: collapse;
 	page-break-inside: avoid;	
 	float: none;
-	display: block;
 }
 table td {
   /* padding: 3px 4px;	*/
@@ -41,7 +40,6 @@ table tbody td {
   font-size: 11px;
 	overflow-wrap: normal;
 	float: none;
-	display: block;
 }
 table tbody {
 	page-break-inside: avoid;	
@@ -58,7 +56,6 @@ table thead th {
   color: #333333;
   /*text-align: center;*/
 	float: none;
-	display: block;
 }
 table tfoot {
   font-size: 8px;
