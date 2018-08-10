@@ -70,14 +70,12 @@ Armor Class | 2 + 10 + 0 | = 12
 | ride | 1 + 3 | = 4 (preference for side-saddle) |
 
 ### Feats
-| Feats | ~ | Notes |
-| ---: | --- | :--- | 
-| iron will | : | |
-| persuasive | : | |
-| - | : | - |
-| connected | : | (*well known gangster family. +4 bonus to intimidate) |
-| - | : | - |
-| local celebrity | : | (*gets a +2 bonus to perform when performing to those who know of the performer. Also 1D4 close friends in any town she's performed in. With Red this is typically a large group of girl-friends, 1D4 of which are in her inner circle) |
+| Feats | Notes |
+| ---: | :--- | 
+| iron will | |
+| persuasive | |
+| connected | (*well known gangster family. +4 bonus to intimidate) |
+| local celebrity | (*gets a +2 bonus to perform when performing to those who know of the performer. Also 1D4 close friends in any town she's performed in. With Red this is typically a large group of girl-friends, 1D4 of which are in her inner circle) |
 
 ### Languages
 Common, Thieves cant (*aka peddler's French*)
