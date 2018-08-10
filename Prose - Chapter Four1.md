@@ -65,6 +65,7 @@ He had calculated that first light was the time people would realise he was miss
 
 
 - - -
+
 In the north, for Tom, The Tailor and Kim the weather was dry. There had been no rain that night. Tom woke later than usual; it was already light. Groggy and disorientated she thought she was at home until the sleep dusted off. 
 
 It was with some relief she remembered she was at the village; the sense of liberation was a surprise. This was the first time she recognised the burden of life at home.
@@ -87,9 +88,9 @@ Tom stood looking northwards, imagining how far Kim had gotten. The cow was slow
 
 But she could not take a step; blocked by an elusive, buried reason. She did not want to become aware of the reason. Wherever he was, Kim was walking away slowly. Again, she thought she could catch him up.
 
+![](TomThumb/tomthumb1_small.png)
 Kim was telling her something though. He had travelled without her for a reason. The elusive reason gaining painful clarity: home was danger.
 
-![](TomThumb/tomthumb1_small.png)
 The hay inside had lost it's bliss, but it felt like the closest thing she had to a home right now, so she went inside.
 
 The Tailor was sitting up looking at her. His face and eyes showing sympathy. “Could I live here?” she thought to herself. However, would The Tailor live here? “Where are you going?” she asked him.
@@ -101,8 +102,6 @@ Tom deduced she was welcome to be with The Tailor for the foreseeable future, wh
 
 
 
-
-- - -
 
 
 
