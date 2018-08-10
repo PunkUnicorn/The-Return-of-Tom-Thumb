@@ -77,3 +77,4 @@ royal privilege | (*has knowledge in any subject as if untrained, +15 to intimid
 ### Languages 
 * Common
 * Three other known languages
+

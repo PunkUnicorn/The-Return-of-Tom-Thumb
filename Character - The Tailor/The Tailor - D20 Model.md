@@ -75,7 +75,7 @@ use magic device | 6 + 4 | = 10
 
 ### Feats
 Feats/Specials | Notes
----: | :---
+---: | ---:
 simple weapon proficiency |
 weapon finesse | 
 combat expertise |
@@ -93,3 +93,4 @@ fascinate |
 * Common, 
 * Thieves cant,
 * Four other languages possibly from another dimension, probably including German
+

@@ -80,5 +80,6 @@ Improved unarmed strike |
 Cunning fist | *(same as Stunning fist but -2 to armour class until your next turn and only a 20% chance of success)
 
 ### Languages:
-- Common
-- (note she can learn three more languages (Int. bonus of 3))
+* Common
+* (note she can learn three more languages (Int. bonus of 3))
+
