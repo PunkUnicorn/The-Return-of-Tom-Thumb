@@ -4,8 +4,8 @@ img { float: left; margin: 4%; }
 p { text-align: justify; text-indent: 1em; float: none; }
 code { font-family: monospace; }
 h1 { text-align: left; }
-h2 { text-align: left; page-break-after: avoid; }
-h3 { text-align: left; page-break-after: avoid; }
+h2 { text-align: left; page-break-after: avoid; page-break-before: always; }
+h3 { text-align: left; page-break-after: avoid; page-break-before: always; }
 h4 { text-align: left; }
 h5 { text-align: left; }
 h6 { text-align: left; }
@@ -24,7 +24,9 @@ table {
 	height: 100%;
   /* text-align: center; */
   border-collapse: collapse;
+	page-break-inside: avoid;	
 	float: none;
+	display: block;
 }
 table td {
   /* padding: 3px 4px;	*/
@@ -32,13 +34,14 @@ table td {
 }
 table th {
   /* padding: 3px 4px; */
-	page-break-after: never;
+	page-break-inside: avoid;
 	float: none;
 }
 table tbody td {
   font-size: 11px;
 	overflow-wrap: normal;
 	float: none;
+	display: block;
 }
 table tbody {
 	page-break-inside: avoid;	
@@ -55,6 +58,7 @@ table thead th {
   color: #333333;
   /*text-align: center;*/
 	float: none;
+	display: block;
 }
 table tfoot {
   font-size: 8px;
