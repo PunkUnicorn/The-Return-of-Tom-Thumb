@@ -21,21 +21,21 @@ Wisdom | 14 | (2)
 Charisma | 9 | (-1)
 
 ### Saves
-| Save | Rank + Mod. (+ Special) | Score |
+| Save | Rank + Mod. | Score |
 | ---: | :---: | :--- |
 | Fortitude | 3 + 3 | = 6 |
 | Reflex | 0 + 1 | = 1 |
 | Will | 0 + 2 | = 2 |
 
 ### Melee
-| `@}}>-----` | Mod. (+special) | Score |
+| `@}}>-----` | Mod. | Score |
 | ---: | :---: | :--- |
-| Initiative | 1 + 0 | = 1 |
+| Initiative | 1 | = 1 |
 
-| Attack | Base + Mod. (+ Special) | Score |
+| Attack | Base + Mod. | Score |
 | ---: | :---: | :--- |
-| Melee | 2 + 3 + 0 | = 5 |
-| Ranged | 2 + 1 + 0 | = 3 |
+| Melee | 2 + 3 | = 5 |
+| Ranged | 2 + 1 | = 3 |
 
 He's trained in all arms and armour
 
@@ -60,7 +60,7 @@ knowledge (anything else *royal privilege) | 0 + 3 | = 3
 
 ### Feats
 Feats | Notes
----: | :---
+---: | :---:
 simple weapon proficiency | 
 martial weapon proficiency | 
 shield proficiency | 
@@ -72,7 +72,9 @@ combat expertise |
 combat reflexes | 
 power attack | 
 animal affinity | 
-royal privilege | (*has knowledge in any subject as if untrained, +15 to intimidate & persuade when speaking as The Prince to his kingdom)
+royal privilege |  *^1*
+
+*^1* (*has knowledge in any subject as if untrained, +15 to intimidate & persuade when speaking as The Prince to his kingdom*)
 
 ### Languages
 Common

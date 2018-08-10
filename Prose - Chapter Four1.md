@@ -98,3 +98,12 @@ He thought about this but rebuffed it laying back: “That's a rather deep quest
 
 Tom deduced she was welcome to be with The Tailor for the foreseeable future, which was breakfast. 
 
+
+
+
+
+- - -
+
+
+
+

@@ -21,24 +21,25 @@ Wisdom | 14 | (2)
 Charisma | 18 | (4)
 
 ### Saves
-| Save | Rank + Mod.(+Special) | Score |
+| Save | Rank + Mod. | Score |
 | ---: | :---: | :--- |
 Fortitude | 1 + 1 | = 2
 Reflex | 3 + 4 | = 7
 Will | 3 + 2 | = 5
 
 ### Melee
-| `@}}>-----` | Mod. (+Special) | Score |
+| `@}}>-----` | Mod. | Score |
 | ---: | :---: | :--- |
-| Initiative | 4 + 0 | = 4 |
+| Initiative | 4 | = 4 |
 
-| Attack | Base + Mod. (+Special) | Score |
+| Attack | Base + Mod. | Score |
 | ---: | :---: | :--- |
-| Melee *1 | 2 + 1 + 0 | = 3 |
-| Melee light *2 | 2 + 4 + 0 | = 6 |
-| Ranged | 2 + 4 + 0 | = 6 |
+| Melee *1 | 2 + 1 | = 3 |
+| Melee light *2 | 2 + 4 | = 6 |
+| Ranged | 2 + 4 | = 6 |
 
 `*1 medium or heavy weapons`
+
 `*2 light weapons (weapon finesse)`
 
 Will take typically take Total Defense and on attack use disarm, feint, sunder and trip
@@ -75,7 +76,7 @@ use magic device | 6 + 4 | = 10
 
 ### Feats
 Feats | Notes
----: | ---:
+---: | :---:
 simple weapon proficiency |
 weapon finesse |
 combat expertise |

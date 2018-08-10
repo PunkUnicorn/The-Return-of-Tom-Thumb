@@ -30,7 +30,7 @@ Will | 0 + 3 | = 3
 ### Melee
 `@}}>-----` | Mod. (+special) | Score
 ---: | :---: | :---
-Initiative | 3 + 4 (Improved Initiative) | 7 
+Initiative | 3 (+ 4) | 7 
 
 Attack | Base + Mod. (+ Special) | Score
 ---: | :---: | :---
@@ -70,14 +70,16 @@ use rope | 4 + 3 | = 7
 
 ### Feats
 Feats | Notes
----: | :---
+---: | :---:
 Improved Initiative |   
 Self sufficient | 
 Simple weapon proficiency | 
 Favored enemy (rodents) | 
 Dodge | 
 Improved unarmed strike | 
-Cunning fist | *(same as Stunning fist but -2 to armour class until your next turn and only a 25% chance of success. Can not be used twice on the same target. )
+Cunning fist | *^1*
+
+*^1* (*same as Stunning fist but -2 to armour class until your next turn and only a 25% chance of success. Can not be used twice on the same target.*)
 
 ### Languages
 Common
