@@ -23,34 +23,41 @@ table {
   width: 100%;
   text-align: center;
   border-collapse: collapse;
-	display: block;
+	float: none;
 }
 table td {
   padding: 3px 4px;	
+	float: none;
 }
 table th {
   padding: 3px 4px;
 	page-break-after: never;
+	float: none;
 }
 table tbody td {
   font-size: 11px;
+	float: none;
 }
 table thead {
   background: #FFFFFF;
+	float: none;
 }
 table thead th {
   font-size: 12px;
   font-weight: bold;
   color: #333333;
   text-align: center;
+	float: none;
 }
 table tfoot {
   font-size: 8px;
   font-weight: bold;
   color: #333333;
+	float: none;
 }
 table tfoot td {
   font-size: 8px;
+	float: none;
 }
 
 /* https://friendsofepub.github.io/eBookTricks/ */

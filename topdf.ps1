@@ -220,7 +220,9 @@ cat "Prose - Chapter One1.md",
 	"Prose - Blank line.md",
 	"Prose - Appendix.md",
 	"Prose - Blank line.md",
-	"Character - Red Riding Hood\Red Riding Hood - D20 Model.md" | sc "The-Return-of-Tom-Thumb.md" 
+	"Character - Red Riding Hood\Red Riding Hood - D20 Model.md",
+	"Prose - Blank line.md",
+	"Character - Tom Thumb\Tom Thumb - D20 Model.md"	| sc "The-Return-of-Tom-Thumb.md" 
 	
 Get-Content "The-Return-of-Tom-Thumb.md" -Encoding UTF8 | Replace-FancyQuotes | Out-File "The-Return-of-Tom-Thumb.txt" -Encoding UTF8 -Append
 Write-Output "... made The-Return-of-Tom-Thumb.md and The-Return-of-Tom-Thumb.txt created"
@@ -237,7 +239,7 @@ Write-Output "... made The-Return-of-Tom-Thumb1.epub... (epub v1)"
 pandoc --css epubstyle.css `
   "final-title.md" `
   "The-Return-of-Tom-Thumb.md" `
-  -t epub2 `
+  -t epub2+smart `
   -o The-Return-of-Tom-Thumbv2.epub
 Write-Output "... made The-Return-of-Tom-Thumb2.epub... (epub v2)"
 
@@ -249,7 +251,7 @@ pandoc --css epubstyle.css `
 Write-Output "... made The-Return-of-Tom-Thumb.epub... (epub v3)"
 
 pandoc The-Return-of-Tom-Thumb.epub `
-  -o The-Return-of-Tom-Thumb.html
+  -o The-Return-of-Tom-Thumb.html --self-contained
 Write-Output "... made The-Return-of-Tom-Thumb.html..."
 
 

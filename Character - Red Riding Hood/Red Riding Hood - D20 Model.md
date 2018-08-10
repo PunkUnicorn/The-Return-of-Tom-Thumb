@@ -10,7 +10,7 @@ Hit Points | 7
 Alignment | Gangster/Indifferent
 Base Attack Bonus | 0
 
-## Attributes
+### Attributes
 | Attribute | n/18 | Modifier Bonus (Mod.) |
 | ---: | :---: | :--- |
 | Strength | 7 | (-2) |
@@ -20,14 +20,14 @@ Base Attack Bonus | 0
 | Wisdom |9 | (-1) |
 | Charisma | 16 | (3) |
 
-## Saves
+### Saves
 | Save | Rank + Mod. (+ Special) | Score |
 | ---: | :---: | :--- |
 | Fortitude | 0 + 1 | = 1 |
 | Reflex | 2 + 2 | = 4 |
 | Will | 0 + -1 + 2 *(*iron will*) | = 1 |
 
-## Melee
+### Melee
 | `@}}>-----` | Mod. (+special) | Score |
 | ---: | :---: | :--- |
 | Initiative | 2 + 0 | = 2 |
@@ -39,7 +39,7 @@ Base Attack Bonus | 0
 
 **She doesn't fight**
 
-She might smash a big porcline Jug over someones head, `1d2+1 (-2 Str.) point of subdual damadge`
+She might smash a big porcline Jug over someones head, `1d2+1 (-2 Str.) point of subdual damage`
 
 But she knows all the bandits, robbers and low life, they work for her dad
 
@@ -47,13 +47,13 @@ And the Kings Knights think her dad is a hero, and she is well known, and well i
 
 She's got it all sorted, who's she going to smash a jug over?
 
-She can throw a rock I guess `1d2 (-2 Str.) bludgening damadge` but as you can see it won't do any damadge
+She can throw a rock I guess `1d2 (-2 Str.) bludgeoning damage` but as you can see it won't do any damage
 
  `@}}>-----` | Mod. + Base + Armour | Score
   ---: | :---: | :---
 Armor Class | 2 + 10 + 0 | = 12
 
-## Skills
+### Skills
 | Skill | Ranks + Mod. (+ Special) | Score |
 | ---: | :---: | :--- |
 | appraise | 2 + 2 | = 6 |
@@ -69,15 +69,15 @@ Armor Class | 2 + 10 + 0 | = 12
 | spot | 4 + -1 | = 3 |
 | ride | 1 + 3 | = 4 (preference for side-saddle) |
 
-## Feats
+### Feats
 | Feats/Specials | Notes |
 | ---: | :--- | 
 | iron will | |
 | persuasive | |
-| connected | (*well known ganster family. +4 bonus to intimidate) |
+| connected | (*well known gangster family. +4 bonus to intimidate) |
 | local celebrity | (*gets a +2 bonus to perform when performing to those who know of the performer. Also 1D4 close friends in any town she's performed in. With Red this is typically a large group of girl-friends, 1D4 of which are in her inner circle) |
 
-## Languages 
+### Languages 
 * Common
-* Theives cant (*aka peddler's French*)
+* Thieves cant (*aka peddler's French*)
 * (note she can learn two more languages (*Int. bonus of 2*)
