@@ -44,7 +44,7 @@ Function Spellcheck-Chapter($chapterName, $spellingFailFilename) {
 		python spellchecker.py | `
 		ConvertFrom-Csv
 		
-	Write-Output $chapterSpelling 
+	Write-Output $chapterSpelling | Format-Table -Wrap
 	
 	$chapterSpelling | Out-File -FilePath $spellingFailFilename -Append
 	
@@ -128,7 +128,7 @@ Function WordAnalysis-Chapter($chapterName) {
 	# wut $hintsWithCount = $bigWords | Add-Member 
 	
 	
-	Write-Output $chapterWordHints 
+	Write-Output $chapterWordHints | Format-Table -Wrap
 	Write-Output "$chapterName WordAnalysis ends!"
 }
 
