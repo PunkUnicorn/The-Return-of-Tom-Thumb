@@ -15,7 +15,7 @@ His pack was ready: his formal knight's robe, his standard knight's armour; laid
 
 Knights armour had slightly different strapping compared to princely armour. But he was prepared and practiced, and soon encased in his new metal shell. Dressed in the over-robe, with his pack on his back, he was almost ready.
 
-The heavy helmet and visor the last parts. These amplified his own breath, and cropped his vision. The discomfort a reassurance; it would be a good a disguise. 
+The heavy helmet and visor the last parts. These amplified his own breath, and cropped his vision. The discomfort a reassurance; it would be a good disguise. 
 
 The south stair would be deserted at this time; his passage unobserved. Sure enough, despite the noise from his pack and him, his exit through the south tower stairs went unheard.
 
