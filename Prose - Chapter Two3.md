@@ -11,9 +11,9 @@ Suddenly there was someone behind them: “You two are new”, the person said. 
 
 Kim barely said anything, a slight disapproval for a greeting.
 
-But Tom answered eagerly, “Hello.”. She was pleased for a new friend. “We’re from The Forest.“. She pointed north to explain.
+But Tom answered eagerly, “Hello.”; she was pleased for a new friend. “We’re from The Forest.“. She pointed north to explain.
 
-“Oh.” said the boy as if he was interested. “The Forest.” he nodded, and a pause brewed. 
+“Oh.” said the boy as if he was interested. “The Forest.” he nodded agreeing, and a pause brewed. 
 
 “What you come down here for?” he asked.
 
@@ -29,13 +29,13 @@ Tom produced one of the giant pips; holding it in her outstretched palms for the
 
 The boy saw her offering but after no time he was astonished, which was accompanied by silence.
 
-“That’s not right.” He said after a little time. “Who else you shown that to?” He inquired.
+“That’s not right.” He said after a little time. “Who else you shown that to?”
 
 “No one, you’re the first.” Tom’s quick reply.
 
 “Where’d you get that from then?”, the boy asked adding: “I'm Jack by the way.”
 
-“Nice to meet you Jack, I'm Tom. We got it from a giant apple.” she answered.
+“Nice to meet you Jack, I'm Tom. We got it from a giant apple.”
 
 Jack did not seem to notice her greeting which was her favourite part.
 
@@ -43,15 +43,15 @@ Instead he asked: “What you planning on doing with it?”
 
 Tom was sure she had answered this already. “I want to sell it.” 
 
-“Oh.” said Jack. “What for?” quickly clarifying, “How much you asking for it?”
+“Oh.” said Jack. “What for?”, quickly clarifying, “How much you asking for it?”
 
 Kim interrupted, demanding: “A cow.”
 
-Jack challenged a question back: “A cow?” He was incredulous. He looked around the sky barely containing chortles.
+Jack challenged a question back: “A cow?” He was incredulous; looking around the sky, barely containing chortles.
 
 “Come on.” said Kim to Tom, grabbing her as he took firm steps towards the greater village hubbub.
 
-“No!” Jack burst, “Wait!”; his interest in the pip confirmed.
+“No!” burst Jack, “Wait!”; his interest in the pip confirmed.
 
 Kim stopped but kept his grip on Tom, her jumper stretching as she turned to Jack: “I’ve got three.”
 

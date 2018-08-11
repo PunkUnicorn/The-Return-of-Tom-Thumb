@@ -17,7 +17,7 @@ He flashed an awkward glance towards Tom, but averted a connection. Besides, Tom
 
 But let us switch to the perspective of this handsome, relaxed traveller.
 
-As he approached the two he thought: “How odd; a pair of urchins in rags. One of which with impeccable boots.”.
+As he approached the two he thought: “How odd; a pair of urchins in rags. One of which with impeccable boots.”
 
 And, this traveller thought, how did they get to be holding Jack's cow? The hasty lad Jack had been trying to sell it for too much coin; he seemed desperate, but would not change his mind on the price. “I wonder?” he thought, on all counts. 
 
@@ -51,13 +51,15 @@ Tom laughed; this smart, handsome figure fooling around. Kim snorted out enough 
 
 “I'm Tom.” she completed, and then continued with a question: “A tailor?”, she asked impressed. And then more earnestly: “Do you really want to ask questions? What about?”
 
-The Tailor took a step forward, nodded to confirm, “Yes.” He paused. “If I could ask one thing, that I am curious about: did you buy that cow off that lad Jack?”
+The Tailor took a step forward, nodded to confirm, “Yes.” He paused. “If I could ask one thing: did you buy that cow off that lad Jack?”
 
 Tom was proud of buying the cow; one of her proudest achievements: “Yes.” but she noticed The Tailor was concerned: “Why?”.
 
 The Tailor looked at Tom with regret, gently stating: “All day Jack was asking a rather high price.”, but Tom did not understand. The Tailor seemed to notice, breaking the slight pause by continuing: “I wondered if...  would you share how much the cow cost you?”. The Tailor was aware this was a rude question, but felt concern for the pair.
 
-Tom shrugged: “Three apple pips.“. The Tailor was confused but after some questions he understood: they were from a giant apple. Tom would not share where the apple came from. In fact, she seemed to shut down when asked; she started shrinking away. 
+Tom shrugged: “Three apple pips.“
+
+The Tailor was confused but after some questions he understood: they were from a giant apple. Tom would not share where the apple came from. In fact, she seemed to shut down when asked; she started shrinking away. 
 
 The Tailor would liked to have asked more questions. He wanted to correlate giant apples and strange boots against stories he had known. But The Tailor needed to ask questions to gather more facts. Instead the girl was talking less, lips sealed and looking frightened.
 
