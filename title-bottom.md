@@ -1,1 +1,1 @@
-![](cover.jpg)
+![](cover_small.png)
