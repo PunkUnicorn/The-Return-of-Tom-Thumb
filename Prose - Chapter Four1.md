@@ -13,7 +13,7 @@ He looked out northwards: the dusk lit city below the castle battlements. It was
 
 His pack was ready: his formal knight's robe, his standard knight's armour; laid out in neat pieces. He had the 'letter from The Prince' he had written as part of his cover. It was safe in his pouch. His disguise complete. 
 
-Knights armour had slightly different strapping compared to princely armour. But he was prepared and practiced, and soon encased in his new metal shell. Dressed in the over-robe, with his pack on his back, he was almost ready.
+Knights armour had slightly different strapping compared to the princely armour he was familiar with. But he was prepared and practiced, and soon encased in his new metal shell. Dressed in the over-robe, with his pack on his back, he was almost ready.
 
 The heavy helmet and visor the last parts. These amplified his own breath, and cropped his vision. The discomfort a reassurance; it would be a good disguise. 
 
@@ -45,7 +45,7 @@ His stomach churned.
 
 The breeze stronger, the cold biting his eyes. And the sound of rushing. It was the sound of rain. Listening. Somehow the prospect of rain was exhilarating; there was no rain in the life of an heir to the throne. Yet here he was, a few steps away.
 
-The tunnel narrowed and led round to the left. Following this: the smell of rain and the outside. The tunnel became a narrow cave and an opening overlooking fields. Looking out recalling what he had read, what he had studied, and all his preparations: the points of safety on the long routes north: isolated villages and towns, trade points and knight's barracks.
+The tunnel narrowed and led round to the left. Following this: the smell of rain and the outside. The tunnel became a narrow cave and an opening overlooking fields. Looking out recalling what he had read, what he had studied, and all his preparations: the points of safety along the north routes: isolated villages and towns, trade points and knight's barracks.
 
 But it was rather dangerous out there, which added to the exhilaration. He had studied (and sometimes personally investigated) the range of possible dangers: bandits were prevalent northwards on isolated trails, a criminal network is growing and has become more bold. Aside from this there are always desperate people. 
 
@@ -88,9 +88,9 @@ Tom stood looking northwards, imagining how far Kim had gotten. The cow was slow
 
 But she could not take a step; blocked by an elusive, buried reason. She did not want to become aware of the reason. Wherever he was, Kim was walking away slowly. Again, she thought she could catch him up.
 
-![](TomThumb/tomthumb1_small.png)
 Kim was telling her something though. He had travelled without her for a reason. The elusive reason gaining painful clarity: home was danger.
 
+![](TomThumb/tomthumb1_small.png)
 The hay inside had lost it's bliss, but it felt like the closest thing she had to a home right now, so she went inside.
 
 The Tailor was sitting up looking at her. His face and eyes showing sympathy. “Could I live here?” she thought to herself. However, would The Tailor live here? “Where are you going?” she asked him.
