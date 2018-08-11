@@ -45,13 +45,13 @@ His stomach churned.
 
 The breeze stronger, the cold biting his eyes. And the sound of rushing. It was the sound of rain. Listening. Somehow the prospect of rain was exhilarating; there was no rain in the life of an heir to the throne. Yet here he was, a few steps away.
 
-The tunnel narrowed and led round to the left. Following this: the smell of rain and the outside. The tunnel became a narrow cave and an opening overlooking fields. Looking out recalling what he had read, what he had studied, and all his preparations: the points of safety along the north routes: isolated villages and towns, trade points and knight's barracks.
+The tunnel narrowed and led round to the left. Following this: the smell of rain and the outside. The tunnel became a narrow cave and an opening overlooking fields. 
 
-But it was rather dangerous out there, which added to the exhilaration. He had studied (and sometimes personally investigated) the range of possible dangers: bandits were prevalent northwards on isolated trails, a criminal network is growing and has become more bold. Aside from this there are always desperate people. 
+His anxiety justifying a recap; recalling what he had read and studied to preparing for this escape: his points of safety along the north routes: isolated villages and towns, trade points and knight's barracks.
 
-While preparing his escape he had noticed that there were a few towns and cities in the south that had their own particular problems... tax collecting was difficult, possibly some organised crime. Typically it was the north that had these problems.
+It was dangerous out there, which added to the exhilaration. He had studied (and sometimes personally investigated) the range of possible dangers: bandits were prevalent northwards on isolated trails, a criminal network is growing and has become more bold. Aside from this there are always desperate people. 
 
-However, a knight would have little problem passing through civilised dwellings; it was the perfect disguise. As for bandits on the trails... he might be able to take them on and defeat them. But the best solution was to travel with a group; strength in numbers. Again the disguise as a knight would be beneficial.
+However, a knight minding his own business would have no problem passing through civilised dwellings; it was the perfect disguise. As for bandits on the trails... he might be able to take them on and defeat them, probably. But the best solution was to travel with a group; strength in numbers. Again the disguise as a errond knight would be beneficial.
 
 He could cross the rain into his new life, there it was: right there: all that he had prepared for.
 
