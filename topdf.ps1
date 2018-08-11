@@ -270,6 +270,20 @@ pandoc --css epubstyle.css `
 Write-Output "... made The-Return-of-Tom-Thumb.epub... (epub v3)"
 
 pandoc --css epubstyle.css `
+  "final-title.md" `
+  "The-Return-of-Tom-Thumb.md" `
+  -t epub3 `
+  -o The-Return-of-Tom-Thumb_nosmart.epub 
+Write-Output "... made The-Return-of-Tom-Thumb_nosmart.epub... (epub v3)"
+
+pandoc --css epubstyle.css `
+  "final-title.md" `
+  "The-Return-of-Tom-Thumb.md" `
+  -t plain `
+  -o The-Return-of-Tom-Thumb.txt
+Write-Output "... remade better The-Return-of-Tom-Thumb.txt... ('-t plain')"
+
+pandoc --css epubstyle.css `
   The-Return-of-Tom-Thumb.epub `
   -o The-Return-of-Tom-Thumb.html --self-contained
 Write-Output "... made The-Return-of-Tom-Thumb.html..."
