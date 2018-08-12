@@ -1,6 +1,8 @@
 /* This defines styles and classes used in the book */
 body { margin: 4%; font-size: medium; width: 92%; height: 92%; }
 img { float: left; margin: 4%; }
+div#cover-image { align-items: center; justify-content: center; }
+div#cover-image img { float:none; width: 92%; align:center; }
 p { text-align: justify; text-indent: 1em; float: none; }
 code { font-family: monospace; }
 h1 { text-align: left; float: none; }
