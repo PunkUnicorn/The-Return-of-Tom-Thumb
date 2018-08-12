@@ -254,7 +254,8 @@ pandoc --css epubstyle.css `
   "title.md" `
   "The-Return-of-Tom-Thumb.md" `
   -t epub `
-  -o The-Return-of-Tom-Thumbv1.epub
+  -o The-Return-of-Tom-Thumbv1.epub `
+  metadata.yaml 
 Write-Output "... made The-Return-of-Tom-Thumb1.epub... (epub v1)"
 
 pandoc --css epubstyle.css `
@@ -262,7 +263,8 @@ pandoc --css epubstyle.css `
   "title.md" `
   "The-Return-of-Tom-Thumb.md" `
   -t epub2+smart `
-  -o The-Return-of-Tom-Thumbv2.epub
+  -o The-Return-of-Tom-Thumbv2.epub `
+  metadata.yaml 
 Write-Output "... made The-Return-of-Tom-Thumb2.epub... (epub v2)"
 
 pandoc --css epubstyle.css `
@@ -270,14 +272,15 @@ pandoc --css epubstyle.css `
   "title.md" `
   "The-Return-of-Tom-Thumb.md" `
   -t epub3+smart `
-  -o The-Return-of-Tom-Thumb.epub 
+  -o The-Return-of-Tom-Thumb.epub `
+  metadata.yaml 
 Write-Output "... made The-Return-of-Tom-Thumb.epub... (epub v3)"
 
 pandoc --css epubstyle.css `
   --epub-cover-image=cover_small.png `
   "title.md" `
   "The-Return-of-Tom-Thumb.md" `
-  -t epub3 `
+  -t epub3-smart`
   -o The-Return-of-Tom-Thumb_test.epub `
   metadata.yaml 
 Write-Output "... made The-Return-of-Tom-Thumb_test.epub... (epub test)"
