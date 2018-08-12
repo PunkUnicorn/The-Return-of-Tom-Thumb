@@ -194,22 +194,23 @@ soxi
 # I used to think pandoc really really likes a blank line at the end!!! It can be funny on some readers without
 # I'm not really sure about this any more. With the blank line, and all my mitigating measures it still goes funny on my out the box iPad book app
 # I think it might be the iPad book app. Other readers seem to find it ok.
-# Sometimes I worry that I don't over-think things enough
+# Now I think it's an epub book version thing
 #
 Write-output `n | Out-File "Prose - Blank line.md" -Append
 Write-output "# Appendix A-1" | Out-File "Prose - Appendix1.md" -Append
 Write-output "# Appendix A-2" | Out-File "Prose - Appendix2.md" -Append
 Write-output "# Appendix A-3" | Out-File "Prose - Appendix3.md" -Append
 Write-output "# Appendix A-4" | Out-File "Prose - Appendix4.md" -Append
-
-Write-Output "Adding build version to final-title.md..."
 Add-Content -Path "book-version.txt" -Value $env:APPVEYOR_BUILD_VERSION
-cat title-top.md, "Prose - Blank line.md", book-version.txt, "Prose - Blank line.md", title-bottom.md, "Prose - Blank line.md" | sc final-title.md # title.md contents at the top
-#cat title-top.md, "Prose - Blank line.md", book-version.txt, "Prose - Blank line.md" | sc final-title.md # title.md contents at the top
-Write-Output "Adding build version to final-title.md FINISHED"
+
+Write-Output "Adding build version and creating metadata.yaml..."
+Get-Content partial_metadata.yaml -Encoding UTF8 | %{ $_.Replace("BOOKVERSIONHERE", $env:APPVEYOR_BUILD_VERSION) } | Out-File "metadata.yaml" -Encoding UTF8
+
 
 Write-Output "Combining markdown..."
-cat "Prose - Chapter One1.md",
+cat "book-version.txt",
+	"Prose - Blank line.md",
+	"Prose - Chapter One1.md",
 	"Prose - Blank line.md",
 	"Prose - Chapter Two1.md",
 	"Prose - Blank line.md",
@@ -249,35 +250,42 @@ Write-Output "Combining markdown FINISHED"
 
 Write-Output "Creating books..."
 pandoc --css epubstyle.css `
-  "final-title.md" `
+  --epub-cover-image=cover_small.png `
+  "title.md" `
   "The-Return-of-Tom-Thumb.md" `
   -t epub `
   -o The-Return-of-Tom-Thumbv1.epub
 Write-Output "... made The-Return-of-Tom-Thumb1.epub... (epub v1)"
 
 pandoc --css epubstyle.css `
-  "final-title.md" `
+  --epub-cover-image=cover_small.png `
+  "title.md" `
   "The-Return-of-Tom-Thumb.md" `
   -t epub2+smart `
   -o The-Return-of-Tom-Thumbv2.epub
 Write-Output "... made The-Return-of-Tom-Thumb2.epub... (epub v2)"
 
 pandoc --css epubstyle.css `
-  "final-title.md" `
+  --epub-cover-image=cover_small.png `
+  "title.md" `
   "The-Return-of-Tom-Thumb.md" `
   -t epub3+smart `
   -o The-Return-of-Tom-Thumb.epub 
 Write-Output "... made The-Return-of-Tom-Thumb.epub... (epub v3)"
 
 pandoc --css epubstyle.css `
-  "final-title.md" `
+  --epub-cover-image=cover_small.png `
+  "title.md" `
   "The-Return-of-Tom-Thumb.md" `
   -t epub3 `
-  -o The-Return-of-Tom-Thumb_nosmart.epub 
-Write-Output "... made The-Return-of-Tom-Thumb_nosmart.epub... (epub v3)"
+  -o The-Return-of-Tom-Thumb_test.epub `
+  metadata.yaml 
+Write-Output "... made The-Return-of-Tom-Thumb_test.epub... (epub test)"
+
+
 
 pandoc --css epubstyle.css `
-  "final-title.md" `
+  "title.md" `
   "The-Return-of-Tom-Thumb.md" `
   -t plain `
   -o The-Return-of-Tom-Thumb.txt
@@ -291,8 +299,9 @@ Write-Output "... made The-Return-of-Tom-Thumb.html..."
 # Make the audio book (WIP)
 Write-Output "Making Audio book ..."
 # Add the title page in, which pandoc takes in as a separate file in addition to the book files. Here we want to include it all in one file
-#cat "final-title.md", The-Return-of-Tom-Thumb.txt | sc The-Return-of-Tom-Thumb-with-title.txt
-cat "final-title.md", The-Return-of-Tom-Thumb-for-audio.txt | sc The-Return-of-Tom-Thumb-for-audio-with-title.txt
+
+cat "title.md", "Prose - Blank Line.md", The-Return-of-Tom-Thumb-for-audio.txt | sc The-Return-of-Tom-Thumb-for-audio-with-title.txt
+
 Get-Content -Path "The-Return-of-Tom-Thumb-for-audio-with-title.txt" -Encoding UTF8 | `
 	Destroy-Quotes | `
 	%{ $_.Replace("%", "").Replace("<sub>","").Replace("</sub>", "").Replace("*to*", "TO").Replace("- ", "").Replace(" -", "") } >> gTTS_word_input.txt
@@ -314,14 +323,11 @@ Write-Output "... made The-Return-of-Tom-Thumb.wav"
 sox The-Return-of-Tom-Thumb.wav --channels 2 The-Return-of-Tom-Thumb-stereo.wav -q
 Write-Output "... made The-Return-of-Tom-Thumb-stereo.wav"
 
-#copy .\Music\natural-reader-soundtrack.mp3 The-Return-of-Tom-Thumb-with-music.mp3 # default result if next step fails
-#Write-Output "... made default upload artifact (backing track with no voice) The-Return-of-Tom-Thumb-with-music.mp3"
+# Triple length of The-Return-of-Tom-Thumb-with-music.mp3
+sox natural-reader-soundtrack.wav natural-reader-soundtrack.wav natural-reader-soundtrack.wav natural-reader-soundtrack-tripled.wav -q 
+Write-Output "... made natural-reader-soundtrack-tripled.wav"
 
-#tripple length of The-Return-of-Tom-Thumb-with-music.mp3
-sox natural-reader-soundtrack.wav natural-reader-soundtrack.wav natural-reader-soundtrack.wav natural-reader-soundtrack-trippled.wav -q 
-Write-Output "... made natural-reader-soundtrack-trippled.wav"
-
-sox -m natural-reader-soundtrack-trippled.wav The-Return-of-Tom-Thumb-stereo.wav tRoTT-with-music.wav -q
+sox -m natural-reader-soundtrack-tripled.wav The-Return-of-Tom-Thumb-stereo.wav tRoTT-with-music.wav -q
 Write-Output "... made sox mix of tRoTT-with-music.wav"
 
 $trimToMinutes = "$([int]($(soxi -D The-Return-of-Tom-Thumb-stereo.wav)/60))"
