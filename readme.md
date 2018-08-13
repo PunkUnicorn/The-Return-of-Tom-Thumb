@@ -1,4 +1,4 @@
-# The Return of Tom Thumb (*And The Seven League Boots*)
+# The Return of Tom Thumb (*and the Seven League Boots*)
 
 *Created By ...*
 * PunkUnicorn [![PunkUnicorn Build status](https://ci.appveyor.com/api/projects/status/n1dn0yffjduo04tf?svg=true)](https://ci.appveyor.com/project/PunkUnicorn/the-return-of-tom-thumb)
@@ -8,6 +8,11 @@
 * Purplejoby
 * Igot-knoider
 * rob-gee
+
+## Read the latest book here!
+*thanks to https://www.ofoct.com/*
+
+https://www.ofoct.com/viewer/viewer_url.php?fileurl=https://ci.appveyor.com/api/projects/PunkUnicorn/the-return-of-tom-thumb/artifacts/The-Return-of-Tom-Thumb.epub
 
 *Starring...*
 # Tom Thumb
