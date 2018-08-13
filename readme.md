@@ -10,7 +10,7 @@
 * rob-gee
 
 ## Read the latest book here!
-*thanks to https://www.ofoct.com/*
+*click the link below to open an online reader*
 
 https://www.ofoct.com/viewer/viewer_url.php?fileurl=https://ci.appveyor.com/api/projects/PunkUnicorn/the-return-of-tom-thumb/artifacts/The-Return-of-Tom-Thumb.epub
 
