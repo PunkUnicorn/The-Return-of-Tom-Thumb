@@ -21,10 +21,21 @@ em, em em em, em em em em em { font-style: italic;}
 em em, em em em em { font-style: normal; }
 
 section#a-croconossorus-tale { 
-	background-image: url(old-paper-by-grunge.jpg);
+	background-image: url(file7.png); /*pandoc makes file7.png from old-paper-by-grunge.jpg - as long a this is referenced explicitly */
   background-repeat: no-repeat;
 	background-position: center;
 	background-size: cover;
+}
+section#a-croconossorus-tale > img { /* hide old-paper-by-grunge.jpg, we just include it so pandoc makes file7.png used in css background */
+	display: none;
+	width: 0px;
+	height: 0px;
+}
+section#a-croconossorus-tale > pre, 
+section#a-croconossorus-tale > code,
+section#a-croconossorus-tale > p { 
+  font-family: cursive;
+	font-style: italic;
 }
 
 table {
