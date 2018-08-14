@@ -52,3 +52,6 @@ ___
 ## D20 system
 
 http://www.d20srd.org/index.htm
+
+Old paper by:
+<a href='https://www.freepik.com/free-photo/grunge-vintage-old-paper-background_1273370.htm'>Designed by Freepik</a>
