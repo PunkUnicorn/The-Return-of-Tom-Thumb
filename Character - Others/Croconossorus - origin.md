@@ -1,10 +1,10 @@
 
-A Croconossorus “Tale”
+### A Croconossorus “Tale”
 
 (As translated from the tablets of “ancient Hadriel” by “Majalofalic the occasional”, one summers day. 
 * Parts marked __unreadable__ either missing or damaged.)
 
-1) 
+#### 1) 
 
   O, Croconossorus of Fable, 
   
@@ -14,7 +14,7 @@ A Croconossorus “Tale”
 
  	you knew the ways of the Hag’n’rahoot.
 
-2)
+#### 2)
 
   Keeping us safe both knight and day,
   
@@ -24,7 +24,7 @@ A Croconossorus “Tale”
 
  	in your company did we gleem!
 
-3)
+#### 3)
 
   So all seemed well and right and good,
   
