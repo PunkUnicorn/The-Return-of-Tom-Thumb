@@ -20,6 +20,13 @@ a.footnote-ref { vertical-align: super; }
 em, em em em, em em em em em { font-style: italic;}
 em em, em em em em { font-style: normal; }
 
+section#a-croconossorus-tale { 
+	background-image: url(old-paper-by-grunge.jpg);
+  background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+
 table {
   font-family: "Courier New", Courier, monospace;
   width: 100%;
