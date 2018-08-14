@@ -34,7 +34,7 @@
 
  	temptation came and it made us sway…
 
-4)
+#### 4)
 
   Those days where long , relaxed and breezy,
   
@@ -49,7 +49,7 @@
 
                   Foolish few!
         
-5)
+#### 5)
 
   Taboos were broken and lines were crossed,
   
@@ -59,7 +59,7 @@
 
         The Croconousaurus!
     
-6)
+#### 6)
 
   At first it was but just a few,
   
@@ -69,7 +69,7 @@
 
  	the flavour was un-surpassed…
 
-7)
+#### 7)
   So addictive was this brand-new taste,
   
  	that non did pause or ask…
@@ -78,7 +78,7 @@
 
  	The Croconossorus?”.
 
-8)
+#### 8)
 
   So it was, it came to pass,
   
@@ -88,7 +88,7 @@
 
  	the betrayal was complete.
 
-9)
+#### 9)
 
   Though Croconossorus he hoped,
   
@@ -98,7 +98,7 @@
 
  	our appetites so vast.
 
-10) 
+#### 10) 
 
   Until the oldest, biggest, wisest,
   
@@ -108,7 +108,7 @@
 
  	with both claw and tooth and beak!
 
-11)
+#### 11)
 
   So strange was it for him to harm,
   
@@ -122,7 +122,7 @@
     
                   where they hit our sand)
                     
-12)
+#### 12)
 
   Then with crashing feet and snarling breath
   
@@ -137,7 +137,7 @@
     
             for we realised our fate...
       
-13) 
+#### 13) 
 
   As if a spell had broken,
   
@@ -149,7 +149,7 @@
 
             unreadable
      
-14)
+#### 14)
 
   Then our wisest mages did convene,
   
@@ -159,7 +159,7 @@
 
  	into a fold to keep.
 
-15)
+#### 15)
 
   A place to learn and live and grow,
   
@@ -171,7 +171,7 @@
 
             unreadable
     
-16)
+#### 16)
 
   The noble beast now all alone,
   
@@ -181,7 +181,7 @@
 
  	mile after mile.
 
-17) 
+#### 17) 
 
   His hope so strong, now growing weak,
   
@@ -191,7 +191,7 @@
 
  	perhaps all lost or slaught?
 
-18)
+#### 18)
 
   With heavy heart, he journeyed back,
   
@@ -201,7 +201,7 @@
 
  	to forget how he had fought.
 
-19)
+#### 19)
 
   There he found beneth the trees,
   
