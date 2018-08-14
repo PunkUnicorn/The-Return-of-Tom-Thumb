@@ -1,3 +1,4 @@
+![](old-paper-by-grunge.jpg)
 
 ### A Croconossorus “Tale”
 
