@@ -20,22 +20,16 @@ a.footnote-ref { vertical-align: super; }
 em, em em em, em em em em em { font-style: italic;}
 em em, em em em em { font-style: normal; }
 
-section#appendix-b { 
-	background-image: url(file7.png); /*pandoc makes file7.png from old-paper-by-grunge.jpg - as long a this is referenced explicitly */
-  background-repeat: no-repeat;
-	background-position: center;
-	background-size: cover;
-}
-section#a-croconossorus-tale img { /* hide old-paper-by-grunge.jpg, we just include it so pandoc makes file7.png used in css background */
-	display: none;
-	width: 0px;
-	height: 0px;
-}
 section#appendix-b > pre, 
 section#appendix-b > code,
 section#appendix-b > p { 
   font-family: cursive;
 	font-style: italic;
+	font-size: 10px;
+}
+section#appendix-b > img {
+	float: none; 
+	margin: 0%;
 }
 
 table {
