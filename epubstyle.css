@@ -20,18 +20,6 @@ a.footnote-ref { vertical-align: super; }
 em, em em em, em em em em em { font-style: italic;}
 em em, em em em em { font-style: normal; }
 
-section#appendix-b > pre, 
-section#appendix-b > code,
-section#appendix-b > p { 
-  font-family: cursive;
-	font-style: italic;
-	font-size: 10px;
-}
-section#appendix-b > img {
-	float: none; 
-	margin: 0%;
-}
-
 table {
   font-family: "Courier New", Courier, monospace;
   width: 100%;
@@ -80,6 +68,25 @@ table tfoot {
 table tfoot td {
   font-size: 8px;
 	float: none;
+}
+
+section#a-croconossorus-tale * { 
+  font-family: cursive;
+	font-size: 16px;
+	margin: 4%;
+}
+section#a-croconossorus-tale h3  { 
+  font-family: unset;
+	font-size: 14px;
+  font-weight: normal;
+}
+section#a-croconossorus-tale * img { 
+	position: absolute;	
+	object-fit: cover;
+	margin-left: -8px;
+	margin-top: -8px;
+	padding: 0%;
+	z-index: -1;
 }
 
 /* https://friendsofepub.github.io/eBookTricks/ */

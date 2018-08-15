@@ -285,7 +285,7 @@ pandoc --css epubstyle.css `
   --epub-cover-image=cover_small.png `
   "title.md" `
   "The-Return-of-Tom-Thumb.md" `
-  -t epub3+smart`
+  -t epub3+smart `
   -o The-Return-of-Tom-Thumb_test.epub `
   metadata.yaml 
 Write-Output "... made The-Return-of-Tom-Thumb_test.epub... (epub test)"

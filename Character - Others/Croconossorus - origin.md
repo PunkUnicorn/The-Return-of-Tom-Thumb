@@ -1,10 +1,10 @@
 
 ### A Croconossorus “Tale”
 
-(As translated from the tablets of “ancient Hadriel” by “Majalofalic the occasional”, one summers day. 
-* Parts marked __unreadable__ either missing or damaged.)
+### As translated from the tablets of “ancient Hadriel” by “Majalofalic the occasional”, one summers day. Parts marked 'unreadable' either missing or damaged.
 
 ![](old-paper-by-grunge.jpg)
+
 #### 1) 
 
 | O, Croconossorus of Fable, 
@@ -19,32 +19,31 @@
 
 | Keeping us safe both knight and day,
   
-|	and in the spaces and in-between,
+| and in the spaces and in-between,
 
-|	for so many wondourous days,
+| for so many wondourous days,
 
-|	in your company did we gleem!
+| in your company did we gleem!
 
 #### 3)
 
 | So all seemed well and right and good,
-  
-|	but then one day on a Spike we stood.
 
-|	For even in our lofty ways,
+| but then one day on a Spike we stood.
 
-|	temptation came and it made us sway…
+| For even in our lofty ways,
+
+| temptation came and it made us sway…
 
 #### 4)
 
 | Those days where long , relaxed and breezy,
   
-|	but some got bored & stood un-easy.
+| but some got bored & stood un-easy.
 
-|	They spoke of finding something new,
+| They spoke of finding something new,
 
-|	then darkness came & twisted their view…
- 	
+| then darkness came & twisted their view…
 
 |       Oh woe to us for these
 
@@ -53,161 +52,162 @@
 #### 5)
 
 | Taboos were broken and lines were crossed,
-  
+
 | our morals they were mostly lost,
 
-|	all to have a new thing to eat…
+| all to have a new thing to eat…
 
 |       The Croconousaurus!
-    
+
 #### 6)
 
 | At first it was but just a few,
-  
-|	then before much time had passed,
 
-|	most all our people had dined on it,
+| then before much time had passed,
 
-|	the flavour was un-surpassed…
+| most all our people had dined on it,
+
+| the flavour was un-surpassed…
 
 #### 7)
 | So addictive was this brand-new taste,
-  
-|	that non did pause or ask…
 
-|	“What about our old, loyal friends,
+| that non did pause or ask…
 
-|	The Croconossorus?”.
+| “What about our old, loyal friends,
+
+| The Croconossorus?”.
 
 #### 8)
 
 | So it was, it came to pass,
-  
-|	we all ate of it’s meat.
 
-|	Blinded by our appetites,
+| we all ate of it’s meat.
 
-|	the betrayal was complete.
+| Blinded by our appetites,
+
+| the betrayal was complete.
 
 #### 9)
 
 | Though Croconossorus he hoped,
-  
-|	this thing not long to last,
 
-|	our hunger did go on and on,
+| this thing not long to last,
 
-|	our appetites so vast.
+| our hunger did go on and on,
+
+| our appetites so vast.
+
+![](old-paper-by-grunge.jpg)
 
 #### 10) 
 
 | Until the oldest, biggest, wisest,
-  
-|	and most Fearsome of the beat,
 
-|	did turn upon his masters,
+| and most Fearsome of the beat,
 
-|	with both claw and tooth and beak!
+| did turn upon his masters,
+
+| with both claw and tooth and beak!
 
 #### 11)
 
 | So strange was it for him to harm,
-  
-|	the people of this land,
 
-|	that tears did flow as he attacked,
+| the people of this land,
 
-|	to make his mighty stand.
+| that tears did flow as he attacked,
+
+| to make his mighty stand.
 
 |   (it has been said that trees did grow,
-    
+
 |                 where they hit our sand)
-                    
+
 #### 12)
 
 | Then with crashing feet and snarling breath
-  
-|	and swish of mighty
- 	tail,
 
-|	the people of all Hadriel did learn to
+| and swish of mighty tail,
 
-|	fear and wail !
+| the people of all Hadriel did learn to
+
+| fear and wail !
 
 |           Much woe did come upon us,
-    
+
 |           for we realised our fate...
-      
+
 #### 13) 
 
 | As if a spell had broken,
-  
-|	the mist cleared before our eyes,
 
-|	no more a lie to hide behind,
+| the mist cleared before our eyes,
 
-|	avoid this thing so vile.
+| no more a lie to hide behind,
+
+| avoid this thing so vile.
 
 |           unreadable
-     
+
 #### 14)
 
 | Then our wisest mages did convene,
-  
-|	to cast a spell so deep,
 
-|	to take us all far from this land,
+| to cast a spell so deep,
 
-|	into a fold to keep.
+| to take us all far from this land,
+
+| into a fold to keep.
 
 #### 15)
 
 | A place to learn and live and grow,
-  
-|	seek wisdom, light and peace,
 
-|	no more to harm our fellow beings,
+| seek wisdom, light and peace,
+
+| no more to harm our fellow beings,
 
 | kill man or fish or beast.
 
 |           unreadable
-    
+
 #### 16)
 
 | The noble beast now all alone,
-  
-|	did wonder for a while.
 
-|	seeing oceans deep and lands afar,
+| did wonder for a while.
 
-|	mile after mile.
+| seeing oceans deep and lands afar,
+
+| mile after mile.
 
 #### 17) 
 
 | His hope so strong, now growing weak,
-  
-|	for not a glimps was caught,
 
-|	of his breatheren he had hoped to find,
+| for not a glimps was caught,
 
-|	perhaps all lost or slaught?
+| of his breatheren he had hoped to find,
+
+| perhaps all lost or slaught?
 
 #### 18)
 
 | With heavy heart, he journeyed back,
-  
-|	to the forest of the salt.
 
-|	his home of old, his place of birth,
+| to the forest of the salt.
 
-|	to forget how he had fought.
+| his home of old, his place of birth,
+
+| to forget how he had fought.
 
 #### 19)
 
 | There he found beneth the trees,
-  
-|	some comfort of a sort,
 
-|	and held inside a glow of hope,
+| some comfort of a sort,
 
-|	for happiness time-brought.
+| and held inside a glow of hope,
+
+| for happiness time-brought.
