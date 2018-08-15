@@ -67,26 +67,27 @@ table tfoot {
 }
 table tfoot td {
   font-size: 8px;
-	float: none;
+  float: none;
 }
 
 section#a-croconossorus-tale * { 
   font-family: cursive;
-	font-size: 16px;
-	margin: 4%;
+  font-size: 16px;
+  margin: 4%;
 }
 section#a-croconossorus-tale h3  { 
   font-family: unset;
-	font-size: 14px;
+  font-size: 14px;
   font-weight: normal;
+  page-break-after: avoid;
 }
 section#a-croconossorus-tale * img { 
-	position: absolute;	
-	object-fit: cover;
-	margin-left: -8px;
-	margin-top: -8px;
-	padding: 0%;
-	z-index: -1;
+  position: absolute;	
+  object-fit: cover;
+  margin-left: -8px;
+  margin-top: -8px;
+  padding: 0%;
+  z-index: -1;
 }
 
 /* https://friendsofepub.github.io/eBookTricks/ */
