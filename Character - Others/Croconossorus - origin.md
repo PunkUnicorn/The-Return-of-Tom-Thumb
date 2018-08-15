@@ -5,7 +5,7 @@
 
 ![](old-paper-by-grunge.jpg)
 
-#### 1) 
+#### 1)
 
 | O, Croconossorus of Fable, 
 
@@ -70,6 +70,7 @@
 | the flavour was un-surpassed…
 
 #### 7)
+
 | So addictive was this brand-new taste,
 
 | that non did pause or ask…
@@ -148,7 +149,7 @@
 
 | avoid this thing so vile.
 
-|           unreadable
+|           __unreadable__
 
 #### 14)
 
@@ -170,7 +171,7 @@
 
 | kill man or fish or beast.
 
-|           unreadable
+|           __unreadable__
 
 #### 16)
 
