@@ -1,5 +1,5 @@
-  [x] All heros are present  
-  [x] They have just arrived at the Salty Forest
+- [x] All heros are present  
+- [x] They have just arrived at the Salty Forest
   
   The salty forest doesn't look salty, but everything growing there strangely, and highly illogically, tastes of salt. There would be a strange crunch under-foot.
   
