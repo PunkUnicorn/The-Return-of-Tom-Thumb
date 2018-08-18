@@ -12,6 +12,8 @@ At least Tom is reluctant, possibly others. The place sounds ridiculous at best 
 ## Supernatural aid
 The equipment they need, a balloon, with a basket for the four of them could become available in a convenient way, perhaps already obvious. It could be a balloon with a basket and it's powered by music. Music makes it go up and can bias the direction depending on the angle the music is coming from below the balloon.
 
+- Also the giants house is half in the plane of clouds, so a balloon, if they go high enough in it, could theoretically reach it. The high clouds are too thin on air though, so it's difficult to play music.
+
 ## Crossing the first threshold
 ## Travelling to the expansive forest
 - Could drop in on Kim
@@ -21,15 +23,21 @@ The equipment they need, a balloon, with a basket for the four of them could bec
 
 ## Trials and tribulations
 - It might take longer than they thought. They would have to stop to re-supply. The balloon would land on the tree tops and Tom would use a rope to anchor the balloon and climb down using both the rope and the tree.
-- She would catch rodents and nettles, The Tailor and The Knight get down easily but they have to make a rope ladder (Tom does) before Red can climb down. 
 
+- She would catch rodents and gather nettles. The Tailor and The Knight get down easily but they have to make a rope ladder (Tom does) before Red can climb down. They do this at daybreak, since night time is the time to search for the giant's house due to it's illuminations. 
 
 Here they could tell stories as they build a fire and cook
 
-
+Before it gets dark they assend the rope ladder and get to the balloon.
 Getting dark, this is when the giants house lands on the material plane (only at night but not every night)
 
-The giant's house flashes in with sunset. They notice the flash and Tom can climb the rigging. He sees the giant’s house. They all climb up the rigging to the balloon. Red can't climb fast enough. Also the balloon is snagged down below, Tom would have to climb down to unsnag it but Red is half way up in the way. Also the balloon has a tear from the harsh tree-tops of the forest. It’s easy to repair but would take time. The balloon might slowly descend due to the tear, despite The Tailor playing his flute faster and faster to try and get them up. The balloon will break through the tree tops and get more ripped as the basket of the balloon blindly breaks through, shearing branches to jagged edges which rip the balloon fabric. It lands in a tangled mess on the forest floor. They're not sure how to get the balloon repaired, or even to get it back through the tree tops seems like a huge task now. They would spend time trying to repair it They have to run to the house, they make it through, and the giant woman is there in the garden...
+The giant's house flashes in with sunset. They notice the flash from the height of the balloon, but it is far away.
+
+The balloon has a tear from where they anchored the ballon, 'resting' on the harsh tree-tops of the forest as they made port for the day. 
+
+It’s easy to repair but would take time. The balloon might slowly descend due to the tear, despite The Tailor playing his flute faster and faster to try and get them up. The balloon will break through the tree tops and get more ripped as the basket of the balloon blindly breaks through, shearing branches to jagged edges which rip the balloon fabric. It dangles from the tree-top, the balloon requiring significantly longer to repair.
+
+They descide to abandon the balloon since getting it repaired, and back through the tree tops, seems like a huge task now. They would spend time trying to repair it if they had the time. They have to hurry towards the direction house, as they remember it. They they make it through, and the giant woman is there in the garden...
 
 They might stay in the house for more than morning, having to wait till the house arrives back to the material. Otherwise they would have to get from the plane of clouds to the material on their own or with the help of the giant. 
 
