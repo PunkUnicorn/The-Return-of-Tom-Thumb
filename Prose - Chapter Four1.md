@@ -13,7 +13,7 @@ He looked out northwards: the dusk lit city below the castle battlements. It was
 
 His pack was ready: his formal knight's robe, his standard knight's armour; laid out in neat pieces. He had the 'letter from The Prince' he had written as part of his cover. It was safe in his pouch. His disguise complete. 
 
-Knights armour had slightly different strapping compared to the princely armour he was familiar with. But he was prepared and practiced, and soon encased in his new metal shell. Dressed in the over-robe, with his pack on his back, he was almost ready.
+Knights armour had slightly different strapping compared to the princely armour he was familiar with. But he was prepared and practised, and soon encased in his new metal shell. Dressed in the over-robe, with his pack on his back, he was almost ready.
 
 The heavy helmet and visor the last parts. These amplified his own breath, and cropped his vision. The discomfort a reassurance; it would be a good disguise. 
 
@@ -47,11 +47,11 @@ The breeze stronger, the cold biting his eyes. And the sound of rushing. It was 
 
 The tunnel narrowed and led round to the left. Following this: the smell of rain and the outside. The tunnel became a narrow cave and an opening overlooking fields. 
 
-His anxiety justifying a recap; recalling what he had read and studied to preparing for this escape: his points of safety along the north routes: isolated villages and towns, trade points and knight's barracks.
+His anxiety justifying a recap; recalling what he had read and studied to prepare for this escape: his points of safety along the north routes: isolated villages and towns, trade points and knight's barracks.
 
 It was dangerous out there, which added to the exhilaration. He had studied (and sometimes personally investigated) the range of possible dangers: bandits were prevalent northwards on isolated trails, a criminal network is growing and has become more bold. Aside from this there are always desperate people. 
 
-However, a knight minding his own business would have no problem passing through civilised dwellings; it was the perfect disguise. As for bandits on the trails... he might be able to take them on and defeat them, probably. But the best solution was to travel with a group; strength in numbers. Again the disguise as a errond knight would be beneficial.
+However, a knight minding his own business would have no problem passing through civilised dwellings; it was the perfect disguise. As for bandits on the trails... he might be able to take them on and defeat them, probably. But the best solution was to travel with a group; strength in numbers. Again the disguise as a errand knight would be beneficial.
 
 He could cross the rain into his new life, there it was: right there: all that he had prepared for.
 
