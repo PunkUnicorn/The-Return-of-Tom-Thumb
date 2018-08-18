@@ -43,17 +43,23 @@ They might stay in the house for more than morning, having to wait till the hous
 
 The Tailor might have to make a giants suit. He could unroll giant fabric bolt and cut slices to size with his sword. He might employ some magic to overcome the scale of engineering. The giant might provide the use of a magic item from his collection, like something that makes two or four more The Tailors who can all work symultaniously. Or The Tailor might cast this magic himself. Dunno, anyway
 
-If The Tailor and Mr Giant talk The Tailor would observe Mr Giants collection of magic items is limited and mostly magical paraphanalia or ornate junk. The three actual items he has are mediocre like the seven league boots.
+Tom would offer the boots back, and appologise. 
 
-The seven league boots were, Mr Giant admits, the most comfortable of all the magic boots he's worn, lets Tom keep them (after some thinking). 
+The seven league boots were, Mr Giant admits, the most comfortable of all the magic boots he's worn.
 
-The Knight could craft a rapier out of a giant needle.
+Giant asks: "What did you do with them?"
+
+Tom says how they helped her see the land. She couldn't have escaped her home without them.
+
+Because she has nothing but integrity, and because the giant is sleepy, he lets her keep them. "I was thinking of killing you but you can have the boots". and then possibly shouting aggresively: "They're yours now Tom!", and he would leave to sleep.
+
+The Knight could craft a rapier out of a giant needle, for red who's learning The Tailors light-sword, dance fighting style.
 
 Tom could restock with giant's cotton.
 
 They can't find the balloon again, it's moored in the expansive forest somehow. Would need a small simple repair but it does have a rope ladder going straight to it. Someone else escape from the forest in another story perhaps.
 
 ## Summary
-- Mr Giant is misunderstood and likes gardening
+- Mr Giant is misunderstood and likes gardening, doesn't like urchin children like we would dislike wild rats or foxes
 - The Tailor might acquire excessive cutoffs of fabric (he could use for Tom's family, or anything)
 - Tom could have new giant's cotton, the best of all climbing rope.
