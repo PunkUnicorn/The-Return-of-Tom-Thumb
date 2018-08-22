@@ -57,7 +57,7 @@ Armor Class | 2 + 10 + 0 | = 12
 ### Skills
 | Skill | Ranks + Mod. (+ Special) | Score |
 | ---: | :---: | :--- |
-| appraise | 2 + 2 | = 6 |
+| appraise | 2 + 2 | = 4 |
 | bluff | 6 + 3 | = 9 |
 | craft (weaving/sewing) | 4 + 2 | = 6 |
 | diplomacy | 2 + 3 | = 5 |
