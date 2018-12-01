@@ -37,9 +37,7 @@ The boy saw her offering but after no time he was astonished, which was accompan
 
 “Nice to meet you Jack, I'm Tom. We got it from a giant apple.”
 
-Jack did not seem to notice her greeting which was her favourite part.
-
-Instead he asked: “What you planning on doing with it?”
+Jack did not seem to notice her greeting which was her favourite part. Instead he asked: “What you planning on doing with it?”
 
 Tom was sure she had answered this already. “I want to sell it.” 
 
@@ -49,7 +47,7 @@ Kim interrupted, demanding: “A cow.”
 
 Jack challenged a question back: “A cow?” He was incredulous; looking around the sky, barely containing chortles.
 
-“Come on.” said Kim to Tom, grabbing her as he took firm steps towards the greater village hubbub.
+“Come on.” said Kim to Tom, grabbing her as he took firm steps away towards the village hubbub.
 
 “No!” burst Jack, “Wait!”; his interest in the pip confirmed.
 
