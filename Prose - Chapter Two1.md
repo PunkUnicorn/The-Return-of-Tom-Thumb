@@ -15,7 +15,7 @@ She pulled her head up to look at the remaining apple core beyond the house: it 
 
 She and her brothers had dragged this giant apple from the strange house. “What a great idea that was.” Tom congratulated herself; it was a feast for everyone. “That was me.” she continued surprised. At that moment she felt immensely proud.
 
-The apple would last two more days; weighing it up in her mind. Full bellies all round. A heavenly comfort but with a nagging feeling. What was that nagging feeling? An awareness catching up with her. 
+The apple would last two more days; weighing it up in her mind. A heavenly comfort but with a nagging feeling. What was that nagging feeling? An awareness catching up with her. 
 
 Probing her thoughts, reluctantly opening blocks: “Oh yes,” she murmured; the apple would inevitably be eaten. With no apple left the family would be back to the way it was before. Which was nothing. Winter was not over yet.
 
