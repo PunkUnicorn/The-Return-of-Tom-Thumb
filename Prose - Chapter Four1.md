@@ -13,21 +13,17 @@ He looked out northwards: the dusk lit city below the castle battlements. It was
 
 His pack was ready: his formal knight's robe, his standard knight's armour; laid out in neat pieces. He had the 'letter from The Prince' he had written as part of his cover. It was safe in his pouch. His disguise complete. 
 
-Knights armour had slightly different strapping compared to the princely armour he was familiar with. But he was prepared and practised, and soon encased in his new metal shell. Dressed in the over-robe, with his pack on his back, he was almost ready.
+Knights armour had slightly different strapping compared to the princely armour he was familiar with. But he had prepared and practised, and was soon encased in his new metal shell. Dressed in the over-robe, with his pack on his back, he was almost ready.
 
 The heavy helmet and visor the last parts. These amplified his own breath, and cropped his vision. The discomfort a reassurance; it would be a good disguise. 
 
-The south stair would be deserted at this time; his passage unobserved. Sure enough, despite the noise from his pack and him, his exit through the south tower stairs went unheard.
+The south stair was deserted as expected; the noise from his pack and armour, which while loud (despite his best effort at sneaking) went unheard. And then following the spiralling stairs into the arched tunnels below the keep. 
 
-And then following the spiralling stairs into the tunnels, below the keep. Each step through the arches brought a sharp remembrance: what he was walking away from; the responsibility, the throne and the honour of his lineage. 
-
-There it was: the shame on his shoulders.
+Each step through the arches brought a sharp remembrance: what he was walking away from; the responsibility, the throne and the honour of his lineage. There it was: the shame on his shoulders.
 
 But a flash of what laid ahead: the open road, a life of freedom, hide away from the chains of state, from historical consequences. Instead be alive day to day; each morning a new life. Each morning free again.
 
-And before his foot hit the floor, an awareness from guilt, that he was born to the crown; beholden to the court. The court that needs a figure at the top to complete the balance of control and function.
-
-But why have an educated king? It makes the crown so much more crueller for the wearer; no personal judgement permitted, beholden to hundreds of years of history. Risk of uprising, or worse.
+And before his foot hit the floor, an awareness from guilt, that he was born to the crown; beholden to the court. But why have an educated king? It makes the crown so much more crueller for the wearer; no personal judgement permitted, beholden to hundreds of years of history. Risk of uprising, or worse.
 
 Another step: his escape effecting his (already sick) father. His younger sister left to inherit the burden; unprepared, multiple effects falling onto her... a royal crown the heaviest.
 
@@ -86,7 +82,7 @@ Pushing the doors more she stepped outside looking in the direction of the north
 
 Tom stood looking northwards, imagining how far Kim had gotten. The cow was slow; he would be close. She could catch him up, it would be easy. 
 
-But she could not take a step; blocked by an elusive, buried reason. She did not want to become aware of the reason. Wherever he was, Kim was walking away slowly. Again, she thought she could catch him up.
+But she could not take a step; blocked by an elusive, buried reason. She did not want to become aware of the reason. Wherever he was, Kim was walking away slowly. Again, she thought she could catch up with him.
 
 Kim was telling her something though. He had travelled without her for a reason. The elusive reason gaining painful clarity: home was danger.
 
