@@ -1,21 +1,19 @@
 
 # Chapter Two
 
-Tom Thumb had been back home for several nights.
+Tom Thumb had been back at home for several nights. As usual her thoughts were occupied with replaying the past troubling days: the terrifying giant; coming to terms with their parents leaving them to die in the forest; finding out she was not the same as her brothers.
 
-As usual her thoughts were occupied replaying the past troubling days. The terrifying giant; coming to terms with their parents leaving them to die in the forest: and finding out she was not the same as her brothers. 
+She had always known she was not the same, despite her father’s intimidating insistence that he only had boys.
 
-She had known she was not the same, despite her father’s intimidating insistence he only had boys. 
+The words of the motherly giant echoed in her thoughts: “Make no mistake you beautiful young thing: you are a girl!” Once again Tom felt surprise and shock. For as many times as she believed she had come to terms with this, the thought would return to unsettle her once more.
 
-The words of the motherly giant echoed in her thoughts: “Make no mistake you beautiful young thing: you are a girl.”, and again Tom felt surprise and shock. For as many times as she came to terms with this, it would return to unsettle her.
+Chewing a grass stalk, her arms thrown back behind her head, a frosty breeze caught her nose and she realised that she was not actually looking at the sky. But now she began to look and as her thoughtscape vanished she saw the clouds. It would be getting dark soon.
 
-Chewing a grass stalk, her arms behind her head, a frosty breeze caught her nose and she realised she was not looking at the sky. But now she did. Her thoughtscape vanished and she saw the clouds. It would be getting dark soon.
+She lifted her head up to look at what remained of the apple core beyond the house: it sat looking a little sorry for itself; it was thinner now, and a bit mushy.
 
-She pulled her head up to look at the remaining apple core beyond the house: it sat looking a little sorry for itself; it was more than thin now, and slushy. 
+She and her brothers had dragged this giant apple from the strange house. “What a great idea that was!” Tom congratulated herself; she suddenly felt immensely proud.
 
-She and her brothers had dragged this giant apple from the strange house. “What a great idea that was.” Tom congratulated herself; it was a feast for everyone. “That was me.” she continued surprised. At that moment she felt immensely proud.
-
-The apple would last two more days; weighing it up in her mind. A heavenly comfort but with a nagging feeling. What was that nagging feeling? An awareness catching up with her. 
+The apple would last two more days; weighing it up in her mind. A heavenly comfort but with a nagging feeling. What was that nagging feeling? An awareness catching up with her.
 
 Probing her thoughts, reluctantly opening blocks: “Oh yes,” she murmured; the apple would inevitably be eaten. With no apple left the family would be back to the way it was before. Which was nothing. Winter was not over yet.
 
