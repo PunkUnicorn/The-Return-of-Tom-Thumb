@@ -5,10 +5,10 @@
  
  <sub>Children were lost, by their parents betrayed,</sub>
  
- <sub>Encountered a house, a good place to stay,</sub>
+ <sub>They encountered a house, a good place to stay,</sub>
  
- <sub>Giants lived there, pursuit under way!</sub>
+ <sub>But giants lived there, pursuit under way!</sub>
  
  <sub>Boots were stolen, a giant was slayed,</sub>
 
- <sub>The brothers and Tom escaped, hurray.</sub>
+ <sub>The children escaped, hip hip hooray.</sub>
