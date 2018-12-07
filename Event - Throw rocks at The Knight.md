@@ -2,7 +2,7 @@ The Knight is talking about the freedom of the open road and what a treasure it 
 
 With his over packed backpack on, arms wide starts expressing some joy for freedom loud and proud to the empty countryside and our companions. He will start jumping and skipping, in a line but rotating a quarter step clockwise each hop and skip. With the heavy load on every hop and skip has a cascading heavy clank from his backpack, and metallic clanks that don't sound good. The seams of the canvas backpack straps are already taught to their maximum. As a dancing accessory the pack is as elegant as 120 lbs of assorted equipment can be but The Knight has the strength to hop with this heavy load. 
 
-Being so overburdened all the time with so much stuff, and such a big pack as he dances the dead weight of his pack bouncing, The Knight might say "It's so great to be so unencumbered!"
+Being so overburdened all the time with so much stuff, and such a big pack as he dances the dead weight of his pack bouncing, The Knight might say "It's great to feel so unencumbered!"
 
 The Knight doesn't express himself like this but his love of the open road is no secret he is just a reserved person in this regard. So the others seeing this will be surprised. The Knight is quite happy being ridiculous, since he can't deny the sense of love of the freedom he found.. this is a sort of ridiculous notion to him, love of freedom but the truth of this strange feeling outweighs his known traditions. As he skips and hops it's with a sense of self-irony and he's happy to play the clown which is the biggest surprise to everyone. The Knight is a an enigma in so many ways, and here The Knight goes against his blokey macho self and fools around.
 
