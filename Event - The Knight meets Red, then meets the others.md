@@ -1,6 +1,6 @@
- -- [x] It's early on and The Knight has not met anyone yet
- -- [x] Neither has Red
- -- [x] Tom and The Tailor are experementing with the boots, leaping forward south arriving where Red and The Knight are travelling north
+- [x] It's early on and The Knight has not met anyone yet
+- [x] Neither has Red
+- [x] Tom and The Tailor are experementing with the boots, leaping forward south arriving where Red and The Knight are travelling north
  
  ## Call to adventure
  
