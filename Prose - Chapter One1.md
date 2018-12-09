@@ -11,4 +11,4 @@
  
  <sub>Boots were stolen, a giant was slayed,</sub>
 
- <sub>The children escaped, hip hip hooray.</sub>
+ <sub>The children escaped, hip, hip hooray.</sub>
