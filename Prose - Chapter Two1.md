@@ -1,3 +1,5 @@
+# Chapter Two
+
 Tom Thumb had been back at home for several nights.  As usual her thoughts were occupied with replaying the past troubling days: the terrifying giant; coming to terms with their parents leaving them to die in the forest; finding out she was not the same as her brothers.
 
 She had always known she was not the same, despite her father’s intimidating insistence that he only had sons.
