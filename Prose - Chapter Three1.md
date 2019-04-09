@@ -15,25 +15,23 @@ At this exact moment another traveller walked past. Tom saw him, a well dressed 
 
 He flashed an awkward glance towards Tom, but averted a connection. Besides, Tom could not allow herself to be distracted right now: she had to answer Kim.
 
-But let us switch to the perspective of this handsome, relaxed traveller.
+But let us switch to the perspective of this handsome, relaxed traveller, and see the world through his eyes.
 
-As he approached the two he thought: “How odd; a pair of urchins in rags. One of which with impeccable boots.”
+As he approached the two he thought: “How odd; a pair of young urchins in rags. One of which has impeccably tailored boots. How is that possble?”
 
-And, this traveller thought, how did they get to be holding Jack's cow? The hasty lad Jack had been trying to sell it for too much coin; he seemed desperate, but would not change his mind on the price. “I wonder?” he thought, on all counts. 
+And, this traveller thought, how did they get to be holding Jack's cow? The hasty lad Jack had been trying to sell it for too much coin; he seemed desperate, but would not change his mind on the price. “I wonder?” he thought, on all counts. Nothing about the scruffy pair made sense.
 
-As he passed the scruffy pair, seeing Jack's cow and hearing: 'make your boots go fast', he was more than curious. On his months long journey there had been nothing interesting for leagues. 
+As he passed them both, hearing: 'make your boots go fast', he glanced at the one with the boots. He could see it was a girl not a boy. She wore boys clothes that were too big for her, except for her adult male, impeccably fitting boots, which were obviously tailored. 
 
-Glancing at the one with the boots he could see it was a girl not a boy. She wore boys clothes that were too big for her, except for her adult male boots. Which looked tailored. 
+She noticed his glance, so he looked away, not wanting to intrude. Continuing past them he put them to the back of his mind; onwards north.
 
-This was the point that he almost caught Tom’s eye. She noticed his glance, so he looked away, not wanting to intrude. He walked past them and put them to the back of his mind: onwards north.
+Using the remaining light the long road north looked sparse. Also he reckoned it was more bitterly cold, and he heard it was isolated further up. 
 
-Using the remaining light, the long road north looked sparse. Also he reckoned it was more bitterly cold, and he heard it was isolated further up. 
-
-As he walked he created a new choice: including an option to stop, turn around and head back south from where he came. It had been an ambitious venture starting the previous spring. Perhaps his long journey north had reached it's conclusion; here at this spot? 
+As he walked he created a new choice: including an option to stop, turn around and head back south from where he came. It had been an ambitious venture starting the previous spring; his long journey north had reached it's conclusion, here at this spot. 
 
 He stopped.
 
-There was nothing in front of him. Behind him the two (with the cow) were arguing: he could hear them; the girl with the boots did not want to get lost in the forest, the boy with the cow wanted to get home; the girl said “The boots didn't work like that.”, the boy getting a little frustrated. Her final gambit: to plead caution, for fear of getting lost again. The boy seeming to be swayed. They stopped talking. 
+There was nothing in front of him. Behind him the two (with the cow) were arguing: he could hear them; the girl with the boots did not want to get lost in the forest, the boy with the cow wanted to get home; the girl said “The boots didn't work like that.”, the boy getting a little frustrated. Her final gambit: to plead caution for her own sake, for fear of getting lost again. The boy seeming to be swayed. They stopped talking. 
 
 Our well dressed, travelling man turned around. He could see the strange two with the cow. They had their backs to him, except the cow who faced him.
 
@@ -61,23 +59,21 @@ Tom shrugged: “Three apple pips.“
 
 The Tailor was confused but after some questions he understood: they were from a giant apple. Tom would not share where the apple came from. In fact, she seemed to shut down when asked; she started shrinking away. 
 
-The Tailor would liked to have asked more questions. He wanted to correlate giant apples and strange boots against stories he had known. But The Tailor needed to ask questions to gather more facts. Instead the girl was talking less, lips sealed and looking frightened.
+The Tailor would have liked to ask more questions. He wanted to correlate giant apples and strange boots against stories he knew. But instead of answering questions the girl was talking less, lips sealed and looking frightened.
 
-To re-engage the girl he diverted the conversation to tales of his own travels from the south. This woke Tom up, but not the other one: her brother he presumed.
+To re-engage her, he diverted the conversation to tales of his own travels from the south. This woke Tom up, but not the other one: her brother he presumed.
 
-Tom pressed questions about the south: it's commerce, on cosmopolitan values. Each answer was too much for her to grasp, and yet the questions were numerous. The Tailor answered as best he could.
+Tom pressed questions about the south: it's commerce, on cosmopolitan values. Each answer was too much for her to grasp, and yet the questions were numerous. The Tailor answered as best he could, trying to keep up.
 
 Kim interrupted, slightly angry: “It's cold.”. Tom and The Tailor stopped talking and silently agreed, yet they could have talked more. 
 
-The Tailor had not satisfied his curiosity, there was still too much about the girl Tom that was a mystery. He wanted to stare at her boots, but resisted.
+The Tailor had not satisfied his curiosity, there was still too much about the girl that was a mystery. He wanted to stare at her boots, but resisted.
 
-Tom was equally enthralled by The Tailor. The places he had seen; he seems to have seen the whole world! This man was friendly, easy to talk to. Unlike Jack, The Tailor would listen to what she said.
-
-He took an interest in her questions, and was gentle with her misunderstandings. She felt invigorated. 
+Tom was equally enthralled by The Tailor. The places he had seen; he seems to have seen the whole world! This man was friendly, easy to talk to. Unlike Jack, The Tailor would listen to what she said. He took an interest in her questions, and was gentle with her misunderstandings. She felt invigorated, like she had seen a glimps of the world.
 
 Listening to his tails of travels and antics, Tom built a picture in her mind of towns further south: of people and lifestyles, how others lived and the wonders of life outside the forest.
 
-Kim ignored the two while they were talking. All the time he had been wondering how the town's people choose which building to sleep in. He was expecting to fight for space, but he was not sure how it worked here.
+Kim had ignored the two while they were talking. All the time he had been wondering how the town's people choose which building to sleep in. He was expecting to fight for space, but he was not sure how it worked here.
 
 The Tailor did not notice their naivety; how unaccustomed the two were to town life: “Let’s get to the inn.”, and they followed him.
 
