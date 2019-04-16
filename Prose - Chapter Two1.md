@@ -16,7 +16,7 @@ Weighing the apple up in her mind she decided it would last two more days. But t
 
 With no apple left the family would be back to the way it was before. Which was nothing. Winter was not over yet, they might still starve.
 
-With a sigh she pulled herself up to a sit; muscles stretching, which brought her back to the present. The grass stalk in her mouth, now an inconvienince, was spat out to make room for thought.
+With a sigh she pulled herself up to a sit; muscles stretching, which brought her back to the present. The grass stalk in her mouth, now an inconvienince, spat out to make room for thought.
 
 Wiggling her toes she felt the exquisite comfort in the soft leather of her boots; she could do that all day. She had been doing that all day.
 
