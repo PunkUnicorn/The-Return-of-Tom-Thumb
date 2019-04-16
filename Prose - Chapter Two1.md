@@ -6,17 +6,17 @@ She had always known she was not the same, despite her father’s intimidating i
 
 The words of the motherly giant echoed in her thoughts: “Make no mistake you beautiful young thing: you are a girl!” Once again, Tom felt surprise and shock. For as many times as she believed she had come to terms with this, it would return to unsettle her.
 
-She realised that she was not actually looking at the sky, but now she did; her thoughtscape vanished. It would be getting dark soon. The grass stalk in her mouth, she had almost forgotten about it; it was chewed to destruction.
+She realised that she was not actually looking at the sky, but now she did; her thoughtscape vanished. It would be getting dark soon. The grass stalk in her mouth, she had almost forgotten about it; it was now chewed to destruction.
 
-Lifting her head to look at what remained of the apple core. Beyond the house, the remaining giant apple sat looking a little sorry for itself. It was thinner now, and mushy. She and her brothers had dragged this giant apple from the strange house a few days ago.
+Lifting her head to look at what remained of the apple core. The remaining giant apple sat looking a little sorry for itself. It was thinner now, and mushy. She and her brothers had dragged this giant apple from the giants garden a few days ago.
 
-Safe at home Tom began to reflect on those strange events, back to the time they had decided to take the apple. “I had to persuade everyone.” Tom remembered. “I persuaded them.” she repeated. And as she recalled, she could see with clarity that her words, back then, had saved them from starvation today. At that moment Tom felt immensely proud.
+Safe at home, Tom began to reflect on these strange events; back to the moment they decided to take the apple. “I had to persuade everyone.” Tom remembered. “I persuaded them.” she repeated. And as she recalled, she could see her words, back then, had saved them from starvation today. At that moment Tom felt immensely proud.
 
-Weighing the apple up in her mind she decided it would last two more days. But the heavenly comfort of having enough food for two days came with a nagging feeling. What was that nagging feeling? An awareness catching up with her. Probing her mind, breaking open the block to the thoughts she preferred not to think: “Oh yes,” she murmured; the apple would be finished soon. 
+Weighing the apple up in her mind she decided it would last two more days. But the heavenly comfort of having enough food for two days came with a nagging feeling. What was that nagging feeling? An awareness catching up with her. Probing her mind, breaking open the block to the thoughts she preferred not to think: “Oh yes,” she murmured; the apple would be completely consumed. 
 
-With no apple left the family would be back to the way it was before. Which was nothing. Winter was not over yet. They might still starve.
+With no apple left the family would be back to the way it was before. Which was nothing. Winter was not over yet, they might still starve.
 
-With a sigh she pulled herself up to a sit; muscles stretching, which brought her back to the present. The grass stalk in her mouth, now an inconvienince, spat to the ground.
+With a sigh she pulled herself up to a sit; muscles stretching, which brought her back to the present. The grass stalk in her mouth, now an inconvienince, was spat out to make room for thought.
 
 Wiggling her toes she felt the exquisite comfort in the soft leather of her boots; she could do that all day. She had been doing that all day.
 
