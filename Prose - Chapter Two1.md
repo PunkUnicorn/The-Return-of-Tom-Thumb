@@ -6,7 +6,7 @@ She had always known she was not the same, despite her father’s intimidating i
 
 The words of the motherly giant echoed in her thoughts: “Make no mistake you beautiful young thing: you are a girl!” Once again, Tom felt surprise and shock. For as many times as she believed she had come to terms with this, it would return to unsettle her.
 
-She realised that she was not actually looking at the sky, but now she did; her thoughtscape vanished. It would be getting dark soon. The grass stalk in her mouth, she had almost forgotten about it; it was now chewed to destruction.
+She realised that she was not actually looking at the sky, but now she did; her thoughtscape vanished. It would be getting dark soon. The grass stalk in her mouth, she had almost forgotten about it, now chewed to destruction.
 
 Lifting her head to look at what remained of the apple core. The remaining giant apple sat looking a little sorry for itself. It was thinner now, and mushy. She and her brothers had dragged this giant apple from the giants garden a few days ago.
 
