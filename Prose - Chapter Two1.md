@@ -12,7 +12,7 @@ Lifting her head to look at what remained of the apple core. The remaining giant
 
 Safe at home, Tom began to reflect on these strange events; back to the moment they decided to take the apple. “I had to persuade everyone.” Tom remembered. “I persuaded them.” she repeated. And as she recalled, she could see her words, back then, had saved them from starvation today. At that moment Tom felt immensely proud.
 
-Weighing the apple up in her mind she decided it would last two more days. But the heavenly comfort of having enough food for two days came with a nagging feeling. What was that nagging feeling? An awareness catching up with her. Probing her mind, breaking open the block to the thoughts she preferred not to think: “Oh yes,” she murmured; the apple would be completely eaten. 
+Weighing the apple up in her mind, she decided it would last two more days. But the heavenly comfort of having enough food for two days came with a nagging feeling. What was that nagging feeling? An awareness catching up with her. Probing her mind, breaking open the block to the thoughts she preferred not to think: “Oh yes,” she murmured; the apple would be completely eaten. 
 
 With no apple left the family would be back to the way it was before. Which was nothing. Winter was not over yet, they might still starve.
 
