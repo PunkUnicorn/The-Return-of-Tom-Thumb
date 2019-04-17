@@ -10,13 +10,13 @@ Suddenly there was someone behind them: “You two are new.”, the person said.
 
 Kim barely said a thing; a slight grunt of disapproval.
 
-But Tom answered eagerly, “Hello.”, she was pleased for a new friend.
+But Tom answered eagerly: “Hello.”; she was pleased for a new friend.
 
-“We’re from The Forest.“. She pointed north to explain.
+“We’re from The Forest.“ pointing north to explain.
 
-“Oh.” said the boy, as if he were interested. “The Forest.” he nodded agreeing, but did not continue, and a pause brewed.
+“Oh.” said the boy, as if he were interested. “The Forest.” he nodded agreeing, but did not continue and a pause brewed.
 
-“What you come down here for?” he asked.
+“What you come down here for then?” he asked.
 
 Kim looked to Tom; Kim had no idea.
 
@@ -34,7 +34,7 @@ The boy saw her offering but after no time he was astonished, which was accompan
 
 “No one, you’re the first,” came Tom’s quick reply.
 
-“Where’d you get that from then?” the boy asked, adding, “I’m Jack, by the way.”
+“Where’d you get that from then?” the boy asked, adding: “I’m Jack by the way.”
 
 “Nice to meet you Jack, I'm Tom. We got it from a giant apple.”
 
