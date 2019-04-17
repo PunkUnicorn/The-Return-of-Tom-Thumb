@@ -23,13 +23,13 @@ This traveller also wondered why they were holding Jack's cow? The hasty lad Jac
 
 As he passed them both, hearing: 'make your boots go fast', he glanced at the one with the boots. He could see it was a girl not a boy. She wore boys clothes that were too big for her, except for her adult male, impeccably fitting boots, which must have been tailored. 
 
-The girl noticed his glance, so he looked away, not wanting to intrude. Continuing past them he put them to the back of his mind; onwards north.
+The girl noticed his glance, so he looked away, not wanting to intrude. Continuing past them, he put them to the back of his mind; onwards north.
 
-Using the remaining light the long road north looked sparse. Also he reckoned it was more bitterly cold, and he heard it was isolated further up. It seemed this place was possibly the last civilised dwelling northwards on the north road.
+Using the remaining light, the long road north looked sparse. Also he reckoned it was more bitterly cold, and he heard it was isolated further up. It seemed this place was possibly the last civilised dwelling northwards on the north road.
 
 He stopped.
 
-He was sure he could stay at the inn here, at this tiny village, tonight.
+He was sure he could stay at the inn here, at this tiny village tonight.
 
 Behind him the two (with the cow) were arguing: he could hear them; the girl with the boots did not want to get lost in the forest, the boy with the cow wanted to get home. The girl said: “The boots didn't work like that.”, the boy getting a little frustrated. Her final gambit: to plead caution for her own sake, for fear of getting lost again. The boy seeming to be swayed. They stopped talking. 
 
