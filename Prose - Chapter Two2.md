@@ -1,12 +1,12 @@
-Before she turned to walk towards the house, Tom scooped up a handful of apple flesh. She paused to finish eating, gobbling messy mouthfuls. As she drew close to the house, the remains of the door latch caught Tom’s attention. In truth it was a mangled, rusted wreck that had once been a latch, but Tom had never seen it any other way than it was now. The latch on the giant’s door was the first functioning one she had ever seen.
+Before she turned to walk towards the house, Tom scooped up a handful of apple flesh. She paused to finish eating, gobbling messy mouthfuls. As she drew close to the house, the remains of the door latch caught Tom’s attention. It was a mangled, rusted wreck that had once been a latch, but Tom had never seen it any other way. The latch on the giant’s door was the first functioning one she had ever seen.
 
-Licking her hands clean she wondered if this mangled latch could be bent back into shape. But then shadows of anxiety arrived as she remembered how others would react.
+Licking her hands clean she wondered if the mangled latch could be bent back into shape. But then shadows of anxiety arrived as she remembered how others would react.
 
-Now she was aware of her family behind the door and defensive instincts pulled her back from such thoughts: stay unnoticed, be invisible: don’t change the latch. Tom closed her mind, stiffened her muscles and pulled the heavy door open.
+Now aware of her family behind the door defensive instincts pulled her back: stay unnoticed, be invisible: don’t change the latch. Tom closed her mind, stiffened her muscles and pulled the heavy door open.
 
-Inside the smell of baked apple was overpowering. The heavy door slammed shut behind her. In the thick air, for a second, Tom felt sick of apples. But the feeling quickly passed. She chastised herself with the obvious:  the apple was a life saver. Besides, the pips in her pocket could be interesting.
+Inside the smell of baked apple was overpowering. The heavy door slammed shut behind her. In the thick air, for a second, Tom was sick of apples. But the feeling quickly passed. She chastised herself for the obvious: the apple being a life saver. Besides, the pips in her pocket could be interesting.
 
-Tom could see there was no good seat available. Around the table sprawled a rowdy mess of brothers. They occupied all but one seat: the smallest and least sturdy. Tom wanted to sit so she sat there.
+There was no good seat available. Around the table sprawled her rowdy mess of brothers. They occupied all but one seat: the smallest and least sturdy. Tom wanted to sit so she sat there.
 
 Often there were brawls over the precious little they had. Seats (or more specifically seats and seat positions) were a common cause of trouble. Tom wasn’t bothered. Once or twice she might have had to fight for the right to be left alone. That was worth fighting for but little else was.
 
@@ -18,19 +18,17 @@ Next morning Tom woke earlier than anyone else. With well practised tiptoeing sh
 
 The dazzling morning sun spared the eye no mercy: the giant apple core was looking far from adequate. Tom realised her expectations had been wrong.
 
-The house door opened quietly behind her, Tom looked round. It was the oldest and biggest of the brothers, Kim. Relaxing, Tom looked back at the apple. Kim joined her. 
+The house door opened quietly behind her, Tom looked round. It was the oldest and biggest of the brothers, Kim. He joined her. 
 
-“You’re up early?” Kim queried.
+“You’re up early?” Kim asked.
 
-“Yes,” replied Tom.
-
-Tom wanted to tell Kim of her plan to head to the village and sell the pips. At the same time she was hoping to keep it a secret.
+Tom wanted to tell Kim of her plan to head to the village and sell the pips. At the same time she did not want to risk an arguement. She met his eyes during the process of not answering him, then looked back towards the apple.
 
 “What you doin’?” Kim asked.
 
-Tom heard the accusation in the question. She braced her upper body and relaxed her legs, shifting her weight between her feet, ready to flinch. “I’m going to the village.” Tom replied, nonchalantly. 
+Tom heard the accusation in the question. She braced her upper body and relaxed her legs, shifting her weight between her feet, ready to flinch. “I’m going to the village.” Tom replied reluctantly
 
-Nothing happened. Nothing happened for too long. Very quickly several more possible outcomes sprung to Tom’s mind; she was prepared to dodge them all. But no, still nothing happened. Tom chanced a gauging, sidelong glance towards Kim.
+Nothing happened. Nothing happened for too long. Very quickly several possible outcomes sprung to Tom’s mind; she was prepared to dodge. But no, still nothing happened. Tom chanced a gauging, sidelong glance towards Kim.
 
 Kim walked a few steps then stopped to pick up a choice stick:  a sturdy branch used the previous day by her brothers in a high spirited game. It was almost as tall as Tom. Kim held it like a staff vertically, its base on the floor.
 
