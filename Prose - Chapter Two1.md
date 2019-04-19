@@ -10,9 +10,9 @@ She realised that she was not actually looking at the sky, but now she did; her 
 
 Lifting her head to look at what remained of the apple core. The remaining giant apple sat looking a little sorry for itself. It was thinner now, and mushy. She and her brothers had dragged this giant apple from the giant's garden a few days ago.
 
-Safe at home, Tom began to reflect on these strange events; back to the moment they decided to take the apple. “I had to persuade everyone.” Tom remembered. “I persuaded them.” she repeated. And as she recalled she was clear her actions back then had saved them from starvation today. Tom felt immensely proud amoungst the relief.
+Safe at home, Tom began to reflect on these strange events; back to the moment they decided to take the apple. “I had to persuade everyone.” Tom remembered. “I persuaded them.” she repeated. Recalling, she was clear her actions back then had saved them from starvation today. The sense of relief was mixed with something else, something new; amoungst the relief she was proud of herself.
 
-Weighing the apple in her mind, she decided it would last two more days. But the heavenly comfort of having enough food for two days came with a nagging feeling. What was that nagging feeling? An awareness catching up with her. Probing her mind, breaking open blocks to  thoughts she would prefer not to think: “Oh yes,” she murmured; the apple would be inevitably eaten.
+Weighing the apple in her mind, she decided it would last two more days. But the heavenly comfort of having enough food came with a nagging feeling. What was that nagging feeling? An awareness catching up with her. Probing her mind, breaking open blocks to  thoughts she would prefer not to think: “Oh yes,” she murmured; the apple would inevitably be eaten.
 
 With no apple left the family would be back to the way it was before. Which was nothing. Winter was not over yet, they might still starve.
 
@@ -26,6 +26,6 @@ It was not an easy problem to solve, but Tom soon had an idea. In fact the answe
 
 Rising to her feet she walked to where the core stood, close enough to judge where the pips could be. Squaring her knuckles with her shoulder, readjusting her footing, channelling body weight, she punched a level blow. A splattering of gloop and a rip into the seed chamber. Gripping the breach with both hands she tore it wider.
 
-Pushing a hand in deeply, she felt a pip. Pushing further, feeling around blindly, she mapped the pip’s orientation. With a concerted shunt the pip nudged to a better grip and Tom eased it out.
+Pushing a hand in deeply, she felt a pip. Pushing further, feeling around blindly, she mapped the pip’s orientation. With a concerted shunt the pip nudged to a better grip. Tom eased it out.
 
 Once she had freed one, two more became accessible: she worked these out and then fitted all three of the large pips into her pockets.
