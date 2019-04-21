@@ -1,6 +1,6 @@
 After recovering his breath, Kim moved up alongside his sister. Tom acknowledged him, her train of thought evaporating with the eye contact.
 
-They walked towards the village at a slow pace, absorbing everything, every sight, sound and smell: dogs, geese, carts and horses, stacks of things by the buildings, sacks of things by the stacks. Smoke and banging, suddenly a shout but it was nothing to do with them. And then the people – how they were dressed: everyone had good boots or clogs. Tom gave her own boots a quick look. Pride surged through her with a dawning thought: she was fitting in.
+They walked towards the village at a slow pace, absorbing everything, every sight, sound and smell: dogs, geese, carts and horses, stacks of things by the buildings, sacks of things by the stacks. Smoke and banging, suddenly a shout, but nothing to do with them. And then the people – how they were dressed: everyone had good boots or clogs. Tom gave her own boots a quick look. Pride surged through her with a dawning thought: she was fitting in.
 
 ![](TomThumb/tomthumb2mugshot_small.png)
 
