@@ -9,27 +9,27 @@ She scanned the village, hoping to be enthused. However, the sun was lower in th
 
 Tom was not ready for this. She found an excuse, a reflex born from desperation: “The trail will be dark. Shouldn't we wait till first light?”
 
-Kim looked to the cow, who was even less keen to hurry than Tom. He sighed, and did not disagree. Tom could see in Kim's face he still had hope. She looked away; seeing even fewer people around, and someone walking on the path towards them. He had a bright spotless shirt. 
+Kim looked to the cow, who was even less keen to hurry than Tom. He sighed, and did not disagree. Tom could see in Kim's face he still had hope. She looked away; seeing even fewer people around, and someone walking on the path towards them. A handsome, well dressed young man. He had a bright spotless shirt. 
 
-After some thought Kim counteracted slyly, but accusing: “Why don't you make your boots go fast?”
+Kim spoke, counteracting slyly: “Why don't you make your boots go fast?”
 
-The traveller with the spotless shirt heard this, and flashed an awkward glance towards Tom. It was as if her brothers words were slightly shocking. But the traveller looked away, quickly averting a connection.
+The traveller with the spotless shirt heard this, and flashed an awkward glance towards Kim. It was as if her brothers words were slightly shocking. But the traveller looked away to avert an accidental connection with Tom, who was looking in his direction.
 
-Let us switch to the perspective of this traveller, and see the world through his eyes.
+Let us switch to the perspective of the traveller in the bright spotless shirt, and see the world through his eyes.
 
-As he approached the two he thought: “How odd; a pair of young urchins in rags. One of which has impeccably tailored boots. How is that possble?”. Also he thought: “They are in the middle of the path I am walking on.”
+As he approached the two he thought: “How odd; a pair of young urchins in rags. One of which has impeccably tailored boots. How is that possible?”. Also he thought: “They are in the middle of the path I am walking on.”
 
 This traveller also wondered why they were holding Jack's cow? The hasty lad Jack had been trying to sell it for too much coin; he seemed desperate, but would not change his mind on the silly high price. “I wonder?” he thought, on all counts. Nothing about the scruffy pair made sense.
 
-As he passed them both, hearing: 'make your boots go fast', he glanced at the one with the boots. He could see it was a girl not a boy. She wore boys clothes that were too big for her, except for her adult male, impeccably fitting boots, which must have been tailored. 
+As he got closer, hearing: 'make your boots go fast', he glanced at the one with the boots. He could see it was a girl not a boy. She wore boys clothes that were too big for her, except for her adult male, impeccably fitting boots, which must have been tailored. 
 
-The girl noticed his glance, so he looked away, not wanting to intrude. Continuing past them, he put them to the back of his mind; onwards north.
+The girl noticed his glance, so he looked away, not wanting to intrude. Continuing past them, he put them to the back of his mind; what might lay northwards?
 
 Using the remaining light, the long road north looked sparse. Also he reckoned it was more bitterly cold, and he heard it was isolated further up. It seemed this place was possibly the last civilised dwelling northwards on the north road.
 
 He stopped.
 
-He was sure he could stay at the inn here, at this tiny village tonight.
+He was sure he could stay at the inn here, at this tiny village tonight. Probably *the* northernmost inn.
 
 Behind him the two (with the cow) were arguing: he could hear them; the girl with the boots did not want to get lost in the forest, the boy with the cow wanted to get home. The girl said: “The boots didn't work like that.”, the boy getting a little frustrated. Her final gambit: to plead caution for her own sake, for fear of getting lost again. The boy seeming to be swayed. They stopped talking. 
 
