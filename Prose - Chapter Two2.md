@@ -22,7 +22,7 @@ The house door opened quietly behind her, Tom looked round. It was her oldest an
 
 “You’re up early?” Kim asked.
 
-Tom wanted to tell Kim of her plan to head to the village and sell the pips. At the same time she did not want to risk an arguement. She met his eyes as if to answer him, but instead, she did not. Tom looked back towards the apple.
+Tom wanted to tell Kim of her plan to head to the village and sell the pips. At the same time she did not want to risk an arguement. She met his eyes as if to answer, but instead, she did not. Tom looked back towards the apple.
 
 “What you doin’?” Kim asked.
 
@@ -36,12 +36,10 @@ The south trail was easy in comfortable boots. Kim had their father’s hand-me-
 
 She strongly suspected the boots would fit whoever held them, the same way they had for her. She had pulled the boots off the giant very easily, accidentally even, and they slipped off the giants feet into her hands as a pair of boots exactly the right size for her.
 
-The long walk, almost in silence, gave Tom ample time to muse; dreaming up scenarios starring jealous people at the village.
-
 Progress along the south trail was pleasant enough, but they pushed themselves hard with no stopping. The forest thinned and the trail became a road. It was afternoon by the time they saw the dotted buildings of the village far in the distance. With only two more rolling hills to cross, they could be there soon. They quickened their pace to Tom's fastest.
 
-By early afternoon the two had reached the village. Kim carried Tom piggy back for the last stretch; now he was exhausted. Tom jumped down fidgeting her legs back to normal. With her feet on the ground and her legs feeling like legs again, she assessed their destination. They had been to this place recently, when fleeing the giants.
+By early afternoon the two had reached the village. Kim carried Tom piggy back for the last stretch; now he was exhausted. Tom jumped down, fidgeting her legs back to normal. With her feet on the ground and her legs feeling like legs again, she assessed their destination. They had been to this place recently, when fleeing the giants.
 
-Tom saw the collection of buildings as if for the first time. She had not been able to remember much about it. She could remember the relief on arriving. But then memories of the nightmare before that, at the giant’s house: the giant tring to kill her.
+Tom saw the collection of buildings as if for the first time. She had not been able to remember much about it; she could remember the relief on arriving, but then memories of the nightmare before that, at the giant’s house: giant tring to kill her.
 
 With a concerted breath, the reassurance of the pips in her pocket and the village in front of her, Tom gathered her focus... which, being Tom, took her straight through tunnels into fantasy daydreams: of what the pips could be worth?
