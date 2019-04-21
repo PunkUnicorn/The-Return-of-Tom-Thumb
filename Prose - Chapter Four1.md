@@ -88,11 +88,8 @@ The Tailor was sitting up looking at her. His face and eyes showing sympathy. �
 He thought about this but rebuffed it laying back: “That's a rather deep question for the morning. How about some breakfast first?”, he traced a sunbeam with one of his hands. “We can philosophise later.”
 
 Tom deduced she was welcome to be with The Tailor for the foreseeable future, which was breakfast.  
-   
-   
-   
-   
-   
-   
-   
-   
+
+
+- - -
+
+The Prince was glad to find the trail, being tired of fields, forest and ferns. A biting chill with little sun since the bright morning. His clothes and pack soaked through. His muscles ached; he had never walked so far with such a weight. He could not stop yet.
