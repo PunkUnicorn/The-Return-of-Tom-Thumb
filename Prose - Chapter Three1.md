@@ -9,9 +9,9 @@ She scanned the village, hoping to be enthused. However, the sun was lower in th
 
 Tom was not ready for this. She found an excuse, a reflex born from desperation: “The trail will be dark. Shouldn't we wait till first light?”
 
-Kim looked to the cow, who was even less keen to hurry than Tom. He sighed, and did not disagree. Tom could see in Kim's face he still had hope. She looked away; seeing even fewer people around, and someone walking on the path towards them. A handsome, well dressed young man. He had a bright spotless shirt. 
+Kim looked to the cow, who was even less keen to hurry than Tom. He sighed, and did not disagree. Tom could see in Kim's face he had not given up. She looked away; seeing even fewer people around, and someone walking on the path towards them. A handsome, well dressed young man. He had a bright spotless shirt. 
 
-Kim spoke, counteracting slyly: “Why don't you make your boots go fast?”
+Kim spoke: “Why don't you make your boots go fast?”, slyly counteracting Tom's argument.
 
 The traveller with the spotless shirt heard this, and flashed an awkward glance towards Kim. It was as if her brothers words were slightly shocking. But the traveller looked away to avert an accidental connection with Tom, who was looking in his direction.
 
@@ -19,7 +19,7 @@ Let us switch to the perspective of the traveller in the bright spotless shirt, 
 
 As he approached the two he thought: “How odd; a pair of young urchins in rags. One of which has impeccably tailored boots. How is that possible?”. Also he thought: “They are in the middle of the path I am walking on.”
 
-This traveller also wondered why they were holding Jack's cow? The hasty lad Jack had been trying to sell it for too much coin; he seemed desperate, but would not change his mind on the silly high price. “I wonder?” he thought, on all counts. Nothing about the scruffy pair made sense.
+This traveller also wondered why they were holding Jack's cow? The hasty lad Jack had been trying to sell it for too much coin; he seemed desperate, but would not change his mind on the high, silly price. “I wonder?” he thought, on all counts. Nothing about the scruffy pair made sense.
 
 As he got closer, hearing: 'make your boots go fast', he glanced at the one with the boots. He could see it was a girl not a boy. She wore boys clothes that were too big for her, except for her adult male, impeccably fitting boots, which must have been tailored. 
 
