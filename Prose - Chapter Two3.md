@@ -10,9 +10,7 @@ Suddenly there was someone behind them: “You two are new.”, the person said.
 
 Kim barely said a thing; a slight grunt of disapproval.
 
-But Tom answered eagerly: “Hello.”; she was pleased for a new friend.
-
-“We’re from The Forest.“ pointing north to explain.
+But Tom answered eagerly: “Hello.”; she was pleased for a new friend, “We’re from The Forest.“, and pointed north explain.
 
 “Oh.” said the boy, as if he were interested. “The Forest.” he nodded agreeing, but did not continue and a pause brewed.
 
