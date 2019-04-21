@@ -10,7 +10,7 @@ She realised that she was not actually looking at the sky, but now she did; her 
 
 Lifting her head to see what remained of the apple core. The remaining giant apple sat looking a little sorry for itself. It was thinner now, and mushy. She and her brothers had dragged this giant apple from the giant's garden a few days ago.
 
-Safe at home, Tom began to reflect on these strange events; back to the moment they decided to take the apple. “I had to persuade everyone.” Tom remembered. “I persuaded them.” she repeated. Recalling, she was clear her actions back then had saved them from starvation today. The sense of relief was mixed with something else, something new; amoungst the relief she was proud of herself.
+Safe at home, Tom began to reflect on these strange events; back to the moment they decided to take the apple. “I had to persuade everyone.” Tom remembered. “I persuaded them.” she repeated. Recalling, she was clear her actions back then had saved them from starvation today. The sense of relief was mixed with something else, something new; amoungst the relief she felt proud.
 
 Weighing the apple in her mind, she decided it would last two more days. But the heavenly comfort of having enough food came with a nagging feeling. What was that nagging feeling? An awareness catching up with her. Probing her mind, breaking open blocks to  thoughts she would prefer not to think: “Oh yes,” she murmured; the apple would inevitably be eaten.
 
