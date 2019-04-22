@@ -4,15 +4,15 @@ They walked towards the village at a slow pace, absorbing everything, every sigh
 
 ![](TomThumb/tomthumb2mugshot_small.png)
 
-Tom peeked a check at Kim: he looked perturbed, as if the whole thing had been a bad idea. Tom turned to face her brother, her expression inviting him into her excitement. Kim returned her look, but it was clear she had not influenced him; his face showed dread.
+Tom peeked a check at Kim: he looked perturbed, as if the whole thing had been a bad idea. Tom turned to face her brother, her expression inviting him into her excitement. Kim returned her look, but it was clear from his face she had not influenced him. He was not enjoying this.
 
 Suddenly there was someone behind them: “You two are new.”, the person said. Tom and Kim stopped abruptly and turned: there was a fair haired boy. A bit older than them. He was holding a cow tethered by a nose ring. “Where you from?”. The boy glanced between Tom and Kim, but settled on Tom.
 
 Kim barely said a thing; a slight grunt of disapproval.
 
-But Tom answered eagerly: “Hello.”; she was pleased for a new friend, “We’re from The Forest.“, and pointed north explain.
+But Tom answered eagerly: “Hello!”, and pointed north explaining: “we’re from The Forest.”
 
-“Oh.” said the boy, as if he were interested. “The Forest.” he nodded agreeing, but did not continue and a pause brewed.
+“Oh.” said the boy, as if he were interested. “The Forest.” he nodded agreeing, but did not continue. A pause brewed.
 
 “What you come down here for then?” he asked.
 
@@ -24,13 +24,13 @@ There was another pause, but this one dropped.
 
 “Oh.” said the boy after some thought, almost masking his doubt.
 
-Tom produced one of the giant pips, holding it in her outstretched palms for the boy to see, “Look!”
+Tom produced one of the giant pips, holding it in her outstretched palms for the boy to see: “Look!”
 
-The boy saw her offering but after no time he was astonished, which was accompanied by silence.
+The boy saw her offering and after almost no time he was astonished, which was accompanied by silence.
 
-“That’s not right.” he said after a little time. “Who else you shown that to?”
+“That’s not right.” he observed slowly, after a little time. “Who else you shown it to?”
 
-“No one, you’re the first,” came Tom’s quick reply.
+“No one, you’re the first.” came Tom’s quick reply.
 
 “Where’d you get that from then?” the boy asked, adding: “I’m Jack by the way.”
 
@@ -38,7 +38,7 @@ The boy saw her offering but after no time he was astonished, which was accompan
 
 Jack did not seem to notice her greeting which was her favourite part. Instead he asked: “What you planning on doing with it?”
 
-Tom was sure she had answered this already. “I want to sell it.”
+Tom was sure she had answered this already. “We came from The Forest to sell it.”
 
 “Oh.” said Jack. “What for?”, quickly clarifying, “How much you asking for it?”
 
@@ -56,4 +56,4 @@ Kim stopped but kept his grip on Tom, her jumper stretching as she turned to Jac
 
 Kim was not convinced. Without hesitation he turned away, pulling Tom with him.
 
-“Alright, alright. The cow for the pips,” Jack negotiated, “but only for all of them.”
+“Alright, alright. The cow for the pips,” Jack negotiated, “but only for *all* of them.”
