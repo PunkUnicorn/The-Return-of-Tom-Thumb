@@ -312,7 +312,7 @@ cat "title.md", "Prose - Blank Line.md", The-Return-of-Tom-Thumb-for-audio.txt |
 
 Get-Content -Path "The-Return-of-Tom-Thumb-for-audio-with-title.txt" -Encoding UTF8 | `
 	Destroy-Quotes | `
-	%{ $_.Replace("%", "").Replace("<sub>","").Replace("</sub>", "").Replace("*to*", "TO").Replace("- ", "").Replace(" -", "") } >> gTTS_word_input.txt
+	%{ $_.Replace("%", "").Replace("<sub>","").Replace("</sub>", "").Replace("*to*", "TO").Replace("*the*", "THE").Replace("*all*", "ALL").Replace("- ", "").Replace(" -", "") } >> gTTS_word_input.txt
 Write-Output "... made gTTS_word_input.txt"
 
 cat gTTS_word_input.txt | python .\googleTextToSpeech.py -o The-Return-of-Tom-Thumb.mp3 -d The-Return-of-Tom-Thumb.mp3.log 
