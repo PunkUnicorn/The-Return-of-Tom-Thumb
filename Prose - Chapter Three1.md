@@ -53,7 +53,7 @@ The Tailor took a step forward, nodded to confirm, “Yes.” He paused. “If I
 
 Tom was proud of buying the cow; one of her proudest achievements: “Yes.” but she noticed The Tailor was concerned: “Why?”.
 
-The Tailor looked at Tom with regret, gently stating: “All day Jack was asking a rather high price.”, but Tom did not understand. The Tailor seemed to notice, breaking the slight pause by continuing: “I wondered if...  would you share how much the cow cost you?”. The Tailor was aware this was a rude question, but felt concern for the pair.
+The Tailor looked at Tom with regret, gently stating: “All day Jack was asking a rather high price.”, but Tom did not understand. The Tailor seemed to notice, breaking the slight pause by continuing: “I wondered if...  would you share how much the cow cost you?”. The Tailor was aware this was a rude question.
 
 Tom shrugged: “Three apple pips.“
 
@@ -87,7 +87,7 @@ The Tailor opened the door erupting layers of noise. And the smell of warm food.
 
 The door opened, this time a waft of gravy with the sound of laughter. The Tailor had returned. “We can stay in the stables tonight,” he reported cheerfully, “it’s this way, follow me.”, and they followed him to around the other side of the inn. 
 
-The stable door swung open easily (and surprisingly silently). Inside was a large space offering fresh hay, but no trace of horses. Not a scent. 
+The stable door swung open easily (and surprisingly silently). Inside was a large space offering fresh hay, but no trace of horses. Not a scent.
 
 The Tailor stopped dead in his tracks: “Well...” he exclaimed. “This thorpe might be one of the grottiest hovels I've ever seen, but they do have the finest stables.”
 
