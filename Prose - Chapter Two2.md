@@ -8,9 +8,9 @@ Inside the smell of baked apple was overpowering. The heavy door slammed shut be
 
 There was no good seat available. Around the table sprawled her rowdy mess of brothers. They occupied all but one seat: the smallest and least sturdy. Tom wanted to sit so she sat there.
 
-Often there were brawls over the precious little they had. Seats (or more specifically seats and seat positions) were a common cause of trouble. Tom wasn’t bothered. Once or twice she might have had to fight for the right to be left alone. That was worth fighting for, but little else was.
+Often there were brawls over the precious little they had. Seats (or more specifically seats and seat positions) were a common cause of trouble but Tom avoided this. Once or twice she might have had to fight for the right to be left alone. That was worth fighting for, but little else was.
 
-And yet, bellies full, even mitigated tensions were rising round the table; competing voices. She did not look though; not a time to risk eye contact. She listened for a moment to judge the tone of aggression. A quick, intuitive gut chord reassured her.
+And yet, bellies full, even mitigated tensions were rising round the table; competing voices. She did not look though, not a time to risk eye contact. She listened for a moment to judge the tone of aggression: a quick, intuitive gut chord reassured her.
 
 Wiggling her toes, squashing them against the leather of the boots, the comfort winning the battle for her senses. Beautifully fitting boots drowned out the sound. Comfort was her entertainment for the evening.
 
