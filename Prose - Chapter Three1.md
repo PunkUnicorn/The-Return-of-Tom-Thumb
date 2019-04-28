@@ -33,7 +33,7 @@ He was sure he could stay at the inn here, at this tiny village tonight. Probabl
 
 Behind him the two (with the cow) were arguing; he could hear them: the girl with the boots did not want to get lost in the forest, the boy with the cow wanted to get home. The girl said: “The boots didn't work like that.”, the boy getting a little frustrated. Her final gambit: to plead caution for her own sake, for fear of getting lost again. They stopped talking; the boy apparently swayed.
 
-Our well dressed, travelling man turned around. He could see the strange two with the cow. They had their backs to him, except the cow who faced him.
+Our well dressed, travelling man turned around. He could see the strange two with the cow. They had their backs to him, except the cow.
 
 He took a few steps towards them. They were silent. He stopped a little too far away; giving them adequate space. He introduced his presence with a polite cough. They turned around. He bowed slightly, moderately spreading his hands; a gesture of openness. 
 
