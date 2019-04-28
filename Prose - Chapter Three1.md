@@ -11,7 +11,7 @@ Tom was not ready for this. She found an excuse: “The trail will be dark. Shou
 
 Kim looked to the cow, who was even less keen to hurry than Tom. He sighed, and did not disagree. Tom could see in Kim's face he had not given up. She looked away; seeing even fewer people around, and someone walking on the path towards them. A handsome, well dressed young man. He wore a bright spotless shirt. 
 
-Kim spoke: “Why don't you make your boots go fast?”, slyly counteracting Tom's argument.
+Kim spoke: “Why don't you make your boots go fast?”
 
 The traveller with the spotless shirt heard this, and flashed an awkward glance towards Kim. It was as if her brothers words were slightly shocking. But the traveller looked away, averting an accidental connection with Tom, who was looking in his direction.
 
