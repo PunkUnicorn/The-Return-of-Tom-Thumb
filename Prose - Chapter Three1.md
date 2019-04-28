@@ -7,21 +7,21 @@ She scanned the village, hoping to be enthused. However, the sun was lower in th
 
 “We'd better head back.” suggested Kim.
 
-Tom was not ready for this. She found an excuse, a reflex born from desperation: “The trail will be dark. Shouldn't we wait till first light?”
+Tom was not ready for this. She found an excuse: “The trail will be dark. Shouldn't we wait till first light?”
 
-Kim looked to the cow, who was even less keen to hurry than Tom. He sighed, and did not disagree. Tom could see in Kim's face he had not given up. She looked away; seeing even fewer people around, and someone walking on the path towards them. A handsome, well dressed young man. He had a bright spotless shirt. 
+Kim looked to the cow, who was even less keen to hurry than Tom. He sighed, and did not disagree. Tom could see in Kim's face he had not given up. She looked away; seeing even fewer people around, and someone walking on the path towards them. A handsome, well dressed young man. He wore a bright spotless shirt. 
 
 Kim spoke: “Why don't you make your boots go fast?”, slyly counteracting Tom's argument.
 
-The traveller with the spotless shirt heard this, and flashed an awkward glance towards Kim. It was as if her brothers words were slightly shocking. But the traveller looked away to avert an accidental connection with Tom, who was looking in his direction.
+The traveller with the spotless shirt heard this, and flashed an awkward glance towards Kim. It was as if her brothers words were slightly shocking. But the traveller looked away, averting an accidental connection with Tom, who was looking in his direction.
 
 Let us switch to the perspective of the traveller in the bright spotless shirt, and see the world through his eyes.
 
-As he approached the two he thought: “How odd; a pair of young urchins in rags. One of which has impeccably tailored boots. How is that possible?”. Also he thought: “They are in the middle of the path I am walking on.”
+As he approached the two he thought: “How odd; a pair of young urchins in rags. One of which has impeccably tailored boots. How is that possible?”. Also, he thought: “They are in the middle of the path I am walking on.”
 
 This traveller also wondered why they were holding Jack's cow? The hasty lad Jack had been trying to sell it for too much coin; he seemed desperate, but would not change his mind on the high, silly price. “I wonder?” he thought, on all counts. Nothing about the scruffy pair made sense.
 
-As he got closer, hearing: 'make your boots go fast', he glanced at the one with the boots. He could see it was a girl not a boy. She wore boys clothes that were too big for her, except for her adult male, impeccably fitting boots, which must have been tailored. 
+As he got closer, hearing: 'make your boots go fast', he glanced at the two. He could see the one with the boots was a girl not a boy. She wore boys clothes that were too big for her, except for her adult male, impeccably fitting boots, which must have been tailored. 
 
 The girl noticed his glance, so he looked away, not wanting to intrude. Continuing past them, he put them to the back of his mind; what might lay northwards?
 
@@ -31,7 +31,7 @@ He stopped.
 
 He was sure he could stay at the inn here, at this tiny village tonight. Probably *the* northernmost inn.
 
-Behind him the two (with the cow) were arguing: he could hear them; the girl with the boots did not want to get lost in the forest, the boy with the cow wanted to get home. The girl said: “The boots didn't work like that.”, the boy getting a little frustrated. Her final gambit: to plead caution for her own sake, for fear of getting lost again. They stopped talking; the boy apparently swayed.
+Behind him the two (with the cow) were arguing; he could hear them: the girl with the boots did not want to get lost in the forest, the boy with the cow wanted to get home. The girl said: “The boots didn't work like that.”, the boy getting a little frustrated. Her final gambit: to plead caution for her own sake, for fear of getting lost again. They stopped talking; the boy apparently swayed.
 
 Our well dressed, travelling man turned around. He could see the strange two with the cow. They had their backs to him, except the cow who faced him.
 
@@ -51,9 +51,9 @@ Tom laughed; this smart, handsome figure fooling around. Kim snorted out enough 
 
 The Tailor took a step forward, nodded to confirm, “Yes.” He paused. “If I could ask one thing: did you buy that cow off that lad Jack?”
 
-Tom was proud of buying the cow; one of her proudest achievements: “Yes.” but she noticed The Tailor was concerned: “Why?”.
+Tom was proud of buying the cow; one of her proudest achievements: “Yes.” but she noticed The Tailor was concerned: “Why?”
 
-The Tailor looked at Tom with regret, gently stating: “All day Jack was asking a rather high price.”, but Tom did not understand. The Tailor seemed to notice, breaking the slight pause by continuing: “I wondered if...  would you share how much the cow cost you?”. The Tailor was aware this was a rude question.
+The Tailor looked at Tom with regret, gently stating: “All day Jack was asking a rather high price.”, but Tom did not understand, which  The Tailor noticed, so continued: “I wondered if...  would you share how much the cow cost you?”. The Tailor was aware this was a rude question.
 
 Tom shrugged: “Three apple pips.“
 
@@ -69,9 +69,9 @@ Kim interrupted, slightly angry: “It's cold.”. Tom and The Tailor stopped ta
 
 The Tailor had not satisfied his curiosity, there was still too much about the girl that was a mystery. He wanted to stare at her boots, but resisted.
 
-Tom was equally enthralled by The Tailor. The places he had seen; he seems to have seen the whole world! This man was friendly, easy to talk to. Unlike Jack, The Tailor would listen to what she said. He took an interest in her questions, and was gentle with her misunderstandings. She felt invigorated, like she had seen a glimps of the world.
+Tom was equally enthralled by The Tailor. The places he had seen; he seems to have seen the whole world! This man was friendly, easy to talk to. Unlike Jack, The Tailor would listen to what she said. He took an interest in her questions, and was gentle with her misunderstandings. She felt invigorated, like she had seen some of the world.
 
-Listening to his tails of travels and antics, Tom built a picture in her mind of towns further south: of people and lifestyles, how others lived and the wonders of life outside the forest.
+Tom built a picture in her mind of towns further south: of people and lifestyles, how others lived and the wonders of life outside the forest.
 
 Kim had ignored the two while they were talking. All the time he had been wondering how the town's people choose which building to sleep in. He was expecting to fight for space, but he was not sure how it worked here.
 
@@ -108,7 +108,7 @@ Pulling the second rope caused the lantern to rise. Then it stopped and The Tail
 ![](TheTailor/thetailor1_small.png)
 Then speaking more to himself than the two sitting down: “The innkeeper said it housed more people than horses. I doubt anyone actually travels *to* this place.” 
 
-He looked around again: the agitated lantern animated the shadows. “We have ourselves a stable situation.”, he laughed at his own play on words and continued: “If more people stay here than horses, it explains a lot.”
+He looked around again: the agitated lantern animated the shadows. “We have ourselves a stable situation.”, he laughed at his own play on words and continued: “If more people stay here than horses, it explains everything.”
 
 Suddenly The Tailor turned quickly towards the door saying: “I have to settle up with the innkeeper. And get us some food, I'm really hungry.” Then he left. 
 
