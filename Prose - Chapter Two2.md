@@ -1,4 +1,4 @@
-Before she turned to walk towards the house, Tom scooped up a handful of apple flesh. She paused to finish eating, gobbling messy mouthfuls. As she drew close to the house, the remains of the door latch caught Tom’s attention. It was a mangled, rusted wreck that had once been a latch, but Tom had never seen it any other way. The latch on the giant’s door was the first functioning one she had ever seen.
+Before she turned to walk towards the house, Tom scooped up a handful of apple flesh. She paused to finish eating, gobbling messy mouthfuls. As she drew close to the house, the remains of the door latch caught Tom’s attention. It was a mangled, rusted wreck that had once been a latch, but Tom had never seen it any other way. The latch on the giant’s door was the first functioning one she had seen.
 
 Licking her hands clean she wondered if the mangled latch could be bent back into shape. But then shadows of anxiety arrived as she remembered how others would react.
 
