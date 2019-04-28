@@ -13,17 +13,15 @@ He looked out northwards: the dusk lit city below the castle battlements. It was
 
 His pack was ready: his formal knight's robe, his standard knight's armour; laid out in neat pieces. He had the 'letter from The Prince' he had written as part of his cover. It was safe in his pouch. His disguise complete. 
 
-Knights armour had slightly different strapping compared to the princely armour he was familiar with. But he had prepared and practised, and was soon encased in his new metal shell. Dressed in the over-robe, with his pack on his back, he was almost ready.
+Knights armour had slightly different strapping compared to the princely armour he was familiar with. But he had prepared and practised, and was soon encased in his new metal shell. Dressed in the overrobe, with his pack on his back, he was almost ready.
 
 The heavy helmet and visor the last parts. These amplified his own breath, and cropped his vision. The discomfort a reassurance; it would be a good disguise. 
 
-The south stair was deserted as expected; the noise from his pack and armour, which while loud (despite his best effort at sneaking) went unheard. And then following the spiralling stairs into the arched tunnels below the keep. 
+The south stair was deserted as expected; the noise from his pack and armour, which while loud (despite his best effort at sneaking) went unheard. And then following the spiralling stairs down to the arched tunnels below the keep. 
 
 Each step through the arches brought a sharp remembrance: what he was walking away from; the responsibility, the throne and the honour of his lineage. There it was: the shame on his shoulders.
 
 But a flash of what laid ahead: the open road, a life of freedom, hide away from the chains of state, from historical consequences. Instead be alive day to day; each morning a new life. Each morning free again.
-
-And before his foot hit the floor, an awareness from guilt, that he was born to the crown; beholden to the court. But why have an educated king? It makes the crown so much more crueller for the wearer; no personal judgement permitted, beholden to hundreds of years of history. Risk of uprising, or worse.
 
 Another step: his escape effecting his (already sick) father. His younger sister left to inherit the burden; unprepared, multiple effects falling onto her... a royal crown the heaviest.
 
@@ -33,7 +31,7 @@ So he took more steps, faster steps. But hurrying did not abate the remorse. Reg
 
 He would have to take his helmet off to do that. He might be out of the tunnel soon.
 
-More steps forward but misplacing his footing caused him to temper his speed, calming to a slower pace. 
+More steps forward but misplacing his footing and almost stumbling caused him to temper his speed.
 
 Slow awkward steps and a draft of air. The tunnel must conclude soon. “Am I doing the right thing?”; he felt anxious. He stopped. The weight of his pack, the weight of his helmet but mostly the weight of his choice.
 
@@ -43,7 +41,7 @@ The breeze stronger, the cold biting his eyes. And the sound of rushing. It was 
 
 The tunnel narrowed and led round to the left. Following this: the smell of rain and the outside. The tunnel became a narrow cave and an opening overlooking fields. 
 
-Looking out of the cave opening, into the misty rain, his anxiety rose; a clear sense of the risks ahead he was entering into, mixed with remorse and guilt.
+Looking out of the cave opening, into the misty rain, his anxiety rose; a clear sense of the risks ahead, mixed with remorse and guilt.
 
 A deep sigh, and he felt the peek of his remorse: the prospect of the constricting life behind him, the escape to freedom in front. The sound of the rain neither diminishing or increasing; it was a flat boring constant he found himself aching for.
 
