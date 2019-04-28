@@ -34,7 +34,7 @@ Leaning his weight against it twice, the staff held. He started walking towards 
 
 The south trail was easy in comfortable boots. Kim had their father’s hand-me-downs, which were only second generation. They looked more or less like normal old boots. Tom’s pair looked new, but obviously too small for anyone but her and her tiny frame. Early on she had relied on this to stave off others’ desires on the boots.
 
-She strongly suspected the boots would fit whoever held them, the same way they had for her. She had pulled the boots off the giant very easily, accidentally even, and they slipped off the giants feet into her hands as a pair of boots exactly the right size for her.
+She strongly suspected the boots would fit whoever held them, the same way they had for her. She had pulled the boots off the giant very easily, accidentally even, and they had slipped off the giants feet into her hands as a pair of boots exactly the right size for her.
 
 Progress along the south trail was pleasant enough, but they pushed themselves hard with no stopping. The forest thinned and the trail became a road. It was afternoon by the time they saw the dotted buildings of the village far in the distance. With only two more rolling hills to cross, they could be there soon. They quickened their pace to Tom's fastest.
 
