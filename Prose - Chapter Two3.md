@@ -10,9 +10,9 @@ Suddenly there was someone behind them: “You two are new.”, the person said.
 
 Kim barely said a thing; a slight grunt of disapproval.
 
-But Tom answered eagerly: “Hello!”, and pointed north explaining: “we’re from The Forest.”
+But Tom answered eagerly: “Hello! we’re from The Forest.” pointing north to explain.
 
-“Oh.” said the boy, as if he were interested. “The Forest.” he nodded agreeing, but did not continue. A pause brewed.
+“Oh.” said the boy, as if he were interested. “The Forest.” he nodded agreeing but did not continue. A pause brewed.
 
 “What you come down here for then?” he asked.
 
@@ -28,7 +28,7 @@ Tom produced one of the giant pips, holding it in her outstretched palms for the
 
 The boy saw her offering and after almost no time he was astonished, which was accompanied by silence.
 
-“That’s not right.” he observed slowly, after a little time. “Who else you shown it to?”
+“That’s not right.” he observed, slowly, after a little time. “Who else you shown it to?”
 
 “No one, you’re the first.” came Tom’s quick reply.
 
@@ -50,7 +50,7 @@ Jack challenged a question back: “A cow?” He was incredulous; looking around
 
 “No!” burst Jack, “Wait!”; his interest in the pip confirmed.
 
-Kim stopped but kept his grip on Tom, her jumper stretching as she turned to Jack: “I’ve got three.”
+Kim stopped but kept his grip on Tom, her jumper stretched as she turned to Jack: “I’ve got three.”
 
 “Oh!” exclaimed Jack, as if this changed everything, “Three! why didn’t you say so?”
 
