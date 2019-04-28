@@ -50,7 +50,7 @@ Jack challenged a question back: “A cow?” He was incredulous; looking around
 
 “No!” burst Jack, “Wait!”; his interest in the pip confirmed.
 
-Kim stopped but kept his grip on Tom, her jumper stretched as she turned to Jack: “I’ve got three.”
+Kim stopped but kept his grip on Tom, her jumper stretching as she turned to Jack: “I’ve got three.”
 
 “Oh!” exclaimed Jack, as if this changed everything, “Three! why didn’t you say so?”
 
