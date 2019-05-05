@@ -10,15 +10,15 @@ She was not actually looking at the sky; but now she did, her thoughtscape vanis
 
 Lifting her head to see what remained of the apple core. The remaining giant apple sat looking a little sorry for itself. It was thinner now, and mushy. She and her brothers had dragged this giant apple from the giant's garden a few days ago.
 
-Safe at home Tom reflected on these strange events, back to the moment they decided to take the apple. “I persuaded them.” Tom remembered. More than ever, she was clear her actions had saved them from starvation. The sense of relief mixed with the fear of how things would have been otherwise? And yet amongst the relief/fragility was a small, glimmering sense of pride.
+Safe at home Tom reflected on these strange events, back to the moment they decided to take the apple. “I persuaded them.” Tom remembered. More than ever, she was clear her actions had saved them from starvation. The sense of relief mixed with the fear of how things would have been otherwise. And yet amongst the relief and fragility was a small, glimmering sense of pride.
 
 A second look at the apple: she decided it would last two more days. But the heavenly comfort of having enough food came with a nagging feeling. What was that nagging feeling? An awareness catching up with her. Probing her mind, breaking open blocks to thoughts she preferred not to think: “Oh yes,” she murmured; the apple would inevitably be eaten.
 
-With no apple left, the family would be back to the way it was before. Winter was not over yet, they might still starve.
+With no apple left the family would be back to the way it was before. Winter was not over yet, they might still starve.
 
-With a sigh she pulled herself up to a sit; muscles stretching, which brought her back to the present. The grass stalk in her mouth, now an inconvenience, spat out to make room for thought.
+With a sigh she pulled herself up to sit; muscles stretching, which brought her back to the present. The grass stalk in her mouth, now an inconvenience, spat out, making room for focus: what to do about the looming starvation.
 
-Wiggling her toes; the exquisite comfort in the soft leather of her boots. She could do that all day. She had been doing that all day.
+Wiggling her toes she felt the exquisite comfort in the soft leather of her boots. She could do that all day. She had been doing that all day.
 
 “So,” she said to herself, “what I need is a plan.”
 
