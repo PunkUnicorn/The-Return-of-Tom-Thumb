@@ -8,9 +8,9 @@ The words of the motherly giant echoed in her thoughts: “Make no mistake you b
 
 She was not actually looking at the sky; but now she did, her thoughtscape vanished. It would be getting dark soon. The grass stalk in her mouth, almost forgotten about, chewed to destruction.
 
-Lifting her head to see what remained of the apple core. The remaining giant apple sat looking a little sorry for itself. It was thinner now, and mushy. She and her brothers had dragged this giant apple from the giant's garden a few days ago.
+Lifting her head to see what remained of the apple core. The remaining giant apple looked thinner now, and mushy. She and her brothers had dragged this giant apple from the giant's garden a few days ago.
 
-Safe at home Tom reflected on these strange events, back to the moment they decided to take the apple. “I persuaded them.” Tom remembered. More than ever, she was clear her actions had saved them from starvation. The sense of relief mixed with the fear of how things would have been otherwise. And yet amongst the relief and fragility was a small, glimmering sense of pride.
+Safe at home Tom reflected on these strange events, back to when they decided to take the apple. “I persuaded them.” Tom remembered. More than ever, she was clear her actions had saved them from starvation. The sense of relief mixed with the fear of how things would have been otherwise. And yet amongst the fragile relief was a small, glimmering sense of pride.
 
 A second look at the apple: she decided it would last two more days. But the heavenly comfort of having enough food came with a nagging feeling. What was that nagging feeling? An awareness catching up with her. Probing her mind, breaking open blocks to thoughts she preferred not to think: “Oh yes,” she murmured; the apple would inevitably be eaten.
 
