@@ -40,6 +40,6 @@ Progress along the south trail was pleasant enough, but they pushed themselves h
 
 By early afternoon the two had reached the village. Kim carried Tom piggy back for the last stretch; he was exhausted. Tom jumped down, fidgeting her legs back to normal. With her feet on the ground and her feeling returning to her like again, she assessed their destination. They had been to this place recently, when fleeing the giants.
 
-Tom saw the collection of buildings as if for the first time; it was dark previously. She could remember the relief on arriving... but then the memories of the nightmare before that, at the giant’s house: the giant trying to kill her.
+Tom saw the collection of buildings as if for the first time. She could remember the relief on arriving... but then the memories before that, at the giant’s house: the giant trying to kill her.
 
-With a concerted breath, the reassurance of the pips in her pocket and a village full of in front of her, Tom gathered her focus... which, being Tom, took her straight through tunnels into fantasy daydreams: of what the pips could be worth?
+With a concerted breath, the reassurance of the pips in her pocket and the busy village in front of her, Tom gathered her focus... which (being Tom) took her straight through tunnels into fantasy daydreams: of what the pips could be worth?
