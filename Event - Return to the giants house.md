@@ -37,7 +37,19 @@ The balloon has a tear from where they anchored the ballon, 'resting' on the har
 
 It’s easy to repair but would take time. The balloon might slowly descend due to the tear, despite The Tailor playing his flute faster and faster to try and get them up. The balloon will break through the tree tops and get more ripped as the basket of the balloon blindly breaks through, shearing branches to jagged edges which rip the balloon fabric. It dangles from the tree-top, the balloon requiring significantly longer to repair.
 
-They descide to abandon the balloon since getting it repaired, and back through the tree tops, seems like a huge task now. They would spend time trying to repair it if they had the time. They have to hurry towards the direction house, as they remember it. They they make it through, and the giant woman is there in the garden...
+They descide to abandon the balloon since getting it repaired, and back through the tree tops, seems like a huge task now. They would spend time trying to repair it if they had the time. They have to hurry towards the direction house, as they remember it. They they make it through, and the giant woman is there in the garden... possibly.. 
+
+but wait!
+
+## Second Refusal of the call
+Tom might be reluctant, nervous to see the giant again. She might mention this but she might resolve it internally, silently.
+
+## Second Supernatural aid
+The Tailor would know the ancient protocols for initiating a conversation with the giants, from the older times; the giant wars all but forgotten and melded into myth. It might be a phrase he says, or a ryhme. 
+
+What ever it is, it causes dialogue between the giant and the group.
+
+...
 
 They might stay in the house for more than morning, having to wait till the house arrives back to the material. Otherwise they would have to get from the plane of clouds to the material on their own or with the help of the giant. 
 
