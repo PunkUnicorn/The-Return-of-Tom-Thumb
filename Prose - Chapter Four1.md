@@ -1,6 +1,7 @@
 # Chapter Four
 
 ![](TheKnight/TheKnightPensive_small.png)
+
 Meanwhile, far south, in the most south city, in the southern part of the kings castle, itself in the cities south, an heir to the throne, the crown prince himself, was looking out northwards. 
 
 He had the life of a prince. However, if he knew where Tom was, or even who Tom was, he would have been jealous of her life tonight. 
