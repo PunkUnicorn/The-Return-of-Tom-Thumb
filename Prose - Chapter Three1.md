@@ -59,7 +59,7 @@ Tom shrugged: “Three apple pips.“
 
 The Tailor was confused but after some questions he understood: they were from a giant apple. Tom would not share where the apple came from. In fact, she seemed to shut down when asked; she started shrinking away. 
 
-The Tailor would have liked to ask more questions. He wanted to correlate giant apples and strange boots against stories he knew. But instead of answering questions the girl was talking less, lips sealed and looking frightened.
+The Tailor would have liked to ask more. He wanted to correlate giant apples and strange boots against stories he knew. But instead of answering questions the girl was talking less, lips sealed and looking frightened.
 
 To re-engage her, he diverted the conversation to tales of his own travels from the south. This woke Tom up, but not the other one: her brother he presumed.
 
