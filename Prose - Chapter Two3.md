@@ -1,4 +1,4 @@
-After recovering his breath, Kim moved up alongside his sister. Tom acknowledged him, her train of thought evaporating with the eye contact.
+After recovering his breath, Kim moved up alongside his sister. Tom acknowledged him, he was ready for trouble. Her train of thought evaporating with his eye contact.
 
 They walked towards the village at a slow pace, absorbing everything, every sight, sound and smell: dogs, geese, carts and horses, stacks of things by the buildings, sacks of things by the stacks. Smoke and banging, suddenly a shout, but nothing to do with them. And then the people – how they were dressed: everyone had good boots or clogs. Tom gave her own boots a quick look. Pride surged through her with a dawning thought: she was fitting in.
 
@@ -6,7 +6,7 @@ They walked towards the village at a slow pace, absorbing everything, every sigh
 
 Tom peeked a check at Kim: he looked perturbed, as if the whole thing had been a bad idea. Tom turned to face her brother, her expression inviting him into her excitement. Kim returned her look, but it was clear from his face she had not influenced him. He was not enjoying this.
 
-Suddenly there was someone behind them: “You two are new.”, the person said. Tom and Kim stopped abruptly and turned: there was a fair haired boy. A bit older than them. He was holding a cow tethered by a nose ring. “Where you from?”. The boy glanced between Tom and Kim, but settled on Tom.
+Suddenly there was someone behind them: “You two are new.”, the person said. Tom and Kim stopped abruptly and turned: there was a fair haired boy. A bit older than Kim. He was leaning against the wall, holding a cow tethered by a nose ring. “Where you from?”. The boy glanced between Tom and Kim, but settled on Tom.
 
 Kim barely said a thing; a slight grunt of disapproval.
 
