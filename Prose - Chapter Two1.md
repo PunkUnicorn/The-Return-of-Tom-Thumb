@@ -2,7 +2,7 @@
 
 Tom Thumb had been back home for several nights. As usual her thoughts were occupied, replaying the past troubling days: the terrifying giant, coming to terms with their parents leaving them to die in the forest and finding out she was not the same as her brothers.
 
-She had always known she was not the same, despite her father’s intimidating insistence: he only had sons.
+She had always known she was not the same, despite her father’s intimidating insistence that he only had sons.
 
 The words of the motherly giant echoed in her thoughts: “Make no mistake you beautiful young thing: you are a girl.” Once again, Tom felt surprise and shock. For as many times as she believed she had come to terms with this, it would return to unsettle her.
 
@@ -10,9 +10,9 @@ She was not actually looking at the sky; but now she did, her thoughtscape vanis
 
 Lifting her head to see what remained of the apple core. The remaining giant apple looked thinner now, and mushy. She and her brothers had dragged this giant apple from the giant's garden a few days ago.
 
-Safe at home Tom reflected on these strange events, back to when they decided to take the apple. “I persuaded them.” Tom remembered. More than ever, she was clear her actions had saved them from starvation. The sense of relief mixed with the fear of how things would have been otherwise. And yet amongst the fragile relief was a small, glimmering sense of pride.
+Safe at home Tom reflected on these strange events, back to when they decided to take the apple. “I persuaded them.” Tom remembered. More than ever, she was clear her actions had saved them from starvation. The sense of relief mixed with fear; of how things would have been otherwise. And yet amongst the fragile relief was a small, glimmering sense of pride.
 
-A second look at the apple: she decided it would last two more days. But the heavenly comfort of having enough food came with a nagging feeling. What was that nagging feeling? An awareness catching up with her. Probing her mind, breaking open blocks to thoughts she preferred not to think: “Oh yes,” she murmured; the apple would inevitably be eaten.
+A second look at the apple: she decided it would last two more days. But the heavenly comfort of having enough food came with a nagging feeling. What was that nagging feeling? “Oh yes,” she murmured; the apple would inevitably be eaten.
 
 With no apple left the family would be back to the way it was before. Winter was not over yet, they might still starve.
 
@@ -22,9 +22,9 @@ Wiggling her toes she felt the exquisite comfort in the soft leather of her boot
 
 “So,” she said to herself, “what I need is a plan.”
 
-It was not an easy problem to solve, but Tom soon had an idea. In fact the answer was clear: get another giant apple! Apples grow from apple pips. “But not in a day”, she sighed, doubting herself. Yet it was something. Tom was struck by an idea: value she had missed; a hidden treasure: the giant apple pips themselves.
+It was not an easy problem to solve, but soon Tom had an idea. In fact the answer was clear: get another giant apple! Apples grow from apple pips. “But not in a day”, she sighed, doubting herself. Yet it was something. Tom was struck by an idea: value she had missed; a hidden treasure: the giant apple pips themselves.
 
-Rising to her feet she walked to where the core stood, close enough to judge where the pips could be. Squaring her knuckles with her shoulder, readjusting her footing, channelling body weight, she punched a level blow. A splattering of gloop and a rip into the seed chamber. Gripping the breach with both hands she tore it wider.
+Rising to her feet she walked to where the core stood, close enough to judge where the pips could be. Squaring her knuckles she punched a level blow. With a splattering of gloop her punch ripped into the seed chamber. Gripping the breach with both hands she tore it wider.
 
 Pushing a hand in deeply, she felt a pip. Pushing further, feeling around blindly, she mapped the pip’s orientation. With a concerted shunt the pip nudged to a better grip. Tom eased it out.
 

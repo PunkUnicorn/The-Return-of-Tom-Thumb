@@ -1,14 +1,14 @@
-Tom scooped up a handful of apple flesh, then walked slowly towards the house to finish eating. As she drew closer, the remains of the door latch caught Tom’s attention. It was a mangled, rusted wreck that had once been a latch. Tom had never known it any other way. The latch on the giant’s door was the first functioning one she had seen.
+Tom scooped up a handful of apple flesh, then walked slowly towards the house, giving herself time to finish eating. As she drew close, the remains of the door latch caught Tom’s attention. It was a mangled, rusted wreck that had once been a latch. Tom had never known it any other way. The latch on the giant’s door was the first functioning one she had seen.
 
-Licking her hands clean, while wiping them dry on her trousers she wondered if their mangled latch could be bent back into shape. But then shadows of anxiety arrived as she remembered how others would react.
+Licking her hands clean, and wiping them on her trousers, she wondered if their mangled latch could be bent back into shape. But then shadows of anxiety arrived as she remembered how others would react.
 
 Now aware of her family behind the door, defensive instincts pulled her back: stay unnoticed, don’t change the latch; be invisible. Tom closed her mind, stiffened her muscles and pulled the heavy door open.
 
-The overpowering smell of baked apples. The heavy door slammed shut behind her. In the thick air, for a second, Tom was sick of apples. But the feeling quickly passed. She chastised herself for the obvious: the apple being a life saver. Besides, the pips in her pocket could be interesting.
+The overpowering smell of baked apples. The heavy door slammed shut behind her. In the thick air, for a second, Tom was sick of apples. But the feeling quickly passed. She chastised herself for the obvious: the apple being a life saver. Besides, the pips in her pockets could be interesting.
 
 There was no good seat available. Around the table sprawled her brothers, there was only one seat left: the smallest and least sturdy. Tom wanted to sit so she sat there.
 
-Often there were brawls over the precious little they had. Seats (or more specifically seats and seat positions) were a common cause of trouble but Tom avoided this. Once or twice she might have had to fight for the right to be left alone. That was worth fighting for, but little else was.
+Often there were brawls over the precious little there was. Seats (or more specifically seats and seat positions) were a common cause of trouble but Tom avoided this. Once or twice she might have had to fight for the right to be left alone, that was worth fighting for.
 
 And yet, bellies full, even mitigated tensions were rising round the table; competing voices. She did not look though, not a time to risk eye contact. She listened to judge tones of aggression: anxiety reassured; it was safe.
 
