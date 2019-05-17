@@ -4,9 +4,9 @@ Tom Thumb had been back home for several nights. As usual her thoughts were occu
 
 She had always known she was not the same, despite her father’s intimidating insistence he only had sons.
 
-The words of the motherly giant echoed in her thoughts: “Make no mistake you beautiful young thing: you are a girl.” Once again, Tom felt surprise and shock. For as many times as she believed she had come to terms with this, it would return to unsettle her.
+The words of the motherly giant echoed in her thoughts: “Make no mistake, you beautiful young thing: you are a girl.” Once again, Tom felt surprise and shock. For as many times as she believed she had come to terms with this, it would return to unsettle her.
 
-She was not actually looking at the sky; but now she did, her thoughtscape vanished. It would be getting dark soon. The grass stalk in her mouth, almost forgotten about, chewed to destruction.
+She was not really looking at the sky, but now she did. Her thoughtscape vanished. It would be getting dark soon. The grass stalk in her mouth, almost forgotten about, chewed to destruction.
 
 Lifting her head to see what remained of the apple core. The remaining giant apple looked thinner now, and mushy. She and her brothers had dragged this giant apple from the giant's garden a few days ago.
 
@@ -16,7 +16,7 @@ A second look at the apple: she decided it would last two more days. But the hea
 
 With no apple left the family would be back to the way it was before. Winter was not over yet, they might still starve.
 
-With a sigh she pulled herself up to sit; muscles stretching, which brought her back to the present. The grass stalk in her mouth, now an inconvenience, spat out, making room for focus: what to do about the looming starvation.
+With a sigh she pulled herself up to sit; muscles stretching, which brought her back to the present. The grass stalk in her mouth, now an inconvenience, spat out to make room for focus.
 
 Wiggling her toes she felt the exquisite comfort in the soft leather of her boots. She could do that all day. She had been doing that all day.
 
@@ -24,7 +24,7 @@ Wiggling her toes she felt the exquisite comfort in the soft leather of her boot
 
 It was not an easy problem to solve, but soon Tom had an idea. In fact the answer was clear: get another giant apple! Apples grow from apple pips. “But not in a day”, she sighed, doubting herself. Yet it was something. Tom was struck by an idea: value she had missed; a hidden treasure: the giant apple pips themselves.
 
-Rising to her feet she walked to where the core stood, close enough to judge where the pips could be. Squaring her knuckles she punched a level blow. With a splattering of gloop her punch ripped into the seed chamber. Gripping the breach with both hands she tore it wider.
+Rising to her feet she walked to where the core stood, close enough to judge where the pips could be. Squaring her knuckles she punched a level blow. With a splattering of gloop her punch ripped through the seed chamber. Gripping the breach with both hands she tore it wider.
 
 Pushing a hand in deeply, she felt a pip. Pushing further, feeling around blindly, she mapped the pip’s orientation. With a concerted shunt the pip nudged to a better grip. Tom eased it out.
 
