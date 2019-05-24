@@ -90,4 +90,12 @@ Tom deduced she was welcome to be with The Tailor for the foreseeable future, wh
 
 - - -
 
-The Prince was glad to find the trail, being tired of fields, forest and ferns. A biting chill with little sun since the bright morning. His clothes and pack soaked through. His muscles ached; he had never walked so far with such a weight. He could not stop yet.
+The Prince was glad to find the trail, being tired of fields, forest and ferns. A biting chill with little sun, at least, not since the bright morning. 
+
+His clothes and pack soaked through. His muscles ached; he had never walked so far with such a weight. He could not stop yet though. The tall holly hedges obscured the hut which came into The Prince's view, round the corner along the trail. A small opening with stables, a wooden shack and a grain silo. 
+
+The Prince stood outside the shack. The buildings had been well maintained. A neatly painted door opened and an old man in a leather apron looked at The Prince. 
+
+“Greetings.” The Prince declared, as a Knight would.
+
+“Look at you, what a mess.” the old man replied informally. “You'd better come inside then.” and he left the doorway, leaving the door open. The Prince entered. A bare small room with a long tressel bench along the facing wall. The man had gone through another door to his left, which was open.
