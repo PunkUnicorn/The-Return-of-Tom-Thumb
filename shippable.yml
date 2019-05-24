@@ -1,0 +1,54 @@
+install:
+  - ps: cat ".\TheKnight\the-knight-thumbnail.txt"
+  - cinst pandoc
+  - python -m pip install --upgrade pip #for spelling and theasurus
+  - pip install -U pyenchant #for spelling
+  - pip install -U nltk #for theasurus
+  - python -m nltk.downloader all #for theasurus *** VERY SLOW ***
+  - pip install gTTS #google text to speech
+  - cinst lame
+  - cinst sox.portable
+  
+build: false
+
+test_script:
+  - ps: .\topdf.ps1
+  - ps: cat ".\Croconocerous\croco_on_mostly_blank_except_some_grass_man.txt"
+
+artifacts:
+  - path: Chapter-*-Spelling.txt
+    name: spelling-errors
+    type: file
+  - path: Chapter-*-Words.txt
+    name: word-matix
+    type: file
+  - path: The-Return-of-Tom-Thumb*.epub
+    name: is_book_yeah
+    type: file
+  - path: The-Return-of-Tom-Thumb.md
+    name: is_book_yeah_md
+    type: file
+  - path: The-Return-of-Tom-Thumb.txt
+    name: is_book_yeah_txt
+    type: file
+  - path: The-Return-of-Tom-Thumb.html
+    name: is_book_yeah_html
+    type: file
+  - path: The-Return-of-Tom-Thumb.mp3
+    name: is_book_yeah_mp3
+    type: file
+  - path: The-Return-of-Tom-Thumb.mp3.log
+    name: is_book_yeah_mp3_log
+    type: file
+  - path: The-Return-of-Tom-Thumb-with-music.mp3
+    name: is_book_yeah_mp3_w_music
+    type: file
+  - path: A_Croconossorus_Tale.mp3
+    name: is_croconossorus_real
+    type: file
+  - path: testymctestface.mp3
+    name: testy_mc_testface
+    type: file
+
+
+  
