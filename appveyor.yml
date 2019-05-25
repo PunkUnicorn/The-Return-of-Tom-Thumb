@@ -8,6 +8,12 @@ install:
   - pip install gTTS #google text to speech
   - cinst lame
   - cinst sox.portable
+  - dir /b *. > ALLDIRS
+  - type ALLDIRS
+  - CD > WUTPATH
+  - for /F "tokens=*" %i  in (WUTPATH) do set BASEPATH=%i
+  - for /F "tokens=*" %i in (ALLDIRS) do set PATH=%PATH%;%BASEPATH%\%i
+  - SET PATH
   
 build: false
 
