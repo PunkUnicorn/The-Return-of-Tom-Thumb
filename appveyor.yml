@@ -7,7 +7,7 @@ install:
   - type ALLDIRS
   - CD > WUTPATH
   - type WUTPATH
-  - dir lame.* /s
+  - dir c:\lame.* /s
   - REM for /F "tokens=*" %i in (WUTPATH) do set BASEPATH=%i
   - REM for /F "tokens=*" %i in (ALLDIRS) do set PATH=%PATH%;%BASEPATH%\%i
   - SET PATH
