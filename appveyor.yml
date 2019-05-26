@@ -11,7 +11,8 @@ install:
   - dir /b *. > ALLDIRS
   - type ALLDIRS
   - CD > WUTPATH
-  - tyoe WUTPATH
+  - type WUTPATH
+  - dir "c:\Program Files"
   - REM for /F "tokens=*" %i in (WUTPATH) do set BASEPATH=%i
   - REM for /F "tokens=*" %i in (ALLDIRS) do set PATH=%PATH%;%BASEPATH%\%i
   - SET PATH
