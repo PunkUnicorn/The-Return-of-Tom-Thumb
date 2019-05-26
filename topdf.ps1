@@ -189,7 +189,8 @@ Get-Content -Path ".\TheTailor\the-tailor.txt" -Encoding UTF8
 Write-Output "`n`nIntroducing ... pandoc!`n"
 pandoc --version
 Write-Output "`n`nIntroducing ... lame!`n"
-lame --help
+dir
+.\lame --help
 Write-Output "`n`nIntroducing ... sox!`n"
 sox -h
 Write-Output "`n`nIntroducing ... soxi!`n"
