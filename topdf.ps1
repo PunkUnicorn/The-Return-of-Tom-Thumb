@@ -165,6 +165,8 @@ Spellcheck-Chapter "Chapter Four" "Chapter-Four-Spelling.txt"
 Write-Output "Spelling Ends"
 
 Write-Output "Thesaurunocerous Starts"
+if ($env:WANTTHES -eq "1")
+{
 Thesaurunocerous-Chapter "Chapter One" "Chapter-One-Words.txt"
 Thesaurunocerous-Chapter "Chapter Two" "Chapter-Two-Words.txt"
 Thesaurunocerous-Chapter "Chapter Three" "Chapter-Three-Words.txt"
@@ -174,7 +176,11 @@ Thesaurunocerous-Chapter "Chapter *" "Chapter-All-Words.txt"
 
 # something for the colsole
 WordAnalysis-Chapter "Chapter *"
-
+}
+else
+{
+Write-Output "skipped..."
+}
 Write-Output "Thesaurunocerous Ends"
 
 
