@@ -329,10 +329,10 @@ Write-Output "... made The-Return-of-Tom-Thumb.mp3 and The-Return-of-Tom-Thumb.m
 # Add a backing track to the audio book
 #
 Write-Output "Making audio book with soundtrack..."
-lame --decode .\Music\natural-reader-soundtrack.mp3 natural-reader-soundtrack.wav  --silent
+.\lame --decode .\Music\natural-reader-soundtrack.mp3 natural-reader-soundtrack.wav  --silent
 Write-Output "... made natural-reader-soundtrack.wav"
 
-lame --decode The-Return-of-Tom-Thumb.mp3 The-Return-of-Tom-Thumb.wav --silent
+.\lame --decode The-Return-of-Tom-Thumb.mp3 The-Return-of-Tom-Thumb.wav --silent
 Write-Output "... made The-Return-of-Tom-Thumb.wav"
 
 sox The-Return-of-Tom-Thumb.wav --channels 2 The-Return-of-Tom-Thumb-stereo.wav -q
@@ -351,7 +351,7 @@ $trimToParam = "$trimToMinutes`:00"
 sox tRoTT-with-music.wav tRoTT-with-music-trimmed.wav trim 0 $trimToParam 
 Write-Output "... made tRoTT-with-music-trimmed.wav"
 
-lame tRoTT-with-music-trimmed.wav The-Return-of-Tom-Thumb-with-music.mp3 --silent
+.\lame tRoTT-with-music-trimmed.wav The-Return-of-Tom-Thumb-with-music.mp3 --silent
 Write-Output "... made The-Return-of-Tom-Thumb-with-music.mp3"
 
 #
