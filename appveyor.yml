@@ -2,15 +2,8 @@ install:
   - ps: cat ".\TheKnight\the-knight-thumbnail.txt"
   - cinst pandoc
   - REM cinst lame
-  - cd LameExe
-  - lame_v3.100.exe
-  - cd ..
+  - copy LameExe/lame_v3.100.exe lame.exe
   - cinst sox.portable
-  - dir /b *. > ALLDIRS
-  - type ALLDIRS
-  - CD > WUTPATH
-  - type WUTPATH
-  - dir c:\lame.* /s
   - python -m pip install --upgrade pip #for spelling and theasurus
   - pip install -U pyenchant #for spelling
   - pip install gTTS #google text to speech
