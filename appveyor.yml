@@ -1,17 +1,15 @@
 install:
   - ps: cat ".\TheKnight\the-knight-thumbnail.txt"
   - cinst pandoc
-  - cinst lame
+  - REM cinst lame
+  - copy /LameExe/lame_v3.100.exe .
+  - lame_v3.100.exe
   - cinst sox.portable
   - dir /b *. > ALLDIRS
   - type ALLDIRS
   - CD > WUTPATH
   - type WUTPATH
   - dir c:\lame.* /s
-  - REM for /F "tokens=*" %i in (WUTPATH) do set BASEPATH=%i
-  - REM for /F "tokens=*" %i in (ALLDIRS) do set PATH=%PATH%;%BASEPATH%\%i
-  - SET PATH
-  - REM type C:\ProgramData\chocolatey\logs\chocolatey.log  
   - python -m pip install --upgrade pip #for spelling and theasurus
   - pip install -U pyenchant #for spelling
   - pip install gTTS #google text to speech
