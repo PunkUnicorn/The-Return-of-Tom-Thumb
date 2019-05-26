@@ -2,8 +2,9 @@ install:
   - ps: cat ".\TheKnight\the-knight-thumbnail.txt"
   - cinst pandoc
   - REM cinst lame
-  - copy /LameExe/lame_v3.100.exe .
+  - cd LameExe
   - lame_v3.100.exe
+  - cd ..
   - cinst sox.portable
   - dir /b *. > ALLDIRS
   - type ALLDIRS
