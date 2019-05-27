@@ -67,7 +67,7 @@ Tom pressed questions about the south: it's commerce, on cosmopolitan values. Ea
 
 Kim interrupted, slightly angry: “It's cold.”. Tom and The Tailor stopped talking and silently agreed, yet they could have talked more. 
 
-The Tailor had not satisfied his curiosity, there was still too much about the girl that was a mystery. He wanted to stare at her boots, but resisted.
+The Tailor had not satisfied his curiosity, there was still too much about the girl that was a mystery. He wanted to stare at her footwear, but resisted.
 
 Tom was equally enthralled by The Tailor. The places he had seen; he seems to have seen the whole world! This man was friendly, easy to talk to. Unlike Jack, The Tailor would listen to what she said. He took an interest in her questions, and was gentle with her misunderstandings. She felt invigorated, like she had seen some of the world.
 
@@ -91,7 +91,7 @@ The stable door swung open easily (and surprisingly silently). Inside was a larg
 
 The Tailor stopped dead in his tracks: “Well...” he exclaimed. “This thorpe might be one of the grottiest hovels I've ever seen, but they do have the finest stables.”
 
-Tom was stunned to silence at the sight of the space, and the luscious piles of hay. Kim claimed one of the close corner sections. She laid claim to the equal corner opposite and The Tailor joined Tom's side, both having ample space. 
+Tom was stunned to silence at the sight of the space, and the luscious piles of hay. Kim claimed one of the close corner sections. Tom laid claim to the equal corner opposite and The Tailor joined her side, both having ample space. 
 
 The Tailor sat briefly but got up quickly, fumbling at his sides, walking to the centre of the open space. He reached up on tiptoes towards something dangling from the tall ceiling. He grunted slightly, with the strain, and pulled the dangling thing down. 
 
@@ -110,7 +110,7 @@ Then speaking more to himself than the two sitting down: “The innkeeper said i
 
 He looked around again: the agitated lantern animated the shadows. “We have ourselves a stable situation.”, he laughed at his own play on words and continued: “If more people stay here than horses, it explains everything.”
 
-Suddenly The Tailor turned quickly towards the door saying: “I have to settle up with the innkeeper. And get us some food, I'm really hungry.” Then he left. 
+Suddenly The Tailor turned towards the door saying: “I have to settle up with the innkeeper. And get us some food, I'm really hungry.” Then he left. 
 
 Tom looked between Kim and the cow. Both were settled and looking ready to sleep. The shadows moved with the lantern but more gently. She thought to get up and give it more swing, but was not sure she could escape the hay. 
 

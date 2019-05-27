@@ -17,7 +17,7 @@ Knights armour had slightly different strapping compared to the princely armour 
 
 The heavy helmet and visor the last parts. These amplified his own breath, and cropped his vision. The discomfort a reassurance; it would be a good disguise. 
 
-The south stair was deserted as expected; the noise from his pack and armour, which while loud (despite his best effort at sneaking) went unheard. And then following the spiralling stairs down to the arched tunnels below the keep. 
+The south stair was deserted as expected, his rattling armour unheard. Following the spiralling stairs down to the arched tunnels below the keep.
 
 Each step through the arches brought a sharp remembrance: what he was walking away from; the responsibility, the throne and the honour of his lineage. There it was: the shame on his shoulders.
 
@@ -31,7 +31,7 @@ So he took more steps, faster steps. But hurrying did not abate the remorse. Reg
 
 He would have to take his helmet off to do that. He might be out of the tunnel soon.
 
-More steps forward but misplacing his footing and almost stumbling caused him to temper his speed.
+More steps forward but misplacing his footing and almost stumbling caused him to slow down.
 
 Slow awkward steps and a draft of air. The tunnel must conclude soon. “Am I doing the right thing?”; he felt anxious. He stopped. The weight of his pack, the weight of his helmet but mostly the weight of his choice.
 
@@ -41,7 +41,7 @@ The breeze stronger, the cold biting his eyes. And the sound of rushing. It was 
 
 The tunnel narrowed and led round to the left. Following this: the smell of rain and the outside. The tunnel became a narrow cave and an opening overlooking fields. 
 
-Looking out of the cave opening, into the misty rain, his anxiety rose; a clear sense of the risks ahead, mixed with remorse and guilt.
+Looking out of the cave, into the misty rain, his anxiety rose; a clear sense of the risks ahead, mixed with remorse and guilt.
 
 A deep sigh, and he felt the peek of his remorse: the prospect of the constricting life behind him, the escape to freedom in front. The sound of the rain neither diminishing or increasing; it was a flat boring constant he found himself aching for.
 
@@ -100,13 +100,13 @@ The Prince stood outside the shack. The buildings were maintained to a high stan
 
 “Look at you, what a mess.” the old man replied informally. “You'd better come inside.” and he left the doorway, leaving it open as invitation. The Prince entered. A small room, bare wooden walls with a long trestle bench along the facing wall. The man had gone through another door to his left, which was open. The old man came back with an arm full of a folded robe, rough towels and underclothes.
 
-“Were you chasing a bolted horse all night?” the old man chuckled, adding: “through a stinking marsh?”, he laughed. The knight flinched to respond, thinking fast to adapt his excuse, but the old man cut him off; “No! Don't explain, I don't want to know. I like to be stationed off the main trail for a reason.” he explained.
+“Were you chasing a bolted horse all night?” the old man chuckled, adding: “through a stinking marsh?”, he laughed. The Prince flinched to respond, thinking fast to adapt his excuse, but the old man cut him off; “No! Don't explain, I don't want to know. I like to be stationed off the main trail for a reason.”
 
-After putting the bundle of clothes on the bench, he noticed the open front door which he closed, giving The Prince an accusing glare. The he chuckled again and patted The Prince on the shoulder: “Get yourself dry young man, can't have a knight looking sorry for himself.” and left through the other door, closing it behind him.
+After putting the bundle of clothes on the bench, he noticed the open front door which he closed, giving The Prince an accusing glare. Seeing the pathetic soaked knight, the old man chuckled again and patted The Prince on the shoulder: “Get yourself dry young man, can't have a knight looking sorry for himself.” and left through the other door, closing it behind him.
 
 The Prince eased the pack straps off each of his shoulders, squatting to rest the heavy bulk on the bench. The release of the weight was angelic. With only the weight of his plate armour and the sodden robes, he felt as light as a feather. He sat next to his pack and it was the sweetest relief, his arm resting on the canvas pack, he thought he could sit forever.
 
-“Normal people close doors after them.” he said to himself, “shit...”, and thought: “the first surprise of many probably.” 
+“Normal people close doors after them.” he said to himself, cursing quietly, and thought: “the first surprise of many probably.” 
 
 He shook his gauntlets off, and wrinkled fingers showed him how numb they were while he tried to unbuckle his greaves. Undressing the plate suit, each part unburdening his muscles.
 
