@@ -14,7 +14,7 @@ Often there were brawls over the precious little there was. Seats (or more speci
 
 And yet, bellies full, tensions were rising round the table; competing voices. She did not look though, not a time to risk eye contact. She listened to judge tones of aggression: anxiety reassured; it was safe.
 
-Wiggling her toes, squashing them against the leather of the boots, the argueing grew more distant as comfort won the battle for her senses.
+Wiggling her toes, squashing them against the leather of the boots, the arguing grew more distant as comfort won the battle for her senses.
 
 The next morning Tom woke earlier than anyone else. With well practised tiptoeing she stepped between sleeping siblings, got to the door and slipped outside. The first thing she saw: brown, leaning apple core.
 

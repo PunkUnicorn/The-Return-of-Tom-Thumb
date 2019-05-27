@@ -98,13 +98,13 @@ The Prince stood outside the shack. The buildings were maintained to a high stan
 
 “Greetings.” The Prince declared, as a Knight would.
 
-“Look at you, what a mess.” the old man replied informally. “You'd better come inside.” and he left the doorway, leaving it open as invitation. The Prince entered. A small room, bare wooden walls with a long tressel bench along the facing wall. The man had gone through another door to his left, which was open. The old man came back with an arm full of a folded robe, rough towels and underclothes.
+“Look at you, what a mess.” the old man replied informally. “You'd better come inside.” and he left the doorway, leaving it open as invitation. The Prince entered. A small room, bare wooden walls with a long trestle bench along the facing wall. The man had gone through another door to his left, which was open. The old man came back with an arm full of a folded robe, rough towels and underclothes.
 
 “Were you chasing a bolted horse all night?” the old man chuckled, adding: “through a stinking marsh?”, he laughed. The knight flinched to respond, thinking fast to adapt his excuse, but the old man cut him off; “No! Don't explain, I don't want to know. I like to be stationed off the main trail for a reason.” he explained.
 
 After putting the bundle of clothes on the bench, he noticed the open front door which he closed, giving The Prince an accusing glare. The he chuckled again and patted The Prince on the shoulder: “Get yourself dry young man, can't have a knight looking sorry for himself.” and left through the other door, closing it behind him.
 
-The Prince eased the pack straps off each of his shoulders, squatting to rest the heavy bulk on the bench. The release of the weight was angelic. With only the weight of his plate armour and the sodden robes, he felt as light as a fether. He sat next to his pack and it was the sweetest relief, his arm resting on the canvas pack, he thought he could sit forever.
+The Prince eased the pack straps off each of his shoulders, squatting to rest the heavy bulk on the bench. The release of the weight was angelic. With only the weight of his plate armour and the sodden robes, he felt as light as a feather. He sat next to his pack and it was the sweetest relief, his arm resting on the canvas pack, he thought he could sit forever.
 
 “Normal people close doors after them.” he said to himself, “shit...”, and thought: “the first surprise of many probably.” 
 
