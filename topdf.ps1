@@ -173,15 +173,17 @@ Thesaurunocerous-Chapter "Chapter Three" "Chapter-Three-Words.txt"
 Thesaurunocerous-Chapter "Chapter Four" "Chapter-Four-Words.txt"
 
 Thesaurunocerous-Chapter "Chapter *" "Chapter-All-Words.txt"
-
-# something for the colsole
-WordAnalysis-Chapter "Chapter *"
 }
 else
 {
 Write-Output "skipped..."
 }
 Write-Output "Thesaurunocerous Ends"
+
+Write-Output "Word Analysis Starts"
+# something for the colsole
+WordAnalysis-Chapter "Chapter *"
+Write-Output "Word Analysis Ends"
 
 
 # Make the book
