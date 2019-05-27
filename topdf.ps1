@@ -117,11 +117,13 @@ Function WordAnalysis-Chapter($chapterName) {
 		@{label="Word count";Expression={$_.Sum}}, 
 		@{label="Maximum occurrence of any word";Expression={$_.Maximum}} | fl
 		
-	$chapterWordHints = $bigWords | `
-		foreach { $_.Word } | `
-		python theasaurus.py | ` 
-		ConvertFrom-Csv
-	
+	if ($env:WANTTHES -eq "1")
+	{
+		$chapterWordHints = $bigWords | `
+			foreach { $_.Word } | `
+			python theasaurus.py | ` 
+			ConvertFrom-Csv
+	}
 	
 	
 	# JASON HULP! ADD $chapterWordCount to $bigWords!!! SO KNOW WORD COUNT WITH SYNONYM LOOKUP??? 
