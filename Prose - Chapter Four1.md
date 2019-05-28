@@ -100,15 +100,19 @@ The Prince stood outside the shack. The buildings were maintained to a high stan
 
 “Look at you, what a mess.” the old man replied informally. “You'd better come inside.” and he left the doorway, leaving it open as invitation. The Prince entered. A small room, bare wooden walls with a long trestle bench along the facing wall. The man had gone through another door to his left, which was open. The old man came back with an arm full of a folded robe, rough towels and underclothes.
 
-“Were you chasing a bolted horse all night?” the old man chuckled, adding: “through a stinking marsh?”, he laughed. The Prince flinched to respond, thinking fast to adapt his excuse, but the old man cut him off; “No! Don't explain, I don't want to know. I like to be stationed off the main trail for a reason.”
+“Were you chasing a bolted horse all night?” the old man chuckled, adding: “through a stinking marsh?”, he laughed. The Prince flinched to respond, thinking fast to adapt his excuse, but the old man cut him off; “No! Don't explain, I don't want to know. If I wanted to know things I wouldn't be stationed on the marsh road.”
 
-After putting the bundle of clothes on the bench, he noticed the open front door which he closed, giving The Prince an accusing glare. Seeing the pathetic soaked knight, the old man chuckled again and patted The Prince on the shoulder: “Get yourself dry young man, can't have a knight looking sorry for himself.” and left through the other door, closing it behind him.
+After putting the bundle of clothes on the bench, he noticed the open front door which he closed, giving The Prince an accusing glare. Seeing the pathetic soaked knight, the old man shook his head and patted The Prince on the shoulder: “Get yourself dry young man, can't have a knight looking sorry for himself.” and left through the other door, closing it behind him.
 
-The Prince eased the pack straps off each of his shoulders, squatting to rest the heavy bulk on the bench. The release of the weight was angelic. With only the weight of his plate armour and the sodden robes, he felt as light as a feather. He sat next to his pack and it was the sweetest relief, his arm resting on the canvas pack, he thought he could sit forever.
+The Prince squatted to rest the weight of his pack on the bench. Easing the straps off each shoulder. The release of weight was angelic. Now only the weight of his plate armour, helmet and the sodden robes, he felt as light as a feather. He sat next to his pack and felt relief, his arm resting on the canvas bulk next to him. He thought he could sit forever.
 
-“Normal people close doors after them.” he said to himself, cursing quietly, and thought: “the first surprise of many probably.” 
+“People close doors after them.” he said to himself, cursing quietly, and thought: “What else do I need to know?” 
 
-He shook his gauntlets off, and wrinkled fingers showed him how numb they were while he tried to unbuckle his greaves. Undressing the plate suit, each part unburdening his muscles.
+He removed his helmet and pulled his gauntlets off. His wrinkled, numb fingers awkwardly tried to unbuckle the straps on his greaves, and then each of the other, numerous, straps, clasps and buckles. 
+
+With his armour removed, towel in hand, he was dry. He now understood the towel as an important piece of equipment. He had not packed any towels. The new clothes were mostly the same as his previous, since they were all standard knight issue. But the new overrobe had a slightly smaller royal insignia on it's crest. Possibly an older variance, and he wondered how many years it had been sitting in in storage.
+
+His previous clothes were in a puddle-pile on the floor. He stared at them, thinking they would be cleaned and dried, and then: put into storage. His backpack, still soaked, was a reluctant burden, but he would get used to the weight before long. The visor on his helmet closed, he felt almost ready for the trail again. Just gather some more strength sitting here first.
 
 
 “”
