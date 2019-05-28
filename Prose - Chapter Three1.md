@@ -15,7 +15,7 @@ Kim spoke: “Why don't you make your boots go fast?”
 
 The traveller with the spotless shirt heard this, and flashed an awkward glance towards Kim. It was as if her brothers words were slightly shocking. But the traveller looked away, averting an accidental connection with Tom, who was looking in his direction.
 
-Let us switch to the perspective of the traveller in the bright spotless shirt, and see the world through his eyes.
+Let us switch to the perspective of the traveller in the bright spotless shirt, and see this from his point of view.
 
 As he approached the two he thought: “How odd; a pair of young urchins in rags. One of which has impeccably tailored boots. How is that possible?”. Also, he thought: “They are in the middle of the path I am walking on.”
 
@@ -23,7 +23,7 @@ This traveller also wondered why they were holding Jack's cow? The hasty lad Jac
 
 As he got closer, hearing: 'make your boots go fast', he glanced at the two. He could see the one with the boots was a girl not a boy. She wore boys clothes that were too big for her, except for her adult male, impeccably fitting boots, which must have been tailored. 
 
-The girl noticed his glance, so he looked away, not wanting to intrude. Continuing past them, he put them to the back of his mind; what might lay northwards?
+The girl noticed his glance, so he looked away, not wanting to intrude. Continuing past them, he put them to the back of his mind, instead concentrating on what might lay northwards.
 
 Using the remaining light, the long road north looked sparse. Also he reckoned it was more bitterly cold, and he heard it was isolated further up. It seemed this place was possibly the last civilised dwelling northwards on the north road.
 
@@ -103,7 +103,7 @@ Closing a tiny door on the lantern, he tentatively let go; as if it would drop. 
 
 Grasping the rope, which swung by the door, he pulled gently. The lantern lowered slightly. The Tailor laughed in victory, looking towards the rope and taking hold of a second higher rope next to the first. 
 
-Pulling the second rope caused the lantern to rise. Then it stopped and The Tailor stared at the dangling lantern. It swung strangely. Tom liked this; how it wibble-wobbled. “I love that.” The Tailor concluded.  
+Pulling the second rope caused the lantern to rise. Then it stopped and The Tailor stared at the dangling lantern. It swung strangely. Tom liked this; how it wibble-wobbled. “Now that is clever.” The Tailor concluded.  
 
 ![](TheTailor/thetailor1_small.png)
 Then speaking more to himself than the two sitting down: “The innkeeper said it housed more people than horses. I doubt anyone actually travels *to* this place.” 
