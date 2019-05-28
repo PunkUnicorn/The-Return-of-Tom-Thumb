@@ -4,7 +4,7 @@ Tom Thumb had been back home for several nights. As usual her thoughts were occu
 
 The worst, however, was being singled out as a girl in front of her brothers. She had not worried about this before, despite her father’s intimidating insistence he only had sons. 
 
-But the words of the motherly giant echoed in her thoughts: “Beautiful young thing: underneath the hair and clothes, make no mistake, you are a girl!”. Once again, Tom felt surprise and shock. For as many times as she believed she had come to terms with this, it would return to unsettle her.
+But the words of the motherly giant echoed in her thoughts: “Beautiful young thing: underneath the hair and clothes, make no mistake, you are a girl!”. Once again, Tom felt surprise and shock. For as many times as she believed she had come to terms with the reveal, it would return to unsettle her.
 
 Laying on her back, facing the sky; she was not looking at it, but now she did. Her thoughtscape vanished. It would be getting dark soon. The grass stalk in her mouth, almost forgotten about, chewed to destruction.
 
