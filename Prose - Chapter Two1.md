@@ -28,6 +28,6 @@ It was not an easy problem to solve, but soon Tom had an idea. In fact the answe
 
 Rising to her feet she walked to where the core stood, close enough to judge where the pips could be. It was almost as tall as Tom. Squaring her knuckles she punched a level blow; a splattering of gloop her punch ripped through the seed chamber. Gripping the breach with both hands, she tore it wider.
 
-Pushing a hand in deeply, she felt a pip. Pushing further, feeling around blindly, she mapped the pip’s orientation. With a concerted shunt the pip nudged to a better grip. Tom eased it out.
+Pushing a hand in deeply, she felt a pip. Pushing further, feeling around blindly, she mapped the pip’s orientation. With a concerted shunt the pip nudged to a better grip and eased it out.
 
-Once she had freed one, two more pips became accessible: she got these out and fitted all three of the large pips in her pockets.
+Once she had freed one, two more became accessible: she got these out and fitted all three of the large pips into her pockets.
