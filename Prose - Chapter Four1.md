@@ -83,7 +83,7 @@ The hay inside had lost it's bliss, but it felt like the closest thing she had t
 
 The Tailor was sitting up looking at her. His face and eyes showing sympathy. “Could I live here?” she thought to herself. However, would The Tailor live here? “Where are you going?” she asked him.
 
-He thought about this but rebuffed it laying back: “That's a rather deep question for the morning. How about some breakfast first?”, he traced a sunbeam with one of his hands. “We can philosophise later.”
+He thought about this but rebuffed it laying back: “That's a rather deep question for the morning. How about some breakfast first? We can philosophise later.”
 
 Tom deduced she was welcome to be with The Tailor for the foreseeable future, which was breakfast.  
 
@@ -98,7 +98,7 @@ The Prince stood outside the shack. The buildings were maintained to a high stan
 
 “Greetings.” The Prince declared, as a Knight would.
 
-“Look at you, what a mess.” the old man replied informally. “You'd better come inside.” and he left the doorway, leaving it open as invitation. The Prince entered. A small room, bare wooden walls with a long trestle bench along the facing wall. The man had gone through another door to his left, which was open. The old man came back with an arm full of a folded robe, rough towels and underclothes.
+“Look at you, what a mess.” the old man replied informally. “You'd better come inside.” and left the door open as invitation. The Prince entered. A small room, bare wooden walls with a long trestle bench along the facing wall. The man had gone through another door to his left, which was open. The old man came back with an arm full of a folded robe, rough towels and underclothes.
 
 “Were you chasing a bolted horse all night?” the old man chuckled, adding: “through a stinking marsh?”, he laughed. The Prince flinched to respond, thinking fast to adapt his excuse, but the old man cut him off; “No! Don't explain, I don't want to know. If I wanted to know things I wouldn't be stationed on the marsh road.”
 
@@ -108,11 +108,11 @@ The Prince squatted to rest the weight of his pack on the bench. Easing the stra
 
 “People close doors after them.” he said to himself, cursing quietly, and thought: “What else do I need to know?” 
 
-He removed his helmet and pulled his gauntlets off. His wrinkled, numb fingers awkwardly tried to unbuckle the straps on his greaves, and then each of the other, numerous, straps, clasps and buckles. 
+He removed his helmet and pulled his gauntlets off. Wrinkled, numb fingers awkwardly tried to unbuckle the straps on his greaves, and then each of the other, numerous, straps, clasps and buckles. 
 
-With his armour removed, towel in hand, he was dry. He now understood the towel as an important piece of equipment. He had not packed any towels. The new clothes were mostly the same as his previous, since they were all standard knight issue. But the new overrobe had a slightly smaller royal insignia on it's crest. Possibly an older variance, and he wondered how many years it had been sitting in in storage.
+With his armour removed, towel in hand, he was dry. He now understood the towel as an important piece of equipment. He had not packed any towels. The new clothes were mostly the same as his previous, since they were all standard knight issue. But the new overrobe had a slightly smaller royal insignia on it's crest. Possibly an older variance, and he wondered how many years it had been sitting in storage.
 
-His previous clothes were in a puddle-pile on the floor. He stared at them, thinking they would be cleaned and dried, and then: put into storage. His backpack, still soaked, was a reluctant burden, but he would get used to the weight before long. The visor on his helmet closed, he felt almost ready for the trail again. Just gather some more strength sitting here first.
+His previous clothes were in a puddle-pile on the floor. He stared at them, thinking they would be cleaned and dried, and then: put into storage. His backpack, still soaked, was a reluctant burden, but he would get used to the weight. The  helmet visor closed, he felt almost ready for the trail again. Just gather some more strength sitting here first.
 
 
 “”
