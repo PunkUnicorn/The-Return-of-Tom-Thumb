@@ -1,4 +1,4 @@
-Tom scooped up a handful of apple flesh, and turned towards the house. The wind had picked up and was brushing forest debris against it's walls. The roof tiles rattled. It would be just as cold in there as out here. She had better get inside.
+Tom scooped up a handful of apple flesh, and turned towards the house. The wind had picked up and brushed against it's walls. The roof tiles rattled. She had better get inside.
 
 She walked slowly towards the door, giving herself time to finish eating. As she drew close, the remains of the door latch caught Tom’s attention. It was a mangled, rusted wreck that had once been a latch. Tom had never known it any other way. The latch on the giant’s door was the first functioning one she had seen.
 
