@@ -24,7 +24,7 @@ Wiggling her toes she felt the exquisite comfort in the soft leather of her boot
 
 It was not an easy problem to solve, but soon Tom had an idea. In fact the answer was clear: get another giant apple! Apples grow from apple pips. “But not in a day”, she sighed, doubting herself. Yet it was something. Tom was struck by an idea: some value she had missed; a hidden treasure: the giant apple pips themselves.
 
-Rising to her feet she walked to where the core stood, close enough to judge where the pips could be. It was almost as tall as Tom. Squaring her knuckles she punched a level blow; a splattering of gloop her punch ripped through the seed chamber. Gripping the breach with both hands, she tore it wider.
+Rising to her feet she walked to where the core stood, close enough to judge where the pips could be. It was almost as tall as Tom. Squaring her knuckles she punched a level blow; a splattering of gloop, her punch ripped through the seed chamber. Gripping the breach with both hands, she tore it wider.
 
 Pushing a hand in deeply, she felt a pip. Pushing further, feeling around blindly, she mapped the pip’s orientation. With a concerted shunt the pip nudged to a better grip, and she eased it out.
 
