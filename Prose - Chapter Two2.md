@@ -2,9 +2,9 @@ Tom scooped up a handful of apple flesh, and turned towards the house. The wind 
 
 She walked slowly towards the door, giving herself time to finish eating. As she drew close, the remains of the door latch caught Tom’s attention. It was a mangled, rusted wreck that had once been a latch. Tom had never known it any other way. The latch on the giant’s door was the first functioning one she had seen.
 
-Licking her hands clean, and wiping them on her trousers, she wondered if their mangled latch could be bent back into shape. But then shadows of anxiety arrived as she remembered how others would react.
+Licking her hands clean and wiping them on her trousers, she wondered if their mangled latch could be bent back into shape. But then shadows of anxiety arrived as she remembered how others would react.
 
-Now aware of her family behind the door, defensive instincts pulled her back: stay unnoticed, don’t change the latch; be invisible. Tom closed her mind, tensed her muscles and pulled the heavy door open.
+And now aware of her family behind the door, defensive instincts pulled her back: stay unnoticed, don’t change the latch; be invisible. Tom closed her mind, tensed her muscles and pulled the heavy door open.
 
 The overpowering smell of baked apples. The heavy door slammed shut behind her. In the thick air, for a second, Tom was sick of apples. But the feeling quickly passed. She chastised herself for the obvious: the apple being a life saver. Besides, the pips in her pockets could be interesting.
 
@@ -12,7 +12,7 @@ There was no good seat available. Around the table sprawled her brothers, there 
 
 Often there were brawls over the precious little there was. Seats (or more specifically seats and seat positions) were a common cause of trouble but Tom avoided this. Once or twice she might have had to fight for the right to be left alone, that was worth fighting for.
 
-And yet, bellies full, tensions were rising round the table; competing voices. She did not look though, not a time to risk eye contact. She listened to judge tones of aggression: anxiety reassured; it was safe.
+And yet, bellies full, tensions were rising round the table; competing voices. She did not look though, not a time to risk eye contact. She listened to judge tones of aggression: it was safe, her anxiety reassured.
 
 Wiggling her toes, squashing them against the leather of the boots, the arguing grew more distant as comfort won the battle for her senses.
 
