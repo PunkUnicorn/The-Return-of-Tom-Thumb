@@ -6,7 +6,7 @@ The worst, however, was being singled out as a girl in front of her brothers. Sh
 
 But the words of the motherly giant echoed in her thoughts: “Make no mistake, beautiful young thing, under that mess you are a girl!”. Once again, Tom felt the surprise and shock. For the many times as she believed she had come to terms with this, it would return to unsettle her.
 
-Laying on her back, facing the sky she was not looking at, but now she did. Her thoughtscape vanished. It would be getting dark soon. The grass stalk in her mouth, almost forgotten about, chewed to destruction.
+Laying on her back she was facing a sky she was not looking at, but now she did. Her thoughtscape vanished. It would be getting dark soon. The grass stalk in her mouth, almost forgotten about, chewed to destruction.
 
 Lifting her head to see what remained of the giant apple: it was thinner now, and mushy. She and her brothers had dragged this apple from the giant's garden a few days ago.
 
