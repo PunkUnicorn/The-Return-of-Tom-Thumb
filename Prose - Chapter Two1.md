@@ -8,7 +8,7 @@ Once again, Tom felt the surprise and shock. For all the times she believed she 
 
 Laying on her back she was facing a sky she was not looking at, but now she did. Her thoughtscape vanished. It would be getting dark soon. The grass stalk in her mouth, almost forgotten about, chewed to destruction.
 
-Lifting her head to see what remained of the giant apple: it was thinner now, and mushy. She and her brothers had dragged this apple from the giant's garden a few days ago.
+Glancing up she saw what remained of the giant apple: it was thinner now, and mushy. She and her brothers had dragged this apple from the giant's garden a few days ago.
 
 Safe at home Tom reflected on these strange events, back to the time they decided to take the apple. “My idea.” Tom remembered.
 
