@@ -18,7 +18,7 @@ A second look: she decided the apple would last two more days. But the heavenly 
 
 With a sigh she pulled herself up to sit; muscles stretching, which brought her back to the present. The grass stalk in her mouth, now an inconvenience, spat out to make room for thought.
 
-Wiggling her toes she felt the exquisite comfort in the soft leather of her boots. She could do that all day. She had been doing that all day.
+Wiggling her toes she felt the exquisite comfort; the soft leather of her boots. She could do that all day. She had been doing that all day.
 
 “So,” she said to herself, “what I need is a plan.”
 
