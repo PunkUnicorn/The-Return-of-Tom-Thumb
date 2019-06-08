@@ -1,12 +1,10 @@
 # Chapter Two
 
-Tom Thumb had been back home for several nights. As usual her thoughts were occupied, replaying the past troubling days: the terrifying giant, coming to terms with their parents leaving them to die in the forest. 
+Tom Thumb had been back home for several nights. As usual her thoughts were occupied, replaying the past troubling days: the terrifying giant, coming to terms with their parents leaving them to die in the forest.
 
 The worst, however, was being singled out as a girl in front of her brothers. She had not worried about this before, despite her father’s intimidating insistence he only had sons. But the words of the motherly giant echoed in her thoughts: “Make no mistake, beautiful young thing, under that mess you are a girl!”
 
 Once again, Tom felt the surprise and shock. For all the times she believed she had come to terms with this, it would return to unsettle her.
-
-Laying on her back she was facing a sky she was not looking at, but now she did. Her thoughtscape vanished. It would be getting dark soon. The grass stalk in her mouth, almost forgotten about, chewed to destruction.
 
 Glancing up she saw what remained of the giant apple: it was thinner now, and mushy. She and her brothers had dragged this apple from the giant's garden a few days ago.
 
@@ -22,7 +20,9 @@ Wiggling her toes she felt the exquisite comfort; the soft leather of her boots.
 
 “So,” she said to herself, “what I need is a plan.”
 
-It was not an easy problem to solve, but soon Tom had an idea. In fact the answer was clear: get another giant apple! Apples grow from apple pips. “But not in a day”, she sighed, yet it was something. Tom had a moment of inspiration: perhaps some value she had missed; a hidden treasure: the giant apple pips themselves.
+It was not an easy problem to solve, but soon Tom had an idea. In fact the answer was clear: get another giant apple! it was something.
+
+And then a moment of inspiration: a hidden treasure she had missed: the giant apple pips themselves.
 
 Rising to her feet she approached the core, it was almost as tall as Tom. Pacing round, estimating the pip's location. Squaring her knuckles she punched a level blow; with a splattering of gloop her fist ripped through the seed chamber. Gripping the breach with both hands, she tore it wider.
 
