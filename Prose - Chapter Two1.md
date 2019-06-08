@@ -2,9 +2,9 @@
 
 Tom Thumb had been back home for several nights. As usual her thoughts were occupied, replaying the past troubling days: the terrifying giant, coming to terms with their parents leaving them to die in the forest. 
 
-The worst, however, was being singled out as a girl in front of her brothers. She had not worried about this before, despite her father’s intimidating insistence he only had sons. 
+The worst, however, was being singled out as a girl in front of her brothers. She had not worried about this before, despite her father’s intimidating insistence he only had sons. But the words of the motherly giant echoed in her thoughts: “Make no mistake, beautiful young thing, under that mess you are a girl!”
 
-But the words of the motherly giant echoed in her thoughts: “Make no mistake, beautiful young thing, under that mess you are a girl!”. Once again, Tom felt the surprise and shock. For the many times as she believed she had come to terms with this, it would return to unsettle her.
+Once again, Tom felt the surprise and shock. For all the times she believed she had come to terms with this, it would return to unsettle her.
 
 Laying on her back she was facing a sky she was not looking at, but now she did. Her thoughtscape vanished. It would be getting dark soon. The grass stalk in her mouth, almost forgotten about, chewed to destruction.
 
