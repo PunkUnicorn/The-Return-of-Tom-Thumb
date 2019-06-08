@@ -3,7 +3,7 @@
 
 Kim held the tether of the cow. Tom waved Jack farewell, who was keen to depart after the transaction. Tom wished Jack had been more social instead of hurrying off. She felt dissatisfied.
 
-She scanned the village, hoping to be enthused. However, the sun was lower in the sky and the crowds had thinned; the day was retiring. She had sold the pips, there was no reason to stay.
+Scanning the village, hoping to be enthused, however the crowds had thinned; the day was retiring. She had sold the pips, there was no reason to stay.
 
 “We'd better head back.” suggested Kim.
 
@@ -15,7 +15,7 @@ Kim spoke: “Why don't you make your boots go fast?”
 
 The traveller with the spotless shirt heard this, and flashed an awkward glance towards Kim. It was as if her brothers words were slightly shocking. But the traveller looked away, averting an accidental connection with Tom, who was looking in his direction.
 
-Let us switch to the perspective of the traveller in the bright spotless shirt, and see this from his point of view.
+Let us switch to the perspective of the traveller in the shirt, and see this from his point of view.
 
 As he approached the two he thought: “How odd; a pair of young urchins in rags. One of which has impeccably tailored boots. How is that possible?”. Also, he thought: “They are in the middle of the path I am walking on.”
 
