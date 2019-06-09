@@ -22,9 +22,7 @@ The house door opened quietly behind her, Tom looked round. It was her oldest an
 
 Tom wanted to tell Kim of her plan to head to the village and sell the pips. At the same time she did not want to risk an argument. She met his eyes as if to answer, but instead, she did not. Tom looked back towards the apple.
 
-“What you doin’?”, Kim asked.
-
-Tom heard the accusation in the question. She braced her upper body, relaxing her legs; ready to dodge. “I’m going to the village.” she said reluctantly.
+“What you doin’?”; Kim's question was an accusation. She braced her upper body, relaxing her legs; ready to dodge. “I’m going to the village.” she replied reluctantly.
 
 Kim walked a few steps then stopped to pick up a choice stick: a sturdy branch used the previous day by her brothers in high spirits. It was almost as tall as Tom. Kim held it like a staff vertically, its base on the floor.
 
