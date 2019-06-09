@@ -24,7 +24,7 @@ It was not an easy problem to solve, but soon Tom had an idea. In fact the answe
 
 And then a moment of inspiration: a hidden treasure she had missed: the giant apple pips themselves.
 
-Rising to her feet she approached the core, it was almost as tall as Tom. Pacing round, estimating the pip's location. Squaring her knuckles she punched a level blow; with a splattering of gloop her fist ripped through the seed chamber. Gripping the breach with both hands, she tore it wider.
+Rising to her feet she walked towards the core, it was almost as tall as Tom. Pacing round, estimating the pip's location. Squaring her knuckles she punched a level blow; with a splattering of gloop her fist ripped through the seed chamber. Gripping the breach with both hands, she tore it wider.
 
 Pushing a hand in deeply, she felt a pip. Pushing further, feeling around blindly, she mapped the pip’s orientation. With a concerted shunt the pip shifted to a better grip, and she eased it out.
 
