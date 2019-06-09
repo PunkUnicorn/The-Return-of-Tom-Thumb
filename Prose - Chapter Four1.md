@@ -114,5 +114,5 @@ With his armour removed, towel in hand, he was dry. He now understood the towel 
 
 His previous clothes were in a puddle-pile on the floor. He stared at them, thinking they would be cleaned and dried, and then: put into storage. His backpack, still soaked, was a reluctant burden, but he would get used to the weight. The  helmet visor closed, he felt almost ready for the trail again. Just gather some more strength sitting here first.
 
+“Are you asleep?”; The Prince awoke to see the close face of the old man, peering into his visor. “I was.”, he replied, falling back on truth in the waking daze. The old man walked off and laughed. The Prince felt very refresh. “I had better move on,” he thought, “Before I fall asleep again.”
 
-“”
