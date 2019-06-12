@@ -114,5 +114,12 @@ With his armour removed, towel in hand, he was dry. He now understood the towel 
 
 His previous clothes were in a puddle-pile on the floor. He stared at them, thinking they would be cleaned and dried, and then: put into storage. His backpack, still soaked, was a reluctant burden, but he would get used to the weight. The  helmet visor closed, he felt almost ready for the trail again. Just gather some more strength sitting here first.
 
-“Are you asleep?”; The Prince awoke to see the close face of the old man, peering into his visor. “I was.”, he replied, falling back on truth in the waking daze. The old man walked off and laughed. The Prince felt very refresh. “I had better move on,” he thought, “Before I fall asleep again.”
+“Are you asleep?”; The Prince awoke to see the close face of the old man, peering into his visor. “I was.”, he replied, falling back on truth in the waking daze. The old man walked off and laughed. The Prince felt very refresh. “I had better move on,” he thought, “Before I fall asleep again.”. 
 
+“I will continue on my journey now.” he called out to the old man, standing to attention, regaining his persona as a knight.
+
+“Good.” replied the old man, shouting through the open doorway. “Nothing personal,” he added, stepping into the room, “I don't like anyone.” explained cheerfully wiping his hands with a cloth.
+
+“I very much appreciate your assistance.” The Prince said; sincerity shining through his formality.
+
+The old man was pleased with this. “Go on, off you go.”, he waved The Prince outside.
