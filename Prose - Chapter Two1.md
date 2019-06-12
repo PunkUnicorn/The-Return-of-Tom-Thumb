@@ -10,7 +10,7 @@ Glancing up she saw what remained of the giant apple: it was thinner now, and mu
 
 Safe at home Tom reflected on these strange events, back to the time they decided to take the apple. “My idea.” Tom remembered.
 
-More than ever, she was clear her actions had saved them from starvation. The sense of relief mixed with fear; how close they were to leaving the apple. And yet amongst the fragile relief was a small, glimmering sense of pride.
+More than ever, she was clear her actions had saved them from starvation. The sense of relief mixed with fear; how close they were to leaving the apple. And yet amongst the fragile relief was a small, glimmering sense of pride; they did not leave it because she persuaded them.
 
 A second look: she decided the apple would last two more days. But the heavenly comfort of having enough food came with a nagging feeling. What was that nagging feeling? “Oh yes,” she murmured; the apple would inevitably be eaten.
 
