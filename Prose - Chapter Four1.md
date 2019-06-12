@@ -45,7 +45,9 @@ Looking out of the cave, into the misty rain, his anxiety rose; a clear sense of
 
 A deep sigh, and he felt the peek of his remorse: the prospect of the constricting life behind him, the escape to freedom in front. The sound of the rain neither diminishing or increasing; it was a flat boring constant he found himself aching for.
 
-He stepped forward, the rain ringing each hit on his helmet. Footing difficult in the wet mud, which made progress almost humorously slow. His wet robe becoming heavier. A field's fence a major obstacle. And so his first steps went, travelling near blind; reluctant to take his visor off. Fields seeming to go on forever, the dark night never ending. 
+He stepped forward, the rain ringing each hit on his helmet, deafening him. Footing was difficult in the wet mud, which made progress humorously slow. His wet robe becoming heavier. A field's fence a major obstacle. 
+
+And so his first steps went, travelling near blind in the dark; reluctant to take his visor off, even after tripping into a ditch, and climbing out the other side. Fields seeming to go on forever, the night never ending.
 
 Until morning broke and the rain stopped. For the first time he dared to look back: the castle far in the distance, but not that far... far enough.
 
