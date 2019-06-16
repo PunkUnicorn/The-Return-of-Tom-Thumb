@@ -15,7 +15,8 @@
 > 
 > [*Click here to read the book online*](https://www.ofoct.com/viewer/viewer_url.php?fileurl=https://ci.appveyor.com/api/projects/PunkUnicorn/the-return-of-tom-thumb/artifacts/The-Return-of-Tom-Thumb.epub) 
 > 
-> ## :book:
+>
+> # :book:
 > ### Download the epub
 > https://ci.appveyor.com/api/projects/PunkUnicorn/the-return-of-tom-thumb/artifacts/The-Return-of-Tom-Thumb.epub
 >
@@ -25,7 +26,8 @@
 > ### Download the text version
 > https://ci.appveyor.com/api/projects/PunkUnicorn/the-return-of-tom-thumb/artifacts/The-Return-of-Tom-Thumb.txt
 >
-> ## :headphones:
+>
+> # :headphones:
 > ### Download the audiobook
 > https://ci.appveyor.com/api/projects/PunkUnicorn/the-return-of-tom-thumb/artifacts/The-Return-of-Tom-Thumb.mp3
 > 
