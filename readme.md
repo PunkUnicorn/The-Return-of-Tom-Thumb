@@ -14,8 +14,6 @@
 > [![Read the book online](open-book.png)](https://www.ofoct.com/viewer/viewer_url.php?fileurl=https://ci.appveyor.com/api/projects/PunkUnicorn/the-return-of-tom-thumb/artifacts/The-Return-of-Tom-Thumb.epub)
 > 
 > [*Click here to read the book online*](https://www.ofoct.com/viewer/viewer_url.php?fileurl=https://ci.appveyor.com/api/projects/PunkUnicorn/the-return-of-tom-thumb/artifacts/The-Return-of-Tom-Thumb.epub) 
->
-## ... with background music
 > 
 > ### Download the epub
 > https://ci.appveyor.com/api/projects/PunkUnicorn/the-return-of-tom-thumb/artifacts/The-Return-of-Tom-Thumb.epub
@@ -25,15 +23,11 @@
 >
 > ### Download the text version
 > https://ci.appveyor.com/api/projects/PunkUnicorn/the-return-of-tom-thumb/artifacts/The-Return-of-Tom-Thumb.txt
-- - -
-
-- - -
-> ## Listen to the book...
-> :notebook_with_decorative_cover: 
+>
+> ### Listen to the book...
 > https://ci.appveyor.com/api/projects/PunkUnicorn/the-return-of-tom-thumb/artifacts/The-Return-of-Tom-Thumb.mp3
 > 
-> ## ... with background music
-> :closed_book:
+> ### ... with background music
 > https://ci.appveyor.com/api/projects/PunkUnicorn/the-return-of-tom-thumb/artifacts/The-Return-of-Tom-Thumb-with-music.mp3
 - - -
 
