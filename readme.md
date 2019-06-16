@@ -18,11 +18,10 @@
 
 - - -
 > ## Listen to the book...
-<mp3 
-https://ci.appveyor.com/api/projects/PunkUnicorn/the-return-of-tom-thumb/artifacts/The-Return-of-Tom-Thumb.mp3
+!(:notebook_with_decorative_cover:)[https://ci.appveyor.com/api/projects/PunkUnicorn/the-return-of-tom-thumb/artifacts/The-Return-of-Tom-Thumb.mp3]
 > 
 > ## ... with background music
-https://ci.appveyor.com/api/projects/PunkUnicorn/the-return-of-tom-thumb/artifacts/The-Return-of-Tom-Thumb-with-music.mp3
+ci.appveyor.com/api/projects/PunkUnicorn/the-return-of-tom-thumb/artifacts/The-Return-of-Tom-Thumb-with-music.mp3
 - - -
 
 *Starring...*
