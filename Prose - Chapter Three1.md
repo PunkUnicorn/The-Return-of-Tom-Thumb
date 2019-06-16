@@ -26,7 +26,7 @@ He stopped. He was sure he could stay at the inn here, at this tiny village toni
 
 Behind him the two were arguing; he could hear them: the girl with the boots did not want to get lost in the forest, the boy with the cow wanted to get home. The girl said: “The boots didn't work like that.”, the boy getting a little frustrated. Her final gambit: to plead caution for her own sake, for fear of getting lost again. They stopped talking; the boy apparently swayed.
 
-The well dressed, travelling man turned around. He could see the two strangers with the cow. They had their backs to him, except the cow which looked at him.
+The well dressed, travelling man turned around. He could see the two strangers with the cow. They had their backs to him, except the cow which faced him.
 
 He took a few steps forwards. The pair were silent. He stopped short; giving them adequate space. He introduced his presence with a polite cough.They turned around.Bowing slightly, spreading his hands; a gesture of openness.
 
