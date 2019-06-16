@@ -33,7 +33,7 @@ He took a few steps forwards. The pair were silent. He stopped short; giving the
 “Greetings.” he said smiling, more shyly than his snappy clothes and confident posture would suggest.
 
 “Hello!” Tom beamed. Kim stayed silent.
-“Could, I... possibly, ask you... endless questions?”: the well dressed man plead with a smile.
+“Could, I... possibly, ask you... endless questions?”: the well dressed man pleaded with a smile.
 
 Tom laughed; this smart, handsome figure fooling around, it was funny. Even Kim laughed.
 
