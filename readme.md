@@ -16,6 +16,14 @@
 > [*Click here to read the book online*](https://www.ofoct.com/viewer/viewer_url.php?fileurl=https://ci.appveyor.com/api/projects/PunkUnicorn/the-return-of-tom-thumb/artifacts/The-Return-of-Tom-Thumb.epub)
 - - -
 
+- - -
+> ## Listen to the book...
+>![](https://ci.appveyor.com/api/projects/PunkUnicorn/the-return-of-tom-thumb/artifacts/The-Return-of-Tom-Thumb.mp3)
+> 
+> ## ... with background music
+>![](https://ci.appveyor.com/api/projects/PunkUnicorn/the-return-of-tom-thumb/artifacts/The-Return-of-Tom-Thumb-with-music.mp3)
+- - -
+
 *Starring...*
 # Tom Thumb
 ![Tom Thumb](TomThumb/Tom%20Thumbnail.jpg)
