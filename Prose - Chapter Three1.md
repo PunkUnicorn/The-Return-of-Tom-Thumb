@@ -1,6 +1,6 @@
 # Chapter Three
 
-Kim held the tether of the cow. Tom waved Jack farewell, who was keen to depart after the transaction. Tom wished Jack had been more social instead of hurrying off. She felt dissatisfied.
+Kim held the cow's tether. Tom waved Jack farewell, who was keen to depart after the transaction. Tom wished Jack had been more social instead of hurrying off. She felt dissatisfied.
 
 Scanning the village, Tom was hoping to be enthused, however the crowds had thinned; the day was coming to a close. She had sold the pips, there was no reason to stay.
 
@@ -8,13 +8,11 @@ Scanning the village, Tom was hoping to be enthused, however the crowds had thin
 
 Tom was not ready for this, she found an excuse: “The trail will be dark. Shouldn't we wait till first light?”
 
-Kim looked at the cow, who was even less keen to hurry than Tom. He sighed, and did not disagree, although Tom could see in his face he had not given up. She looked away, in the other direction there were fewer people around, and someone walking on the path towards them: a handsome, well dressed young man. He wore a bright spotless shirt.
+Kim looked at the cow, who was even less keen to hurry than Tom. He sighed, and did not disagree, although Tom could see in his face he had not given up. She looked away. In the other direction there were fewer people around, and someone walking on the path towards them: a handsome, well dressed young man. He wore a bright spotless shirt.
 
 Kim spoke: “Why don't you make your boots go fast?”
 
-The traveller with the spotless shirt heard this, and flashed an awkward glance towards Kim. It was as if her brothers words were slightly shocking. But the traveller looked away, averting an accidental connection with Tom, who was looking in his direction.
-
-As he approached the two he thought: “How odd; a pair of young urchins in rags, one of which has impeccably tailored boots. How is that possible?”
+The traveller with the spotless shirt heard this, and flashed an awkward glance towards Kim. It was as if her brothers words were slightly shocking. As he approached the two he thought: “How odd; a pair of young urchins in rags, one of which has impeccably tailored boots. How is that possible?”
 
 The traveller also wondered why they were holding Jack's cow? He had seen the hasty lad Jack earlier trying to sell it for too much coin; he seemed desperate, but would not change his mind on the high, silly price. “I wonder?” he thought. On all counts nothing about this scruffy pair made sense.
 
