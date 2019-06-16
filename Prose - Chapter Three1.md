@@ -30,12 +30,11 @@ Behind him the two were arguing; he could hear them: the girl with the boots did
 
 The well dressed, travelling man turned around. He could see the two strangers with the cow. They had their backs to him, except the cow which looked at him.
 
-He took a few steps forwards. The pair were silent. He stopped short; giving them adequate space.He introduced his presence with a polite cough.They turned around.Bowing slightly, spreading his hands; a gesture of openness.
+He took a few steps forwards. The pair were silent. He stopped short; giving them adequate space. He introduced his presence with a polite cough.They turned around.Bowing slightly, spreading his hands; a gesture of openness.
 
 “Greetings.” he said smiling, more shyly than his snappy clothes and confident posture would suggest.
 
 “Hello!” Tom beamed. Kim stayed silent.
-
 “Could, I... possibly, ask you... endless questions?”: the well dressed man plead with a smile.
 
 Tom laughed; this smart, handsome figure fooling around, it was funny. Even Kim laughed.
@@ -52,7 +51,7 @@ The Tailor looked at Tom, gently stating: “All day Jack was asking a rather hi
 
 Tom shrugged: “Three apple pips.“
 
-The Tailor was confused. Three apple pips?This required more questions: Tom explained they were from a giant apple.She would not share where the apple came from.In fact, she seemed to shut down when asked.
+The Tailor was confused. Three apple pips?This required more questions: Tom explained they were from a giant apple. She would not share where the apple came from.In fact, she seemed to shut down when asked.
 
 The Tailor would have liked to ask more. He wanted to match her tale of giant apples and strange boots against stories he had heard. But instead of answering questions the girl was talking less, lips sealed.
 
@@ -60,7 +59,7 @@ To lighten the mood, he diverted the conversation to tales of his own travels fr
 
 Tom pressed questions about the south: it's commerce, on cosmopolitan values. Each answer was too much for her to grasp, and yet the questions were numerous. The Tailor answered as best he could, trying to keep up.
 
-Kim interrupted, slightly angry: “It's cold.”. Tom and The Tailor stopped talking and silently agreed, yet they could have talked more.
+Kim interrupted, slightly angry: “It's cold.” Tom and The Tailor stopped talking and silently agreed, yet they could have talked more.
 
 The Tailor had not satisfied his curiosity, there was still too much about the girl that was a mystery. He wanted to stare at her footwear, but resisted.
 
@@ -72,11 +71,11 @@ Kim had ignored the two while they were talking. All the time he had been wonder
 
 The Tailor did not notice their naivety: “Let’s get to the inn.”, and they followed him, walking slowly.
 
-The Tailor gestured towards the cow: “I doubt she will be allowed inside.”, adding to the cow: “Sorry old girl.”. Turning to Tom and Kim, his palms facing them; asking them to wait: “I’ll talk to the innkeeper, see if we can stay in the barn.”
+The Tailor gestured towards the cow: “I doubt she will be allowed inside.”, adding to the cow: “Sorry old girl.” Turning to Tom and Kim, his palms facing them; asking them to wait: “I’ll talk to the innkeeper, see if we can stay in the barn.”
 
 Tom wondered what an innkeeper was. She built an imaginary picture of a large man. He had a solid club and a serious face. She did not want to get the attention of the innkeeper. So she did as The Tailor suggested; stopped and waited. Kim seemed to have reached the same conclusion.
 
-The Tailor opened the door, layers of noise escaped. And the smell of warm food. There was bread and gravy in there.And now aware of an intense hunger, which encouraged a curiosity to peek inside.However, these instincts battled against the image of the innkeeper.
+The Tailor opened the door, layers of noise escaped. And the smell of warm food. There was bread and gravy in there. And now aware of an intense hunger, which encouraged a curiosity to peek inside. However, these instincts battled against the image of the innkeeper.
 
 The door opened, this time a waft of gravy with the sound of laughter. The Tailor had returned. “We can stay in the stables tonight,” he reported cheerfully, “it’s this way, follow me.”, and they followed him to around the other side of the inn.
 
@@ -92,11 +91,11 @@ Something far above rattled. Movement caught Toms eye, and she saw a rope swingi
 
 “Ah!” shared The Tailor, as if this answered something. Working with his hands, a spark of light illuminated his face. The dangling thing became a lantern. The stables were lit. A soft flickering glow.
 
-Closing a tiny door on the lantern, he tentatively let go; as if it would drop. But it did not. He walked towards the massive open door, watching the lantern the whole time.It swung slightly.
+Closing a tiny door on the lantern, he tentatively let go; as if it would drop. But it did not. He walked towards the massive open door, watching the lantern the whole time. It swung slightly.
 
 Grasping the rope, which swung by the door, he pulled gently. The lantern lowered slightly. The Tailor laughed in victory, looking towards the rope and taking hold of a second higher rope next to the first.
 
-Pulling the second rope caused the lantern to rise. Then it stopped and The Tailor stared at the dangling lantern. It swung strangely. Tom liked this; how it wibble-wobbled.“Now that is clever.” The Tailor concluded.
+Pulling the second rope caused the lantern to rise. Then it stopped and The Tailor stared at the dangling lantern. It swung strangely. Tom liked this; how it wibble-wobbled. “Now that is clever.” The Tailor concluded.
 
 ![](TheTailor/thetailor1_small.png)
 
