@@ -46,7 +46,7 @@ Kim interrupted, demanding: “A cow.”
 
 Jack challenged a question back: “A cow?” He was incredulous, barely containing chortles.
 
-“Come on.” said Kim to Tom, grabbing her quickly as he turned, taking firm steps away towards the village hubbub.
+“Come on.” said Kim to Tom, grabbing her as he turned quickly to escape; firm steps towards the village hubbub.
 
 “No!” burst Jack, “Wait!”; his interest in the pip confirmed.
 
