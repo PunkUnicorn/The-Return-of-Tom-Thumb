@@ -6,7 +6,7 @@ They walked towards the village at a slow pace, absorbing everything, every sigh
 
 Tom snuck a look at Kim: he looked perturbed, as if the whole thing had been a bad idea. Tom turned to face her brother, inviting him into her excitement. Kim returned her look, but it was clear from his face he was not excited; he was not enjoying this.
 
-Suddenly there was someone behind them: “You two are new.”, the person said. Tom and Kim stopped abruptly and turned: there was a fair haired boy. A bit older than Kim. He was leaning against the wall, holding a cow tethered by a nose ring. “Where you from?”. The boy glanced between Tom and Kim, but settled on Tom.
+Suddenly there was someone behind them: “You two are new.”, the person said. Tom and Kim stopped abruptly and turned: there was a fair haired boy. A bit older than Kim. He was leaning against the wall, holding a cow tethered by a nose ring. “Where you from?”: the boy glanced between Tom and Kim, but settled on Tom.
 
 Kim barely said a thing; a slight grunt of disapproval.
 
@@ -16,9 +16,7 @@ But Tom answered eagerly: “Hello! we’re from The Forest.” pointing north t
 
 “What you come down here for then?” he asked.
 
-Kim looked to Tom; Kim had no idea.
-
-Tom realised this was it: her chance to conduct business. “I’ve come to sell apple pips.”
+Kim looked to Tom. She realised: this was it, her chance. “I’ve come to sell apple pips.”
 
 There was another pause, but this one dropped.
 
