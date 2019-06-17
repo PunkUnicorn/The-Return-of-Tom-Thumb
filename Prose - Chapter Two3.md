@@ -16,7 +16,9 @@ But Tom answered eagerly: “Hello! we’re from The Forest.” pointing north t
 
 “What you come down here for then?” he asked.
 
-Kim looked to Tom. She realised: this was it, her chance. “I’ve come to sell apple pips.”
+Kim looked to Tom. 
+
+She realised this was it, her chance to sell giant pips. “I’ve come to sell apple pips.”
 
 There was another pause, but this one dropped.
 
@@ -24,9 +26,9 @@ There was another pause, but this one dropped.
 
 Tom produced one of the giant pips, holding it in her outstretched palms for the boy to see: “Look!”
 
-The boy saw her offering and after almost no time he was astonished, which was accompanied by silence.
+The boy saw her offering and after almost no time, he was astonished. Which was accompanied by silence.
 
-“That’s not right.” he observed, slowly, after a little time. “Who else you shown it to?”
+“That’s not right.” he observed, slowly, then looking at Tom: “Who else you shown it to?”
 
 “No one, you’re the first.” came Tom’s quick reply.
 
@@ -42,9 +44,9 @@ Tom was sure she had answered this already. “We came from The Forest to sell i
 
 Kim interrupted, demanding: “A cow.”
 
-Jack challenged a question back: “A cow?” He was incredulous; looking around the sky, barely containing chortles.
+Jack challenged a question back: “A cow?” He was incredulous, barely containing chortles.
 
-“Come on.” said Kim to Tom, grabbing her as he took firm steps away, towards the village hubbub.
+“Come on.” said Kim to Tom, grabbing her quickly as he turned, taking firm steps away towards the village hubbub.
 
 “No!” burst Jack, “Wait!”; his interest in the pip confirmed.
 
