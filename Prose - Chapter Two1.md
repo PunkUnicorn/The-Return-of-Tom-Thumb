@@ -10,9 +10,9 @@ Glancing up to see what remained of the giant apple: it was thinner now, and mus
 
 Safe at home Tom reflected on these strange events, back to the time they decided to take the apple. “My idea.” Tom remembered.
 
-More than ever, she was aware her actions had saved them from starvation. The sense of relief mixed with fear; how close they were to leaving it. And yet amongst the fragile relief was a small, glimmering sense of pride; she had persuaded her brothers.
+More than ever, she was aware her actions had saved them from starvation. The sense of relief mixed with fear; how close they were to leaving giant fruit. And yet amongst the fragile relief was a small, glimmering sense of pride; she had persuaded her brothers.
 
-Wiggling her toes she felt the exquisite comfort; the soft leather of her boots. She could do that all day. She had been doing that all day.
+Wiggling her toes she felt the exquisite comfort in the soft leather of her boots. She could do that all day. She had been doing that all day.
 
 A second look at the apple: she decided it would last two more days. But the heavenly comfort of having enough food came with a nagging feeling. What was that nagging feeling? “Oh,” she murmured; the apple would inevitably be eaten.
 
