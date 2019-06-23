@@ -4,7 +4,7 @@ They walked towards the village at a slow pace, absorbing everything, every sigh
 
 ![](TomThumb/tomthumb2mugshot_small.png)
 
-Tom snuck a look at Kim: he looked perturbed, as if the whole thing had been a bad idea. Tom turned to face her brother, inviting him into her excitement. Kim returned her look, but it was clear from his face he was not excited; he was not enjoying this.
+Tom snuck a look at Kim: he looked perturbed, as if the whole thing had been a bad idea. Tom turned to face her brother, inviting him into her excitement. Kim returned her look, but it was clear from his face he was not excited.
 
 Suddenly there was someone behind them: “You two are new.”, the person said. Tom and Kim stopped abruptly and turned: there was a fair haired boy. A bit older than Kim. He was leaning against the wall, holding a cow tethered by a nose ring. “Where you from?”: the boy glanced between Tom and Kim, but settled on Tom.
 
@@ -18,13 +18,13 @@ But Tom answered eagerly: “Hello! we’re from The Forest.” pointing north t
 
 Kim looked to Tom. 
 
-She realised this was it, her chance to sell giant pips. “I’ve come to sell apple pips.”
+She realised this was it, her chance to sell the pips. “I’ve come to sell apple pips.”
 
 There was another pause, but this one dropped.
 
 “Oh.” said the boy after some thought, almost masking his doubt.
 
-Tom produced one of the giant pips, holding it in her outstretched palms for the boy to see: “Look!”
+Tom produced one of the giant pips, holding it in her outstretched palms: “Look!”
 
 The boy saw her offering and after almost no time, he was astonished. Which was accompanied by silence.
 
@@ -46,7 +46,7 @@ Kim interrupted, demanding: “A cow.”
 
 Jack challenged a question back: “A cow?” He was incredulous, barely containing chortles.
 
-“Come on.” said Kim to Tom, grabbing her as he turned quickly to escape; firm steps towards the village hubbub.
+“Come on.” said Kim to Tom, grabbing her quickly as he turned to leave.
 
 “No!” burst Jack, “Wait!”; his interest in the pip confirmed.
 
