@@ -18,7 +18,7 @@ But Tom answered eagerly: “Hello! we’re from The Forest.” pointing north t
 
 Kim looked to Tom. 
 
-She realised this was it, her chance to sell the pips. “I’ve come to sell apple pips.”
+She realised this was it, her chance: “I’ve come to sell apple pips.”
 
 There was another pause, but this one dropped.
 
