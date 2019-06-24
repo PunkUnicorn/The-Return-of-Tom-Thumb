@@ -222,9 +222,9 @@ Get-Content partial_metadata.yaml -Encoding UTF8 | %{ $_.Replace("BOOKVERSIONHER
 Get-Content partial_metadata.yaml -Encoding UTF8 | %{ $_.Replace("BOOKVERSIONHERE", "$env:APPVEYOR_BUILD_VERSION.2") } | Out-File "metadata_v2.yaml" -Encoding UTF8
 Get-Content partial_metadata.yaml -Encoding UTF8 | %{ $_.Replace("BOOKVERSIONHERE", "$env:APPVEYOR_BUILD_VERSION).3") } | Out-File "metadata_v3.yaml" -Encoding UTF8
 
-Write-Output "metadata_v1.yaml"
-Write-Output "metadata_v2.yaml" 
-Write-Output "metadata_v3.yaml" 
+Get-Content "metadata_v1.yaml" -Encoding UTF8
+Get-Content "metadata_v2.yaml" -Encoding UTF8
+Get-Content "metadata_v3.yaml" -Encoding UTF8
 
 Write-Output "Combining markdown..."
 cat "book-version.txt",
