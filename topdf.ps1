@@ -220,8 +220,11 @@ Add-Content -Path "book-version.txt" -Value $env:APPVEYOR_BUILD_VERSION
 Write-Output "Adding build version and creating metadata.yaml..."
 Get-Content partial_metadata.yaml -Encoding UTF8 | %{ $_.Replace("BOOKVERSIONHERE", "$env:APPVEYOR_BUILD_VERSION.1") } | Out-File "metadata_v1.yaml" -Encoding UTF8
 Get-Content partial_metadata.yaml -Encoding UTF8 | %{ $_.Replace("BOOKVERSIONHERE", "$env:APPVEYOR_BUILD_VERSION.2") } | Out-File "metadata_v2.yaml" -Encoding UTF8
-Get-Content partial_metadata.yaml -Encoding UTF8 | %{ $_.Replace("BOOKVERSIONHERE", "$env:APPVEYOR_BUILD_VERSION.3") } | Out-File "metadata_v3.yaml" -Encoding UTF8
+Get-Content partial_metadata.yaml -Encoding UTF8 | %{ $_.Replace("BOOKVERSIONHERE", "$env:APPVEYOR_BUILD_VERSION).3") } | Out-File "metadata_v3.yaml" -Encoding UTF8
 
+Write-Output "metadata_v1.yaml"
+Write-Output "metadata_v2.yaml" 
+Write-Output "metadata_v3.yaml" 
 
 Write-Output "Combining markdown..."
 cat "book-version.txt",
@@ -296,13 +299,13 @@ pandoc --css epubstyle.css 		`
   metadata_v3.yaml 
 Write-Output "... made The-Return-of-Tom-Thumb.epub... (epub v3)"
 
-pandoc --css epubstyle.css `
-  --epub-cover-image=cover_small.png `
-  "title.md" `
-  "The-Return-of-Tom-Thumb.md" `
-  -t epub3+smart `
-  -o The-Return-of-Tom-Thumb_test.epub `
-  metadata.yaml 
+pandoc --css epubstyle.css 		`
+  --epub-cover-image=cover_small.png 	`
+  "title.md" 				`
+  "The-Return-of-Tom-Thumb.md" 		`
+  -t epub3+smart 			`
+  -o The-Return-of-Tom-Thumb_test.epub 	`
+  metadata_v3.yaml 
 Write-Output "... made The-Return-of-Tom-Thumb_test.epub... (epub test)"
 
 
