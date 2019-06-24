@@ -124,4 +124,4 @@ His previous clothes were in a puddle-pile on the floor. He stared at them, thin
 
 “I very much appreciate your assistance.” The Prince said; sincerity shining through his formality.
 
-The old man was pleased with this. “Go on, off you go.”, he waved The Knight to shoo off.
+The old man was pleased with this. “Go on, off you go.”, he shooed The Knight out main door.
