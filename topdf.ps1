@@ -220,7 +220,7 @@ Add-Content -Path "book-version.txt" -Value $env:APPVEYOR_BUILD_VERSION
 Write-Output "Adding build version and creating metadata.yaml..."
 Get-Content partial_metadata.yaml -Encoding UTF8 | %{ $_.Replace("BOOKVERSIONHERE", "$env:APPVEYOR_BUILD_VERSION.1") } | Out-File "metadata_v1.yaml" -Encoding UTF8
 Get-Content partial_metadata.yaml -Encoding UTF8 | %{ $_.Replace("BOOKVERSIONHERE", "$env:APPVEYOR_BUILD_VERSION.2") } | Out-File "metadata_v2.yaml" -Encoding UTF8
-Get-Content partial_metadata.yaml -Encoding UTF8 | %{ $_.Replace("BOOKVERSIONHERE", "$env:APPVEYOR_BUILD_VERSION).3") } | Out-File "metadata_v3.yaml" -Encoding UTF8
+Get-Content partial_metadata.yaml -Encoding UTF8 | %{ $_.Replace("BOOKVERSIONHERE", "$env:APPVEYOR_BUILD_VERSION.3") } | Out-File "metadata_v3.yaml" -Encoding UTF8
 
 Get-Content "metadata_v1.yaml" -Encoding UTF8
 Get-Content "metadata_v2.yaml" -Encoding UTF8
