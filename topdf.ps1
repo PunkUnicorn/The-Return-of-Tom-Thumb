@@ -286,7 +286,7 @@ pandoc --css epubstyle.css 		`
   -t epub 				`
   -o The-Return-of-Tom-Thumb_$($($env:APPVEYOR_BUILD_VERSION).Replace(".", "_")))_v1.epub 	`
   metadata_v1.yaml 
-Write-Output "... made The-Return-of-Tom-Thumb1.epub... (epub v1)"
+Write-Output "... made The-Return-of-Tom-Thumb_$($($env:APPVEYOR_BUILD_VERSION).Replace(".", "_")))_v1.epub... (epub v1)"
 
 pandoc --css epubstyle.css 		`
   --epub-cover-image=cover_small.png 	`
@@ -295,27 +295,28 @@ pandoc --css epubstyle.css 		`
   -t epub2+smart 			`
   -o The-Return-of-Tom-Thumb_$($($env:APPVEYOR_BUILD_VERSION).Replace(".", "_")))_v2.epub 	`
   metadata_v2.yaml 
-Write-Output "... made The-Return-of-Tom-Thumb2.epub... (epub v2)"
+Write-Output "... made The-Return-of-Tom-Thumb_$($($env:APPVEYOR_BUILD_VERSION).Replace(".", "_")))_v2.epub ... (epub v2)"
 
 pandoc --css epubstyle.css 		`
   --epub-cover-image=cover_small.png 	`
   "title.md" 				`
   "The-Return-of-Tom-Thumb.md" 		`
   -t epub3+smart 			`
-  -o The-Return-of-Tom-Thumb.epub 	`
+  -o The-Return-of-Tom-Thumb_$($($env:APPVEYOR_BUILD_VERSION).Replace(".", "_"))).epub 	`
   metadata_v3.yaml 
 Write-Output "... made The-Return-of-Tom-Thumb_$($($env:APPVEYOR_BUILD_VERSION).Replace(".", "_"))).epub... (epub v3)"
 
-pandoc --css epubstyle.css 		`
-  --epub-cover-image=cover_small.png 	`
-  "title.md" 				`
-  "The-Return-of-Tom-Thumb.md" 		`
-  -t epub3+smart 			`
-  -o The-Return-of-Tom-Thumb_test.epub 	`
-  metadata_v3.yaml 
-Write-Output "... made The-Return-of-Tom-Thumb_$($($env:APPVEYOR_BUILD_VERSION).Replace(".", "_")))_test.epub... (epub test)"
+#pandoc --css epubstyle.css 		`
+#  --epub-cover-image=cover_small.png 	`
+#  "title.md" 				`
+#  "The-Return-of-Tom-Thumb.md" 		`
+#  -t epub3+smart 			`
+#  -o The-Return-of-Tom-Thumb_test.epub 	`
+#  metadata_v3.yaml 
+#Write-Output "... made The-Return-of-Tom-Thumb_$($($env:APPVEYOR_BUILD_VERSION).Replace(".", "_")))_test.epub... (epub test)"
 
-
+copy The-Return-of-Tom-Thumb_$($($env:APPVEYOR_BUILD_VERSION).Replace(".", "_"))).epub The-Return-of-Tom-Thumb.epub
+Write-Output "... made The-Return-of-Tom-Thumb.epub... (epub v3)"
 
 pandoc --css epubstyle.css `
   "title.md" `
