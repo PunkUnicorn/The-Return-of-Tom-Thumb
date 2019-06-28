@@ -209,6 +209,13 @@ soxi
 # I think it might be the iPad book app. Other readers seem to find it ok.
 # Now I think it's an epub book version thing
 #
+# Now I know it's the filename
+#
+# iBooks likes different filenames
+#
+# BOOM
+#
+
 Write-output `n | Out-File "Prose - Blank line.md" -Append
 Write-output "# Appendix A-1" | Out-File "Prose - Appendix1-1.md" -Append
 Write-output "# Appendix A-2" | Out-File "Prose - Appendix1-2.md" -Append
@@ -277,7 +284,7 @@ pandoc --css epubstyle.css 		`
   "title.md" 				`
   "The-Return-of-Tom-Thumb.md" 		`
   -t epub 				`
-  -o The-Return-of-Tom-Thumb_v1.epub 	`
+  -o The-Return-of-Tom-Thumb_$($($env:APPVEYOR_BUILD_VERSION).Replace(".", "_")))_v1.epub 	`
   metadata_v1.yaml 
 Write-Output "... made The-Return-of-Tom-Thumb1.epub... (epub v1)"
 
@@ -286,7 +293,7 @@ pandoc --css epubstyle.css 		`
   "title.md" 				`
   "The-Return-of-Tom-Thumb.md" 		`
   -t epub2+smart 			`
-  -o The-Return-of-Tom-Thumb_v2.epub 	`
+  -o The-Return-of-Tom-Thumb_$($($env:APPVEYOR_BUILD_VERSION).Replace(".", "_")))_v2.epub 	`
   metadata_v2.yaml 
 Write-Output "... made The-Return-of-Tom-Thumb2.epub... (epub v2)"
 
@@ -297,7 +304,7 @@ pandoc --css epubstyle.css 		`
   -t epub3+smart 			`
   -o The-Return-of-Tom-Thumb.epub 	`
   metadata_v3.yaml 
-Write-Output "... made The-Return-of-Tom-Thumb.epub... (epub v3)"
+Write-Output "... made The-Return-of-Tom-Thumb_$($($env:APPVEYOR_BUILD_VERSION).Replace(".", "_"))).epub... (epub v3)"
 
 pandoc --css epubstyle.css 		`
   --epub-cover-image=cover_small.png 	`
@@ -306,7 +313,7 @@ pandoc --css epubstyle.css 		`
   -t epub3+smart 			`
   -o The-Return-of-Tom-Thumb_test.epub 	`
   metadata_v3.yaml 
-Write-Output "... made The-Return-of-Tom-Thumb_test.epub... (epub test)"
+Write-Output "... made The-Return-of-Tom-Thumb_$($($env:APPVEYOR_BUILD_VERSION).Replace(".", "_")))_test.epub... (epub test)"
 
 
 
