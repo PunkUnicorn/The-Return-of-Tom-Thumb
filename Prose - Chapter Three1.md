@@ -28,7 +28,7 @@ Behind him the two were arguing; he could hear them: the girl with the boots did
 
 The well dressed, travelling man turned around. He could see the two strangers with the cow. They had their backs to him, except the cow, which faced him.
 
-He took a few steps forwards. The pair were silent. He stopped short; giving them adequate space. He introduced his presence with a polite cough.They turned around.Bowing slightly, spreading his hands; a gesture of openness.
+He took a few steps forwards. The pair were silent. He stopped short; giving them adequate space. He introduced his presence with a polite cough. They turned around. Bowing slightly, spreading his hands; a gesture of openness.
 
 “Greetings.” he said smiling, more shyly than his snappy clothes and confident posture would suggest.
 
@@ -49,7 +49,7 @@ The Tailor looked at Tom, gently stating: “All day Jack was asking a rather hi
 
 Tom shrugged: “Three apple pips.“
 
-The Tailor was confused. Three apple pips?This required more questions: Tom explained they were from a giant apple. She would not share where the apple came from.In fact, she seemed to shut down when asked.
+The Tailor was confused. Three apple pips? This required more questions: Tom explained they were from a giant apple. She would not share where the apple came from .In fact, she seemed to shut down when asked.
 
 The Tailor would have liked to ask more. He wanted to match her tale of giant apples and strange boots against stories he had heard. But instead of answering questions the girl was talking less, lips sealed.
 
