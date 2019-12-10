@@ -323,6 +323,7 @@ pandoc --css epubstyle.css `
   "The-Return-of-Tom-Thumb.md" `
   -t plain `
   -o The-Return-of-Tom-Thumb.txt
+  metadata_v3.yaml
 Write-Output "... remade better The-Return-of-Tom-Thumb.txt... ('-t plain')"
 
 pandoc --css epubstyle.css `
