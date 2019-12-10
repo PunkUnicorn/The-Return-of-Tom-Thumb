@@ -112,16 +112,16 @@ The Prince squatted to rest the weight of his pack on the bench. Easing the stra
 
 He removed his helmet and pulled his gauntlets off. Wrinkled, numb fingers awkwardly tried to unbuckle the straps on his greaves, and then each of the other, numerous, straps, clasps and buckles. 
 
-With his armour removed, towel in hand, he was dry. He now understood the towel as an important piece of equipment. He had not packed any towels. The new clothes were mostly the same as his previous, since they were all standard knight issue. But the new overrobe had a slightly smaller royal insignia on it's crest. Possibly an older variance, and he wondered how many years it had been sitting in storage.
+With his armour removed, towel in hand, he was dry. He now understood the towel as an important piece of equipment. He had not packed any towels. The new clothes were mostly the same as his previous, since they were all standard knight issue. But the new overrobe had an older variation of the royal insignia from his grandfathers reign. He wondered how many years it had been in storage.
 
-His previous clothes were in a puddle-pile on the floor. He stared at them, thinking they would be cleaned and dried, and then: put into storage. His backpack, still soaked, was a reluctant burden, but he would get used to the weight. The  helmet visor closed, he felt almost ready for the trail again. Just gather some more strength sitting here first.
+His previous clothes were in a puddle-pile on the floor. He stared at them, thinking they would be cleaned and dried, and then put into storage. His backpack, still soaked, was a reluctant burden, but he would get used to the weight. The  helmet visor closed, he felt almost ready to return to the trail. Just gather some more strength first.
 
-“Are you asleep?”; The Prince awoke to see the close face of the old man, peering into his visor. “I was.”, he replied, falling back on truth in the waking daze. The old man walked off and laughed. The Prince felt very refresh. “I had better move on,” he thought, “Before I fall asleep again.”. 
+“Are you asleep?”; The Prince awoke to see the close up face of the old man; peering into his visor. “I was.”, he replied, falling back on honesty in his waking daze. The old man walked off laughing. The Prince felt refresh. “I had better move myself on,” he thought, “Before I fall asleep again.”. 
 
-“I will continue on my journey now.” he called out to the old man, standing to attention, regaining his persona as a knight.
+“I will continue on my journey now.” he called out to the old man, standing up, more slowly than intended. As he stod he regained his persona as a knight.
 
-“Good.” replied the old man, shouting through the open doorway. “Nothing personal,” he added, stepping into the room, “I don't like anyone.” explained cheerfully wiping his hands with a cloth.
+“Good.” replied the old man, shouting through the open doorway. “Nothing personal,” he added, poking his head into the room, “I don't like anyone.” explained cheerfully wiping his hands with a cloth.
 
-“I very much appreciate your assistance.” The Prince said; sincerity shining through his formality.
+“I very much appreciate your assistance.” The Prince said formally, then, looking in the old man's eyes, added: “Thank you.”; his sincerity ruining the formality.
 
 The old man was pleased with this. “Go on, off you go.”, he shooed The Knight out main door.
