@@ -303,7 +303,7 @@ pandoc --css epubstyle.css 		`
   "The-Return-of-Tom-Thumb.md" 		`
   -t epub3+smart 			`
   -o The-Return-of-Tom-Thumb_$($($env:APPVEYOR_BUILD_VERSION).Replace(".", "_")).epub 	`
-  metadata_v3.yaml 
+  --metadata-file=metadata_v3.yaml 
 Write-Output "... made The-Return-of-Tom-Thumb_$($($env:APPVEYOR_BUILD_VERSION).Replace(".", "_")).epub... (epub v3)"
 
 #pandoc --css epubstyle.css 		`
