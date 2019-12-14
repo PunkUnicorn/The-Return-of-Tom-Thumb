@@ -34,8 +34,8 @@ She suspected they would fit whoever held them, the same way they had for her. S
 
 Progress along the south trail was pleasant enough, but they pushed themselves hard with no stopping. The forest thinned and the trail became a road. It was afternoon by the time they saw the dotted buildings of the village far in the distance. They could be there soon, two more hills to cross. They quickened their pace to Tom's fastest.
 
-By early afternoon the two had reached the village. Kim carried Tom piggy back for the last stretch; he was exhausted. Tom jumped down, fidgeting her legs back to normal. With her feet on the ground she assessed their destination. They had been to this place recently, when fleeing the giants.
+By early afternoon the two had reached the village. As Kim had carried Tom piggy back for the last stretch, he was exhausted. Tom jumped down, stretching her legs, and her back. With her feet on the ground she assessed their destination. They had been to this place recently, when fleeing the giants.
 
 Tom saw the collection of buildings as if for the first time. She could remember the relief on arriving, but then the memories before that: at the giant’s house; the giant trying to kill her.
 
-With a concerted breath, the reassurance of the pips in her pocket and the busy village ahead, Tom gathered her focus, which, being Tom, took her straight into fantasy daydreams: what she might get for the pips?
+With a concerted breath, the reassurance of the pips in her pocket and the busy village ahead, Tom gathered her focus, which, being Tom, took her straight into fantasy daydreams: what might she get for the pips?
