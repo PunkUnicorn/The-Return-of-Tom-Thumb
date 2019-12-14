@@ -108,7 +108,7 @@ After putting the bundle of clothes on the bench, he noticed the open front door
 
 The Prince squatted to rest the weight of his pack on the bench. Easing the straps off each shoulder. The release of weight was immense relief. Now only the weight of his plate armour, helmet and the sodden robes, he felt as light as a feather. He sat next to his pack and relaxed. He thought he could sit forever.
 
-“People close doors after them.” he thought to himself, cursing quietly, and thought: “What else do I need to know?” 
+“People close doors after them.” he thought to himself, cursing quietly, “What else do I need to know?” 
 
 He removed his helmet and pulled his gauntlets off. Wrinkled, numb fingers awkwardly tried to unbuckle the straps on his greaves, and then each of the other, numerous, straps, clasps and buckles. 
 
