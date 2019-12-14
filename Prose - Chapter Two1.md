@@ -18,14 +18,14 @@ But now she had to focus on the present, which drew her attention back to the ap
 
 With a sigh she pulled herself up to sit; muscles stretching, which brought her back to the present. The grass stalk in her mouth, now an inconvenience, spat out. She had to think.	
 
-“So, what I need is a plan.”	
+“So, what I need is a plan.”
 
-It was not an easy problem to solve, but soon Tom had an idea. In fact the answer was clear: get another giant apple! it was something.	
+Soon Tom had an idea, in fact the answer was clear: get another giant apple! it was something.
 
-And then a moment of inspiration: a hidden treasure she had missed: the giant apple pips themselves.	
+And then a moment of inspiration: a hidden treasure she had missed: the giant apple pips themselves.
 
-Rising to her feet she walked towards the core, it was almost as tall as her. Pacing round, estimating the pip's location, squaring her knuckles she punched a level blow; with a splattering of gloop her fist ripped through the seed chamber. Gripping the breach she tore it wider.	
+Rising to her feet she walked towards the core, it was almost as tall as her. Pacing round, estimating the pip's location, squaring her knuckles, she punched a level blow; with a splattering of gloop her fist ripped through the seed chamber. Gripping the breach she tore it wider.
 
-Pushing a hand in deeply, she felt a pip. Pushing further, feeling around blindly, she mapped it’s orientation. With a concerted shunt it shifted to a better grip, and she eased the pip out.	
+Pushing a hand in deeply, the pulp giving way between her fingers, she felt a pip. Pushing further, feeling around blindly, she mapped it’s orientation. With a concerted shunt it shifted to a better grip, and she eased the pip out.
 
 Once she had freed one, two more became accessible: she got these out and fitted all three of the large pips into her pockets.
