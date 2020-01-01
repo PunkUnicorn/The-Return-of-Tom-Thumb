@@ -312,18 +312,20 @@ Write-Output "... made The-Return-of-Tom-Thumb_$($($env:APPVEYOR_BUILD_VERSION).
 #  "The-Return-of-Tom-Thumb.md" 		`
 #  -t epub3+smart 			`
 #  -o The-Return-of-Tom-Thumb_$($($env:APPVEYOR_BUILD_VERSION).Replace(".", "_"))_test.epub 	`
-#  metadata_v3.yaml 
+#  --metadata-file=metadata_v3.yaml 
 #Write-Output "... made The-Return-of-Tom-Thumb_$($($env:APPVEYOR_BUILD_VERSION).Replace(".", "_"))_test.epub... (epub test)"
 
 copy The-Return-of-Tom-Thumb_$($($env:APPVEYOR_BUILD_VERSION).Replace(".", "_"))_v1.epub The-Return-of-Tom-Thumb.epub
 Write-Output "... made The-Return-of-Tom-Thumb.epub... (epub v3)"
 
-pandoc --css epubstyle.css `
-  "title.md" `
-  "The-Return-of-Tom-Thumb.md" `
+#--css epubstyle.css `
+#  "title.md" `
+#  "The-Return-of-Tom-Thumb.md" `
+pandoc `
+  The-Return-of-Tom-Thumb_$($($env:APPVEYOR_BUILD_VERSION).Replace(".", "_"))_v1.epub  `
   -t plain `
   -o The-Return-of-Tom-Thumb.txt `
-  metadata_v3.yaml
+  --metadata-file=metadata_v3.yaml
 Write-Output "... remade better The-Return-of-Tom-Thumb.txt... ('-t plain')"
 
 pandoc --css epubstyle.css `
