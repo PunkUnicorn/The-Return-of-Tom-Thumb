@@ -330,8 +330,7 @@ Write-Output "... remade better The-Return-of-Tom-Thumb.txt... ('-t plain')"
 
 pandoc --css epubstyle.css `
   The-Return-of-Tom-Thumb.epub `
-   --metadata-file=metadata_v1.yaml `
-  -o The-Return-of-Tom-Thumb.html --self-contained
+  -o The-Return-of-Tom-Thumb.html --self-contained --quiet
 Write-Output "... made The-Return-of-Tom-Thumb.html..."
 
 # Make the audio book (WIP)
