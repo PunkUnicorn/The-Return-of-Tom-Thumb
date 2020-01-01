@@ -2,7 +2,7 @@
 
 Tom Thumb had been back home for several nights. As usual her thoughts were occupied, replaying the past troubling days: the terrifying giant, coming to terms with their parents leaving them to die in the forest.
 
-The worst, however, was being singled out as a girl in front of her brothers. She had not worried about this before, despite her father’s intimidating insistence he only had sons. But the words of the motherly giant echoed in her thoughts: “Make no mistake  beautiful young girl, there's no hiding it.”
+The worst, however, was being singled out as a girl in front of her brothers. She had not worried about this before, despite her father’s intimidating insistence he only had sons. But the words of the motherly giant echoed in her thoughts: “Make no mistake you beautiful young thing, there's no hiding it.”
 
 Tom felt the surprise and shock again. For all the times she believed she had come to terms with this, it would return to unsettle her.
 
@@ -24,7 +24,7 @@ Soon Tom had an idea, in fact the answer was clear: get another giant apple! it 
 
 And then a moment of inspiration: a hidden treasure she had missed: the giant apple pips themselves.
 
-Jumping to her feet she quickly walked towards the core, it was almost as tall as her. Pacing round, estimating the pip's location she spotted a likely spot. Squaring her knuckles she punched a level blow. With a splattering of gloop her fist ripped through the seed chamber. Gripping the breach she tore it wider.
+Jumping to her feet she walked quickly towards the core, it was almost as tall as her. Pacing round, estimating the pip's location she spotted a likely spot. Squaring her fist she punched a level blow. With a splattering of gloop her calloused knuckes ripped through the seed chamber. Gripping the breach she tore it wider.
 
 Pushing a hand in deeply, the pulp giving way between her fingers, she felt a pip. Pushing further, feeling around blindly, she mapped the pip's orientation. With a concerted shunt it shifted to a better grip, and she eased it out.
 
