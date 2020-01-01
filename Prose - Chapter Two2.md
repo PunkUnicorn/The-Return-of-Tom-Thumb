@@ -6,9 +6,9 @@ Licking her hands clean and wiping them on her trousers, she wondered if their m
 
 And now aware of her family behind the door, defensive instincts pulled her back: stay unnoticed, don’t change the latch; be invisible. Tom closed her mind, tensed her muscles and pulled the heavy door open.
 
-The overpowering smell of baked apples. The heavy door slammed shut behind her. In the thick air, for a second, Tom was sick of apples. But the feeling quickly passed; the apple had been a life saver. Besides, the pips in her pockets could be interesting. She joined her family at the table, as inconspicuously as possible.
+The overpowering smell of baked apples. The heavy door slammed shut behind her. In the thick air, for a second, Tom was sick of apples. But the feeling quickly passed; the apple had been a life saver. Besides, the pips in her pockets could be interesting. She joined the crowded table as inconspicuously as possible.
 
-Bellies full, tensions were rising round the table; competing voices. She did not look though, not a time to risk eye contact. She listened to judge tones of aggression: it was safe.
+Bellies full, tensions were rising; competing voices. She did not look though, not a time to risk eye contact. She listened to judge tones of aggression: it was safe.
 
 Wiggling her toes, squashing them against the leather of the boots, the arguing grew more distant. Comfort won the battle for her senses.
 
@@ -16,11 +16,11 @@ The next morning Tom woke earlier than anyone else. With well practised tiptoein
 
 The dazzling morning sun spared the eye no mercy; the giant apple core was looking far from adequate. Tom realised her expectations had been wrong.
 
-The house door opened quietly behind her, Tom looked round. It was her oldest and biggest brother, Kim. He joined her. 
+The house door opened quietly behind her, Tom looked round. It was her oldest and biggest brother, Kim. He joined her.
 
 “You’re up early?”, Kim asked.
 
-Tom wanted to tell Kim of her plan to head to the village and sell the pips. At the same time she did not want to risk an argument. She met his eyes as if to answer, but instead, she did not. Tom looked back towards the apple.
+Kim and Tom were close. Kim knew Tom was smart and listened to her. But Kim reigned over the siblings with his fists, including Tom. She wanted to tell him of her plan to head to the village and sell the pips. It was a bold idea. She met his eyes as if to answer his question, but instead, she did not. Tom looked back towards the apple.
 
 “What you doin’?”; Kim's question was an accusation. She braced her upper body, relaxing her legs; ready to dodge. “I’m going to the village.” she replied reluctantly.
 
