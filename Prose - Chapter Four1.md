@@ -23,8 +23,6 @@ Each step through the arches brought a sharp remembrance: what he was walking aw
 
 But a flash of what laid ahead: the open road, a life of freedom, hide away from the chains of state, from historical consequences. Instead be alive day to day; each morning a new life. Each morning free again.
 
-Another step: his escape effecting his (already sick) father. His younger sister left to inherit the burden; unprepared, multiple effects falling onto her... a royal crown the heaviest.
-
 So he took more steps, faster steps. But hurrying did not abate the remorse. Regret pushed against guilt to a blur. And a new flash of regret: not preparing a torch for this tunnel escape. He had packed a bundle of torches (he had packed everything useful he could think of).
 
 “I could stop and get the torches out...” he thought, mentally navigating through the layers of compacted equipment. He knew the location of everything in his backpack, each item crammed to it's smallest possible bundle. 
