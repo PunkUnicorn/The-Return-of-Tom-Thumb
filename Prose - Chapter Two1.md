@@ -24,7 +24,7 @@ Soon Tom had an idea, in fact the answer was clear: get another giant apple! it 
 
 And then a moment of inspiration: a hidden treasure she had missed: the giant apple pips themselves.
 
-Jumping to her feet she walked quickly towards the core, it was almost as tall as her. Pacing round, estimating the pip's location she spotted a likely spot. Squaring her fist she punched a level blow. With a splattering of gloop her calloused knuckes ripped through the seed chamber. Gripping the breach she tore it wider.
+Jumping to her feet she walked quickly towards the core, it was almost as tall as her. Pacing round, estimating the pip's location she spotted a likely spot. Squaring her fist she punched a level blow. With a splattering of gloop her calloused knuckles ripped through the seed chamber. Gripping the breach she tore it wider.
 
 Pushing a hand in deeply, the pulp giving way between her fingers, she felt a pip. Pushing further, feeling around blindly, she mapped the pip's orientation. With a concerted shunt it shifted to a better grip, and she eased it out.
 
