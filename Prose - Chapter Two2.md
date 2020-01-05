@@ -16,11 +16,11 @@ The next morning Tom woke earlier than anyone else. With well practised tiptoein
 
 The dazzling morning sun spared the eye no mercy; the giant apple core was looking far from adequate. Tom realised her expectations had been wrong.
 
-The house door opened quietly behind her, Tom looked round. It was her oldest and biggest brother, Kim. He joined her.
+The house door opened quietly behind her, Tom looked round. It was her oldest and biggest brother, Kim. He joined her. Kim and Tom were close. Kim knew Tom was smart, and listened to her, but Kim reigned over the siblings with fists and brawn... including Tom.
 
 “You’re up early?”, Kim asked.
 
-Kim and Tom were close. Kim knew Tom was smart and listened to her. But Kim reigned over the siblings with his fists, including Tom. She wanted to tell him of her plan to head to the village and sell the pips. It was a bold idea. She met his eyes as if to answer his question, but instead, she did not. Tom looked back towards the apple.
+She wanted to tell him of her plan to head to the village and sell the pips. It was a bold idea. She met his eyes as if to answer his question, but instead, she did not. Tom looked back towards the apple.
 
 “What you doin’?”; Kim's question was an accusation. She braced her upper body, relaxing her legs; ready to dodge. “I’m going to the village.” she replied reluctantly.
 

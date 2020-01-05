@@ -124,4 +124,4 @@ His previous clothes were in a puddle-pile on the floor. He stared at them, thin
 
 “I very much appreciate your assistance.” The Prince said formally, then, looking in the old man's eyes, added: “Thank you.”; his sincerity ruining the formality.
 
-The old man was pleased with this. “Go on, off you go.”, he shooed The Knight out main door, “You're annoying now.”
+The old man was pleased with this. “Go on, off you go.”, he shooed The Knight out of the main door, “You're annoying me now.”
