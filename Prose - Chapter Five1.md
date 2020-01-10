@@ -10,13 +10,12 @@ When he awoke the wind had picked up. The branches whistled, clouds had gathered
 
 Working his gauntlets off he pried the buckles open on his pack. The canvas skin of the backpack soaked through, the straps were difficult to work free. 
 
-With the backpack unbuckled he pulled out his tared canvas sheets; they would make his tent. Unwieldy in the wind, the large sheet flapped wildly. The Prince pegged down one corner, driving the wooden peg with a stomp. Taking the other corner of the tent sheet he fastened it to the edge of his makeshift 'seat'. A bivouac against the side of the fallen tree would suffice. With some more driven pegs The Prince thought he had engineered enough of a shelter to withstanding what was coming.
+With the backpack unbuckled he pulled out a tared canvas sheet; it would make his tent. Unwieldy in the wind, the large sheet flapped wildly. The Prince pegged down one corner, driving the wooden peg with a stomp. Taking the other corner of the tent sheet he fastened it to the edge of his makeshift 'seat'. A bivouac against the side of the fallen tree would suffice. With some more driven pegs The Prince thought he had engineered enough of a shelter to withstanding what was coming.
 
 With him and his pack in the makeshift shelter, shielded from the wind outside, he nesled down and listened to his internal chatter: it fed him concerns. But these were dismissed; he was in isolation. The elements outside were being unsuccessful with their barage. The wind mauled the tent, whipping sporadic esculations of aggression. But the pegs, the rope and the canvas won decisively. The Prince fell back to sleep.
 
-Birdsong woke him, he peered out the tent. Afternoon, and the sky had cleared. He felt more awake, and the winter sunshine without a soul around, he had it all to himself. He could see was no storm; the relief of easier travelling hampered by a slight disapointment: it was not a true test.
+Birdsong woke him. He peered out of the tent; it was afternoon, the sky had cleared. He felt more awake, and with the winter sunshine on his face, he felt good. There was no storm earlier. The relief of easier travelling hampered by a slight disapointment; it was not a true test without a storm. There would be ample opportunity.
 
-It would take him a while to repack that tarred sheet, it did not pack well. But he would
+The tared sheet did not pack well. Methodically rolling it tight, he saw a figure in the distance. He could not see much about them, except their striking red robe. It was a good sign seeing someone travelling from the direction he was heading; the trail did go somewhere.
 
-
-[As he is packing he sees someone in the distance, travelling on the path towards him from the direction he is going... south. The person wears a very distinctive red hood]
+He had finished rolling the sheet when the red figure was close enough to see, but too far to speak to. It was a young girl, she loweredher hood and waved cheerfully. Then she continued walking. He gave a knights salute then worked the taught canvas bundle into the top of his, still wet, backpack.
