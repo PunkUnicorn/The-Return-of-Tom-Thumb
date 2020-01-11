@@ -39,9 +39,7 @@ The breeze stronger, the cold biting his eyes. And the sound of rushing. It was 
 
 The tunnel narrowed and led round to the left. Following this: the smell of rain and the outside. The tunnel became a narrow cave and an opening overlooking fields. 
 
-Looking out of the cave, into the misty rain, his anxiety rose; a clear sense of the risks ahead, mixed with remorse and guilt.
-
-A deep sigh, and he felt the peek of his remorse: the prospect of the constricting life behind him, the escape to freedom in front. The sound of the rain neither diminishing or increasing; it was a flat boring constant he found himself aching for.
+Looking out of the cave, into the misty rain, his anxiety rose; the prospect of the constricting life behind him, the escape to freedom in front. The sound of the rain neither diminishing or increasing; it was a flat boring constant he found himself aching for.
 
 He stepped forward, the rain ringing each hit on his helmet, deafening him. Footing was difficult in the wet mud, which made progress humorously slow. His wet robe becoming heavier. A field's fence a major obstacle. 
 
@@ -120,7 +118,7 @@ His previous clothes were in a puddle-pile on the floor. He stared at them, thin
 
 “I will continue on my journey now.” he called out to the old man, standing up, more slowly than intended. As he stood he regained his persona as a knight.
 
-“Good.” replied the old man, shouting through the open doorway. “Nothing personal,” he added, poking his head through the doorway, “I like you as much as I like anyone, and I don't like people.”, he explained cheerfully, wiping his hands with a cloth.
+“Good.” replied the old man, shouting through the open doorway. “Nothing personal,” he added, poking his head through the doorway, “I like you as much as I like anyone, and I don't like anyone.”, he explained, wiping his hands with a cloth.
 
 “I very much appreciate your assistance.” The Prince said formally, then, looking in the old man's eyes, added: “Thank you.”; his sincerity ruining the formality.
 
