@@ -98,11 +98,11 @@ The Prince stood outside the shack. The buildings were maintained to a high stan
 
 “Look at you, what a mess.” the old man replied informally. “You'd better come inside.” and left the door open as invitation. The Prince entered. A small room, bare wooden walls with a long trestle bench along the facing wall. The man had gone through another door to his left, which was open. The old man came back with an arm full of a folded robe, rough towels and underclothes.
 
-“Were you chasing a bolted horse all night?” the old man dryly questioned, adding: “through a stinking marsh?”, he laughed. The Prince flinched to respond, thinking fast to adapt his excuse, but the old man cut him off; “No! Don't explain, I don't want to know. If I wanted to know things I wouldn't be stationed on the marsh road.”
+“Were you chasing a bolted horse all night?” the old man dryly questioned, adding: “through a stinking marsh?”, he snorted a laugh. The Prince flinched to respond, thinking fast to adapt his excuse, but the old man cut him off; “No! Don't explain, I don't want to know. If I wanted to know things I wouldn't be stationed on the marsh road.”
 
 After putting the bundle of clothes on the bench, he noticed the open front door which he closed, giving The Prince an accusing glare. Seeing the pathetic soaked knight, the old man shook his head and patted The Prince on the shoulder: “Get yourself dry young man, can't have a knight looking sorry for himself.” and left through the other door, closing it behind him.
 
-The Prince squatted to rest the weight of his pack on the bench. Easing the straps off each shoulder. The release of weight was immense relief. Now only the weight of his plate armour, helmet and the sodden robes, he felt as light as a feather. He sat next to his pack and relaxed. He thought he could sit forever.
+The Prince squatted to rest the weight of his pack on the bench. Easing the straps off each shoulder. The release of weight was immense relief. Now only the weight of his plate armour, helmet and the sodden robes, he felt as light as a feather. He sat next to his pack and relaxed.
 
 “People close doors after them.” he thought to himself, cursing quietly, “What else do I need to know?” 
 
@@ -122,4 +122,4 @@ His previous clothes were in a puddle-pile on the floor. He stared at them, thin
 
 “I very much appreciate your assistance.” The Prince said formally, then, looking in the old man's eyes, added: “Thank you.”; his sincerity ruining the formality.
 
-The old man was pleased with this. “Go on, off you go.”, he shooed The Knight out of the main door, “You're annoying me now.”
+The old man was pleased with this. “Go on, off you go.”, he shooed The Knight out of the main door, “You might be less annoying than most, but you're still annoying.”
