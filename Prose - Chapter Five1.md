@@ -10,7 +10,7 @@ When The Prince awoke the wind had picked up. The branches whistled, clouds had 
 
 Working his gauntlets off he pried the buckles open on his pack. The canvas skin of the backpack soaked through, the straps were difficult to work free. 
 
-With the backpack unbuckled he pulled out a tared canvas sheet; it would make his tent. Unwieldy in the wind, the large sheet flapped wildly. The Prince pegged down one corner, driving the wooden peg with a stomp. Taking the other corner of the tent sheet he fastened it to the edge of his makeshift 'seat'. A bivouac against the side of the fallen tree would suffice. With some more driven pegs, The Prince thought he had engineered enough of a shelter to withstanding what was coming.
+With the backpack unbuckled he pulled out a tared canvas sheet; it would make his tent. Unwieldy in the wind, the large sheet flapped wildly. The Prince pegged down one corner, driving the wooden peg with a stomp. Taking the other corner of the tent sheet he fastened it to the edge of his makeshift 'seat'. A bivouac against the side of the fallen tree would suffice. With some more driven pegs, The Prince thought he had engineered enough of a shelter to withstand what was coming.
 
 With him and his pack inside the makeshift shelter, shielded from the wind outside, he nesled down and listened to his internal chatter: it fed him concerns. But these were dismissed; he was in isolation. The elements outside were being unsuccessful with their barage. The wind mauled the tent, whipping sporadic esculations of aggression. But the pegs, the rope and the canvas won decisively. With each victory The Prince fell deeper and deeper into sleep.
 
