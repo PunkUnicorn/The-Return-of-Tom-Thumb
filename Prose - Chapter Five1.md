@@ -16,7 +16,7 @@ With him and his pack inside the makeshift shelter, shielded from the wind outsi
 
 Birdsong woke him. He peered out of the tent; it was afternoon, the sky had cleared. He felt more awake, and with the winter sunshine on his face, he felt good. He could see there was no storm earlier. The relief of easier travelling hampered by a slight disapointment; it was not a true test.
 
-The tared sheet did not pack well. Methodically rolling it tight, he saw a figure in the distance. He could not see much about them, except for their striking red robe. It was a good sign seeing someone travelling from the direction he was journeying to; the trail did, at least, go somewhere.
+The tared sheet did not pack well. Methodically rolling it tight, he saw a figure in the distance. He could not see much about them, except for their striking red robe. It was a good sign seeing someone travelling from the direction he was going; the trail did, at least, go somewhere.
 
 He had finished rolling the sheet when the red figure was close enough to see, but too far away to speak to. It was a young woman, she lowered her red hood and waved cheerfully, then continued walking towards him. He interuppted his two handed packing to respond with a quick knight's salute.
 
@@ -40,13 +40,13 @@ She seemed disapointed. "Are you travelling north?" she asked hopefully.
 
 "I've been lost for a while. I wanted to avoid the main roads, but it's hard to keep track of direction, ... I'm not on trails I'm familiar with."
 
-The Prince nodded in understanding, although he himself knew several ways to identify north. Not everyone had such training. "To accompany you would be an honour and a priveledge." he responded with stiff, earnst resolve.
+The Prince nodded in understanding, although he himself knew several ways to identify north. Not everyone had such training. "To accompany you would be an honour and a priviledge." he responded with stiff, earnst resolve.
 
-"That's what I thoght." she concluded with satisfied approval. "Are you an errond knight?"
+"That's what I thought." she concluded with satisfied approval. "Are you a knight errant?"
 
-"Yes.", his disguise working, "I am. I am an errond knight."
+"Yes.", his disguise working, "I am. I am a knight on an errond."
 
-She seemed impressed. "I'm running an errond myself. But I get to take my own time, and do it in my own way. I'm makng my own erronds."
+She seemed impressed. "I'm running an errond myself. But I get to take my own time, and do it in my own way. I'm making my own erronds."
 
 The Prince, or rather The Knight, nodded at this, as if it made sense, exhillerated to have travelling company; cover for his escape.
 
@@ -64,25 +64,27 @@ Breakfast was as delicious as the stew the previous evening. "Do you eat like th
 
 "I try not to.", he appologised, "The food gets progressively better the more south you go.". He pushed his tin plate forward on the table and leaned back; cocking the chair on two legs, so he could lean against the wall, instead of the chair's back.
 
-He looked at Tom. "You asked me where I was going?", suppressing a grin, looking relaxed against the wall. "I'm a travelling tailor, I just travel.", but then he thought for a short time and added, in a cheerful but resiliently way: "And do tailoring."
+He looked at Tom. "You asked me where I was going?", suppressing a grin, looking relaxed against the wall. "I'm a travelling tailor, I just travel.", but then he thought for a short time and added, cheerfuly, but resiliently: "And I do tailoring."
 
-Tom was queuing up questions with each of The Tailors statements. Travelling south sounded good, tailoring was anybody's guess.
+Tom was queuing up questions with each of The Tailors statements. Travelling southwards sounded good, tailoring was anybody's guess.
 
 "What's tailoring?"; she felt she could ask him.
 
-"I thought you would never ask." slyly asserted The Tailor, mirthfully. "I've settled up with the inn keeper, let's show you tailoring." and he got up, shouted a few words of farewell to people they could not see (getting a shouted farewell back), and walked out the main door of the inn, beconning Tom with his head, twitching his neck. "Come on.", his stride jaunty. He was enjoying this.
+"I thought you would never ask." slyly asserted The Tailor, mirthfully. "I've settled up with the inn keeper, let's show you tailoring." and he got up, shouted a few words of farewell to people they could not see (getting a shouted farewell back), and walked out the main door of the inn, beconing Tom with his head, twitching his neck. "Come on.", his stride jaunty. He was enjoying this.
 
-Outside Tom stood ridiculously, her arms out straight, her legs apart. The Tailor worked with pins in his mouth under her arm. "And I'll do something with your hair." He said with pins in his mouth.
+Outside Tom stood ridiculously, her arms out straight, her legs apart. The Tailor worked, with pins in his mouth, under her arm. "And I'll do something with your hair." He said with pins in his mouth.
 
-"What are you doing?" Tom's slight tone of desparation gave The Tailor a clue she wanted more explantion than 'tailoring'. He took the pins out of his mouth.
+"What are you doing?" Tom's slight tone of desparation gave The Tailor a clue she wanted more explaintion than the word: 'tailoring'. He took the pins out of his mouth.
 
 "I'm bringing in your jumper so it fits better round the shoulders and waist.", some more thinking something, then he added: "I say fits better, but what I mean is better than not fitting whatsoever."
 
-She did not like this, but she trusted what The Tailor was doing what was important for travelling. He worked both under-arms, and simmilarly on her trousers. As he sat her down to, as he said 'sort her hair out', she looked at what he had done on her jumper. It was less baggy, with a long thick stitch bringing in the excess wool. It was well balanced against the other under-arm alterations.
+She did not like standing like this, but she trusted what The Tailor was doing; important for travelling. He worked both under-arms, and simmilarly on her trousers. As he sat her down to, as he would explain: 'sort her hair out', she took a look at what he had done to her jumper. It was less baggy, with a long thick stitch bringing in the excess wool. It was well balanced against the other under-arm alteration.
 
 "There...", he concluded, and brought a small mirror to her face. Her hair had more defined steps, but was still shaggy. 
 
-Her arms and legs still had mobility, and she felt lighter round the arms. The excess length of trouser leg had been cut off and seamed. The trouser leg ends covering the boots more than they did rolled up. She liked how he was helping to hide them, she had not even talked about that.
+Her arms and legs still had mobility, and she felt lighter round the arms. The excess length of trouser leg had been cut off and seamed. The trouser leg ends covered the boots more than they did rolled up. She liked how he was helping to hide them, she had not even talked about that.
 
-"That is good.", she said describing the increased arm freedom. She kicked each leg, then looked at her feet on their respective landing. Looking at the Tailor she nodded.
+"That is good.", she said describing the increased freedon with arms. She kicked each leg, then inspected her feet on each landing. Looking at the Tailor he saw her nod with the minumum of approval, but her eyes showed she was pleased.
+
+"We can easily make the next place on the trail by lunch.", he gave Tom's hair a brush with his fingertips, "It's got the third worst inn in the world." he explained sardonically, "Lets go.", and they set off, walking side by side, on the main south trail.
 
