@@ -76,15 +76,17 @@ Outside Tom stood ridiculously, her arms out straight, her legs apart. The Tailo
 
 "What are you doing?" Tom's slight tone of desparation gave The Tailor a clue she wanted more explaintion than the word: 'tailoring'. He took the pins out of his mouth.
 
-"I'm bringing in your jumper so it fits better round the shoulders and waist.", some more thinking something, then he added: "I say fits better, but what I mean is better than not fitting whatsoever."
+"I'm bringing in your jumper so it fits better round the shoulders and waist.". After more another pause, and a thinking face, he added: "I say fits better, but what I mean is: better than not fitting whatsoever."
 
-She did not like standing like this, but she trusted what The Tailor was doing; important for travelling. He worked both under-arms, and simmilarly on her trousers. As he sat her down to, as he would explain: 'sort her hair out', she took a look at what he had done to her jumper. It was less baggy, with a long thick stitch bringing in the excess wool. It was well balanced against the other under-arm alteration.
+She did not like standing like this, but she trusted what The Tailor was doing; important for travelling. He worked both under-arms, and simmilarly on her trousers. 
 
-"There...", he concluded, and brought a small mirror to her face. Her hair had more defined steps, but was still shaggy. 
+Drawing her away from a small pile of fabric, he sat her down, explaining: 'Now to sort your hair out!'. She took a look at what he had done to her jumper. It was less baggy, with a long thick stitch. It was well balanced against the other under-arm alteration. The excess length of trouser leg had been cut off and seamed, replacing her roll-ups.
 
-Her arms and legs still had mobility, and she felt lighter round the arms. The excess length of trouser leg had been cut off and seamed. The trouser leg ends covered the boots more than they did rolled up. She liked how he was helping to hide them, she had not even talked about that.
+"There...", he concluded, and brought a small mirror to her face. Her hair had more defined steps, but was still shaggy. "Just a tidy.", and then he paused again, and for a moment almost looked like he was going to say something, but did not.
 
-"That is good.", she said describing the increased freedon with arms. She kicked each leg, then inspected her feet on each landing. Looking at the Tailor he saw her nod with the minumum of approval, but her eyes showed she was pleased.
+Her arms and legs still had mobility, and she felt lighter round the arms. Convieniently, the trouser leg ends covered the boots more so than when they were rolled up. She liked how he was helping to hide them, she had not even talked about that.
 
-"We can easily make the next place on the trail by lunch.", he gave Tom's hair a brush with his fingertips, "It's got the third worst inn in the world." he explained sardonically, "Lets go.", and they set off, walking side by side, on the main south trail.
+"That is good.", she said describing the increased freedon with her arms. She kicked each leg, then inspected her feet on each landing. Looking at the Tailor he saw her nod with the minumum of approval, but her eyes showed she was very pleased.
+
+"We can easily make the next inn on the trail before lunch.", he gave Tom's hair two swift brushes with his fingertips on one side, "It's got the third worst inn in the world.", he explained sardonically, "Lets go.", and they set off walking side by side on the south trail.
 
