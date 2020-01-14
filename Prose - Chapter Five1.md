@@ -40,23 +40,23 @@ She seemed disapointed. "Are you travelling north?" she asked hopefully.
 
 "I've been lost for a while. I wanted to avoid the main roads, but it's hard to keep track of direction, ... I'm not on trails I'm familiar with."
 
-The Prince nodded in understanding, although he himself knew several ways to identify north. Not everyone had such training. "To accompany you would be an honour and a priviledge." he responded with stiff, earnst resolve.
+The Prince nodded in understanding, although he himself knew several ways to identify north. Not everyone had such training. "To accompany you would be a duty and honour." he responded with stiff, earnst resolve.
 
-"That's what I thought." she concluded with satisfied approval. "Are you a knight errant?"
+She looked The Prince (or rather The Knight) up and down while balancing her weight on one leg, the other crossed behind it on point. Her hands behind her back. "That's what I thought." she concluded with satisfied approval. "Are you a knight errant?"
 
-"Yes.", his disguise working, "I am. I am a knight on an errond."
+"Yes.", his disguise working, "I am. I'm a knight errant."
 
-She seemed impressed. "I'm running an errond myself. But I get to take my own time, and do it in my own way. I'm making my own erronds."
+She seemed impressed. "I'm running an errond myself, I need to get far north. But I get to take my own time, and do it in my own way. I'm actually making my own erronds now, and I need to stay off the main trail for a while."
 
-The Prince, or rather The Knight, nodded at this, as if it made sense, exhillerated to have travelling company; cover for his escape.
+The Knight nodded at this, as if it made sense, exhillerated to have travelling company; cover for his escape.
 
-"I'm Red," she beemed a warm, welcoming smile, "it's great you're joining me."
+"I'm Red," she beemed a warm, welcoming smile, "I'm thrilled you're joining me."
 
 But not as pleased as The Knight, it was all going rather well. Their common goal: a need to travel far north and stay off the main trail. 
 
 As they walked north, along the way Red had come from, The Knight provided conversation: replaying his rehearsed lies, what he could say about his errond, what he could not. Red offered no doubt, she was delighted with all parts of his script.
 
-Once he had finished his short, well rehearsed excuse, a comfortable silence settled. Red broke the silence: "There's a beutiful spot on the edge of the meddow ahead. A small stream next to a clearing. We'll get to the bramble thicket soon, it's in there.". To The Knight this sounded ideal.
+Once he had finished his short, well rehearsed excuse, a comfortable silence settled. Red pointed ahead; "There's a beutiful spot on the edge of the meddow, a small stream next to a clearing. It's next to a bramble thicket, so I'm surprised I found it. It's easy to miss.". To The Knight this sounded ideal.
 
 - - -
 
