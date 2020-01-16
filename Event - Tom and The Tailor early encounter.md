@@ -6,7 +6,7 @@ Tom and The Tailor encounter their first inn. Tom's never been to an inn before 
 
 "I know how to work that" she says impressed with herself, sharing - needing to put a proud front on to keep up with this dazzling stranger, The Tailor
 
-"After you then" The Tailor would accomodate, overlooking Tom's un-learned obvservation. The Tailor would enjoy hearing the pride in Toms voice.
+"After you then" The Tailor would accommodate, overlooking Tom's un-learned obvservation. The Tailor would enjoy hearing the pride in Toms voice.
 
 Inside the tavern Tom would be overwhelmed.
 

@@ -8,7 +8,7 @@ The Knight would get up, quickly find a suitable stick and mock (taunt) The Tail
 
 The Tailor would start left handed, as he is but The Knight would adjust to left handed seeing The Tailor is left handed.
 
-The Tailor would kick and trip, and The Knight would be back-footed. The Knight would counter-kick, but more brutal than elegant; in desparation, and hurt The Tailors left hand... causing him to fight right handed. The Knight also then switching to right handed, they have at it against each other more seriousness.
+The Tailor would kick and trip, and The Knight would be back-footed. The Knight would counter-kick, but more brutal than elegant; in desperation, and hurt The Tailors left hand... causing him to fight right handed. The Knight also then switching to right handed, they have at it against each other more seriousness.
 
 The Tailor would conceed: The Knight requires the advantage, since The Tailor is a better fencer. The Knight agrees but does not relent.
 
