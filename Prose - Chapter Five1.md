@@ -56,23 +56,23 @@ But not as pleased as The Knight, it was all going rather well. Their common goa
 
 As they walked north, along the way Red had come from, The Knight provided conversation: replaying his rehearsed lies, what he could say about his errond, what he could not. Red offered no doubt, she was delighted with all parts of his script.
 
-Once he had finished his short, well rehearsed excuse, a comfortable silence settled. Red pointed ahead; "There's a beautiful spot on the edge of the meddow, a small stream next to a clearing. It's next to a bramble thicket, so I'm surprised I found it. It's easy to miss.". To The Knight this sounded ideal.
+Once he had finished his short, well rehearsed excuse, a comfortable silence settled. Red pointed ahead; "There's a beautiful spot on the edge of the meadow, a small stream next to a clearing. It's sort of hidden by a bramble thicket. I'm surprised I found it.". To The Knight this sounded ideal.
 
 - - -
 
 Breakfast was as delicious as the stew the previous evening. "Do you eat like this all the time?" she asked The Tailor.
 
-"I try not to.", he apologised, "The food gets progressively better the more south you go.". He pushed his tin plate forward on the table and leaned back; cocking the chair on two legs, so he could lean against the wall, instead of the chair's back.
+"I try not to.", he replied. He pushed his tin plate forward on the table and leaned back; cocking the chair on two legs, so he could lean against the wall, instead of the chair's back.
 
-He looked at Tom. "You asked me where I was going?", suppressing a grin, looking relaxed against the wall. "I'm a travelling tailor, I just travel.", but then he thought for a short time and added, cheerfully, but resiliently: "And I do tailoring."
+He looked at Tom. "You asked me where I was going?", looking relaxed against the wall. "I'm a travelling tailor, I just travel.", but then he stopped talking and thought, eventually adding: "And I do tailoring.", with a resilient, gentle fist.
 
-Tom was queuing up questions with each of The Tailors statements. Travelling southwards sounded good, tailoring was anybody's guess.
+Tom was queuing up questions. Travelling southwards sounded good, tailoring was anybody's guess.
 
 "What's tailoring?"; she felt she could ask him.
 
-"I thought you would never ask." slyly asserted The Tailor, mirthfully. "I've settled up with the inn keeper, let's show you tailoring." and he got up, shouted a few words of farewell to people they could not see (getting a shouted farewell back), and walked out the main door of the inn, beckoning Tom with his head, twitching his neck. "Come on.", his stride jaunty. He was enjoying this.
+"I thought you would never ask."; mirthfully. "I've settled up with the inn keeper. Let's go and show you tailoring.", and then he got up, shouted a few words of farewell behind him, to people they could not see (getting a shouted farewell back), and walked out the inn's door, beckoning Tom with his head. "Come on.". He hurried out with a jaunty stride. He was enjoying this.
 
-Outside, Tom stood ridiculously. Her arms out straight, her legs apart. The Tailor worked under her arm, with pins in his mouth. "And I'll do something with your hair." he tried to say.
+Outside, Tom stood ridiculously. Her arms out straight and her legs apart. The Tailor worked under her arm, with pins in his mouth. "And I'll do something with your hair." he tried to say.
 
 "What are you doing?" Tom's slight tone of desperation gave The Tailor a clue she wanted more explanation than the word: 'tailoring'. He took the pins out of his mouth.
 
@@ -80,13 +80,13 @@ Outside, Tom stood ridiculously. Her arms out straight, her legs apart. The Tail
 
 She did not like standing like this, but she trusted what The Tailor was doing; it must be important for travelling. He worked both underarms, and similarly on her trousers. 
 
-Drawing her away from a small pile of fabric, he sat her down, explaining: 'Now to sort your hair out!'. She managed to look at what he had done to her jumper. It was less baggy, with a long thick stitch. It was well balanced against the other under-arm alteration. The excess length of trouser leg had been cut off and seamed, instead of roll-ups.
+Drawing her away from a small pile of fabric, he sat her down, explaining: "Now to sort your hair out!". She managed to look at what he had done to her jumper. It was less baggy, with a long thick stitch. It was well balanced against the other under-arm alteration. The excess length of trouser leg had been cut off and seamed, instead of roll-ups.
 
-"There...", he concluded, and brought a small mirror to her face. Her hair had more defined steps, but was still shaggy. "Just a tidy.", and then he paused again, and for a moment almost looked like he was going to say something, but it passed.
+"There...", he concluded, and brought a small mirror to her face. Her hair had defined steps, but was still shaggy. "Just a tidy.", and then he paused again, and for a moment almost looked like he was going to say something, but it passed.
 
-"That's good.", she muttered, describing the mobility and lighter feeling round the arms. She kicked each leg, inspecting each foot on their landing. She noticed her trouser legs now covered her boots, more so than when they were rolled up. She liked how he was helping to hide them, she had not even talked about that. 
+"That's good.", she said, surprised, describing the lighter feeling around the arms. She kicked each leg and inspected their landing. Her trouser legs now covered her boots, more so than before, when they were rolled up. She liked how this helped to hide them, she had not even talked about that. 
 
-The Tailor saw her nod with the minimum of approval, but her eyes showed she was very pleased. "We can easily make the next town before lunch.", he gave Tom's hair two swift brushes with his fingertips on one side, "It's got the third worst inn in the world.", he explained sardonically, "Lets go."
+The Tailor saw Tom nod with the minimum of approval, but the girls eyes showed more. "We can easily make the next town before lunch.", he gave Tom's hair a swift brush with his fingertips, and then looked her up and down. Satisfied, he turned southwards: "It's got the third worst inn in the world. You have to see it to believe it.", he explained, Lets go."
 
 And they set off walking side by side on the south trail.
 

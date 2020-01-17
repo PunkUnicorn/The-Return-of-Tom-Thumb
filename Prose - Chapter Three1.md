@@ -10,9 +10,9 @@ Tom was not ready for this, she found an excuse: “The trail will be dark. Shou
 
 Kim looked at the cow, who was even less keen to hurry than Tom. He sighed, and did not disagree, although Tom could see in his face he had not given up. She looked away. In the other direction there were fewer people around, and someone walking on the path towards them: a handsome, well dressed young man. He wore a bright spotless shirt.
 
-Kim spoke: “Why don't you make your boots go fast?”
+Kim spoke: “Why don't you make your boots go... all fast?”, and he gestured with his arms; a whooshing motion.
 
-The traveller with the spotless shirt heard this, and flashed an awkward glance towards Kim. It was as if her brothers words were slightly shocking. As he approached the two he thought: “How odd; a pair of young urchins in rags, one of which has impeccably tailored boots. How is that possible?”
+The traveller with the spotless shirt could see this, and flashed an awkward glance towards Kim. It was as if her brothers words and actions were slightly shocking. As he approached the two he thought: “How odd; a pair of young urchins in rags, one of which has impeccably tailored boots. How is that possible?”
 
 The traveller also wondered why they were holding Jack's cow? He had seen the hasty lad Jack earlier trying to sell it for too much coin; he seemed desperate, but would not change his mind on the high, silly price. “I wonder?” he thought. On all counts nothing about this scruffy pair made sense.
 
@@ -49,7 +49,8 @@ The Tailor looked at Tom, gently stating: “All day Jack was asking a rather hi
 
 Tom shrugged: “Three apple pips.“
 
-The Tailor was confused. Three apple pips? This required more questions: Tom explained they were from a giant apple. She would not share where the apple came from .In fact, she seemed to shut down when asked.
+The Tailor was confused. Tom explained they were from a giant apple. She would not share where the apple came from .In fact, she seemed to shut down when asked.
+
 
 The Tailor would have liked to ask more. He wanted to match her tale of giant apples and strange boots against stories he had heard. But instead of answering questions the girl was talking less, lips sealed.
 

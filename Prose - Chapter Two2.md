@@ -14,7 +14,7 @@ Wiggling her toes, squashing them against the leather of the boots, the arguing 
 
 The next morning Tom woke earlier than anyone else. With well practised tiptoeing she stepped between sleeping siblings, got to the door and slipped outside. The first thing she saw: brown, leaning apple core.
 
-The dazzling morning sun spared the eye no mercy; the giant apple core was looking far from adequate. Tom realised her expectations had been wrong.
+The dazzling dawning sun spared the eye no mercy; the giant apple core was looking far from adequate. Tom realised her expectations had been wrong.
 
 The house door opened quietly behind her, Tom looked round. It was her oldest and biggest brother, Kim. He joined her. Kim and Tom were close. Kim knew Tom was smart, and listened to her, but Kim reigned over the siblings with fists and brawn... including Tom.
 

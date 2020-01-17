@@ -12,7 +12,7 @@ Kim barely said a thing; a slight grunt of disapproval.
 
 But Tom answered eagerly: “Hello! we’re from The Forest.” pointing north to explain.
 
-“Oh.” said the boy, as if he were interested. “The Forest.” he nodded agreeing but did not continue. A pause brewed.
+“Oh.” said the boy, as if he was interested. “The Forest.” he nodded agreeing but did not continue. An expectant pause brewed.
 
 “What you come down here for then?” he asked.
 

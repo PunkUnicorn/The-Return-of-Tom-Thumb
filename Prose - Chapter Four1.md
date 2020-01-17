@@ -116,7 +116,7 @@ His previous clothes were in a puddle-pile on the floor. He stared at them, thin
 
 “Are you asleep?”; The Prince awoke to see the close up face of the old man; peering into his visor. “I was.”, he replied, falling back on honesty in his waking daze. The old man walked off laughing. The Prince felt refreshed. “I had better move myself on,” he thought, “Before I fall asleep again.”. 
 
-“I will continue on my journey now.” he called out to the old man, standing up, more slowly than intended. As he stood he regained his persona as a knight.
+“I will continue on my journey now.” he called out to the old man, standing up, more slowly than intended. As he stood he regained his persona as a knight, readjusting his helmet so it was straight.
 
 “Good.” replied the old man, shouting through the open doorway. “Nothing personal,” he added, poking his head through the doorway, “I like you as much as I like anyone, and I don't like anyone.”, he explained, wiping his hands with a cloth.
 
