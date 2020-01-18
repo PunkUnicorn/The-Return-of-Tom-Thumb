@@ -322,20 +322,21 @@ Write-Output "... made The-Return-of-Tom-Thumb_$($($env:APPVEYOR_BUILD_VERSION).
 copy The-Return-of-Tom-Thumb_$($($env:APPVEYOR_BUILD_VERSION).Replace(".", "_"))_v1.epub The-Return-of-Tom-Thumb.epub
 Write-Output "... made The-Return-of-Tom-Thumb.epub... (epub v3)"
 
+pandoc --css epubstyle.css `
+  The-Return-of-Tom-Thumb.epub `
+  -o The-Return-of-Tom-Thumb.html --self-contained --quiet
+Write-Output "... made The-Return-of-Tom-Thumb.html..."
+
 #--css epubstyle.css `
 #  "title.md" `
 #  "The-Return-of-Tom-Thumb.md" `
 pandoc `
-  The-Return-of-Tom-Thumb_$($($env:APPVEYOR_BUILD_VERSION).Replace(".", "_"))_v1.epub  `
+  The-Return-of-Tom-Thumb.html  `
   -t plain `
   -o The-Return-of-Tom-Thumb.txt `
   --metadata-file=metadata_v3.yaml
 Write-Output "... remade better The-Return-of-Tom-Thumb.txt... ('-t plain')"
 
-pandoc --css epubstyle.css `
-  The-Return-of-Tom-Thumb.epub `
-  -o The-Return-of-Tom-Thumb.html --self-contained --quiet
-Write-Output "... made The-Return-of-Tom-Thumb.html..."
 
 # Make the audio book (WIP)
 Write-Output "Making Audio book ..."
