@@ -20,11 +20,11 @@ The tarred sheet did not pack well. Methodically rolling it tight, he saw a figu
 
 He had finished rolling the sheet when the red figure was close enough to see, but too far away to speak to. It was a young woman, she lowered her red hood and waved cheerfully, then continued walking towards him. He interrupted his two handed packing to respond with a quick knight's salute.
 
-Once the taught canvas bundle was crammed back into his backpack, and the straps pulled tight, he squatted to shoulder the straps, hopping it's weight on the fallen tree before bearing the full weight.
+Once the taught canvas bundle was crammed back into his backpack, and the straps pulled tight, he squatted to shoulder the straps, taking a breath before bearing the full weight.
 
 "Hello." the young woman said.
 
-"Greetings." 
+"Greetings.", he replied as cheerfully, putting his helmet on, but leaving the visor open.
 
 "Are you setting up camp here?" she asked.
 
@@ -32,21 +32,21 @@ Once the taught canvas bundle was crammed back into his backpack, and the straps
 
 She seemed disappointed. "Are you travelling north?" she asked hopefully.
 
-"Yes.", he was pleased to accommodate, but he had noticed she had been travelling in the opposite direction.
+"Yes.", he was pleased to accommodate, but she had been travelling in the opposite direction.
 
 "Would you join me? We could travel together." she quickly offered.
   
 "I'm not sure if you're aware, you were travelling southwards. I'm going the way you came."; he felt he had to say that.
 
-"I've been lost for a while. I wanted to avoid the main roads, but it's hard to keep track of direction, ... I'm not on trails I'm familiar with."
+"I've been lost for a while. I wanted to avoid the main roads, but it's hard to keep track of direction, ...I'm not on trails I'm familiar with."
 
-The Prince nodded in understanding, although he himself knew several ways to identify north. Not everyone had such training. "To accompany you would be a duty and honour." he responded with stiff, earnest resolve.
+The Prince nodded in understanding, although he himself knew several ways to identify north. Not everyone had such training. "To accompany you would be a duty and an honour." he responded earnestly.
 
-She looked The Prince (or rather The Knight) up and down while balancing her weight on one leg, the other crossed behind it on point. Her hands behind her back. "That's what I thought." she concluded with satisfied approval. "Are you a knight errant?"
+She looked The Knight up and down, while balancing her weight on one leg, the other crossed behind it on point. She held her hands behind her back. "That's what I thought.", she concluded with satisfied approval. "Are you a knight errant?"
 
-"Yes.", his disguise working, "I am. I'm a knight errant."
+"Yes.", his disguise working, "I am, yes. I'm a knight errant."
 
-She seemed impressed. "I'm running an errond myself, I need to get far north. But I get to take my own time, and do it in my own way. I'm actually making my own errands now, and I need to stay off the main trail for a while."
+She seemed impressed. "I'm running an errond myself, I need to get far north, and I can't use the main routes. I sort of make my own erronds now."
 
 The Knight nodded at this, as if it made sense, exhilarated to have travelling company; cover for his escape.
 
@@ -56,7 +56,9 @@ But not as pleased as The Knight, it was all going rather well. Their common goa
 
 As they walked north, along the way Red had come from, The Knight provided conversation: replaying his rehearsed lies, what he could say about his errond, what he could not. Red offered no doubt, she was delighted with all parts of his script.
 
-Once he had finished his short, well rehearsed excuse, a comfortable silence settled. Red pointed ahead; "There's a beautiful spot on the edge of the meadow, a small stream next to a clearing. It's sort of hidden by a bramble thicket. I'm surprised I found it.". To The Knight this sounded ideal.
+Once he had finished his short, well rehearsed excuse, a comfortable silence settled. Red pointed ahead; "There's a beautiful spot on the edge of the meadow, a small stream next to a clearing. It's almost hidden by a bramble thicket. I'm surprised I found it."
+
+To The Knight this sounded ideal.
 
 - - -
 
@@ -64,13 +66,11 @@ Breakfast was as delicious as the stew the previous evening. "Do you eat like th
 
 "I try not to.", he replied. He pushed his tin plate forward on the table and leaned back; cocking the chair on two legs, so he could lean against the wall, instead of the chair's back.
 
-He looked at Tom. "You asked me where I was going?", looking relaxed against the wall. "I'm a travelling tailor, I just travel.", but then he stopped talking and thought, eventually adding: "And I do tailoring.", with a resilient, gentle fist.
-
-Tom was queuing up questions. Travelling southwards sounded good, tailoring was anybody's guess.
+He looked at Tom. "You asked me where I was going?", looking relaxed against the wall. "I'm a travelling tailor, I just travel.", but then he stopped and thought, then added: "And I do tailoring."; using a hand gesture to make a point of this.
 
 "What's tailoring?"; she felt she could ask him.
 
-"I thought you would never ask."; mirthfully. "I've settled up with the inn keeper. Let's go and show you tailoring.", and then he got up, shouted a few words of farewell behind him, to people they could not see (getting a shouted farewell back), and walked out the inn's door, beckoning Tom with his head. "Come on.". He hurried out with a jaunty stride. He was enjoying this.
+He leaned forward, replying mirthfully: "I thought you would never ask. Let's go and show you tailoring.", and then he got up and walked out the inn's door, beckoning Tom with his head. "Come on.". He hurried out with a jaunty stride. He was enjoying this.
 
 Outside, Tom stood ridiculously. Her arms out straight and her legs apart. The Tailor worked under her arm, with pins in his mouth. "And I'll do something with your hair." he tried to say.
 
@@ -78,15 +78,17 @@ Outside, Tom stood ridiculously. Her arms out straight and her legs apart. The T
 
 "I'm bringing in your jumper so it fits better round the shoulders and waist.". After more pause, and a thinking face, he added: "I say fits better, but what I mean is: better than not fitting whatsoever."
 
-She did not like standing like this, but she trusted what The Tailor was doing; it must be important for travelling. He worked both underarms, and similarly on her trousers. 
+She felt exposed standing like this, but she trusted what The Tailor was doing; it must be important for travelling. He worked around each underarm, and similarly on her trousers. 
 
-Drawing her away from a small pile of fabric, he sat her down, explaining: "Now to sort your hair out!". She managed to look at what he had done to her jumper. It was less baggy, with a long thick stitch. It was well balanced against the other under-arm alteration. The excess length of trouser leg had been cut off and seamed, instead of roll-ups.
+Drawing her away from a small pile of fabric, he sat her down, explaining: "Now to sort your hair out!". She managed to look at what he had done to her jumper. It was less baggy, with a long thick stitch. It was well balanced against the other under-arm alteration. The excess length of trouser leg had been cut off and seamed, instead of roll-ups. 
+
+But her head possition was adjusted by a warm hand, each touched pairring with the sound of snipping scissors. 
 
 "There...", he concluded, and brought a small mirror to her face. Her hair had defined steps, but was still shaggy. "Just a tidy.", and then he paused again, and for a moment almost looked like he was going to say something, but it passed.
 
-"That's good.", she said, surprised, describing the lighter feeling around the arms. She kicked each leg and inspected their landing. Her trouser legs now covered her boots, more so than before, when they were rolled up. She liked how this helped to hide them, she had not even talked about that. 
+"That's good.", she said; regretting the vocal impulse, surprised at feeling freer around the arms. She kicked her legs, inspected each landing. Her trouser legs now covered her boots, more so than before.
 
-The Tailor saw Tom nod with the minimum of approval, but the girls eyes showed more. "We can easily make the next town before lunch.", he gave Tom's hair a swift brush with his fingertips, and then looked her up and down. Satisfied, he turned southwards: "It's got the third worst inn in the world. You have to see it to believe it.", he explained, Lets go."
+The Tailor was looking at her expectantly. She nodded with the minimum of approval, but looking in the girl's eyes, he could see more. "The next town's not far, we'll make it before lunch.", and he give Tom's hair a swift brush with his fingertips. He turned southwards: "It's got the third worst inn in the world. You have to see it to believe it. Lets go!"
 
 And they set off walking side by side on the south trail.
 
