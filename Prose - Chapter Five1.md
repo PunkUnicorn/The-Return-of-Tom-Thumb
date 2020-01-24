@@ -63,25 +63,27 @@ To The Knight this sounded ideal.
 
 - - -
 
-Breakfast was as delicious as the stew the previous evening. "Do you eat like this all the time?" she asked The Tailor.
+Breakfast was as delicious, if not more, than the stew the previous evening: eggs, bacon, thick dark bread. and butter. Also, she had no idea potatoe could taste as good as this. "Do you eat like this all the time?" she asked The Tailor. She had finished eating long before The Tailor, and had also managed to surreptitiously sneak one of her saussages into her pocket for later.
 
-"I try not to.", he replied. He pushed his tin plate forward on the table and leaned back; cocking the chair on two legs, so he could lean against the wall, instead of the chair's back.
+"I try not to.", he replied, pushing his empty, tin plate forward. He cocked his chair on two legs so he could lean against the wall, instead of the chair's back.
 
-He looked at Tom. "You asked me where I was going?", relaxed against the wall. "I'm a travelling tailor, I just travel."
+"You asked me where I was going?", settled into a relaxed possition against the wall. "I'm a travelling tailor, I just travel."
 
-Then, as if he had just remembered something, he added, using his finger to make a point: "And I do tailoring."
+Then, as if he had remembered something, he added, using his finger to accentuate: "And I do tailoring."
 
 "What's tailoring?"; she felt she could ask him.
 
-He leaned forward, replying mirthfully: "I thought you would never ask. Let's go and show you tailoring.", and then he got up and walked out the inn's door, beckoning Tom with his head. "Come on.". He hurried out with a jaunty stride. He was enjoying this.
+He leaned forward, replying mirthfully: "I thought you would never ask. Let's go and show you tailoring."
 
-Outside, Tom stood ridiculously. Her arms out straight and her legs apart. The Tailor worked under her arm, with pins in his mouth. "And I'll do something with your hair." he tried to say.
+He got up and walked out the inn's door, beckoning Tom with his head. "Come on.", leaving her sight with a jaunty walk. He was enjoying this.
 
-"What are you doing?" Tom's slight tone of desperation gave The Tailor a clue she wanted more explanation than the word: 'tailoring'. He took the pins out of his mouth.
+Outside, Tom stood ridiculously. Her arms were out straight and her legs apart. The Tailor worked under her arm, with pins in his mouth. "And I'll do something with your hair." he tried to say.
 
-"I'm bringing in your jumper so it fits better round the shoulders and waist.". After more pause, and a thinking face, he added: "I say fits better, but what I mean is: better than not fitting whatsoever."
+"What are you doing?", the tone of desperation giving The Tailor a clue that she wanted more explanation than the word: 'tailoring'. He took the pins out of his mouth.
 
-She felt exposed standing like this, but she trusted what The Tailor was doing; it must be important for travelling. He worked around each underarm, and similarly on her trousers. 
+"I'm bringing your jumper in so it fits better round the shoulders, and waist.". After more pause, and a thinking face, he added: "I say fits better, but what I mean is: better than not fitting whatsoever."
+
+She felt exposed standing like this, but she trusted what The Tailor was doing; it must be important for travelling. He sewed around each underarm, and similarly on her trousers. 
 
 Drawing her away from a small pile of fabric, he sat her down, explaining: "Now to sort your hair out!". She managed to look at what he had done to her jumper. It was less baggy, with a long thick stitch. It was well balanced against the other under-arm alteration. The excess length of trouser leg had been cut off and seamed, instead of roll-ups. 
 
@@ -91,7 +93,7 @@ However, between looks, her head possition was adjusted by a gentle hand. Someti
 
 "That's good.", she said, instantly regretting the vocal impulse, moving her arms around. She was surprised at the lighter feeling. Kicking her legs she inspected each landing. Now her trousers covered her boots more. That was convenient.
 
-The Tailor was looking at her expectantly. She nodded with the minimum of approval, but the girl's eyes said more. "The next town's not far, we'll make it before lunch.". He turned southwards: "It's got the third worst inn in the world. You have to see it to believe it. Lets go."
+The Tailor looked at her expectantly. She nodded with the minimum of approval, but the girl's eyes said more. "The next town's not far, we'll make it before lunch.". He turned southwards: "It's got the third worst inn in the world. You have to see it to believe it. Lets go."
 
 They started walking. Suddenly, Tom had no idea what to expect.
 
@@ -99,7 +101,7 @@ They started walking. Suddenly, Tom had no idea what to expect.
 
 Red and The Knight sat by the stream. The fire was building strength; wet blankets, from The Knights pack, propped up with sticks to capture the warmth. The half empty pack itself, planted just beyond the fire's range, sat as a centerpiece to the evenly strewn contents; a tiny city of equipment. Two small tents, in parallel, looked ready; their entrance sheets open in identical fashion. 
 
-The midday sun felt good, and with the fire's warmth The Knight started to feel like could be warm again. Red had her hood pulled over her head and she hummed a gentle melody. Listening, he heard contentment. It elevated the sunshine on his face and the warmth on his back. The stream was great to look at.
+The midday sun felt good, and with the fire's warmth The Knight started to feel like could be warm again. Red had her hood pulled over her head and she hummed a gentle melody. Listening, he heard contentment. It elevated the sunshine on his face, and the warmth on his back. The stream was great to look at.
 
 
 
