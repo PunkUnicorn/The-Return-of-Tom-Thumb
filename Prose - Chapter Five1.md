@@ -83,7 +83,7 @@ She felt exposed standing like this, but she trusted what The Tailor was doing; 
 
 Drawing her away from a small pile of fabric, he sat her down, explaining: "Now to sort your hair out!". She managed to look at what he had done to her jumper. It was less baggy, with a long thick stitch. It was well balanced against the other under-arm alteration. The excess length of trouser leg had been cut off and seamed, instead of roll-ups. 
 
-However, between looks, her head possition was adjusted by a gentle hand. Sometimes, but not always, the touch was answered by the sound of snipping.
+However, between looks, her head possition was adjusted by a gentle hand. Sometimes, but not always, the touch was followed by the sound of snipping.
 
 "There...", and he brought a small mirror to her face. Her hair had defined steps, but was still shaggy. "Just a tidy.", he underplayed, and then he paused. For a moment, he almost looked like he was going to say something, but it passed.
 
