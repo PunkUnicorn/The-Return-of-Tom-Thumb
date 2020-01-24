@@ -44,7 +44,7 @@ The Prince nodded in understanding, although he himself knew several ways to ide
 
 She looked The Knight up and down, while balancing her weight on one leg, the other crossed behind it on point. She held her hands behind her back. "That's what I thought.", she concluded with satisfied approval. "Are you a knight errant?"
 
-"Yes.", his disguise working, "I am, yes. I'm a knight errant."
+"Yes.", his disguise working, "I am. Yes. I am a knight errant."
 
 She seemed impressed. "I'm running an errand myself, I need to get far north, and I can't use the main routes. I sort of make my own 
 errands now."
