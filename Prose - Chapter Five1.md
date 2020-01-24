@@ -46,7 +46,8 @@ She looked The Knight up and down, while balancing her weight on one leg, the ot
 
 "Yes.", his disguise working, "I am, yes. I'm a knight errant."
 
-She seemed impressed. "I'm running an errond myself, I need to get far north, and I can't use the main routes. I sort of make my own erronds now."
+She seemed impressed. "I'm running an errand myself, I need to get far north, and I can't use the main routes. I sort of make my own 
+errands now."
 
 The Knight nodded at this, as if it made sense, exhilarated to have travelling company; cover for his escape.
 
@@ -54,9 +55,9 @@ The Knight nodded at this, as if it made sense, exhilarated to have travelling c
 
 But not as pleased as The Knight, it was all going rather well. Their common goal: a need to travel far north and stay off the main trail. 
 
-As they walked north, along the way Red had come from, The Knight provided conversation: replaying his rehearsed lies, what he could say about his errond, what he could not. Red offered no doubt, she was delighted with all parts of his script.
+As they walked together, along the way Red had come from, The Knight provided conversation: replaying his rehearsed lines, what he could say about his errond, what he could not. Red offered no doubt, she was delighted with all parts of his script.
 
-Once he had finished his short, well rehearsed excuse, a comfortable silence settled. Red pointed ahead; "There's a beautiful spot on the edge of the meadow, a small stream next to a clearing. It's almost hidden by a bramble thicket. I'm surprised I found it."
+Once he had finished his short, well rehearsed excuse, a comfortable silence settled. Red pointed ahead; "There's a beautiful spot on the edge of the meadow, a small stream next to a clearing. It's hidden by a bramble thicket. I'm surprised I found it."
 
 To The Knight this sounded ideal.
 
@@ -82,13 +83,16 @@ She felt exposed standing like this, but she trusted what The Tailor was doing; 
 
 Drawing her away from a small pile of fabric, he sat her down, explaining: "Now to sort your hair out!". She managed to look at what he had done to her jumper. It was less baggy, with a long thick stitch. It was well balanced against the other under-arm alteration. The excess length of trouser leg had been cut off and seamed, instead of roll-ups. 
 
-But her head possition was adjusted by a warm hand, each touched pairring with the sound of snipping scissors. 
+However, between looks, her head possition was adjusted by a gentle hand. Sometimes, but not always, the touch was answered by the sound of snipping.
 
-"There...", he concluded, and brought a small mirror to her face. Her hair had defined steps, but was still shaggy. "Just a tidy.", and then he paused again, and for a moment almost looked like he was going to say something, but it passed.
+"There...", and he brought a small mirror to her face. Her hair had defined steps, but was still shaggy. "Just a tidy.", he underplayed, and then he paused. For a moment, he almost looked like he was going to say something, but it passed.
 
-"That's good.", she said; regretting the vocal impulse, surprised at feeling freer around the arms. She kicked her legs, inspected each landing. Her trouser legs now covered her boots, more so than before.
+"That's good.", she said, instantly regretting the vocal impulse, moving her arms around. She was surprised at the lighter feeling. Kicking her legs she inspected each landing. Now her trousers covered her boots more. That was convenient.
 
-The Tailor was looking at her expectantly. She nodded with the minimum of approval, but looking in the girl's eyes, he could see more. "The next town's not far, we'll make it before lunch.", and he give Tom's hair a swift brush with his fingertips. He turned southwards: "It's got the third worst inn in the world. You have to see it to believe it. Lets go!"
+The Tailor was looking at her expectantly. She nodded with the minimum of approval, but the girl's eyes said more. "The next town's not far, we'll make it before lunch.". He turned southwards: "It's got the third worst inn in the world. You have to see it to believe it. Lets go."
 
-And they set off walking side by side on the south trail.
+They started walking, Tom suddenly had no idea what to expect.
 
+- - -
+
+Red and The Knight sat by the stream. The fire was building strength; wet blankets, from The Knights pack, propped up with sticks to capture the warmth. 
