@@ -67,7 +67,9 @@ Breakfast was as delicious as the stew the previous evening. "Do you eat like th
 
 "I try not to.", he replied. He pushed his tin plate forward on the table and leaned back; cocking the chair on two legs, so he could lean against the wall, instead of the chair's back.
 
-He looked at Tom. "You asked me where I was going?", looking relaxed against the wall. "I'm a travelling tailor, I just travel.", but then he stopped and thought, then added: "And I do tailoring."; using a hand gesture to make a point of this.
+He looked at Tom. "You asked me where I was going?", relaxed against the wall. "I'm a travelling tailor, I just travel."
+
+Then, as if he had just remembered something, he added, using his finger to make a point: "And I do tailoring."
 
 "What's tailoring?"; she felt she could ask him.
 
