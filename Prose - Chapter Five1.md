@@ -91,7 +91,7 @@ However, between looks, her head possition was adjusted by a gentle hand. Someti
 
 The Tailor was looking at her expectantly. She nodded with the minimum of approval, but the girl's eyes said more. "The next town's not far, we'll make it before lunch.". He turned southwards: "It's got the third worst inn in the world. You have to see it to believe it. Lets go."
 
-They started walking, Tom suddenly had no idea what to expect.
+They started walking. Suddenly, Tom had no idea what to expect.
 
 - - -
 
