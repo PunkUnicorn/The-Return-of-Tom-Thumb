@@ -95,4 +95,9 @@ They started walking, Tom suddenly had no idea what to expect.
 
 - - -
 
-Red and The Knight sat by the stream. The fire was building strength; wet blankets, from The Knights pack, propped up with sticks to capture the warmth. 
+Red and The Knight sat by the stream. The fire was building strength; wet blankets, from The Knights pack, propped up with sticks to capture the warmth. The half empty pack itself, planted just beyond the fire's range, sat as a centerpiece to the evenly strewn contents; a tiny city of equipment. Two small tents, in parallel, looked ready; their entrance sheets open in identical fashion. 
+
+The midday sun felt good, and with the fire's warmth The Knight started to feel like could be warm again. Red had her hood pulled over her head and she hummed a gentle melody. Listening, he heard contentment. It elevated the sunshine on his face and the warmth on his back. The stream was great to look at.
+
+
+
