@@ -101,7 +101,13 @@ They started walking. Suddenly, Tom had no idea what to expect.
 
 Red and The Knight sat by the stream. The fire was building strength; wet blankets, from The Knights pack, propped up with sticks to capture the warmth. The half empty pack itself, planted just beyond the fire's range, sat as a centerpiece to the evenly strewn contents; a tiny city of equipment. Two small tents, in parallel, looked ready; their entrance sheets open in identical fashion. 
 
-The midday sun felt good, and with the fire's warmth The Knight started to feel like could be warm again. Red had her hood pulled over her head and she hummed a gentle melody. Listening, he heard contentment. It elevated the sunshine on his face, and the warmth on his back. The stream was great to look at.
+The midday sun felt good, and with the fire's warmth, The Knight started to feel like he could be warm again. Red had pulled her hood over her head and was humming a gentle melody. Listening, he heard contentment. It elevated the mood. The stream was interesting viewing. Too shallow for fishing, he will be cooking his standard issue rations tonight.
+
+Red finished humming, the crackle of the fire taking main stage; popping a spark, it gentley collapsed on itself. The Knight pushed himself off the ground and added three logs. A quick appraisal and he turned back to the stream, resuming his place next to Red.
+
+There was no talking. The Knight took mental inventory, thinking through his groups of equipment: cooking, cleaning, engineering, repairing, fighting. Having set up camp, he was prevelantly aware that his items were now his home, and his life. 
+
+Red scribbled something with a raven feather quill onto a wad of parchments which were bound into a codex. The Knight noticed she had a tiny, elegant ink bottle on a cord round her neck.
 
 
 
