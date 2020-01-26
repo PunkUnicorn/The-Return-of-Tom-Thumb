@@ -107,7 +107,13 @@ Red finished humming, the crackle of the fire taking main stage; popping a spark
 
 There was no talking. The Knight took mental inventory, thinking through his groups of equipment: cooking, cleaning, engineering, repairing, fighting. Having set up camp, he was prevelantly aware that his items were now his home, and his life. 
 
-Red scribbled something with a raven feather quill onto a wad of parchments which were bound into a codex. The Knight noticed she had a tiny, elegant ink bottle on a cord round her neck.
+Red was hunched over a small, open papyrus codex on her lap. The feather end of her raven quill exaggerating the slow, careful swirling of the writing. The Knight noticed a tiny, elegant ink bottle tied to a cord around her neck. He himself had some ink, sealing wax and parchment, but it was for official knight business only. Like his, her feather was a pinion; an optimum feather for a quill, he was somewhat impressed. 
 
+As the afternoon drew in the blankets dried and the fire became a stove. They dined on a knights banquet of dried meats, pickled vegetables and fruit preserves. Dispite his earlier rest he began to feel fatigue catch up with him. "I'll take an early rest. I'll be awake again in the early hours to take over the watch.", Red understood and was fine with this arrangement. She placed two more small logs on the fire and slouched back, watching the fresh logs adapt to their new home.
 
+- - -
+
+"Here it is.", The Tailor pointed towards the approaching town. Tom was ready to sit down. "I need to see the smithy while we're here.", Tom offered a blind nod of agreement, "We're going to need a few things. And provisions."
+
+Someone was stting on the floor, slumped on the floor against the side of the first building they could see. "He's drunk."; explained The Tailor as they passed him. "The smith is this way, he's the nicest person in this town."
 
