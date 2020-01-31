@@ -6,7 +6,7 @@ The wall stopped at a grove. On one side the field continued, the other: a thick
 
 Working his pack off his back, he sat on the fallen tree and almost instantly fell asleep.
 
-When The Prince awoke the wind had picked up. The branches whistled, clouds had gathered. It looked like a storm was coming. The Prince found this exciting; a chance to use his equipment. But more than that; he felt his life on the road had started.
+When The Prince awoke the wind had picked up. The branches whistled, clouds had gathered. It looked like a storm was coming. The Prince found this exciting; a chance to use his equipment. But more than that; he felt his life on the road was begining.
 
 Working his gauntlets off he pried the buckles open on his pack. The canvas skin of the backpack soaked through, the straps were difficult to work free. 
 
