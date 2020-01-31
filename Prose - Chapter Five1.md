@@ -115,5 +115,5 @@ As the afternoon drew in the blankets dried and the fire became a stove. They di
 
 "Here it is.", The Tailor pointed towards the approaching town. Tom was ready to sit down. "I need to see the smithy while we're here.", Tom offered a blind nod of agreement, "We're going to need a few things. And provisions."
 
-Someone was stting on the floor, slumped on the floor against the side of the first building they could see. "He's drunk."; explained The Tailor as they passed him. "The smith is this way, he's the nicest person in this town."
+Someone was slumped on the floor against the side of the first building they could see. "He's drunk."; explained The Tailor as they passed him. "The smith is this way, he's the nicest person in this town."
 
