@@ -12,5 +12,8 @@ The Tailor would be outstandingly impressed with this response in Tom
   - And she's very quick. Be it not very well edjucated
   - Note: The Tailor needs time away from people, especially since he is such a social extrovert. Tom is easy company for him during these times; she's quiet and non-judgemental.
 
+  - Tom looses something precious, which can be back written, perpahs something Kim gave Tom before their split.
+    It could be lost, and Tom *chooses* not to claim it back (taken by a smaller child, stolen by someone in need... etc), and in this trail, and self sacrifice The Tailor would be inpressed.
+
 Summary:
 - The Tailor respects Tom significantly and would follow her probably anywhere
