@@ -115,5 +115,9 @@ As the afternoon drew in the blankets dried and the fire became a stove. They di
 
 "Here it is.", The Tailor pointed towards the approaching town. Tom was ready to sit down. "I need to see the smithy while we're here.", Tom offered a blind nod of agreement, "We're going to need a few things. And provisions."
 
-Someone was slumped on the floor against the side of the first building they could see. "He's drunk."; explained The Tailor as they passed him. "The smith is this way, he's the nicest person in this town."
+As they approached the first of the town's buildings, Tom could see somebody slumped on the floor against the side of the wall. "He's drunk.": explained The Tailor, as they passed him. "The smith is this way", he pointed, "he's the nicest person in this town."
+
+Rats darted away as they walked through an accidental ally made of competing buildings. The size of the rats, Tom instantly judged afluence. Plenty of them too. 
+
+A high wooden wall emmerged in front of them, as they escaped the increasing maze of building gaps. The Tailor slowed and stopped, staring at the high wall. "Smaller than I remembered."; the wall spanned a distance as far as Tom could see. A door 
 
