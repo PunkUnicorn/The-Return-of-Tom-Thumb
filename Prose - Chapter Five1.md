@@ -109,15 +109,15 @@ There was no talking. The Knight took mental inventory, thinking through his gro
 
 Red was hunched over a small, open papyrus codex on her lap. The feather end of her raven quill exaggerating the slow, careful swirling of the writing. The Knight noticed a tiny, elegant ink bottle tied to a cord around her neck. He himself had some ink, sealing wax and parchment, but it was for official knight business only. Like his, her feather was a pinion; an optimum feather for a quill, he was somewhat impressed. 
 
-As the afternoon drew in the blankets dried and the fire became a stove. They dined on a knights banquet of dried meats, pickled vegetables and fruit preserves. Dispite his earlier rest he began to feel fatigue catch up with him. "I'll take an early rest. I'll be awake again in the early hours to take over the watch.", Red understood and was fine with this arrangement. She placed two more small logs on the fire and slouched back, watching the fresh logs adapt to their new home.
+As the afternoon drew in the blankets dried and the fire became a stove. They dined on a knights banquet of dried meats, pickled vegetables and fruit preserves. Dispite his earlier rest he began to feel fatigue catch him up. "I'll take an early rest. I'll be awake again in the early hours to take over the watch.".Red understood and was fine with this arrangement. She placed two more small logs on the fire and slouched back, watching the fresh logs adapt to their new home.
 
 - - -
 
 "Here it is.", The Tailor pointed towards the approaching town. Tom was ready to sit down. "I need to see the smithy while we're here.", Tom offered a blind nod of agreement, "We're going to need a few things. And provisions."
 
-As they approached the first of the town's buildings, Tom could see somebody slumped on the floor against the side of the wall. "He's drunk.": explained The Tailor, as they passed him. "The smith is this way", he pointed, "he's the nicest person in this town."
+As they approached the first of the town's buildings, Tom could see somebody slumped on the floor against the side of the wall. They passed him; "He's drunk.", explained The Tailor, "The smith is this way", pointing, "he's the nicest person here."
 
-Rats darted away as they walked through an accidental ally made of competing buildings. The size of the rats, Tom instantly judged afluence. Plenty of them too. 
+Rats darted away as they walked through an accidental ally, made of competing buildings. The size of the rats, Tom knew people here did not go hungry.
 
-A high wooden wall emmerged in front of them, as they escaped the increasing maze of building gaps. The Tailor slowed and stopped, staring at the high wall. "Smaller than I remembered."; the wall spanned a distance as far as Tom could see. A door 
+A high wooden wall emmerged in front of them, as they escaped the increasing maze of gaps between building. The Tailor slowed and stopped, staring at the high wall. "Smaller than I remembered."; the wall spanned a distance as far as Tom could see. The Tailor walked towards it, slightly leftwards, and Tom followed.
 
