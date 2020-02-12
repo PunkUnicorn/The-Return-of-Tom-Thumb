@@ -63,19 +63,19 @@ To The Knight this sounded ideal.
 
 - - -
 
-Breakfast was as delicious, if not more, than the stew the previous evening: eggs, bacon, thick dark bread. and butter. Also, she had no idea potatoe could taste as good as this. "Do you eat like this all the time?" she asked The Tailor. She had finished eating long before The Tailor, and had also managed to surreptitiously sneak one of her saussages into her pocket for later.
+Breakfast was as delicious, if not more so, than the stew the previous evening: eggs, bacon, dark bread and butter. She sneaked what she could into her pocket; a saussage. There was no way to pocket her mashed potatoe, so she finished the lot. Potatoe had never tasted so good. "Do you eat like this all the time?".
 
-"I try not to.", he replied, pushing his empty, tin plate forward. He cocked his chair on two legs so he could lean against the wall, instead of the chair's back.
+"I try not to.", he replied, pushing his empty, tin plate forward. He cocked his chair on two legs to lean against the wall, instead of the chair's back.
 
-"You asked me where I was going?", settled into a relaxed possition against the wall. "I'm a travelling tailor, I just travel."
+"You asked me where I was going?", relaxed against the wall. "I'm a travelling tailor, I just travel."
 
 Then, as if he had remembered something, he added, using his finger to accentuate: "And I do tailoring."
 
 "What's tailoring?"; she felt she could ask him.
 
-He leaned forward, replying mirthfully: "I thought you would never ask. Let's go and show you tailoring."
+Leaning forward, he replied mirthfully: "I thought you would never ask. Let's go and show you tailoring."
 
-He got up and walked out the inn's door, beckoning Tom with his head. "Come on.", leaving her sight with a jaunty walk. He was enjoying this.
+And he got up and walked towards the inn's door, beckoning Tom with his head; "Come on.", a jaunty walk. He was enjoying this.
 
 Outside, Tom stood ridiculously. Her arms were out straight and her legs apart. The Tailor worked under her arm, with pins in his mouth. "And I'll do something with your hair." he tried to say.
 
@@ -109,15 +109,15 @@ There was no talking. The Knight took mental inventory, thinking through his gro
 
 Red was hunched over a small, open papyrus codex on her lap. The feather end of her raven quill exaggerating the slow, careful swirling of the writing. The Knight noticed a tiny, elegant ink bottle tied to a cord around her neck. He himself had some ink, sealing wax and parchment, but it was for official knight business only. Like his, her feather was a pinion; an optimum feather for a quill, he was somewhat impressed. 
 
-As the afternoon drew in the blankets dried and the fire became a stove. They dined on a knights banquet of dried meats, pickled vegetables and fruit preserves. Dispite his earlier rest he began to feel fatigue catch him up. "I'll take an early rest. I'll be awake again in the early hours to take over the watch.".Red understood and was fine with this arrangement. She placed two more small logs on the fire and slouched back, watching the fresh logs adapt to their new home.
+As the afternoon drew in, the blankets dried and the fire became a stove. They dined on a knights banquet of dried meats, pickled vegetables and fruit preserves. Dispite his earlier rest he began to feel fatigue catch him up. "I'll take an early rest. I'll be awake again in the early hours to take over the watch.". Red understood and was fine with this arrangement. She placed two more small logs on the fire and slouched back, watching the fresh logs adapt to their new home.
 
 - - -
 
-"Here it is.", The Tailor pointed towards the approaching town. Tom was ready to sit down. "I need to see the smithy while we're here.", Tom offered a blind nod of agreement, "We're going to need a few things. And provisions."
+"Here it is.", The Tailor pointed towards the approaching town. Tom was ready to sit down. "I need to see the smithy while we're here.", Tom offered a blind nod of agreement, "We're going to need a few things."
 
-As they approached the first of the town's buildings, Tom could see somebody slumped on the floor against the side of the wall. They passed him; "He's drunk.", explained The Tailor, "The smith is this way", pointing, "he's the nicest person here."
+As they approached the first building, Tom could see somebody slumped on the floor against the side of the wall. They passed him; "He's drunk.", explained The Tailor, "We'll see the smith first.", adding behind a hand as if telling a taboo: "he's the nicest person here."
 
-Rats darted away as they walked through an accidental ally, made of competing buildings. The size of the rats, Tom knew people here did not go hungry.
+Rats darted away as they walked through the accidental ally, made from competing buildings and piles of rubbish. The size of the rats, Tom knew people here did not go hungry.
 
-A high wooden wall emmerged in front of them, as they escaped the increasing maze of gaps between building. The Tailor slowed and stopped, staring at the high wall. "Smaller than I remembered."; the wall spanned a distance as far as Tom could see. The Tailor walked towards it, slightly leftwards, and Tom followed.
+A high wooden wall emmerged in front of them as they escaped the increasing maze of gaps between buildings. The Tailor slowed and stopped, staring at the high wall. "Smaller than I remembered."; the wall spanned a distance as far as Tom could see. The Tailor walked towards it, slightly leftwards. Tom followed.
 
