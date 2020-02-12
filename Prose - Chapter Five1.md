@@ -49,7 +49,7 @@ She looked The Knight up and down, while balancing her weight on one leg, the ot
 She seemed impressed. "I'm running an errand myself, I need to get far north, and I can't use the main routes. I sort of make my own 
 errands now."
 
-The Knight nodded at this, as if it made sense, exhilarated to have travelling company; cover for his escape.
+The Knight nodded at this, as if it made sense, exhilarated to have travelling company; more cover for his escape.
 
 "I'm Red," she beamed a warm, welcoming smile, "I'm thrilled you're joining me."
 
