@@ -8,7 +8,7 @@ Working his pack off his back, he sat on the fallen tree and almost instantly fe
 
 When The Prince awoke the wind had picked up. The branches whistled, clouds had gathered. It looked like a storm was coming. The Prince found this exciting; a chance to use his equipment. But more than that; he felt his life on the road was begining.
 
-Working his gauntlets off he pried the buckles open on his pack. The canvas skin of the backpack soaked through, the straps were difficult to work free. 
+Working his gauntlets off, he pried the buckles open on his pack. The canvas skin of the backpack soaked through, the straps were difficult to work free. 
 
 With the backpack unbuckled he pulled out a tarred canvas sheet; it would make his tent. Unwieldy in the wind, the large sheet flapped wildly. The Prince pegged down one corner, driving the wooden peg with a stomp. Taking the other corner of the tent sheet he fastened it to the edge of his makeshift 'seat'. A bivouac against the side of the fallen tree would suffice. With some more driven pegs, The Prince thought he had engineered enough of a shelter to withstand what was coming.
 
@@ -24,9 +24,9 @@ Once the taught canvas bundle was crammed back into his backpack, and the straps
 
 "Hello." the young woman said.
 
-"Greetings.", he replied as cheerfully, putting his helmet on, but leaving the visor open.
+"Greetings.", he replied just as cheerfully, putting his helmet on but leaving the visor open.
 
-"Are you setting up camp here?" she asked.
+"Are you making a camp?" she asked.
 
 "No, actually I've just packed everything up."
 
@@ -34,7 +34,7 @@ She seemed disappointed. "Are you travelling north?" she asked hopefully.
 
 "Yes.", he was pleased to accommodate, but she had been travelling in the opposite direction.
 
-"Would you join me? We could travel together." she quickly offered.
+But quickly she asked: "Would you join me? We could travel together."
   
 "I'm not sure if you're aware, you were travelling southwards. I'm going the way you came."; he felt he had to say that.
 
@@ -44,7 +44,7 @@ The Prince nodded in understanding, although he himself knew several ways to ide
 
 She looked The Knight up and down, while balancing her weight on one leg, the other crossed behind it on point. She held her hands behind her back. "That's what I thought.", she concluded with satisfied approval. "Are you a knight errant?"
 
-"Yes.", his disguise working, "I am. Yes. I am a knight errant."
+"Yes.", his disguise working, "I am. I am a knight errant."
 
 She seemed impressed. "I'm running an errand myself, I need to get far north, and I can't use the main routes. I sort of make my own 
 errands now."
@@ -119,5 +119,5 @@ As they approached the first building, Tom could see somebody slumped on the flo
 
 Rats darted away as they walked through the accidental ally, made from competing buildings and piles of rubbish. The size of the rats, Tom knew people here did not go hungry.
 
-A high wooden wall emmerged in front of them as they escaped the increasing maze of gaps between buildings. The Tailor slowed and stopped, staring at the high wall. "Smaller than I remembered."; the wall spanned a distance as far as Tom could see. The Tailor walked towards it, slightly leftwards. Tom followed.
+A high wooden wall emmerged in front of them as they escaped the increasing maze of gaps between buildings. The Tailor slowed and stopped, staring at the high wall. "Smaller than I remembered."; the wall spanned a distance as far as Tom could see. The Tailor walked towards it, in a slightly leftwards direction. Tom followed.
 
