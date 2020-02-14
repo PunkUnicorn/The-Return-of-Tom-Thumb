@@ -2,17 +2,19 @@
 
 `Requires Tom and The Tailor to be not well acquainted`
 
-Tom and The Tailor encounter their first inn. Tom's never been to an inn before but does not share this with The Tailor. Tom notices the inn door has a latch. 
+`Tom and The Tailor have been shopping, an uplifting experience`
+
+Tom and The Tailor encounter their first inn. Tom has only been to one inn before, the one at the village.~~Tom's never been to an inn before, or not many, but does not share this with The Tailor.~~ Tom notices the inn door has a latch. 
 
 "I know how to work that" she says impressed with herself, sharing - needing to put a proud front on to keep up with this dazzling stranger, The Tailor
 
 "After you then" The Tailor would accommodate, overlooking Tom's un-learned obvservation. The Tailor would enjoy hearing the pride in Toms voice.
 
-Inside the tavern Tom would be overwhelmed.
+Inside the tavern, Tom would be overwhelmed.
 
-At the bar, drinking ale Tom and The Tailor would chatter, The Tailor bringing in any overhearer seeming to hook them almost. Soon most adjacent would be engaged. 
+At the bar, drinking ale Tom and The Tailor would chatter, The Tailor bringing in any overhearer, seeming to hook them almost. Soon, most adjacent would be engaged. 
 
-(The Tailor might have to pop out and leave Tom alone.) Tom would say something stupid due to being feral
+(The Tailor might have to pop out and leave Tom alone.) Tom would would be the center of attension, and slightly drunk, say something stupid - she is still very feral
 - Tom is impressed with coins, she has never seen a coin, and there are so many
 - Tom is dressed really badly, before The Tailor has had a chance to alter anything
 - Toms vocabulary is limited at this point
