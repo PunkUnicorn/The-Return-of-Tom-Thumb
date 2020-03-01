@@ -52,13 +52,13 @@ He had calculated that first light was the time people would begin to realise he
 
 - - -
 
-In the north, for Tom, The Tailor and Kim the weather was dry. There had been no rain that night. Tom woke later than usual; it was already light. Groggy and disorientated she thought she was at home until the sleep dusted off. 
+In the north, for Tom, The Tailor and Kim the weather was dry. There had been no rain that night. Tom woke later than usual; it was already light. Groggy and disorientated she feared she had overslept her family.
 
-It was with some relief she remembered she was at the village; the sense of liberation was a surprise. This was the first time she recognised the burden of life at home.
+With great relief she remembered where she was; the sense of liberation was a surprise. This was the first time Tom recognised the burden of life at home.
 
-Still groggy she pulled her calves taught; stretching her feet to a point. Arms arching back, the stretch bringing a wave of lucidity. 
+Still groggy she pulled her calves taught; stretching her feet to a point, arms arching back. The stretch bringing a wave of blissful lucidity. 
 
-The dust darted through the sunbeams, which entered through each knot hole. She had nothing to worry about, no concern. There was no need to hide; she was free.
+Dust darted through the sunbeams, they entered through knot holes. Nothing to worry about, no concern. There was no need to hide; she was free.
 
 But there was something wrong. 
 
@@ -72,9 +72,9 @@ Pushing the doors more she stepped outside looking in the direction of the north
 
 Tom stood looking northwards, imagining how far Kim had gotten. The cow was slow; he would be close. She could catch him up, it would be easy. 
 
-But she could not take a step; blocked by an elusive, buried reason. She did not want to become aware of the reason. Wherever he was, Kim was walking away slowly. Again, she thought she could catch up with him.
+But she could not take a step; blocked by an elusive, buried reason. She did not want to become aware of the reason. Wherever he was, Kim was walking away slowly. Again, she thought she could catch him up.
 
-Kim was telling her something though. He had travelled without her for a reason. The elusive reason gaining painful clarity: home was danger.
+Kim was telling her something though. He had travelled without her, deliberately, for a reason. The elusive reason gaining painful clarity: home was danger.
 
 ![](TomThumb/tomthumb1_small.png)
 The hay inside had lost it's bliss, but it felt like the closest thing she had to a home right now, so she went inside.
