@@ -107,9 +107,9 @@ Red finished humming, the crackle of the fire taking main stage; popping a spark
 
 There was no talking. The Knight took mental inventory, thinking through his groups of equipment: cooking, cleaning, engineering, repairing, fighting. Having set up camp, he was prevalently aware that his items were now his home, and his life. 
 
-Red was hunched over a small, open papyrus codex on her lap. The feather end of her raven quill exaggerating the slow, careful swirling of the writing. The Knight noticed a tiny, elegant ink bottle tied to a cord around her neck. He himself had some ink, sealing wax and parchment, but it was for official knight business only. Like his, her feather was a pinion; an optimum feather for a quill, he was somewhat impressed. 
+Red hunched over a small, open papyrus codex. The feather end of her raven quill exaggerating the slow, careful swirling of the writing. The Knight noticed a tiny, elegant ink bottle tied to a cord around her neck. He himself had some ink, sealing wax and parchment, but it was for official knight's business only. Like his, her feather was a pinion; an optimum feather for a quill, he was somewhat impressed. 
 
-As the afternoon drew in, the blankets dried and the fire became a stove. They dined on a knights banquet of dried meats, pickled vegetables and fruit preserves. Dispite his earlier rest he began to feel fatigue catch him up. "I'll take an early rest. I'll be awake again in the early hours to take over the watch.". Red understood and was fine with this arrangement. She placed two more small logs on the fire and slouched back, watching the fresh logs adapt to their new home.
+As the afternoon drew in, the blankets dried and the fire became a stove. They dined on a knight's banquet of dried meats, pickled vegetables and fruit preserves. Dispite his earlier rest he began to feel fatigue catch up with him. "I'll take an early rest. I'll be awake again in the early hours to take over the watch.". Red understood and was fine with this arrangement. She placed two more small logs on the fire and slouched back, watching the fresh logs adapt to their new home.
 
 - - -
 
