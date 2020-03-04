@@ -113,11 +113,11 @@ As the afternoon drew in, the blankets dried and the fire became a stove. They d
 
 - - -
 
-"Here it is.", The Tailor pointed towards the approaching town. Tom was ready to sit down. "I need to see the smithy while we're here.", Tom offered a blind nod of agreement, "We're going to need a few things."
+"Here it is.", The Tailor pointed towards the approaching town. Tom wanted to sit down, but The Tailor was speeding up: "I need to see the smithy while we're here,", Tom offered a blind nod of agreement, "and we're going to need a few things."
 
-As they approached the first building, Tom could see somebody slumped on the floor against the side of the wall. They passed him; "He's drunk.", explained The Tailor, "We'll see the smith first.", adding behind a hand as if telling a taboo: "he's the nicest person here."
+The two of them hurried past somebody slumped, on the floor, against the wall of a building. "He's drunk.": explained The Tailor, "We'll see the smith first.", adding behind a hand as if telling a taboo: "he's the nicest person here."
 
-Rats darted away as they walked through the accidental ally, made from competing buildings and piles of rubbish. The size of the rats, Tom knew people here did not go hungry.
+But there was nobody else to be seen as Tom followed The Tailor. Rats darted away through a crooked, almost accidental ally. Competing buildings spared the minimum of walkways, and these were occupied by piles of rubbish. The size of the rats that darted away, Tom knew people here did not go hungry.
 
-A high wooden wall emmerged in front of them as they escaped the increasing maze of gaps between buildings. The Tailor slowed and stopped, staring at the high wall. "Smaller than I remembered."; the wall spanned a distance as far as Tom could see. The Tailor walked towards it, in a slightly leftwards direction. Tom followed.
+The Tailor led her out of the maze into a long clearing in front of a high wooden wall. The Tailor seemed to know where he was going, through a broken door in the wall. The other side...
 
