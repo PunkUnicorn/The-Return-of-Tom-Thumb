@@ -119,7 +119,7 @@ The two of them hurried past somebody slumped, on the floor, against the wall of
 
 But there was nobody else to be seen as Tom followed The Tailor through a crooked, almost accidental ally. Rats darted away while competing buildings spared the narrowest of walkways. The size of the rats, Tom knew people here did not go hungry.
 
-The Tailor led them out of the maze, into a long clearing in front of a high wooden wall. He seemed to know where he was going, through a broken door in the wall. The other side: a vibrant market with wide, muddy walkways. What looked like an oppressive wooden wall on one side suddenly looked sorry for itself on the other side, as it stopped short in ruins before it could even make a semicircle around the market. 
+The Tailor led them out of the maze, into a long clearing in front of a high wooden wall. He seemed to know where he was going, through a broken door in the wall. The other side: a vibrant market with wide, muddy walkways. What looked like an oppressive wooden wall on one side suddenly looked sorry for itself as it stopped short in ruins before it could even make a semicircle around the market.
 
 The Tailor stopped to look across the evenly spread stalls. Somewhere chicken was being cooked, and some distance away a piper played. Suddenly, somebody near them shouted, but it was nothing to do with them. The Tailor took a deep breath: "This is where trappers and miners meet.", he said regretfully. "Let's get this over with."
 
