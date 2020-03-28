@@ -445,7 +445,7 @@ $trimToParam = "$trimToMinutes`:00"
 sox tRoTT-with-music.wav tRoTT-with-music-trimmed.wav trim 0 $trimToParam 
 Write-Output "... made tRoTT-with-music-trimmed.wav"
 
-.\lame tRoTT-with-music-trimmed.wav The-Return-of-Tom-Thumb-with-music-single-chapter-one.mp3 --silent
+.\lame tRoTT-with-music-trimmed-single-chapter-one.wav The-Return-of-Tom-Thumb-with-music-single-chapter-one.mp3 --silent
 Write-Output "... made The-Return-of-Tom-Thumb-with-music-single-chapter-one.mp3"
 
 .\lame tRoTT-with-music-trimmed.wav The-Return-of-Tom-Thumb-with-music.mp3 --silent
