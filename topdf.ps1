@@ -237,7 +237,7 @@ Get-Content "metadata_v3.yaml" -Encoding UTF8
 
 Write-Output "Combining markdown..."
 
-cat "book-single-chapter-one.txt",
+cat "book-version.txt",
 	"Prose - Blank line.md",
 	"Prose - Chapter One1.md",
 	"Prose - Blank line.md",
