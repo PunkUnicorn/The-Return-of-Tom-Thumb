@@ -361,12 +361,12 @@ Write-Output "... made The-Return-of-Tom-Thumb.epub... (epub v3)"
 
 pandoc --css epubstyle.css `
   The-Return-of-Tom-Thumb_single_chapter_one_$($($env:APPVEYOR_BUILD_VERSION).Replace(".", "_"))_v1.epub `
-  -o The-Return-of-Tom-Thumb-single-chapter-one.html --self-contained --quiet
+  -o The-Return-of-Tom-Thumb-single-chapter-one.html --self-contained --quiet --standalone
 Write-Output "... made The-Return-of-Tom-Thumb-single-chapter-one.html..."
 
 pandoc --css epubstyle.css `
   The-Return-of-Tom-Thumb.epub `
-  -o The-Return-of-Tom-Thumb.html --self-contained --quiet
+  -o The-Return-of-Tom-Thumb.html --self-contained --quiet --standalone
 Write-Output "... made The-Return-of-Tom-Thumb.html..."
 
 #--css epubstyle.css `
