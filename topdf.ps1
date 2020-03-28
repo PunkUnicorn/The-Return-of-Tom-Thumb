@@ -317,7 +317,7 @@ pandoc --css epubstyle.css 		`
   "The-Return-of-Tom-Thumb-single-chapter-one.md" 		`
   -t epub 				`
   -o The-Return-of-Tom-Thumb_single_chapter_one_$($($env:APPVEYOR_BUILD_VERSION).Replace(".", "_"))_v1.epub 	`
-  metadata_v1.yaml 
+  metadata_v1.yaml --self-contained --standalone
 Write-Output "... made The-Return-of-Tom-Thumb_single_chapter_one_$($($env:APPVEYOR_BUILD_VERSION).Replace(".", "_"))_v1.epub... (epub v1)"
 
 pandoc --css epubstyle.css 		`
@@ -326,7 +326,7 @@ pandoc --css epubstyle.css 		`
   "The-Return-of-Tom-Thumb.md" 		`
   -t epub 				`
   -o The-Return-of-Tom-Thumb_$($($env:APPVEYOR_BUILD_VERSION).Replace(".", "_"))_v1.epub 	`
-  metadata_v1.yaml 
+  metadata_v1.yaml --self-contained --standalone
 Write-Output "... made The-Return-of-Tom-Thumb_$($($env:APPVEYOR_BUILD_VERSION).Replace(".", "_"))_v1.epub... (epub v1)"
 
 pandoc --css epubstyle.css 		`
@@ -335,7 +335,7 @@ pandoc --css epubstyle.css 		`
   "The-Return-of-Tom-Thumb.md" 		`
   -t epub2+smart 			`
   -o The-Return-of-Tom-Thumb_$($($env:APPVEYOR_BUILD_VERSION).Replace(".", "_"))_v2.epub 	`
-  metadata_v2.yaml 
+  metadata_v2.yaml --self-contained --standalone
 Write-Output "... made The-Return-of-Tom-Thumb_$($($env:APPVEYOR_BUILD_VERSION).Replace(".", "_"))_v2.epub ... (epub v2)"
 
 pandoc --css epubstyle.css 		`
@@ -344,7 +344,7 @@ pandoc --css epubstyle.css 		`
   "The-Return-of-Tom-Thumb.md" 		`
   -t epub3+smart 			`
   -o The-Return-of-Tom-Thumb_$($($env:APPVEYOR_BUILD_VERSION).Replace(".", "_")).epub 	`
-  --metadata-file=metadata_v3.yaml 
+  --metadata-file=metadata_v3.yaml --self-contained --standalone
 Write-Output "... made The-Return-of-Tom-Thumb_$($($env:APPVEYOR_BUILD_VERSION).Replace(".", "_")).epub... (epub v3)"
 
 #pandoc --css epubstyle.css 		`
@@ -376,7 +376,7 @@ pandoc `
   The-Return-of-Tom-Thumb.html  `
   -t plain `
   -o The-Return-of-Tom-Thumb.txt `
-  --metadata-file=metadata_v3.yaml
+  --metadata-file=metadata_v3.yaml --self-contained --standalone
 Write-Output "... remade better The-Return-of-Tom-Thumb.txt... ('-t plain')"
 
 
