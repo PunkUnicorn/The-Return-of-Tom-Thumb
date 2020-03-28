@@ -236,6 +236,19 @@ Get-Content "metadata_v2.yaml" -Encoding UTF8
 Get-Content "metadata_v3.yaml" -Encoding UTF8
 
 Write-Output "Combining markdown..."
+
+cat "book-single-chapter-one.txt",
+	"Prose - Blank line.md",
+	"Prose - Chapter One1.md",
+	"Prose - Blank line.md",
+	"Prose - Chapter Two1.md",
+	"Prose - Blank line.md",
+	"Prose - Chapter Two2.md", 
+	"Prose - Blank line.md",
+	"Prose - Chapter Two3.md", 
+	"Prose - Blank line.md" | sc "The-Return-of-Tom-Thumb-for-audio-single-chapter-one.md" 
+
+
 cat "book-version.txt",
 	"Prose - Blank line.md",
 	"Prose - Chapter One1.md",
@@ -251,6 +264,10 @@ cat "book-version.txt",
 	"Prose - Chapter Four1.md",
 	"Prose - Blank line.md",
 	"Prose - Chapter Five1.md" | sc "The-Return-of-Tom-Thumb-for-audio.md" 
+
+
+cat "The-Return-of-Tom-Thumb-for-audio-single-chapter-one.md" | sc "The-Return-of-Tom-Thumb-single-chapter-one.md" 
+
 
 cat "The-Return-of-Tom-Thumb-for-audio.md",	
 	"Prose - Blank line.md",
@@ -273,16 +290,36 @@ cat "The-Return-of-Tom-Thumb-for-audio.md",
 	"Prose - Appendix2.md",
 	"Prose - Blank line.md",
 	"Character - Others\Croconossorus - origin.md"	| sc "The-Return-of-Tom-Thumb.md" 
-	
+
+
+Get-Content "The-Return-of-Tom-Thumb-single-chapter-one.md" -Encoding UTF8 | Replace-FancyQuotes | Out-File "The-Return-of-Tom-Thumb-single-chapter-one.txt" -Encoding UTF8 -Append
+Write-Output "... made The-Return-of-Tom-Thumb-single-chapter-one.md and The-Return-of-Tom-Thumb-single-chapter-one.txt"
+
 Get-Content "The-Return-of-Tom-Thumb.md" -Encoding UTF8 | Replace-FancyQuotes | Out-File "The-Return-of-Tom-Thumb.txt" -Encoding UTF8 -Append
 Write-Output "... made The-Return-of-Tom-Thumb.md and The-Return-of-Tom-Thumb.txt"
+
 
 Get-Content "The-Return-of-Tom-Thumb-for-audio.md" -Encoding UTF8 | Replace-FancyQuotes | Out-File "The-Return-of-Tom-Thumb-for-audio.txt" -Encoding UTF8 -Append
 Write-Output "... made The-Return-of-Tom-Thumb-for-audio.md and The-Return-of-Tom-Thumb-for-audio.txt"
 
+
+
+Get-Content "The-Return-of-Tom-Thumb-for-audio-single-chapter-one.md" -Encoding UTF8 | Replace-FancyQuotes | Out-File "The-Return-of-Tom-Thumb-for-audio-single-chapter-one.txt" -Encoding UTF8 -Append
+Write-Output "... made The-Return-of-Tom-Thumb-for-audio.md and The-Return-of-Tom-Thumb-for-audio-single-chapter-one.txt"
+
 Write-Output "Combining markdown FINISHED"
 
 Write-Output "Creating books..."
+
+pandoc --css epubstyle.css 		`
+  --epub-cover-image=cover_small.png 	`
+  "title.md" 				`
+  "The-Return-of-Tom-Thumb-single-chapter-one.md" 		`
+  -t epub 				`
+  -o The-Return-of-Tom-Thumb_single_chapter_one_$($($env:APPVEYOR_BUILD_VERSION).Replace(".", "_"))_v1.epub 	`
+  metadata_v1.yaml 
+Write-Output "... made The-Return-of-Tom-Thumb_single_chapter_one_$($($env:APPVEYOR_BUILD_VERSION).Replace(".", "_"))_v1.epub... (epub v1)"
+
 pandoc --css epubstyle.css 		`
   --epub-cover-image=cover_small.png 	`
   "title.md" 				`
@@ -323,6 +360,11 @@ copy The-Return-of-Tom-Thumb_$($($env:APPVEYOR_BUILD_VERSION).Replace(".", "_"))
 Write-Output "... made The-Return-of-Tom-Thumb.epub... (epub v3)"
 
 pandoc --css epubstyle.css `
+  The-Return-of-Tom-Thumb-single-chapter-one.epub `
+  -o The-Return-of-Tom-Thumb-single-chapter-one.html --self-contained --quiet
+Write-Output "... made The-Return-of-Tom-Thumb-single-chapter-one.html..."
+
+pandoc --css epubstyle.css `
   The-Return-of-Tom-Thumb.epub `
   -o The-Return-of-Tom-Thumb.html --self-contained --quiet
 Write-Output "... made The-Return-of-Tom-Thumb.html..."
@@ -342,12 +384,22 @@ Write-Output "... remade better The-Return-of-Tom-Thumb.txt... ('-t plain')"
 Write-Output "Making Audio book ..."
 # Add the title page in, which pandoc takes in as a separate file in addition to the book files. Here we want to include it all in one file
 
+cat "title.md", "Prose - Blank Line.md", The-Return-of-Tom-Thumb-for-audio-single-chapter-one.txt | sc The-Return-of-Tom-Thumb-for-audio-with-title-single-chapter-one.txt
+
 cat "title.md", "Prose - Blank Line.md", The-Return-of-Tom-Thumb-for-audio.txt | sc The-Return-of-Tom-Thumb-for-audio-with-title.txt
+
+Get-Content -Path "The-Return-of-Tom-Thumb-for-audio-with-title-single-chapter-one.txt" -Encoding UTF8 | `
+	Destroy-Quotes | `
+	%{ $_.Replace("%", "").Replace("<sub>","").Replace("</sub>", "").Replace("*to*", "TO").Replace("*the*", "THE").Replace("*all*", "ALL").Replace("- ", "").Replace(" -", "") } >> gTTS_word_input-single-chapter-one.txt
+Write-Output "... made gTTS_word_input-single-chapter-one.txt"
 
 Get-Content -Path "The-Return-of-Tom-Thumb-for-audio-with-title.txt" -Encoding UTF8 | `
 	Destroy-Quotes | `
 	%{ $_.Replace("%", "").Replace("<sub>","").Replace("</sub>", "").Replace("*to*", "TO").Replace("*the*", "THE").Replace("*all*", "ALL").Replace("- ", "").Replace(" -", "") } >> gTTS_word_input.txt
 Write-Output "... made gTTS_word_input.txt"
+
+cat gTTS_word_input.txt | python .\googleTextToSpeech.py -o The-Return-of-Tom-Thumb-single-chapter-one.mp3 -d The-Return-of-Tom-Thumb-single-chapter-one.mp3.log 
+Write-Output "... made The-Return-of-Tom-Thumb-single-chapter-one.mp3 and The-Return-of-Tom-Thumb-single-chapter-one.mp3.log"
 
 cat gTTS_word_input.txt | python .\googleTextToSpeech.py -o The-Return-of-Tom-Thumb.mp3 -d The-Return-of-Tom-Thumb.mp3.log 
 Write-Output "... made The-Return-of-Tom-Thumb.mp3 and The-Return-of-Tom-Thumb.mp3.log"
@@ -359,8 +411,14 @@ Write-Output "Making audio book with soundtrack..."
 .\lame --decode .\Music\natural-reader-soundtrack.mp3 natural-reader-soundtrack.wav  --silent
 Write-Output "... made natural-reader-soundtrack.wav"
 
+.\lame --decode The-Return-of-Tom-Thumb-single-chapter-one.mp3 The-Return-of-Tom-Thumb-single-chapter-one.wav --silent
+Write-Output "... made The-Return-of-Tom-Thumb-single-chapter-one.wav"
+
 .\lame --decode The-Return-of-Tom-Thumb.mp3 The-Return-of-Tom-Thumb.wav --silent
 Write-Output "... made The-Return-of-Tom-Thumb.wav"
+
+sox The-Return-of-Tom-Thumb-single-chapter-one.wav --channels 2 The-Return-of-Tom-Thumb-stereo-single-chapter-one.wav -q
+Write-Output "... made The-Return-of-Tom-Thumb-stereo-single-chapter-one.wav"
 
 sox The-Return-of-Tom-Thumb.wav --channels 2 The-Return-of-Tom-Thumb-stereo.wav -q
 Write-Output "... made The-Return-of-Tom-Thumb-stereo.wav"
@@ -369,14 +427,26 @@ Write-Output "... made The-Return-of-Tom-Thumb-stereo.wav"
 sox natural-reader-soundtrack.wav natural-reader-soundtrack.wav natural-reader-soundtrack.wav natural-reader-soundtrack-tripled.wav -q 
 Write-Output "... made natural-reader-soundtrack-tripled.wav"
 
+sox -m natural-reader-soundtrack-tripled.wav The-Return-of-Tom-Thumb-stereo-single-chapter-one.wav tRoTT-with-music-single-chapter-one.wav -q
+Write-Output "... made sox mix of tRoTT-with-music-single-chapter-one.wav"
+
 sox -m natural-reader-soundtrack-tripled.wav The-Return-of-Tom-Thumb-stereo.wav tRoTT-with-music.wav -q
 Write-Output "... made sox mix of tRoTT-with-music.wav"
+
+$trimToMinutes = "$([int]($(soxi -D The-Return-of-Tom-Thumb-stereo-single-chapter-one.wav)/60))"
+$trimToMinutes = ([int]$trimToMinutes) + 1
+$trimToParam = "$trimToMinutes`:00"
+sox tRoTT-with-music-single-chapter-one.wav tRoTT-with-music-trimmed-single-chapter-one.wav trim 0 $trimToParam 
+Write-Output "... made tRoTT-with-music-trimmed-single-chapter-one.wav"
 
 $trimToMinutes = "$([int]($(soxi -D The-Return-of-Tom-Thumb-stereo.wav)/60))"
 $trimToMinutes = ([int]$trimToMinutes) + 1
 $trimToParam = "$trimToMinutes`:00"
 sox tRoTT-with-music.wav tRoTT-with-music-trimmed.wav trim 0 $trimToParam 
 Write-Output "... made tRoTT-with-music-trimmed.wav"
+
+.\lame tRoTT-with-music-trimmed.wav The-Return-of-Tom-Thumb-with-music-single-chapter-one.mp3 --silent
+Write-Output "... made The-Return-of-Tom-Thumb-with-music-single-chapter-one.mp3"
 
 .\lame tRoTT-with-music-trimmed.wav The-Return-of-Tom-Thumb-with-music.mp3 --silent
 Write-Output "... made The-Return-of-Tom-Thumb-with-music.mp3"
