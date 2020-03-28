@@ -29,22 +29,22 @@ artifacts:
   - path: The-Return-of-Tom-Thumb*.epub
     name: is_book_yeah
     type: file
-  - path: The-Return-of-Tom-Thumb.md
+  - path: The-Return-of-Tom-Thumb*.md
     name: is_book_yeah_md
     type: file
-  - path: The-Return-of-Tom-Thumb.txt
+  - path: The-Return-of-Tom-Thumb*.txt
     name: is_book_yeah_txt
     type: file
-  - path: The-Return-of-Tom-Thumb.html
+  - path: The-Return-of-Tom-Thumb*.html
     name: is_book_yeah_html
     type: file
-  - path: The-Return-of-Tom-Thumb.mp3
+  - path: The-Return-of-Tom-Thumb*.mp3
     name: is_book_yeah_mp3
     type: file
-  - path: The-Return-of-Tom-Thumb.mp3.log
+  - path: The-Return-of-Tom-Thumb*.mp3.log
     name: is_book_yeah_mp3_log
     type: file
-  - path: The-Return-of-Tom-Thumb-with-music.mp3
+  - path: The-Return-of-Tom-Thumb-with-music*.mp3
     name: is_book_yeah_mp3_w_music
     type: file
   - path: A_Croconossorus_Tale.mp3
