@@ -26,13 +26,13 @@ She wanted to tell him of her plan to head to the village and sell the pips. It 
 
 Kim walked a few steps then stopped to pick up a choice stick: a sturdy branch used as a weapon the previous day by her brothers. It was almost as tall as Tom. Kim held it like a staff vertically.
 
-Leaning his weight against it, it held. He started walking towards the south trail, muttering. After a few more steps he inclined his head towards Tom: “Are you coming then?”
+Leaning his weight against it, it held. He started walking towards The South Trail, muttering. After a few more steps he inclined his head towards Tom: “Are you coming then?”
 
-The south trail was easy in her recently acquired boots. Kim had their father’s hand-me-downs, which were only second generation. They looked more or less like normal old boots. Tom’s pair looked new, but obviously too small for anyone but her and her tiny frame. Early on she had relied on this to stave off others’ desires on the boots.
+The South Trail was easy in her recently acquired boots. Kim had their father’s hand-me-downs, which were only second generation. They looked more or less like normal old boots. Tom’s pair looked new, but obviously too small for anyone but her and her tiny frame. Early on she had relied on this to stave off others’ desires on the boots.
 
 She suspected they would fit whoever held them, the same way they had for her. She had pulled the boots off the giant very easily, accidentally even, and they had slipped off the giants feet into her hands: a pair of boots exactly the right size for her.
 
-Progress along the south trail was pleasant enough, but they pushed themselves hard with no stopping. The forest thinned and the trail became a road. It was afternoon by the time they saw the dotted buildings of the village far in the distance. They could be there soon, two more hills to cross. They quickened their pace to Tom's fastest.
+Progress along The South Trail was pleasant enough, but they pushed themselves hard with no stopping. The forest thinned and the trail became a road. It was afternoon by the time they saw the dotted buildings of the village far in the distance. They could be there soon, two more hills to cross. They quickened their pace to Tom's fastest.
 
 By early afternoon the two had reached the village. As Kim had carried Tom piggy back for the last stretch, he was exhausted. Tom jumped down, stretching her legs, and her back. With her feet on the ground she assessed their destination. They had been to this place recently, when fleeing the giants.
 
