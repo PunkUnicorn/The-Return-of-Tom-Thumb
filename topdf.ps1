@@ -365,10 +365,11 @@ pandoc --css epubstyle.css `
   -o The-Return-of-Tom-Thumb-single-chapter-one.html --self-contained --standalone
 Write-Output "... made The-Return-of-Tom-Thumb-single-chapter-one.html..."
 
-pandoc ` #--css epubstyle.css `
+#pandoc --css epubstyle.css 
+pandoc `
   "title.md" `
   The-Return-of-Tom-Thumb.epub `
-  -o The-Return-of-Tom-Thumb.html --self-contained --quiet --standalone
+  -o The-Return-of-Tom-Thumb.html --self-contained --standalone
 Write-Output "... made The-Return-of-Tom-Thumb.html..."
 
 #--css epubstyle.css `
