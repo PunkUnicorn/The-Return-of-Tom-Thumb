@@ -361,7 +361,7 @@ Write-Output "... made The-Return-of-Tom-Thumb.epub... (epub v3)"
 
 pandoc --css epubstyle.css `
   The-Return-of-Tom-Thumb_single_chapter_one_$($($env:APPVEYOR_BUILD_VERSION).Replace(".", "_"))_v1.epub `
-  -o The-Return-of-Tom-Thumb-single-chapter-one.html --self-contained --quiet --standalone
+  -o The-Return-of-Tom-Thumb-single-chapter-one.html --self-contained --standalone
 Write-Output "... made The-Return-of-Tom-Thumb-single-chapter-one.html..."
 
 pandoc ` #--css epubstyle.css `
@@ -372,12 +372,12 @@ Write-Output "... made The-Return-of-Tom-Thumb.html..."
 #--css epubstyle.css `
 #  "title.md" `
 #  "The-Return-of-Tom-Thumb.md" `
-pandoc `
-  The-Return-of-Tom-Thumb.html  `
-  -t plain `
-  -o The-Return-of-Tom-Thumb.txt `
-  --metadata-file=metadata_v3.yaml --self-contained --standalone
-Write-Output "... remade better The-Return-of-Tom-Thumb.txt... ('-t plain')"
+#pandoc `
+#  The-Return-of-Tom-Thumb.html  `
+#  -t plain `
+#  -o The-Return-of-Tom-Thumb.txt `
+#  --metadata-file=metadata_v3.yaml --self-contained --standalone
+#Write-Output "... remade better The-Return-of-Tom-Thumb.txt... ('-t plain')"
 
 
 # Make the audio book (WIP)
