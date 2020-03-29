@@ -13,4 +13,8 @@
 
  <sub>The children escaped, hip, hip hooray.</sub>
  
+ ---
+ 
+ ## The Return of Tom Thumb
+ 
  ![](cover.png)
