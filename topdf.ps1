@@ -360,15 +360,15 @@ copy The-Return-of-Tom-Thumb_$($($env:APPVEYOR_BUILD_VERSION).Replace(".", "_"))
 Write-Output "... made The-Return-of-Tom-Thumb.epub... (epub v3)"
 
 pandoc --css epubstyle.css `
-  "title.md" `
-  The-Return-of-Tom-Thumb_single_chapter_one_$($($env:APPVEYOR_BUILD_VERSION).Replace(".", "_"))_v1.epub `
+   "title.md" 				`
+  "The-Return-of-Tom-Thumb-single-chapter-one.md" 		`
   -o The-Return-of-Tom-Thumb-single-chapter-one.html --self-contained --standalone
 Write-Output "... made The-Return-of-Tom-Thumb-single-chapter-one.html..."
 
 #pandoc --css epubstyle.css 
 pandoc `
   "title.md" `
-  The-Return-of-Tom-Thumb.epub `
+  The-Return-of-Tom-Thumb.md `
   -o The-Return-of-Tom-Thumb.html --self-contained --standalone
 Write-Output "... made The-Return-of-Tom-Thumb.html..."
 
