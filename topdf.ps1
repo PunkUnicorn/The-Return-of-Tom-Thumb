@@ -364,7 +364,7 @@ pandoc --css epubstyle.css `
   -o The-Return-of-Tom-Thumb-single-chapter-one.html --self-contained --quiet --standalone
 Write-Output "... made The-Return-of-Tom-Thumb-single-chapter-one.html..."
 
-pandoc --css epubstyle.css `
+pandoc ` #--css epubstyle.css `
   The-Return-of-Tom-Thumb.epub `
   -o The-Return-of-Tom-Thumb.html --self-contained --quiet --standalone
 Write-Output "... made The-Return-of-Tom-Thumb.html..."
