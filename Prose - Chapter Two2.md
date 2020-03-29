@@ -38,4 +38,4 @@ By early afternoon the two had reached the village. As Kim had carried Tom piggy
 
 Tom saw the collection of buildings as if for the first time. She could remember the relief on arriving, but then the memories before that: at the giant’s house; the giant trying to kill her.
 
-With a stern breath, the reassurance of the pips in her pocket and the busy village ahead, Tom gathered her focus, which, being Tom, took her straight into fantasy daydreams: what might she get for the pips?
+With a deep breath, the reassurance of the pips in her pocket and the busy village ahead, Tom gathered her focus, which, being Tom, took her straight into fantasy daydreams: what might she get for the pips?
