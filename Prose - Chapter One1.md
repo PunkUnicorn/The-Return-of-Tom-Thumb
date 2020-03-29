@@ -15,6 +15,4 @@
  
  ---
  
- ## The Return of Tom Thumb
- 
  ![](cover.png)
