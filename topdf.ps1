@@ -248,7 +248,7 @@ cat "book-version.txt",
 	"Prose - Chapter Two3.md", 
 	"Prose - Blank line.md" | sc "The-Return-of-Tom-Thumb-for-audio-single-chapter-one.md" 
 
-echo ![](cover.png) > "chapter-one-extra.md"
+echo  "![](cover.png)" > "chapter-one-extra.md"
 
 cat "book-version.txt",
 	"Prose - Blank line.md",
