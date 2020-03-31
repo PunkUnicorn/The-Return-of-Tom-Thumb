@@ -237,9 +237,12 @@ Get-Content "metadata_v3.yaml" -Encoding UTF8
 
 Write-Output "Combining markdown..."
 
+echo "![](cover.png)" > "chapter-one-extra.md"
+
 cat "book-version.txt",
 	"Prose - Blank line.md",
 	"Prose - Chapter One1.md",
+	chapter-one-extra.md,
 	"Prose - Blank line.md",
 	"Prose - Chapter Two1.md",
 	"Prose - Blank line.md",
@@ -248,12 +251,10 @@ cat "book-version.txt",
 	"Prose - Chapter Two3.md", 
 	"Prose - Blank line.md" | sc "The-Return-of-Tom-Thumb-for-audio-single-chapter-one.md" 
 
-echo  "![](cover.png)" > "chapter-one-extra.md"
 
 cat "book-version.txt",
 	"Prose - Blank line.md",
 	"Prose - Chapter One1.md",
-	chapter-one-extra.md,
 	"Prose - Blank line.md",
 	"Prose - Chapter Two1.md",
 	"Prose - Blank line.md",
