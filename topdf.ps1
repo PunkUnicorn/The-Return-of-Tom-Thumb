@@ -362,7 +362,7 @@ Write-Output "... made The-Return-of-Tom-Thumb-single-chapter-one.epub... (v1)"
 copy The-Return-of-Tom-Thumb_$($($env:APPVEYOR_BUILD_VERSION).Replace(".", "_"))_v1.epub The-Return-of-Tom-Thumb.epub
 Write-Output "... made The-Return-of-Tom-Thumb.epub... (epub v3)"
 
-echo "![](cover.png)" > "chapter-one-extra.md"
+Write-output "# Appendix A-1" | Out-File "Prose - Appendix1-1.md" -Append
 
 pandoc --css epubstyle.css `
   --epub-cover-image=cover_small.png 	`
