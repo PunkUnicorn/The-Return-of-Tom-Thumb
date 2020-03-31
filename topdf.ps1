@@ -237,12 +237,9 @@ Get-Content "metadata_v3.yaml" -Encoding UTF8
 
 Write-Output "Combining markdown..."
 
-echo "![](cover.png)" > "chapter-one-extra.md"
-
 cat "book-version.txt",
 	"Prose - Blank line.md",
 	"Prose - Chapter One1.md",
-	chapter-one-extra.md,
 	"Prose - Blank line.md",
 	"Prose - Chapter Two1.md",
 	"Prose - Blank line.md",
@@ -365,9 +362,12 @@ Write-Output "... made The-Return-of-Tom-Thumb-single-chapter-one.epub... (v1)"
 copy The-Return-of-Tom-Thumb_$($($env:APPVEYOR_BUILD_VERSION).Replace(".", "_"))_v1.epub The-Return-of-Tom-Thumb.epub
 Write-Output "... made The-Return-of-Tom-Thumb.epub... (epub v3)"
 
+echo "![](cover.png)" > "chapter-one-extra.md"
+
 pandoc --css epubstyle.css `
   --epub-cover-image=cover_small.png 	`
    "title.md" 				`
+   chapter-one-extra.md,   
   "The-Return-of-Tom-Thumb-single-chapter-one.md" 		`
   -o The-Return-of-Tom-Thumb-single-chapter-one.html --metadata-file=metadata_v3.yaml --self-contained --standalone
 Write-Output "... made The-Return-of-Tom-Thumb-single-chapter-one.html..."
