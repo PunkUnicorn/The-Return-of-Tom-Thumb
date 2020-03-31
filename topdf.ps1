@@ -248,10 +248,12 @@ cat "book-version.txt",
 	"Prose - Chapter Two3.md", 
 	"Prose - Blank line.md" | sc "The-Return-of-Tom-Thumb-for-audio-single-chapter-one.md" 
 
+Write-Output  "![](cover.png)" | Out-File "chapter-one-extra.md"
 
 cat "book-version.txt",
 	"Prose - Blank line.md",
 	"Prose - Chapter One1.md",
+	chapter-one-extra.md,
 	"Prose - Blank line.md",
 	"Prose - Chapter Two1.md",
 	"Prose - Blank line.md",
