@@ -356,6 +356,9 @@ Write-Output "... made The-Return-of-Tom-Thumb_$($($env:APPVEYOR_BUILD_VERSION).
 #  --metadata-file=metadata_v3.yaml 
 #Write-Output "... made The-Return-of-Tom-Thumb_$($($env:APPVEYOR_BUILD_VERSION).Replace(".", "_"))_test.epub... (epub test)"
 
+copy The-Return-of-Tom-Thumb_single_chapter_one_$($($env:APPVEYOR_BUILD_VERSION).Replace(".", "_"))_v1.epub The-Return-of-Tom-Thumb-single-chapter-one.epub
+Write-Output "... made The-Return-of-Tom-Thumb-single-chapter-one.epub... (v1)"
+
 copy The-Return-of-Tom-Thumb_$($($env:APPVEYOR_BUILD_VERSION).Replace(".", "_"))_v1.epub The-Return-of-Tom-Thumb.epub
 Write-Output "... made The-Return-of-Tom-Thumb.epub... (epub v3)"
 
