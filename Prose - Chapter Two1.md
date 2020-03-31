@@ -16,7 +16,7 @@ Wiggling her toes, the exquisite comfort in the soft leather of her boots. She c
 
 But now she had to focus on the present, which drew her attention back to the apple. It would probably last two more days. The heavenly comfort of having enough food came with a nagging feeling. What was that nagging feeling? “Oh,” she thought, “it's only going to last two days.”
 
-With a sigh she pulled herself up to sit. The grass stalk in her mouth, now an inconvenience, spat out. She had to think.	
+With a sigh she pulled herself up to sit. The grass stalk in her mouth, now an inconvenience, spat out.
 
 “What I need is some kind of plan.”, she thought.
 
