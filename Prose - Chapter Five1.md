@@ -12,13 +12,13 @@ Working his gauntlets off, he pried the buckles open on his pack. The canvas ski
 
 With the backpack unbuckled he pulled out a tarred canvas sheet; it would make his tent. Unwieldy in the wind, the large sheet flapped wildly. The Prince pegged down one corner, driving the wooden peg with a stomp. Taking the other corner of the tent sheet he fastened it to the edge of his makeshift 'seat'. A bivouac against the side of the fallen tree would suffice. With some more driven pegs, The Prince thought he had engineered enough of a shelter to withstand what was coming.
 
-With him and his pack inside the makeshift shelter, shielded from the wind outside, he nestled down and listened to his internal chatter: it fed him concerns. But these were dismissed; he was in isolation. The elements outside were being unsuccessful with their barrage. The wind mauled the tent, whipping sporadic escalations of aggression. But the pegs, the rope and the canvas won decisively. With each victory The Prince fell deeper and deeper into sleep.
+Inside the makeshift shelter, shielded from the wind outside, he nestled down and listened to his internal chatter: it fed him concerns. But these were dismissed; he was in isolation. The elements outside barraged unsuccessfully, the wind whipped sporadic escalations of aggression. But the pegs, the rope and the canvas won decisively. With each victory The Prince fell deeper and deeper into sleep.
 
 Birdsong woke him. He peered out of the tent; it was afternoon, the sky had cleared. He felt more awake, and with the winter sunshine on his face, he felt good. He could see there was no storm earlier. The relief of easier travelling hampered by a slight disappointment; it was not a true test.
 
 The tarred sheet did not pack well. Methodically rolling it tight, he saw a figure in the distance. He could not see much about them, except for their striking red robe. It was a good sign seeing someone travelling from the direction he was going; the trail did, at least, go somewhere.
 
-He had finished rolling the sheet when the red figure was close enough to see, but too far away to speak to. It was a young woman, she lowered her red hood and waved cheerfully, then continued walking towards him. He interrupted his two handed packing to respond with a quick knight's salute.
+He had finished rolling the sheet by the time the figure was close enough to see, but too far away to speak to. It was a young woman, she lowered her red hood and waved cheerfully, then continued walking towards him. He interrupted his two handed packing to respond with a quick knight's salute.
 
 Once the taught canvas bundle was crammed back into his backpack, and the straps pulled tight, he squatted to shoulder the straps, taking a breath before bearing the full weight.
 
@@ -32,7 +32,7 @@ Once the taught canvas bundle was crammed back into his backpack, and the straps
 
 She seemed disappointed. "Are you travelling north?" she asked hopefully.
 
-"Yes.", he was pleased to accommodate, but she had been travelling in the opposite direction.
+"Yes.", he was pleased to offer a posative response, but she had been travelling in the opposite direction.
 
 But quickly she asked: "Would you join me? We could travel together."
   
@@ -51,7 +51,7 @@ errands now."
 
 The Knight nodded at this, as if it made sense, exhilarated to have travelling company; more cover for his escape.
 
-"I'm Red," she beamed a warm, welcoming smile, "I'm thrilled you're joining me."
+"I'm Red," she beamed a warm, welcoming smile, "Its great you're joining me."
 
 But not as pleased as The Knight, it was all going rather well. Their common goal: a need to travel far north and stay off the main trail. 
 
@@ -63,37 +63,35 @@ To The Knight this sounded ideal.
 
 - - -
 
-Breakfast was as delicious, if not more so, than the stew the previous evening: eggs, bacon, dark bread and butter. She sneaked what she could into her pocket; a saussage. There was no way to pocket her mashed potatoe, so she finished the lot. Potatoe had never tasted so good. "Do you eat like this all the time?".
+Breakfast was as delicious, if not more so, than the stew the previous evening: eggs, bacon, dark bread and butter. She sneaked what she could into her pocket; a saussage. There was no way to put the mashed potatoe in her pocket so she finished the lot. Potatoe had never tasted so good. "Do you eat like this all the time?".
 
 "I try not to.", he replied, pushing his empty, tin plate forward. He cocked his chair on two legs to lean against the wall, instead of the chair's back.
 
 "You asked me where I was going?", relaxed against the wall. "I'm a travelling tailor, I just travel."
 
-Then, as if he had remembered something, he added, using his finger to accentuate: "And I do tailoring."
+Then, as if he had remembered something, he added: "And I do tailoring.", using his finger to accentuate.
 
 "What's tailoring?"; she felt she could ask him.
 
-Leaning forward, he replied mirthfully: "I thought you would never ask. Let's go and show you tailoring."
+Leaning forward, mirthfully: "I thought you would never ask. Let's go and show you tailoring."
 
 And he got up and walked towards the inn's door, beckoning Tom with his head; "Come on.", a jaunty walk. He was enjoying this.
 
-Outside, Tom stood ridiculously. Her arms were out straight and her legs apart. The Tailor worked under her arm, with pins in his mouth. "And I'll do something with your hair." he tried to say.
+Outside, Tom stood ridiculously. Her arms out straight and her legs apart. The Tailor worked under her arm with pins in his mouth. "And I'll do something with your hair." he tried to say.
 
-"What are you doing?", the tone of desperation giving The Tailor a clue that she wanted more explanation than the word: 'tailoring'. He took the pins out of his mouth.
+"What are you doing?", the tone of desperation giving The Tailor a clue, she probably wanted more explanation than the word 'tailoring'. He took the pins out of his mouth.
 
-"I'm bringing your jumper in so it fits better round the shoulders, and waist.". After more pause, and a thinking face, he added: "I say fits better, but what I mean is: better than not fitting whatsoever."
+"I'm bringing your jumper in, so it fits better round the shoulders, and waist.", then he paused, pursing his lips, finally adding: "I say fits better, but what I mean is: better than not fitting whatsoever."
 
-She felt exposed standing like this, but she trusted what The Tailor was doing; it must be important for travelling. He sewed around each underarm, and similarly on her trousers. 
+She felt exposed standing like this, but she trusted what The Tailor was doing; it must be important for travelling. He continued to sew around each underarm, and similarly on her trousers. 
 
-Drawing her away from a small pile of fabric, he sat her down, explaining: "Now to sort your hair out!". She managed to look at what he had done to her jumper. It was less baggy, with a long thick stitch. It was well balanced against the other under-arm alteration. The excess length of trouser leg had been cut off and seamed, instead of roll-ups. 
+He drew her away, from the small pile of fabric she was now standing in, to sit her down and explained: "Now to sort your hair out!". She managed to look at what he had done to her jumper. It was less baggy, with a thick long stitch. It was well balanced against the other under-arm alteration. The excess length of trouser leg had been cut off and seamed, instead of roll-ups. However, between looks, her head possition was adjusted by a gentle hand. Sometimes, but not always, the touch was followed by the sound of snipping.
 
-However, between looks, her head possition was adjusted by a gentle hand. Sometimes, but not always, the touch was followed by the sound of snipping.
-
-"There...", and he brought a small mirror to her face. Her hair had defined steps, but was still shaggy. "Just a tidy.", he underplayed, and then he paused. For a moment, he almost looked like he was going to say something, but it passed.
+"There...", and he brought a small mirror to her face. Her hair had defined steps, but was still shaggy. "Just a tidy.", he underplayed, and then paused. For a moment, he almost looked like he was going to say something, but it passed.
 
 "That's good.", she said, instantly regretting the vocal impulse, moving her arms around. She was surprised at the lighter feeling. Kicking her legs she inspected each landing. Now her trousers covered her boots more. That was convenient.
 
-The Tailor looked at her expectantly. She nodded with the minimum of approval, but the girl's eyes said more. "The next town's not far, we'll make it before lunch.". He turned southwards: "It's got the third worst inn in the world. You have to see it to believe it. Lets go."
+The Tailor looked at her expectantly, as if she was going to elaborate. But she nodded with the minimum of approval. The girl's eyes said more. "The next town's not far, we'll make it before lunch.", and he turned southwards: "It's got the third worst inn in the world. You have to see it to believe it. Lets go."
 
 They started walking. Suddenly, Tom had no idea what to expect.
 
