@@ -6,23 +6,23 @@ The wall stopped at a grove. On one side the field continued, the other: a thick
 
 Working his pack off his back, he sat on the fallen tree and almost instantly fell asleep.
 
-When The Prince woke the wind had picked up making the branches whistle. Clouds had gathered, it looked like a storm might be coming. This was exciting, a chance to use his equipment. But more than that, he felt his life on the road was begining.
+When The Prince woke the wind had picked up, the branches whistle. Clouds had gathered, it looked like a storm might be coming. This was exciting, a chance to use his equipment. But more than that, he felt his life on the road was begining.
 
-His gauntlets off, he pried the pack's buckles open on. The canvas skin of the backpack soaked through, the straps were difficult to work free. 
+His gauntlets off, he pried the pack's buckles open. The canvas skin of the backpack soaked through, the straps were difficult to work free. 
 
-Unbuckled, he pulled out a tarred canvas sheet, it would make his tent. Unwieldy in the wind, the large sheet flapped wildly. He pegged down one corner, driving the wooden peg with a stomp. He fastened the other corner of the tent sheet to the edge of his makeshift seat. It was a crude bivouac, but it should suffice. Some more driven pegs and The Prince thought he had built enough of a shelter to withstand the weather.
+Unbuckled, he pulled out his large, tarred canvas sheet, it would make his tent. Unwieldy in the wind, the large sheet flapped wildly. He pegged the first corner down with a stomp. He fastened the other corner of the tent sheet to the edge of his makeshift seat. It was a crude bivouac, but it should suffice. Some more driven pegs and The Prince thought he had built enough of a shelter to withstand the weather.
 
-Inside the makeshift shelter, shielded from the wind, he nestled down and listened to his internal chatter. It fed him concerns which he dismissed; the isolation giving him safty. Wind outside barraged unsuccessfully, whipping aggressively. But the pegs, the rope and the canvas won decisively. With each victory The Prince fell deeper and deeper into sleep.
+Inside the makeshift shelter, shielded from the wind, he nestled down and listened to his internal chatter. It fed him concerns which he dismissed; the isolation giving him safety. Wind outside barraged unsuccessfully, whipping aggressively. But the pegs, the rope and the canvas won decisively. With each victory The Prince fell deeper and deeper into sleep.
 
 Birdsong woke him. He peered out of the tent; it was afternoon, the sky had cleared. He felt more awake.
 
 The winter sunshine was on his face and he felt good. There was no storm earlier bringing relief of easier travelling, hampered only by a slight disappointment; it was not a true test.
 
-The tarred sheet did not pack well. Methodically rolling it tight, there was a figure in the distance. He could not see much about them, except for their striking red robe. It was a good sign, though, seeing someone travelling from the direction he was going. The trail did, at least, go somewhere.
+The tarred sheet did not pack well. Methodically rolling it tight, there was a figure in the distance. He could not see much about them, except for their striking red robe. It was a good sign though, seeing someone travelling from the direction he was going. The trail did, at least, go somewhere.
 
-By the time he had finished rolling the sheet, the figure was close enough to see, but still too far away to speak with. It was a young woman, she lowered her red hood and waved cheerfully. He interrupted his two handed packing to respond with a quick knight's salute.
+By the time he had finished rolling the sheet, the figure was close enough to see, but too far away to speak with. It was a young woman, she lowered her red hood and waved cheerfully. He interrupted his two handed packing to respond with a quick knight's salute.
 
-Once the taught canvas bundle was crammed back into his backpack, and the straps pulled tight, he squatted to shoulder the straps, taking a breath before bearing the full weight.
+Once the taught, canvas bundle was crammed back into his backpack, and the straps pulled tight, he squatted to shoulder the straps, taking a breath before bearing the full weight.
 
 "Hello." the young woman interrupted.
 
@@ -56,9 +56,9 @@ The Knight nodded at this, as if it made sense, exhilarated to have travelling c
 
 But not as pleased as The Knight, it was all going rather well. Their common goal: to travel far north and stay off the main trails. 
 
-As they walked together, along the way Red had come from, The Knight provided conversation: replaying his rehearsed lines, what he could say about his errant, what he could not. Red offered no doubt, she was delighted with all parts of his script.
+As they walked together, along the way Red had come from, The Knight provided conversation: replaying his rehearsed lines, where he had come from, his knight's vows and how these may effect his behaviour. Red offered no doubt, she was delighted with all parts of his script.
 
-Once he had finished his short, well rehearsed excuse, a comfortable silence settled. Red pointed ahead; "There's a beautiful spot on the edge of the meadow, a small stream next to a clearing. It's hidden by a bramble thicket. I'm surprised I found it."
+Once he had finished his short, well rehearsed excuses, a comfortable silence settled. Red pointed ahead; "There's a beautiful spot on the edge of the meadow, a small stream next to a clearing. It's hidden by a bramble thicket. I'm surprised I found it."
 
 To The Knight this sounded ideal.
 
@@ -92,7 +92,7 @@ He drew her away, from the small pile of fabric she was now standing in, to sit 
 
 "That's good.", she said, instantly regretting the vocal impulse, moving her arms around. She was surprised at the lighter feeling. Kicking her legs she inspected each landing. Now her trousers covered her boots more. That was convenient.
 
-The Tailor looked at her expectantly, as if she was going to elaborate. But she nodded with the minimum of approval. The girl's eyes said more. "The next town's not far, we'll make it before lunch.", and he turned southwards: "It's got the third worst inn in the world. You have to see it to believe it. Lets go."
+The Tailor looked at her expectantly, as if she was going to elaborate. But she nodded with the minimum of approval. "The next town's not far", he said to change the subject, "we'll make it before lunch.", and he turned southwards: "It's got the third worst inn in the world. You have to see it to believe it. Lets go."
 
 They started walking. Suddenly, Tom had no idea what to expect.
 
@@ -124,6 +124,7 @@ He stepped to one side, raising an arm to pause Tom, and looked across the evenl
 
 Tom matched The Tailors steps; it was easy following him through the crowd. The stalls either side, each one a world of its own with one displaying hanging dried meats being a neighbour to a stall of different sized metal hoops, and long, thin wooden poles. Tom wondered what these were for.
 
-Through a hapenstance gap in the crowd, Tom saw a vendor surrounded by bolts of multicoloured, satin cloth. He was argueing with a rotund customer. Someone behind them laughed. The cloth merchant, now obscured by people passing, suddenly raised his shrill voice, it pierced through the crowd in a language Tom did not understand.
+Through a hapenstance gap in the crowd, Tom saw a vendor surrounded by bolts of multicoloured, satin cloth. He was argueing with a rotund customer. Someone behind them laughed. The cloth merchant raised his shrill voice. It pierced through the crowd in a language Tom did not understand.
+
 
 A steady metallic banging echoed from far ahead, pulses of three. Each hit rattled the back of Toms teeth, and each echo a reminder of the sensation. "Oh good,", The Tailor declared, "he's around.", and he extended his hand towards Tom, "Climb onto my shoulders.", and Tom did this, using The Tailors hands as steps, more or less. The view was an image she would never forget for the rest of her life. The variety of people, clothes, and tressle benches laidened, each one with never the same items as the previous. The crowed bobbed, a sea of heads. Fine hats with shimmering feathers, standing out and next to them a small group of shaggy, roughly fur-clad, men.
