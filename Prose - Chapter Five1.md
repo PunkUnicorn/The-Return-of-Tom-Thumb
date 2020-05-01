@@ -114,7 +114,7 @@ As the afternoon drew in, the blankets dried and the fire became a stove. They d
 
 "Here it is.", The Tailor pointed towards the approaching town. Tom wanted to sit down but The Tailor was speeding up: "I need to see the smithy while we're here,", Tom offered a blind nod of agreement, "and we're going to need a few things."
 
-The two of them hurried past somebody slumped, on the floor, against the wall of a building. "He's drunk.": explained The Tailor, "We'll see the smith first.", then adding behind a hand, as if telling a taboo: "he's the nicest person here."
+The two of them hurried past somebody slumped on the floor against the wall of a building. "He's drunk.": explained The Tailor, "We'll see the smith first.", then adding behind a hand, as if telling a taboo: "he's the nicest person here."
 
 But there was nobody else to be seen as Tom followed The Tailor through a crooked, almost accidental ally. Rats darted away while competing buildings spared the narrowest of walkways. By the size of the rats Tom knew people here did not go hungry.
 
@@ -126,5 +126,8 @@ Tom matched The Tailors steps; it was easy following him through the crowd. The 
 
 Through a hapenstance gap in the crowd, Tom saw a vendor surrounded by bolts of multicoloured, satin cloth. He was argueing with a rotund customer. Someone behind them laughed. The cloth merchant raised his shrill voice. It pierced through the crowd in a language Tom did not understand.
 
+A steady metallic banging echoed from far ahead, pulses of three. Each hit rattled the back of Toms teeth, and its echo a beautiful tone. "Oh good,", The Tailor declared, "he's around.", and he extended his hand towards Tom, "Climb onto my shoulders.", and Tom climed up The Tailor finding steps with her tiny feet. 
 
-A steady metallic banging echoed from far ahead, pulses of three. Each hit rattled the back of Toms teeth, and each echo a reminder of the sensation. "Oh good,", The Tailor declared, "he's around.", and he extended his hand towards Tom, "Climb onto my shoulders.", and Tom did this, using The Tailors hands as steps, more or less. The view was an image she would never forget for the rest of her life. The variety of people, clothes, and tressle benches laidened, each one with never the same items as the previous. The crowed bobbed, a sea of heads. Fine hats with shimmering feathers, standing out and next to them a small group of shaggy, roughly fur-clad, men.
+The view from his shoulders was an image she would never forget for the rest of her life. The variety of people, clothes, and tressle benches laidened, each one with never the same items as the previous. The crowed bobbed, a sea of heads. a group of fine hats, with shimmering feathers, standing out in the crowd, and next to them, a small group of shaggy, roughly fur-clad, men.
+
+
