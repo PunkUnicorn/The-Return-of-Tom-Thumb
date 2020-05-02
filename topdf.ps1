@@ -246,6 +246,8 @@ cat "book-version.txt",
 	"Prose - Chapter Two2.md", 
 	"Prose - Blank line.md",
 	"Prose - Chapter Two3.md", 
+	"Prose - Blank line.md",
+	"Prose - Chapter Three1.md", 
 	"Prose - Blank line.md" | sc "The-Return-of-Tom-Thumb-for-audio-single-chapter-one.md" 
 
 
