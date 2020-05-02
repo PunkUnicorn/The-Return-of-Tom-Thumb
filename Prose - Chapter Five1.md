@@ -126,8 +126,8 @@ Tom matched The Tailors steps; it was easy following him through the crowd. The 
 
 Through a hapenstance gap in the crowd, Tom saw a vendor surrounded by bolts of multicoloured, satin cloth. He was argueing with a rotund customer. Someone behind them laughed. The cloth merchant raised his shrill voice. It pierced through the crowd in a language Tom did not understand.
 
-A steady metallic banging echoed from far ahead, pulses of three. Each hit rattled the back of Toms teeth, and its echo a beautiful tone. "Oh good,", The Tailor declared, "he's around.", and he extended his hand towards Tom, "Climb onto my shoulders.", and Tom climed up The Tailor finding steps with her tiny feet. 
+A steady metallic banging echoed from far ahead, pulses of three. Each hit rattled the back of Toms teeth, but its echo a beautiful tone. "Oh good,", The Tailor declared, "he's around.", and he extended his hand towards Tom, "Climb onto my shoulders.", which Tom did, finding steps along him with her tiny feet. 
 
 The view from his shoulders was an image she would never forget for the rest of her life. The variety of people, clothes, and tressle benches laidened, each one with never the same items as the previous. The crowed bobbed, a sea of heads. a group of fine hats, with shimmering feathers, standing out in the crowd, and next to them, a small group of shaggy, roughly fur-clad, men.
 
-
+From The Tailors shoulders she traced the sound of the banging and saw the smithy, a large circular zone in the center of the market.
