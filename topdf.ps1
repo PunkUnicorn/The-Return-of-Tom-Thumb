@@ -174,6 +174,7 @@ Spellcheck-Chapter "Chapter Two" "Chapter-Two-Spelling.txt"
 Spellcheck-Chapter "Chapter Three" "Chapter-Three-Spelling.txt"
 Spellcheck-Chapter "Chapter Four" "Chapter-Four-Spelling.txt"
 Spellcheck-Chapter "Chapter Five" "Chapter-Five-Spelling.txt"
+Spellcheck-Chapter "Chapter Six" "Chapter-six-Spelling.txt"
 Write-Output "Spelling Ends"
 
 Write-Output "Thesaurunocerous Starts"
@@ -182,6 +183,7 @@ Thesaurunocerous-Chapter "Chapter Two" "Chapter-Two-Words.txt"
 Thesaurunocerous-Chapter "Chapter Three" "Chapter-Three-Words.txt"
 Thesaurunocerous-Chapter "Chapter Four" "Chapter-Four-Words.txt"
 Thesaurunocerous-Chapter "Chapter Five" "Chapter-Five-Words.txt"
+Thesaurunocerous-Chapter "Chapter Six" "Chapter-six-Words.txt"
 
 Thesaurunocerous-Chapter "Chapter *" "Chapter-All-Words.txt"
 Write-Output "Thesaurunocerous Ends"
@@ -265,7 +267,8 @@ cat "book-version.txt",
 	"Prose - Blank line.md",
 	"Prose - Chapter Four1.md",
 	"Prose - Blank line.md",
-	"Prose - Chapter Five1.md" | sc "The-Return-of-Tom-Thumb-for-audio.md" 
+	"Prose - Chapter Five1.md",
+	"Prose - Chapter Six.md"| sc "The-Return-of-Tom-Thumb-for-audio.md" 
 
 
 cat "The-Return-of-Tom-Thumb-for-audio-single-chapter-one.md" | sc "The-Return-of-Tom-Thumb-single-chapter-one.md" 
