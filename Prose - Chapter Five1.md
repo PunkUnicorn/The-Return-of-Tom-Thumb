@@ -76,15 +76,15 @@ Then, as if he had remembered something, he added: "And I do tailoring.", using 
 
 Leaning forward, mirthfully: "I thought you would never ask. Let's go and show you tailoring."
 
-And he got up and walked towards the inn's door, beckoning Tom with his head; "Come on.", a jaunty walk. He was enjoying this.
+And he got up and walked towards the inn's door, beckoning Tom with his head; "Come on.". A jaunty walk. He was enjoying this.
 
 Outside, Tom stood ridiculously. Her arms out straight and her legs apart. The Tailor worked under her arm with pins in his mouth. "And I'll do something with your hair." he tried to say.
 
-"What are you doing?", the tone of desperation giving The Tailor a clue, she probably wanted more explanation than the word 'tailoring'. He took the pins out of his mouth.
+"What are you doing?", the tone of desperation giving The Tailor a clue; she probably wanted more explanation than the word 'tailoring'. He took the pins out of his mouth.
 
-"I'm bringing your jumper in, so it fits better round the shoulders, and waist.", then he paused, pursing his lips, finally adding: "I say fits better, but what I mean is: better than not fitting whatsoever."
+"I'm bringing your jumper in, so it fits better round the shoulders, and waist.", then he paused, pursing his lips, finally adding: "I say fits better, but what I mean is: fits better than not fitting whatsoever."
 
-She felt exposed standing like this, but she trusted what The Tailor was doing; it must be important for travelling. He continued to sew around each underarm, and similarly on her trousers. 
+She felt exposed standing like this, but she trusted what The Tailor was doing; it must be important for travelling. He continued to sew around each underarm, and similarly on her trousers.
 
 He drew her away, from the small pile of fabric she was now standing in, to sit her down and explained: "Now to sort your hair out!". She managed to look at what he had done to her jumper. It was less baggy, with a thick long stitch. It was well balanced against the other under-arm alteration. The excess length of trouser leg had been cut off and seamed, instead of roll-ups. However, between looks, her head possition was adjusted by a gentle hand. Sometimes, but not always, the touch was followed by the sound of snipping.
 
@@ -98,15 +98,14 @@ They started walking. Suddenly, Tom had no idea what to expect.
 
 - - -
 
-Red and The Knight sat by the stream. The fire was building strength; wet blankets, from The Knights pack, propped up with sticks to capture the warmth. The half empty pack itself, planted just beyond the fire's range, sat as a center-piece to the evenly strewn contents; a tiny city of equipment. Two small tents, in parallel, looked ready; their entrance sheets open in identical fashion. 
+Red and The Knight sat by the stream. The fire was building strength; wet blankets, from The Knights pack, propped up with sticks to capture the warmth. The half empty pack itself, planted just beyond the fire's range, sat as a center-piece to the evenly strewn contents; a tiny city of equipment. Two small tents, in parallel, looked ready; their entrance sheets open in identical fashion.
 
 The midday sun felt good, and with the fire's warmth, The Knight started to feel like he could be warm again. Red had pulled her hood over her head and was humming a gentle melody. Listening, he heard contentment. It elevated the mood. The stream was interesting viewing. Too shallow for fishing, he will be cooking his standard issue rations tonight.
 
 Red finished humming, the crackle of the fire taking main stage; popping a spark, it gently collapsed on itself. The Knight pushed himself off the ground and added three logs. A quick appraisal and he turned back to the stream, resuming his place next to Red.
 
-There was no talking. The Knight took mental inventory, thinking through his groups of equipment: cooking, cleaning, engineering, repairing, fighting. Having set up camp, he was prevalently aware that his items were now his home, and his life. 
+There was no talking. The Knight took mental inventory, thinking through his groups of equipment: cooking, cleaning, engineering, repairing, fighting. Having set up camp, he was prevalently aware that his items were now his home, and his life.
 
-Red hunched over a small, open papyrus codex. The feather end of her raven quill exaggerating the slow, careful swirling of the writing. The Knight noticed a tiny, elegant ink bottle tied to a cord around her neck. He himself had some ink, sealing wax and parchment, but it was for official knight's business only. Like his, her feather was a pinion; an optimum feather for a quill, he was somewhat impressed. 
+Red hunched over a small, open papyrus codex. The feather end of her raven quill exaggerating the slow, careful swirling of the writing. The Knight noticed a tiny, elegant ink bottle tied to a cord around her neck. He himself had some ink, sealing wax and parchment, but it was for official knight's business only. Like his, her feather was a pinion; an optimum feather for a quill, he was somewhat impressed.
 
 As the afternoon drew in, the blankets dried and the fire became a stove. They dined on a knight's banquet of dried meats, pickled vegetables and fruit preserves. Dispite his earlier rest he began to feel fatigue catch up with him. "I'll take an early rest. I'll be awake again in the early hours to take over the watch.". Red understood and was fine with this arrangement. She placed two more small logs on the fire and slouched back, watching the fresh logs adapt to their new home.
-
