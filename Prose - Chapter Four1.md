@@ -1,6 +1,6 @@
 # Chapter Four
 
-![The Prince](TheKnight/TheKnightPensive_small.png)
+![](TheKnight/TheKnightPensive_small.png)
 Meanwhile, far south, in the most south city, in the southern part of the kings castle, itself in the cities south, an heir to the throne, the crown prince himself, was looking out northwards.
 
 He had the life of a prince. However, if he knew where Tom was, or even who Tom was, he would have been jealous of her life tonight.
@@ -75,7 +75,7 @@ But she could not take a step; blocked by an elusive, buried reason. She did not
 
 Kim was telling her something though. He had travelled without her, deliberately, for a reason. The elusive reason gaining painful clarity: home was danger.
 
-![The hay had lost it's bliss](TomThumb/tomthumb1_small.png)
+![](TomThumb/tomthumb1_small.png)
 The hay inside had lost it's bliss, but it felt like the closest thing she had to a home right now, so she went inside.
 
 The Tailor was sitting up looking at her. His face and eyes showing sympathy. “Could I live here?” she thought to herself. However, would The Tailor live here? “Where are you going?” she asked him.

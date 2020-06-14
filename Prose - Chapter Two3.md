@@ -2,7 +2,7 @@ After recovering his breath, Kim moved alongside his sister. He was looking at t
 
 They walked towards the village at a slow pace, absorbing everything, every sight, sound and smell: dogs, geese, carts and horses, stacks of things by the buildings, sacks of things by the stacks. Smoke and banging. And the people, how they were dressed: everyone had good boots or clogs. Tom gave her own boots a quick look. Pride surged through her with a dawning thought: she was fitting in.
 
-![Tom Thumb](TomThumb/tomthumb2mugshot_small.png)
+![](TomThumb/tomthumb2mugshot_small.png)
 
 Tom snuck a look at Kim: he looked perturbed, as if the whole thing had been a bad idea. Tom turned to face her brother, inviting him into her excitement. Kim returned her look, but it was clear from his face he was not excited.
 

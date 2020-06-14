@@ -94,7 +94,7 @@ Grasping the rope, which swung by the door, he pulled gently. The lantern lowere
 
 Pulling the second rope caused the lantern to rise. Then it stopped. The Tailor stared at the dangling lantern. It swung strangely. Tom liked this; how it wibble-wobbled. “Now that is clever.” The Tailor concluded.
 
-![The Tailor](TheTailor/thetailor1_small.png)
+![](TheTailor/thetailor1_small.png)
 
 “The innkeeper said it housed more people than horses.”, The Tailor continued, “I doubt anyone actually travels *to* this place.”
 

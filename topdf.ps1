@@ -369,15 +369,15 @@ Write-Output "... made The-Return-of-Tom-Thumb.epub... (epub v3)"
 
 Write-output "# Appendix A-1" | Out-File "Prose - Appendix1-1.md" -Append
 
-pandoc "title.md" chapter-one-extra.md, "The-Return-of-Tom-Thumb-single-chapter-one.md" `
+pandoc "title.md" chapter-one-extra.md "The-Return-of-Tom-Thumb-single-chapter-one.md" `
   -o The-Return-of-Tom-Thumb-single-chapter-one.html `
-  --css=./htmlstyle.css --self-contained --standalone
+  --css=htmlstyle.css --self-contained --standalone
 Write-Output "... made The-Return-of-Tom-Thumb-single-chapter-one.html..."
 
 #pandoc --css epubstyle.css 
-pandoc "title.md" The-Return-of-Tom-Thumb.md -o The-Return-of-Tom-Thumb.html `
---css=./htmlstyle.css `
---standalone --self-contained 
+pandoc "title.md" chapter-one-extra.md The-Return-of-Tom-Thumb.md `
+  -o The-Return-of-Tom-Thumb.html `
+  --css=./htmlstyle.css --self-contained --standalone
 
 # pandoc "title.md" The-Return-of-Tom-Thumb.md -o The-Return-of-Tom-Thumb.html `
 # --css=.\typo-today\css\stylesheet.css `
