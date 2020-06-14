@@ -1,23 +1,24 @@
 /* This defines styles and classes used in the book */
+
 body { 
-  /* font-size: medium; 
-  background-size: cover;
-  background-image: url(./old-paper-by-grunge-HALF.jpg); 
-  background-attachment: fixed; */
   font-size: x-large;
   margin: 2%;
-  /* transform-box: view-box; */
   width: 90%;
   height: unset;
   background-size: cover;
   background-image: url(./old-paper-by-grunge-HALF.jpg);
   background-attachment: fixed;    
 }
-@media (max-width: 812px) {
+@media (min-width:320px) {body { font-size: xx-large; margin: 10%; width: 200%; } /* smartphones, iPhone, portrait 480x320 phones */ }
+@media (min-width:481px) {body { font-size: x-large; margin: 10%; width: 200%;} /* portrait e-readers (Nook/Kindle), smaller tablets @ 600 or @ 640 wide. */ }
+@media (min-width:641px) {body { font-size: x-large; margin: 10%; width: 200%; } /* portrait tablets, portrait iPad, landscape e-readers, landscape 800x480 or 854x480 phones */ }
+@media (min-width:961px) {body { font-size: x-large; margin: 10%; width: 150%; }/* tablet, landscape iPad, lo-res laptops ands desktops */ }
+@media (min-width:1025px) {body { font-size: x-large; margin: 10%; width: 100%; }/* big landscape tablets, laptops, and desktops */ }
+@media (min-width:1281px) {body { font-size: x-large; margin: 10%; width: 100%; }/* hi-res laptops and desktops */ }
+
+/* @media (max-width: 812px) {
   body { 
-    font-size: x-large;
-    margin: 10%;
-    width: 200%;
+    font-size: x-large; margin: 10%; width: 200%;
     height: unset;
     background-size: cover;
     background-image: url(./old-paper-by-grunge-HALF.jpg);
@@ -26,9 +27,7 @@ body {
 }
 @media (max-width: 1024px) {
   body { 
-      font-size: x-large;
-      margin: 10%;
-      width: 150%;
+      font-size: x-large; margin: 10%; width: 150%;
       height: unset;
       background-size: cover;
       background-image: url(./old-paper-by-grunge-HALF.jpg);
@@ -37,15 +36,13 @@ body {
 }
 @media (max-width: 1366px) {
   body { 
-      font-size: x-large;
-      margin: 10%;
-      width: 100%;
+      font-size: x-large; margin: 10%; width: 100%;
       height: unset;
       background-size: cover;
       background-image: url(./old-paper-by-grunge-HALF.jpg);
       background-attachment: fixed;    
   }
-}
+} */
 img { float: left; margin: 4%; }
 div#cover-image { align-items: center; justify-content: center; }
 div#cover-image img { float:none; width: 92%; align:center; }
