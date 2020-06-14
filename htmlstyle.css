@@ -35,6 +35,17 @@ body {
       background-attachment: fixed;    
   }
 }
+@media (max-width: 1366px) {
+  body { 
+      font-size: x-large;
+      margin: 10%;
+      width: 100%;
+      height: unset;
+      background-size: cover;
+      background-image: url(./old-paper-by-grunge-HALF.jpg);
+      background-attachment: fixed;    
+  }
+}
 img { float: left; margin: 4%; }
 div#cover-image { align-items: center; justify-content: center; }
 div#cover-image img { float:none; width: 92%; align:center; }
