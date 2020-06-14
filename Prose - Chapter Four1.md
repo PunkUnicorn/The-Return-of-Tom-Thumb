@@ -61,7 +61,7 @@ Dust darted through the sunbeams, they entered through knot holes. Nothing to wo
 
 But there was something wrong.
 
-Kim and the cow had gone. She instantly knew what this meant: he was telling her to go. 
+Kim and the cow had gone. She instantly knew what this meant: he was telling her to go.
 
 Her feeling of comfort dislodged. She sat up to reassess. The Tailor was asleep. Kim and the cow were still gone.
 

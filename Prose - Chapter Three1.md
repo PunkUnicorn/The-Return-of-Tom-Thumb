@@ -68,7 +68,7 @@ Kim had ignored the two while they were talking. All the time he had been wonder
 
 The Tailor did not notice their naivety: “Let’s get to the inn.”, and they followed, walking slowly.
 
-The Tailor gestured towards the cow: “I doubt she will be allowed inside.”, addressing the cow directly: “Sorry old girl.”. There was Muffled sound and music comming from the lit building they approached. Before entering The Tailor turned to Tom and Kim, his palms up: “I’ll talk to the innkeeper, see if we can stay in the barn. You two wait here, keep an eye on the cow.”
+The Tailor gestured towards the cow: “I doubt she will be allowed inside.”, addressing the cow directly: “Sorry old girl.”. There was Muffled sound and music coming from the lit building they approached. Before entering The Tailor turned to Tom and Kim, his palms up: “I’ll talk to the innkeeper, see if we can stay in the barn. You two wait here, keep an eye on the cow.”
 
 Tom wondered what an innkeeper was. She built an imaginary picture of a large man. He had a solid club and a serious face. She did not want to get the attention of the innkeeper. So she did as The Tailor suggested; stopped and waited. Kim seemed to have reached the same conclusion.
 
@@ -94,7 +94,7 @@ Grasping the rope, which swung by the door, he pulled gently. The lantern lowere
 
 Pulling the second rope caused the lantern to rise. Then it stopped. The Tailor stared at the dangling lantern. It swung strangely. Tom liked this; how it wibble-wobbled. “Now that is clever.” The Tailor concluded.
 
-![](TheTailor/thetailor1_small.png)
+![The Tailor](TheTailor/thetailor1_small.png)
 
 “The innkeeper said it housed more people than horses.”, The Tailor continued, “I doubt anyone actually travels *to* this place.”
 
