@@ -375,7 +375,7 @@ pandoc "title.md" "The-Return-of-Tom-Thumb-single-chapter-one.md" `
 Write-Output "... made The-Return-of-Tom-Thumb-single-chapter-one.html..."
 
 #pandoc --css epubstyle.css 
-pandoc "title.md" chapter-one-extra.md The-Return-of-Tom-Thumb.md `
+pandoc "title.md" The-Return-of-Tom-Thumb.md `
   -o The-Return-of-Tom-Thumb.html `
   --css=./htmlstyle.css --self-contained --standalone
 
