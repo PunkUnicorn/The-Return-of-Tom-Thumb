@@ -100,7 +100,7 @@ Pulling the second rope caused the lantern to rise. Then it stopped. The Tailor 
 
 He looked around again: the agitated lantern animated the shadows. “We have ourselves a stable situation.”, he laughed at his own play on words and continued: “If more people stay here than horses, it explains everything.”
 
-Suddenly The Tailor turned towards the door saying: “I have to settle up with the innkeeper. And get us some food, I'm really hungry.” Then he left.
+Suddenly The Tailor turned towards the door. “I have to settle up with the innkeeper, and get us some food. I'm really hungry.” Then he left.
 
 Tom looked between Kim and the cow. Both were settled and looking ready to sleep. The shadows moved with the lantern but more gently. She thought to get up and give it more swing, but was not sure she could escape the hay.
 

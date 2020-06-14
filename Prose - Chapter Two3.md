@@ -2,7 +2,7 @@ After recovering his breath, Kim moved alongside his sister. He was looking at t
 
 They walked towards the village at a slow pace, absorbing everything, every sight, sound and smell: dogs, geese, carts and horses, stacks of things by the buildings, sacks of things by the stacks. Smoke and banging. And the people, how they were dressed: everyone had good boots or clogs. Tom gave her own boots a quick look. Pride surged through her with a dawning thought: she was fitting in.
 
-![](TomThumb/tomthumb2mugshot_small.png)
+![Tom Thumb](TomThumb/tomthumb2mugshot_small.png)
 
 Tom snuck a look at Kim: he looked perturbed, as if the whole thing had been a bad idea. Tom turned to face her brother, inviting him into her excitement. Kim returned her look, but it was clear from his face he was not excited.
 
@@ -16,7 +16,7 @@ But Tom answered eagerly: “Hello! we’re from The Forest.” pointing north t
 
 “What you come down here for then?” he asked.
 
-Kim looked to Tom. 
+Kim looked to Tom.
 
 She realised this was it, her chance: “I’ve come to sell apple pips.”
 
@@ -56,4 +56,4 @@ Kim stopped but kept his grip on Tom, her jumper stretching as she turned to Jac
 
 Kim was not convinced. Without hesitation he turned away, pulling Tom with him.
 
-“Alright, alright. The cow for the pips,” Jack negotiated, “but only for *all* of them.”
+“All right, all right, the cow for the pips,” Jack negotiated, “but only for *all* of them.”
