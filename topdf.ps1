@@ -369,7 +369,7 @@ Write-Output "... made The-Return-of-Tom-Thumb.epub... (epub v3)"
 
 Write-output "# Appendix A-1" | Out-File "Prose - Appendix1-1.md" -Append
 
-pandoc "title.md" chapter-one-extra.md "The-Return-of-Tom-Thumb-single-chapter-one.md" `
+pandoc "title.md" "The-Return-of-Tom-Thumb-single-chapter-one.md" `
   -o The-Return-of-Tom-Thumb-single-chapter-one.html `
   --css=htmlstyle.css --self-contained --standalone
 Write-Output "... made The-Return-of-Tom-Thumb-single-chapter-one.html..."

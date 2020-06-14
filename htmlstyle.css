@@ -1,17 +1,28 @@
 /* This defines styles and classes used in the book */
 body { 
-    /* font-size: medium; 
-    background-size: cover;
-    background-image: url(./old-paper-by-grunge-HALF.jpg); 
-    background-attachment: fixed; */
-    font-size: large;
-    margin: 4%;
-    /* transform-box: view-box; */
-    width: unset;
-    height: unset;
-    background-size: cover;
-    background-image: url(./old-paper-by-grunge-HALF.jpg);
-    background-attachment: fixed;    
+  /* font-size: medium; 
+  background-size: cover;
+  background-image: url(./old-paper-by-grunge-HALF.jpg); 
+  background-attachment: fixed; */
+  font-size: x-large;
+  margin: 2%;
+  /* transform-box: view-box; */
+  width: 90%;
+  height: unset;
+  background-size: cover;
+  background-image: url(./old-paper-by-grunge-HALF.jpg);
+  background-attachment: fixed;    
+}
+@media (max-width: 360px) {
+  body { 
+      font-size: x-large;
+      margin: 10%;
+      width: 200%;
+      height: unset;
+      background-size: cover;
+      background-image: url(./old-paper-by-grunge-HALF.jpg);
+      background-attachment: fixed;    
+  }
 }
 img { float: left; margin: 4%; }
 div#cover-image { align-items: center; justify-content: center; }
@@ -24,10 +35,10 @@ h3 { text-align: left; float: none; page-break-after: avoid; page-break-before: 
 h4 { text-align: left; float: none; }
 h5 { text-align: left; float: none; }
 h6 { text-align: left; float: none; }
-/*h1.title::after {
+h1.title::after {
     content: url(./cover_small.png);
     display: block;
-}*/
+}
 h1.title { color: red; font-family: monospace; display: inline; }
 h2.author { }
 h3.date { }
