@@ -8,7 +8,7 @@ They weaved through crooked, accidental alleyways made from competing buildings.
 
 The maze took them into a clearing in front of a high, intimidating wooden wall. The Tailor seemed to know where he was going while he walked straight towards it. A door became apparent, blending out of the wall. The sound of a crowd on the other side, and as the door opened a vibrant market erupted.
 
-Crowds of people moved around spreads of market stalls. They stretched into the distance, as far as Tom could see amongst the crowd. What looked like an oppressive wall on one side was less impressive the other, as it stopped short, in ruins, before it could make a complete semicircle around the market.
+Crowds of people shuffled around market stalls. It all stretched into the distance as far as Tom could see. What looked like an oppressive wall on one side was less impressive the other, as it stopped short, in ruins, before it could make a complete semicircle around the market.
 
 The Tailor stepped to one side raising an arm to pause Tom. He looked across evenly spread stalls. Somewhere, someone was cooking chicken, and a further away over the sound of the crowd a piper played. Suddenly, somebody near them shouted, but a quick glance up Tom saw it was nothing to do with them. The Tailor took a deep breath: “This is where trappers and miners meet.”, he said regretfully. “Let's get this over with.”
 
