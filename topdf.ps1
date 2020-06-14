@@ -378,8 +378,9 @@ pandoc --css epubstyle.css `
 Write-Output "... made The-Return-of-Tom-Thumb-single-chapter-one.html..."
 
 #pandoc --css epubstyle.css 
-pandoc `
---metadata cover-image=cover_small.png 	`
+pandoc --css ./typo-today/css `
+--resource-path=./;./typo-today/css;./typo-today/img;./typo-today/js `
+--metadata cover-image=cover_small.png `
   "title.md" `
   The-Return-of-Tom-Thumb.md `
   -o The-Return-of-Tom-Thumb.html --self-contained --standalone
