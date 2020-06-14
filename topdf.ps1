@@ -369,21 +369,21 @@ Write-Output "... made The-Return-of-Tom-Thumb.epub... (epub v3)"
 
 Write-output "# Appendix A-1" | Out-File "Prose - Appendix1-1.md" -Append
 
-pandoc --css epubstyle.css `
-  --epub-cover-image=cover_small.png 	`
-   "title.md" 				`
-   chapter-one-extra.md,   
-  "The-Return-of-Tom-Thumb-single-chapter-one.md" 		`
-  -o The-Return-of-Tom-Thumb-single-chapter-one.html --metadata-file=metadata_v3.yaml --self-contained --standalone
+pandoc "title.md" chapter-one-extra.md, "The-Return-of-Tom-Thumb-single-chapter-one.md" `
+  -o The-Return-of-Tom-Thumb-single-chapter-one.html `
+  --css=./htmlstyle.css --self-contained --standalone
 Write-Output "... made The-Return-of-Tom-Thumb-single-chapter-one.html..."
 
 #pandoc --css epubstyle.css 
-pandoc --css ./typo-today/css `
---resource-path=./;./typo-today/css;./typo-today/img;./typo-today/js `
---metadata cover-image=cover_small.png `
-  "title.md" `
-  The-Return-of-Tom-Thumb.md `
-  -o The-Return-of-Tom-Thumb.html --self-contained --standalone
+pandoc "title.md" The-Return-of-Tom-Thumb.md -o The-Return-of-Tom-Thumb.html `
+--css=./htmlstyle.css `
+--standalone --self-contained 
+
+# pandoc "title.md" The-Return-of-Tom-Thumb.md -o The-Return-of-Tom-Thumb.html `
+# --css=.\typo-today\css\stylesheet.css `
+# --resource-path=".\typo-today\css;.\typo-today\img;.\typo-today\js" `
+# --metadata cover-image=cover_small.png `
+# --standalone
 Write-Output "... made The-Return-of-Tom-Thumb.html..."
 
 #--css epubstyle.css `
