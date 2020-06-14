@@ -66,9 +66,9 @@ Tom built a picture in her mind of towns further south: of people and lifestyles
 
 Kim had ignored the two while they were talking. All the time he had been wondering how the town's people choose which building to sleep in. He was expecting to fight for space, but he was not sure how it worked here.
 
-The Tailor did not notice their naivety: “Let’s get to the inn.”, and they followed him, walking slowly.
+The Tailor did not notice their naivety: “Let’s get to the inn.”, and they followed, walking slowly.
 
-The Tailor gestured towards the cow: “I doubt she will be allowed inside.”, adding to the cow: “Sorry old girl.”. Turning to Tom and Kim, his palms facing them; asking them to wait: “I’ll talk to the innkeeper, see if we can stay in the barn.”
+The Tailor gestured towards the cow: “I doubt she will be allowed inside.”, addressing the cow directly: “Sorry old girl.”. There was Muffled sound and music comming from the lit building they approached. Before entering The Tailor turned to Tom and Kim, his palms up: “I’ll talk to the innkeeper, see if we can stay in the barn. You two wait here, keep an eye on the cow.”
 
 Tom wondered what an innkeeper was. She built an imaginary picture of a large man. He had a solid club and a serious face. She did not want to get the attention of the innkeeper. So she did as The Tailor suggested; stopped and waited. Kim seemed to have reached the same conclusion.
 
