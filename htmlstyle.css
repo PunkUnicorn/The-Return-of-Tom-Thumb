@@ -4,7 +4,7 @@ body {
     background-size: cover;
     background-image: url(./old-paper-by-grunge-HALF.jpg); 
     background-attachment: fixed; */
-    font-size: x-large;
+    font-size: large;
     margin: 4%;
     /* transform-box: view-box; */
     width: unset;
