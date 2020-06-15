@@ -17,6 +17,10 @@ body {
 @media (min-width:1025px) {body { font-size: x-large; margin: 5%; width: 90%; }/* big landscape tablets, laptops, and desktops */ }
 @media (min-width:1281px) {body { font-size: x-large; margin: 5%; width: 90%; }/* hi-res laptops and desktops */ }
 
+#TOC {
+  font-size: small;
+  font-family: "Courier New", Courier, monospace;
+}
 /* @media (max-width: 812px) {
   body { 
     font-size: x-large; margin: 10%; width: 200%;
