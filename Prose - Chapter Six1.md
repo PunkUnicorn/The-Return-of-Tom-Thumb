@@ -14,9 +14,9 @@ The Tailor stepped to one side raising an arm to pause Tom. He looked across eve
 
 Tom walked directly behind The Tailor; it was easy following him through the crowd. Stalls either side, each one a world of it's own; Tom saw one with arrays of dried meats. It neighboured a stall displaying increasing sizes of metal hoops. They lay next to long, thin, wooden poles. Tom wondered what these were for?
 
-The other side of the muddy walkway, through a happenstance gap in the crowd, a vendor surrounded by bolts of multicoloured, satin cloth. He was arguing with a rotund customer. Someone behind them laughed. The cloth merchant raised his voice; shrill pierced through the crowd in a language Tom did not understand.
+The other side of the muddy walkway, through a happenstance gap in the crowd, a vendor surrounded by bolts of multicoloured, satin cloth. He was arguing with a rotund customer. Someone behind them laughed. The cloth merchant raised his shrill voice; it pierced through the crowd in a language Tom did not understand.
 
-But they hurried past them all. A steady metallic banging echoed ahead, pulses of three. Each hit rattled the back of Toms teeth, but it's echo played a beautiful tone behind her. “Oh good,”, The Tailor exclaimed, “hes in residence.”, and he extended his hand towards Tom, “Climb up.”, and Tom scrambled up to The Tailor's shoulders, easily finding steps along his side.
+But they hurried past him, towards a steady metallic banging echoed ahead, pulses of three. Each hit rattled the back of Toms teeth, but it's echo played a beautiful tone behind her. “Oh good,”, The Tailor exclaimed, “hes in residence.”, and he extended his hand towards Tom, “Climb up.”, and Tom scrambled up to The Tailor's shoulders, easily finding steps along his side.
 
 The view was an image she would never forget: the variety of people, clothes, and trestle benches. Each bench never the same as another, all fully ladened. The crowed bobbed, a sea of heads. A group of fine hats with shimmering feathers standing out in the crowd, and next to them a small group of shaggy, roughly fur-clad men.
 
