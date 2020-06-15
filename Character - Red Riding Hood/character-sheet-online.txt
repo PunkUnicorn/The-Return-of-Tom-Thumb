@@ -1,0 +1,56 @@
+http://dnd3rd.sourceforge.net/
+Below the line is the contents of the link 'load/save' format. Click load file and cut and past the below into it
+-----------------------------------
+Player 
+Name Red Riding Hood
+Race Human
+RaceNum 0
+StartingClass 8
+Barbarian 0
+Bard 0
+Cleric 0
+Druid 0
+Fighter 0
+Monk 0
+Paladin 0
+Ranger 0
+Rogue 1
+Sorcerer 0
+Wizard 0
+Alignment 5
+Religion 0
+Strength 7 7
+Dexterity 14 14
+Constitution 12 12
+Intelligence 14 14
+Wisdom 9 9
+Charisma 16 16
+Money 130
+BaseAttackBonus 0
+FortitudeSave 0
+WillSave 2
+ReflexSave 2
+HitPoints 7
+ArmourBonus 0
+ArmourIndex -1
+ShieldIndex -1
+Skill 0 2
+Skill 2 6
+Skill 5 4
+Skill 7 2
+Skill 12 4
+Skill 16 6
+Skill 23 4
+Skill 28 4
+Skill 30 1
+Skill 31 4
+Skill 33 1
+Skill 35 4
+Skill 36 1
+Skill 39 4
+Feat 4 1
+Feat 59 1
+Feat 72 1
+Feat 87 1
+Language 4
+NOTES 

@@ -6,11 +6,11 @@ The wall stopped at a grove. On one side the field continued, the other: a thick
 
 Working his pack off his back, he sat on the fallen tree and almost instantly fell asleep.
 
-When The Prince woke the wind had picked up, the branches whistle. Clouds had gathered, it looked like a storm might be coming. This was exciting, a chance to use his equipment. But more than that, he felt his life on the road was beginning.
+When The Prince woke the wind had picked up, the branches whistled. Clouds had gathered, it looked like a storm might be coming. This was exciting, a chance to use his equipment. But more than that, he felt that his life on the road was beginning.
 
-His gauntlets off, he pried the pack's buckles open. The canvas skin of the backpack soaked through, the straps were difficult to work free.
+With his gauntlets off, he pried the pack's buckles open. The canvas backpack was soaked through, the straps were difficult to work free.
 
-Unbuckled, he pulled out his large, tarred canvas sheet, it would make his tent. Unwieldy in the wind, the large sheet flapped wildly. He pegged the first corner down with a stomp. He fastened the other corner of the tent sheet to the edge of his makeshift seat. It was a crude bivouac, but it should suffice. Some more driven pegs and The Prince thought he had built enough of a shelter to withstand the weather.
+Unbuckled, he pulled out his large, tarred canvas sheet. It would make his tent. Unwieldy in the wind, the large sheet flapped wildly. The first peg driven quickly into the ground with a stomp. He fastened the other corner of the sheet to the edge of his makeshift seat. It was a crude bivouac, but it should suffice. Some more driven pegs and The Prince thought he had built enough of a shelter to withstand the weather.
 
 Inside the makeshift shelter, shielded from the wind, he nestled down and listened to his internal chatter. It fed him concerns which he dismissed; the isolation giving him safety. Wind outside barraged unsuccessfully, whipping aggressively. But the pegs, the rope and the canvas won decisively. With each victory The Prince fell deeper and deeper into sleep.
 

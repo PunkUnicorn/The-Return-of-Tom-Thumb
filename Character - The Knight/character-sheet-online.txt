@@ -1,0 +1,57 @@
+http://dnd3rd.sourceforge.net/
+Below the line is the contents of the link 'load/save' format. Click load file and cut and past the below into it
+-----------------------------------
+Player 
+Name The Knight
+Race Human
+RaceNum 0
+StartingClass 4
+Barbarian 0
+Bard 0
+Cleric 0
+Druid 0
+Fighter 2
+Monk 0
+Paladin 0
+Ranger 0
+Rogue 0
+Sorcerer 0
+Wizard 0
+Alignment 1
+Religion 0
+Strength 16 16
+Dexterity 12 12
+Constitution 16 16
+Intelligence 16 16
+Wisdom 14 14
+Charisma 9 9
+Money 900
+BaseAttackBonus 2
+FortitudeSave 3
+WillSave 0
+ReflexSave 0
+HitPoints 23
+ArmourBonus 0
+ArmourIndex -1
+ShieldIndex -1
+Skill 4 2
+Skill 5 1
+Skill 9 1
+Skill 13 7
+Skill 16 4
+Skill 25 3
+Skill 32 3
+Skill 33 4
+Feat 3 1
+Feat 4 1
+Feat 5 1
+Feat 6 1
+Feat 13 1
+Feat 14 1
+Feat 64 1
+Feat 74 1
+Feat 84 1
+Feat 87 1
+Feat 99 1
+Language 4
+NOTES 
