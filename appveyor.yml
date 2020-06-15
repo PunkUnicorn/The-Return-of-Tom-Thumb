@@ -57,12 +57,11 @@ artifacts:
 on_success:
   - git clone https://github.com/PunkUnicorn/The-Return-Of-Tom-Thumb-Redirect-Static-Page.git
   - cd ./The-Return-Of-Tom-Thumb-Redirect-Static-Page
-  - ps: Add-Content "$HOME\.git-credentials" "https://$($env:pushback):x-oauth-basic@github.com`n"
   - git config --global credential.helper store
+  - ps: Add-Content "$USERPROFILE\.git-credentials" "https://$($env:pushback):x-oauth-basic@github.com`n"
   - ./getindex.cmd
-  - cmd: REM git config --global user.email "%APPVEYOR_REPO_COMMIT_AUTHOR_EMAIL%"
-  - cmd: REM git config --global user.name "%APPVEYOR_REPO_COMMIT_AUTHOR%"
-  - dir /od
+  - cmd: git config --global user.email "%APPVEYOR_REPO_COMMIT_AUTHOR_EMAIL%"
+  - cmd: git config --global user.name "%APPVEYOR_REPO_COMMIT_AUTHOR%"
   - git add ./public/index.html
   - git status
   - git commit -m "Auto update"
