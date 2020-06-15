@@ -56,10 +56,11 @@ artifacts:
 
 on_success:
   - git clone https://github.com/PunkUnicorn/The-Return-Of-Tom-Thumb-Redirect-Static-Page.git
+  - git config --global credential.helper wincred
   - cd ./The-Return-Of-Tom-Thumb-Redirect-Static-Page
   - ./getindex.cmd
-  - git config --global user.email "%APPVEYOR_REPO_COMMIT_AUTHOR_EMAIL%"
-  - git config --global user.name "%APPVEYOR_REPO_COMMIT_AUTHOR%"
+  - REM git config --global user.email "%APPVEYOR_REPO_COMMIT_AUTHOR_EMAIL%"
+  - REM git config --global user.name "%APPVEYOR_REPO_COMMIT_AUTHOR%"
   - git add ./public/index.html
   - git commit -m "Auto update"
   - git push
