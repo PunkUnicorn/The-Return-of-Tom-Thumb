@@ -60,8 +60,8 @@ on_success:
   - git config --global credential.helper store
   - ps: Add-Content "$USERPROFILE\.git-credentials" "https://$($env:pushback):x-oauth-basic@github.com`n"
   - ./getindex.cmd
-  - cmd: git config --global user.email "%APPVEYOR_REPO_COMMIT_AUTHOR_EMAIL%"
-  - cmd: git config --global user.name "%APPVEYOR_REPO_COMMIT_AUTHOR%"
+  - cmd: git config --global user.email "auto-update@email.com"
+  - cmd: git config --global user.name "Script"
   - git add ./public/index.html
   - cmd: git diff-index --quiet HEAD || git commit -m "Auto update %APPVEYOR_BUILD_NUMBER%"
   - git push
