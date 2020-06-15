@@ -63,7 +63,5 @@ on_success:
   - cmd: git config --global user.email "%APPVEYOR_REPO_COMMIT_AUTHOR_EMAIL%"
   - cmd: git config --global user.name "%APPVEYOR_REPO_COMMIT_AUTHOR%"
   - git add ./public/index.html
-  - git status
-  - git commit -m "Auto update"
-  - git status
+  - cmd: git diff-index --quiet HEAD || git commit -m "Auto update %APPVEYOR_BUILD_NUMBER%"
   - git push
