@@ -68,6 +68,5 @@ on_success:
   - git add ./public/The-Return-of-Tom-Thumb.epub
   - cmd: echo Auto update %APPVEYOR_BUILD_NUMBER%
   - cmd: git diff-index --quiet HEAD || git commit -m "Auto update %APPVEYOR_BUILD_NUMBER%"
-  - cmd: IF "%APPVEYOR_ACCOUNT_NAME%" == "Matthew" git push
-  - cmd: echo account name:%APPVEYOR_ACCOUNT_NAME%
-  - cmd: IF "%APPVEYOR_ACCOUNT_NAME%" == "Matthew" echo pushed
+  - cmd: IF "%APPVEYOR_ACCOUNT_NAME%" == "PunkUnicorn" git push
+  - cmd: IF NOT "%APPVEYOR_ACCOUNT_NAME%" == "PunkUnicorn" echo WHOS AWESOME?? YOUR AWESOEME!!!
