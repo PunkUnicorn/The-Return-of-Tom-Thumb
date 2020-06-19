@@ -64,8 +64,8 @@ on_success:
   - cmd: git config --global user.email "x-oauth-basic@github.com"
   - cmd: git config --global user.name "Script"
   - git add ./public/index.html
-  - git add ./public/The-Return-of-Tom-Thumb-with-music.mp3
-  - git add ./public/The-Return-of-Tom-Thumb.epub
+  - git add ./public/The-Return-of-Tom-Thumb-with-music-single-chapter-one.mp3
+  - git add ./public/The-Return-of-Tom-Thumb-single-chapter-one.epub
   - cmd: echo Auto update %APPVEYOR_BUILD_NUMBER%
   - cmd: git diff-index --quiet HEAD || git commit -m "Auto update %APPVEYOR_BUILD_NUMBER%"
   - cmd: IF "%APPVEYOR_ACCOUNT_NAME%" == "PunkUnicorn" git push
