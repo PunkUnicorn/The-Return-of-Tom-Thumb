@@ -26,7 +26,7 @@ Behind him the odd two were arguing; he could hear them: the girl with the boots
 
 The well dressed, travelling man turned around. He could see the two strangers with the cow. They had their backs to him, except the cow who faced him.
 
-He took a few steps forwards. The pair were silent. He stopped short, giving them adequate space. He introduced his presence with a polite cough. They turned around. Bowing slightly, spreading his hands; a gesture of openness.
+He took a few steps forwards. The pair were silent. He stopped short, giving them adequate space. He introduced his presence with a polite cough. They turned around and he bowed slightly, spreading his hands; a gesture of openness.
 
 “Greetings.” he said smiling, more shyly than his snappy clothes and confident posture would suggest.
 
