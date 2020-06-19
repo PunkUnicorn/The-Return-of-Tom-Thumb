@@ -9,6 +9,12 @@
 * Igot-knoider
 * rob-gee
 
+*Starring...*
+# Tom Thumb
+![Tom Thumb](TomThumb/Tom%20Thumbnail.jpg)
+
+INFP-T  https://www.youtube.com/watch?v=-XlwQyD2WVQ
+
 - - -
 > ## Read the book...
 > [![Read the book online](open-book.png)](https://www.ofoct.com/viewer/viewer_url.php?fileurl=https://ci.appveyor.com/api/projects/PunkUnicorn/the-return-of-tom-thumb/artifacts/The-Return-of-Tom-Thumb.epub)
@@ -37,12 +43,6 @@
 > ### Download the audiobook with background music
 > https://ci.appveyor.com/api/projects/PunkUnicorn/the-return-of-tom-thumb/artifacts/The-Return-of-Tom-Thumb-with-music.mp3
 - - -
-
-*Starring...*
-# Tom Thumb
-![Tom Thumb](TomThumb/Tom%20Thumbnail.jpg)
-
-INFP-T  https://www.youtube.com/watch?v=-XlwQyD2WVQ
 
 ___
 # The Tailor      
