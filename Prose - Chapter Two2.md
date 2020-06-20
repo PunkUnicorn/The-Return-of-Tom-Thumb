@@ -1,6 +1,6 @@
-Scooping a handful of apple flesh, she turned towards the house. The wind had picked up and swept against the walls. Roof tiles rattled. She had better get inside.
+Scooping a handful of apple flesh, she turned towards the house. The wind picked up, sweeping against the house's side. Roof tiles rattled. She had better get inside.
 
-She walked slowly towards the door, giving herself time to finish eating. As she drew close, the remains of the door latch caught Tom’s attention. It was a mangled, rusted wreck that had once been a latch. Tom had never known it any other way. The latch on the giant’s door was the first functioning one she had seen.
+She walked slowly towards the door, giving herself time to finish eating. As she drew close, the remains of the door latch caught her attention. It was a mangled, rusted wreck that had once been a latch. Tom had never known it any other way. The latch on the giant’s door was the first functioning one she had seen.
 
 Licking her hands clean and wiping them on her trousers, she wondered if their mangled latch could be bent back into shape. But then shadows of anxiety arrived as she remembered how others would react.
 
@@ -10,11 +10,11 @@ The overpowering smell of baked apples. The heavy door slammed shut behind her. 
 
 Bellies full, tensions were rising; competing voices. She did not look though, not a time to risk eye contact. She listened to judge tones of aggression: it was safe.
 
-Wiggling her toes, squashing them against the leather of the boots, the arguing grew more distant. Comfort won the battle for her senses.
+Wiggling her toes, squashing them against the leather of the boots, the arguing grew more distant, the luxury at her toes uninterrupted.
 
 The next morning Tom woke earlier than anyone else. With well practised tiptoeing she stepped between sleeping siblings, got to the door and slipped outside. The first thing she saw: brown, leaning apple core.
 
-The dazzling dawning sun spared the eye no mercy; the giant apple core was looking far from adequate. Tom realised her expectations had been wrong.
+The dazzling morning sun spared the eye no mercy; the giant apple core was looking far from adequate. Tom realised her expectations had been wrong.
 
 The house door opened quietly behind her, Tom looked round. It was her oldest and biggest brother, Kim. He joined her. Kim and Tom were close. Kim knew Tom was smart, and listened to her, but Kim reigned over the siblings with fists and brawn... including Tom.
 
