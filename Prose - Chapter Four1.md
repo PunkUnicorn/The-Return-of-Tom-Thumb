@@ -78,9 +78,9 @@ Kim was telling her something though. He had travelled without her, deliberately
 ![](TomThumb/tomthumb1_small.png)
 The hay inside had lost it's bliss, but it felt like the closest thing she had to a home right now, so she went inside.
 
-The Tailor was sitting up looking at her. His face and eyes showing sympathy. “Could I live here?” she thought to herself. However, would The Tailor live here? “Where are you going?” she asked him.
+The Tailor was sitting up looking at her. His face and eyes showing sympathy. “Could I live here?” she thought to herself. However, would The Tailor live here? She looked at him. “Would you live here?”, she asked, instantly regretting asking; obvious that he would not, but unsure what to say. “Where are you going?”, she heard herself ask.
 
-He thought about this but rebuffed it laying back: “That's a rather deep question for the morning. How about some breakfast first? We can philosophise later.”
+He thought about this but rebuffed it laying back: “They're rather deep questions for the morning. How about some breakfast first?”, then he stretched, and at the same time added: “We can philosophise later.”
 
 Tom deduced she was welcome to be with The Tailor for the foreseeable future, which was breakfast.  
 
