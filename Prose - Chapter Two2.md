@@ -8,9 +8,7 @@ And now aware of her family behind the door, defensive instincts pulled her back
 
 The overpowering smell of baked apples. The heavy door slammed shut behind her. In the thick air, for a second, Tom was sick of apples. But the feeling quickly passed; the apple had been a life saver. Besides, the pips in her pockets could be interesting. She joined the crowded table as inconspicuously as possible.
 
-Bellies full, tensions were rising; competing voices. She did not look though, not a time to risk eye contact. She listened to judge tones of aggression: it was safe.
-
-Wiggling her toes, squashing them against the leather of the boots, the arguing grew more distant, the luxury at her toes uninterrupted.
+Bellies full, tensions were rising; competing voices. She did not look though, not a time to risk eye contact. She listened to judge tones of aggression: it was safe. Wiggling her toes, squashing them against the leather of the boots, the arguing grew more distant. The luxury at her feet uninterrupted, she drifted in and out of daydreams.
 
 The next morning Tom woke earlier than anyone else. With well practised tiptoeing she stepped between sleeping siblings, got to the door and slipped outside. The first thing she saw: brown, leaning apple core.
 
