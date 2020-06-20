@@ -1,5 +1,8 @@
 /* This defines styles and classes used in the book */
 
+header:first-of-type::after {
+  content:'© 2020 Matthew Cocks & Jason Kiddle, Attribution 4.0 International (CC BY 4.0)'
+}
 body { 
   /*font-size: x-large;
   margin: 2%;

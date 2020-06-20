@@ -59,7 +59,10 @@ on_success:
   - cd ./The-Return-Of-Tom-Thumb-Redirect-Static-Page
   - git config --global credential.helper store
   - ps: Add-Content "$($env:USERPROFILE)\.git-credentials" "https://$($env:pushback):x-oauth-basic@github.com`n"
-  - ./getindex.cmd
+  - REM ./getindex.cmd
+  - cmd: copy ../The-Return-of-Tom-Thumb-single-chapter-one.html ./public/index.html
+  - cmd: copy ../The-Return-of-Tom-Thumb-single-chapter-one.epub ./public/
+  - cmd: copy ../The-Return-of-Tom-Thumb-with-music-single-chapter-one.mp3 ./public/
   - ps: Write-Output "$($env:USERPROFILE)\.git-credentials"
   - cmd: git config --global user.email "x-oauth-basic@github.com"
   - cmd: git config --global user.name "Script"
