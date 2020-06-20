@@ -20,7 +20,8 @@ test_script:
   - ps: cat ".\Croconocerous\croco_on_mostly_blank_except_some_grass_man.txt"
 
 artifacts:
-  - path: Chapter-*-Spelling.txt    name: spelling-errors
+  - path: Chapter-*-Spelling.txt    
+    name: spelling-errors
     type: file
   - path: Chapter-*-Words.txt
     name: word-matix
