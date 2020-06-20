@@ -6,9 +6,7 @@ The worst, however, was being singled out as a girl in front of her brothers. Sh
 
 Tom felt the surprise and shock again. For all the times she believed she had come to terms with this, it would return to unsettle her.
 
-Needing a distraction she glanced up to see what remained of the giant apple: it was thinner now, and mushy. She and her brothers had dragged this apple from the giant’s garden a few days ago.
-
-Safe at home Tom reflected on these strange events, back to the time they decided to take the apple. “My idea.” she remembered.
+Craving a distraction, she glanced up to see what remained of the giant apple: it was thinner now, and mushy. She and her brothers had dragged this apple from the giant’s garden a few days ago. Safe at home Tom reflected on these strange events, back to the time they decided to take the apple. “My idea.” she remembered.
 
 More than ever, she was aware her actions had saved them from starvation. The sense of relief was mixed with the anxiety of how close they were to leaving it behind. And yet amongst the fragile relief was a small, glimmering sense of pride; she had persuaded her brothers.
 
