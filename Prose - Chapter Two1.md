@@ -22,4 +22,4 @@ Soon she had an idea: one thing was clear, another giant apple would solve the h
 
 Jumping to her feet, she hurried straight towards the core. It was almost as tall as her. She paced around, looking for a likely spot. As quickly as she spotted one, she squared her knuckles and punched a level blow, ripping through the seed chamber. She gripped the breach and tore it wider.
 
-Sticking her arm in, the pulp ran up her sleave. She felt a pip. Pushing further, as far as possible, she mapped the pip's orientation. With a concerted shunt, the pip shifted to a better grip and she eased it out. Feeling triumphant, she freed another two. She fitted all three of the large pips into her pockets.
+Sticking her arm in, the pulp ran up her sleave. She felt a pip. Pushing further, as far as possible, she mapped the pip's orientation. With a concerted shunt, the pip shifted to a better grip and she eased it out. Feeling triumphant, she freed another two and fitted all three of the large pips into her pockets.
