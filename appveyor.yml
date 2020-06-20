@@ -20,8 +20,7 @@ test_script:
   - ps: cat ".\Croconocerous\croco_on_mostly_blank_except_some_grass_man.txt"
 
 artifacts:
-  - path: Chapter-*-Spelling.txt
-    name: spelling-errors
+  - path: Chapter-*-Spelling.txt    name: spelling-errors
     type: file
   - path: Chapter-*-Words.txt
     name: word-matix
@@ -60,9 +59,9 @@ on_success:
   - git config --global credential.helper store
   - ps: Add-Content "$($env:USERPROFILE)\.git-credentials" "https://$($env:pushback):x-oauth-basic@github.com`n"
   - REM ./getindex.cmd
-  - cmd: copy ../The-Return-of-Tom-Thumb-single-chapter-one.html ./public/index.html
-  - cmd: copy ../The-Return-of-Tom-Thumb-single-chapter-one.epub ./public/
-  - cmd: copy ../The-Return-of-Tom-Thumb-with-music-single-chapter-one.mp3 ./public/
+  - cmd: copy ..\The-Return-of-Tom-Thumb-single-chapter-one.html .\public\index.html
+  - cmd: copy ..\The-Return-of-Tom-Thumb-single-chapter-one.epub .\public\
+  - cmd: copy ..\The-Return-of-Tom-Thumb-with-music-single-chapter-one.mp3 .\public\
   - ps: Write-Output "$($env:USERPROFILE)\.git-credentials"
   - cmd: git config --global user.email "x-oauth-basic@github.com"
   - cmd: git config --global user.name "Script"
