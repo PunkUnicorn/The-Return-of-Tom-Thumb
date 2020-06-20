@@ -80,7 +80,7 @@ The hay inside had lost it's bliss, but it felt like the closest thing she had t
 
 The Tailor was sitting up looking at her. His face and eyes showing sympathy. “Could I live here?” she thought to herself. However, would The Tailor live here? She looked at him. “Would you live here?”, she asked, instantly regretting asking; obvious that he would not, but unsure what to say. “Where are you going?”, she heard herself ask.
 
-He thought about this but rebuffed it laying back: “They're rather deep questions for the morning. How about some breakfast first?”, then he stretched, and at the same time added: “We can philosophise later.”
+He thought about this but rebuffed it, laying back: “They're rather deep questions for the morning. How about some breakfast first?”, then he stretched, and at the same time added: “We can philosophise later.”
 
 Tom deduced she was welcome to be with The Tailor for the foreseeable future, which was breakfast.  
 
