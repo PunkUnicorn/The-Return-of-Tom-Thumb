@@ -112,6 +112,6 @@ Tom and Kim took their cue and started eating. It was simply the finest broth To
 
 Butter, bread and broth.
 
-“This is the life.”, thought Tom, looking through the open door as she ate. So it was (and not that Tom knew) she was looking southwards. She brought fantasies of The Tailors stories to mind, and embellished them with broth like this.
+“This is the life.”, thought Tom, looking through the open door as she ate. So it was (and not that Tom knew) she was looking southwards. She brought fantasies of The Tailor's stories to mind, and embellished them with broth like this.
 
 The south had broth and hay beds fit for princes.
