@@ -55,7 +55,7 @@ In the north, for Tom, The Tailor and Kim the weather was dry. There had been no
 
 Still groggy she pulled her calves taught; stretching her feet to a point, arms arching back. The stretch bringing a wave of lucidity.
 
-Dust darted through the sunbeams, they entered through knot holes. Nothing to worry about, no concern. There was no need to hide; she was free.
+Dust darted through the sunbeams, they entered through knot holes. Nothing to worry about, no concern. There was no need to hide.
 
 But there was something wrong.
 
@@ -69,24 +69,24 @@ Pushing the doors more, she stepped outside looking in the direction of the nort
 
 Tom stood looking northwards, imagining how far Kim might have gotten. The cow was slow; he would be close. She could catch him up, it would be easy.
 
-But she could not take a step; blocked by an elusive, buried reason. She did not want to become aware of the reason. Wherever he was, Kim was walking away, slowly. Again, she thought that she could catch him up.
+But she could not take a step; blocked by an elusive, buried reason. She did not want to become aware of the reason. Wherever he was, Kim was walking away, slowly. Again, she thought she could catch him up.
 
-Kim was telling her something though. He had travelled without her, deliberately, for a reason. The elusive reason gaining painful clarity: home was danger.
+Kim was telling her something though. He had travelled without her deliberately. The elusive reason gaining painful clarity: home was danger.
 
 ![](TomThumb/tomthumb1_small.png)
 The hay inside had lost it's bliss, but it felt like the closest thing she had to a home right now, so she went inside.
 
-The Tailor was sitting up, looking at her. His face and eyes showing sympathy. “Could I live here?” she thought to herself. However, would The Tailor live here? She looked at him. “Would you live here?”, she asked, instantly regretting asking; obvious that he would not, but unsure what to say. “Where are you going?”, she heard herself ask.
+The Tailor was sitting up, looking at her. His face and eyes showing sympathy. “Could I live here?” she thought to herself. However, would The Tailor live here? She looked at him. “Would you live here?”, she asked, instantly regretting asking; obvious that he would not. “Where are you going?”, she heard herself ask.
 
 He thought about this but rebuffed it, laying back: “That's a rather deep questions for the morning. How about some breakfast first?”, he stretched and simultaneously added: “We can philosophise later.”
 
-Tom deduced she was welcome to be with The Tailor for the foreseeable future, which was breakfast.  
+Tom deduced she was welcome to be with The Tailor for the foreseeable future, which was breakfast.
 
 - - -
 
-The Prince was glad to find the trail, being tired of fields, forest and ferns. A biting chill with little sun, at least not since the bright morning.
+The Prince was glad to find a trail, being tired of fields, forest and ferns. A biting chill with little sun, at least not since the bright morning.
 
-His clothes and pack soaked through. His muscles ached; he had never walked so far, with such weight. He could not stop yet though. The tall holly hedges obscured the hut which came into view round the corner, along the trail. A small opening with stables, a wooden shack and a grain silo.
+His clothes and pack soaked through. His muscles ached; he had never walked so far, with such weight. He could not stop yet though. The tall holly hedges obscured a hut which came into view round the corner. A small opening with stables, a wooden shack and a grain silo.
 
 The Prince stood outside the shack. The buildings were maintained to a high standard. A neatly painted door opened and an old man in a leather apron looked at The Prince.
 
@@ -94,7 +94,7 @@ The Prince stood outside the shack. The buildings were maintained to a high stan
 
 “Look at you, what a mess.” the old man replied informally. “You'd better come inside.” and left the door open as invitation. The Prince entered. A small room, bare wooden walls with a long trestle bench along the facing wall. The man had gone through another door to his left, which was open. The old man came back with an arm full of a folded robe, rough towels and underclothes.
 
-“Were you chasing a bolted horse all night?” the old man dryly questioned, adding: “through a stinking marsh?”, he snorted a laugh. The Prince flinched to respond, thinking fast to adapt his excuse, but the old man cut him off; “No! Don't explain, I don't want to know. If I wanted to know things I wouldn't be stationed on the marsh road.”
+“Were you chasing a bolted horse all night?” the old man dryly questioned, “through a stinking marsh?”, snorting a laugh. The Prince flinched to respond, thinking fast to adapt his excuse, but the old man cut him off; “No! Don't explain, I don't want to know. If I wanted to know things I wouldn't be stationed on the marsh road.”
 
 After putting the bundle of clothes on the bench, he noticed the open front door which he closed, giving The Prince an accusing glare. Seeing the pathetic soaked knight, the old man shook his head and patted The Prince on the shoulder: “Get yourself dry young man, can't have a knight looking sorry for himself.” and left through the other door, closing it behind him.
 
