@@ -51,9 +51,7 @@ He had calculated that first light was the time people would begin to realise he
 
 - - -
 
-In the north, for Tom, The Tailor and Kim the weather was dry. There had been no rain that night. Tom woke later than usual; it was already light. Groggy and disorientated she feared she had overslept her family.
-
-With great relief she remembered where she was; the sense of liberation was a surprise. This was the first time Tom recognised the burden of life at home.
+In the north, for Tom, The Tailor and Kim the weather was dry. There had been no rain that night. Tom woke later than usual; it was already light. Groggy and disorientated she feared she had overslept her family. With great relief she remembered where she was; the sense of liberation was a surprise. This was the first time Tom recognised the burden of life at home.
 
 Still groggy she pulled her calves taught; stretching her feet to a point, arms arching back. The stretch bringing a wave of lucidity.
 
@@ -67,20 +65,20 @@ Her feeling of comfort dislodged. She sat up to reassess. The Tailor was asleep.
 
 Getting up quietly Tom took a few careful steps towards the door, pushing it open; enough to peek outside. There was no trace of her brother.
 
-Pushing the doors more she stepped outside looking in the direction of the north trail. Kim and the cow were long gone, no trace of either.
+Pushing the doors more, she stepped outside looking in the direction of the north trail. Kim and the cow were long gone, no trace of either.
 
-Tom stood looking northwards, imagining how far Kim had gotten. The cow was slow; he would be close. She could catch him up, it would be easy.
+Tom stood looking northwards, imagining how far Kim might have gotten. The cow was slow; he would be close. She could catch him up, it would be easy.
 
-But she could not take a step; blocked by an elusive, buried reason. She did not want to become aware of the reason. Wherever he was, Kim was walking away slowly. Again, she thought she could catch him up.
+But she could not take a step; blocked by an elusive, buried reason. She did not want to become aware of the reason. Wherever he was, Kim was walking away, slowly. Again, she thought that she could catch him up.
 
 Kim was telling her something though. He had travelled without her, deliberately, for a reason. The elusive reason gaining painful clarity: home was danger.
 
 ![](TomThumb/tomthumb1_small.png)
 The hay inside had lost it's bliss, but it felt like the closest thing she had to a home right now, so she went inside.
 
-The Tailor was sitting up looking at her. His face and eyes showing sympathy. “Could I live here?” she thought to herself. However, would The Tailor live here? She looked at him. “Would you live here?”, she asked, instantly regretting asking; obvious that he would not, but unsure what to say. “Where are you going?”, she heard herself ask.
+The Tailor was sitting up, looking at her. His face and eyes showing sympathy. “Could I live here?” she thought to herself. However, would The Tailor live here? She looked at him. “Would you live here?”, she asked, instantly regretting asking; obvious that he would not, but unsure what to say. “Where are you going?”, she heard herself ask.
 
-He thought about this but rebuffed it, laying back: “They're rather deep questions for the morning. How about some breakfast first?”, then he stretched, and at the same time added: “We can philosophise later.”
+He thought about this but rebuffed it, laying back: “That's a rather deep questions for the morning. How about some breakfast first?”, he stretched and simultaneously added: “We can philosophise later.”
 
 Tom deduced she was welcome to be with The Tailor for the foreseeable future, which was breakfast.  
 
