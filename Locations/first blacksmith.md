@@ -1,4 +1,4 @@
-- [ ] Thick fat chimney
+- [x] Thick fat chimney
 
 
 
