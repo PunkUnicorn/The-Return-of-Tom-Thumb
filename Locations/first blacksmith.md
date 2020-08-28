@@ -3,6 +3,8 @@
 - Forge x 1
   - Impossibly big bellows
 - Anvils x many
+- Its always very hot in the blacksmiths, uncomfortably so
+- Sound is the only thing more overpowering than the smell of hot metal, smoke and sweat
 - Workbenches, with many tools (these will all be hand made)
   - Metal files on the bench
   - Hammers too
