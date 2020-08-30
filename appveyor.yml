@@ -60,15 +60,15 @@ on_success:
   - git config --global credential.helper store
   - ps: Add-Content "$($env:USERPROFILE)\.git-credentials" "https://$($env:pushback):x-oauth-basic@github.com`n"
   - REM ./getindex.cmd
-  - cmd: copy ..\The-Return-of-Tom-Thumb-single-chapter-one.html .\public\index.html
-  - cmd: copy ..\The-Return-of-Tom-Thumb-single-chapter-one.epub .\public\
-  - cmd: copy ..\The-Return-of-Tom-Thumb-with-music-single-chapter-one.mp3 .\public\
+  - cmd: copy ..\The-Return-of-Tom-Thumb.html .\public\index.html
+  - cmd: copy ..\The-Return-of-Tom-Thumb.epub .\public\
+  - cmd: copy ..\The-Return-of-Tom-Thumb-with-music.mp3 .\public\
   - ps: Write-Output "$($env:USERPROFILE)\.git-credentials"
   - cmd: git config --global user.email "x-oauth-basic@github.com"
   - cmd: git config --global user.name "Script"
   - git add ./public/index.html
-  - git add ./public/The-Return-of-Tom-Thumb-with-music-single-chapter-one.mp3
-  - git add ./public/The-Return-of-Tom-Thumb-single-chapter-one.epub
+  - git add ./public/The-Return-of-Tom-Thumb-with-music.mp3
+  - git add ./public/The-Return-of-Tom-Thumb.epub
   - cmd: echo Auto update %APPVEYOR_BUILD_NUMBER%
   - cmd: git diff-index --quiet HEAD || git commit -m "Auto update %APPVEYOR_BUILD_NUMBER%"
   - cmd: IF "%APPVEYOR_ACCOUNT_NAME%" == "PunkUnicorn" git push
