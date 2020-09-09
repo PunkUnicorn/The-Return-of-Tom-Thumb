@@ -3,8 +3,6 @@
 
 ### As translated from the tablets of “ancient Hadriel” by “Majalofalic the occasional”, one summers day. Parts marked 'unreadable' either missing or damaged.
 
-![](old-paper-by-grunge.jpg)
-
 #### 1)
 | O, Croconossorus of Fable, 
 
@@ -89,8 +87,6 @@
 | our hunger did go on and on,
 
 | our appetites so vast.
-
-![](old-paper-by-grunge.jpg)
 
 #### 10)
 | Until the oldest, biggest, wisest,
