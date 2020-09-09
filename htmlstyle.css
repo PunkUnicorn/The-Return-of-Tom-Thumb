@@ -16,7 +16,7 @@ body {
 @media (min-width:320px) {body { font-size: xx-large; margin: 8%; width: 200%; } /* smartphones, iPhone, portrait 480x320 phones */ }
 @media (min-width:481px) {body { font-size: x-large; margin: 10%; width: 200%;} /* portrait e-readers (Nook/Kindle), smaller tablets @ 600 or @ 640 wide. */ }
 @media (min-width:641px) {body { font-size: xx-large; margin: 5%; width: 140%; } /* portrait tablets, portrait iPad, landscape e-readers, landscape 800x480 or 854x480 phones */ }
-@media (min-width:961px) {body { font-size: x-large; margin: 5%; width: 100%; }/* tablet, landscape iPad, lo-res laptops ands desktops */ }
+@media (min-width:961px) {body { font-size: x-large; margin: 5%; width: 90%; }/* tablet, landscape iPad, lo-res laptops ands desktops */ }
 @media (min-width:1025px) {body { font-size: x-large; margin: 5%; width: 90%; }/* big landscape tablets, laptops, and desktops */ }
 @media (min-width:1281px) {body { font-size: x-large; margin: 5%; width: 90%; }/* hi-res laptops and desktops */ }
 
