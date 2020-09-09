@@ -125,7 +125,7 @@ table tfoot td {
   float: none;
 }
 
-section#a-croconossorus-tale * { 
+/*section#a-croconossorus-tale * { 
   font-family: cursive;
   font-size: 16px;
   margin: 4%;
@@ -143,7 +143,7 @@ section#a-croconossorus-tale * img {
   margin-top: -8px;
   padding: 0%;
   z-index: -1;
-}
+}*/
 
 /* https://friendsofepub.github.io/eBookTricks/ */
 element {
