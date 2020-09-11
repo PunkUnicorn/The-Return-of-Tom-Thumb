@@ -2,7 +2,7 @@
 
 Tom Thumb had been back home for several nights. As usual her thoughts were occupied, replaying the past troubling days: the terrifying giant, coming to terms with their parents leaving them to die in the forest.
 
-The worst, however, was being singled out as a girl in front of her brothers. She had not worried about this before, despite her father’s intimidating insistence he only had sons. But the words of the motherly giant echoed in her thoughts: “You think you can hide it? Oh, beautiful young thing, you can't hide it.”
+The worst, however, was being singled out as a girl in front of her brothers. She had not worried about this before, nor had they, despite her father’s intimidating insistence he only had sons. But the words of the motherly giant echoed in her thoughts: “You think you can hide it? Oh, beautiful young thing, you can't hide it.”
 
 Tom felt the surprise and shock again. For all the times she believed she had come to terms with this, it would return to unsettle her.
 
