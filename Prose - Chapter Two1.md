@@ -8,8 +8,6 @@ Tom felt the surprise and shock again. For all the times she believed she had co
 
 Craving a distraction, she glanced up to see what remained of the giant apple: it was thinner now, and mushy. She and her brothers had dragged this apple from the giant’s garden a few days ago. Safe at home Tom reflected on these strange events, back to the time they decided to take the apple. “My idea.” she remembered.
 
-More than ever, she was aware her actions had saved them from starvation. The sense of relief was mixed with the anxiety of how close they were to leaving it behind. And yet amongst the fragile relief was a small, glimmering sense of pride.
-
 Wiggling her toes, she felt the exquisite comfort in the soft leather of her boots. She could do that all day. She had been doing that all day.
 
 But now she had to focus on the present, which drew her attention back to the apple. It would keep them fed for two more days. The heavenly comfort of having enough food came with a nagging feeling. What was that nagging feeling? “Oh,” she thought, “it's only going to last two more days.”
