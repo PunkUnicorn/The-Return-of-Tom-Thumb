@@ -4,7 +4,7 @@ She walked slowly towards the door, giving herself time to finish eating. As she
 
 Licking her hands clean and wiping them on her trousers, she wondered if their mangled latch could be bent back into shape. But then shadows of anxiety arrived as she remembered how others would react.
 
-And now aware of her family behind the door, defensive instincts pulled her back: stay unnoticed, don’t change the latch; be invisible. Tom closed her mind, tensed her muscles and pulled the heavy door open.
+And now aware of her family behind the door, defensive instincts pulled her back: stay unnoticed. Tom closed her mind, tensed her muscles and pulled the heavy door open.
 
 The overpowering smell of baked apples. The heavy door slammed shut behind her. In the thick air, for a second, Tom was sick of apples. But the feeling quickly passed; the apple had been a life saver. Besides, the pips in her pockets could be interesting. She joined the crowded table as inconspicuously as possible.
 
