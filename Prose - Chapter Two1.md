@@ -14,7 +14,7 @@ But now she had to focus on the present, which drew her attention back to the ap
 
 With a sigh she pulled herself up to sit. The grass stalk in her mouth, now an inconvenience, spat out. “What I need is some kind of plan.”, she thought.
 
-Soon she had an idea: one thing was clear, another giant apple would solve the hunger problem. It was something. And then a moment of inspiration: a hidden treasure she had missed: the giant apple pips.
+But then she had an idea: one thing was clear, another giant apple would solve the hunger problem. It was something. And then a moment of inspiration: a hidden treasure she had missed: the giant apple pips.
 
 Jumping to her feet, she hurried towards the core. It was almost as tall as her. She paced around, looking for a good place to start. As quickly as she found a likely spot, she squared her knuckles and punched a level blow, ripping through to the seed chamber. Gripping the breach, she tore it wider.
 
