@@ -4,7 +4,7 @@ Tom Thumb had been back home for several nights. As usual her thoughts were occu
 
 The worst, however, was being singled out as a girl in front of her brothers. It had not been a problem before, despite her father’s intimidating insistence he only had sons. But the words of the motherly giant echoed in her thoughts: “You think you can hide it? Oh, beautiful young thing, you can't hide it.”
 
-Tom felt the surprise and shock again. For all the times she believed she had come to terms with this, it returned to unsettle her.
+Tom felt the surprise and shock again. For all the times she believed she had come to terms with this it returned to unsettle her.
 
 Distracting herself, she glanced to see what remained of the giant apple: it was thinner now, and mushy. She and her brothers had dragged this apple from the giant’s garden. Tom reflected on these strange events, to the time they decided to take the apple; it was her idea, they almost left it... almost.
 
