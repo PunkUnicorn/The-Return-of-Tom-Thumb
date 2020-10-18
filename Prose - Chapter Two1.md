@@ -1,8 +1,8 @@
 # Chapter Two
 
-Tom Thumb had been back home for several nights. As usual her thoughts were occupied, replaying the past troubling days: the terrifying giant, coming to terms with their parents leaving them to die in the forest.
+Tom Thumb had been back home for several nights. As usual her thoughts were occupied, replaying the past few days: the terrifying giant, coming to terms with their parents leaving them to die in the forest.
 
-The worst, however, was being singled out as a girl in front of her brothers. Neither she or her brothers had worried about this before, despite her father’s intimidating insistence he only had sons. But the words of the motherly giant echoed in her thoughts: “You think you can hide it? Oh, beautiful young thing, you can't hide it.”
+The worst, however, was being singled out as a girl in front of her brothers. It had not been a problem before, despite her father’s intimidating insistence he only had sons. But the words of the motherly giant echoed in her thoughts: “You think you can hide it? Oh, beautiful young thing, you can't hide it.”
 
 Tom felt the surprise and shock again. For all the times she believed she had come to terms with this, it would return to unsettle her.
 
