@@ -84,6 +84,42 @@ Tom deduced she was welcome to be with The Tailor for the foreseeable future, wh
 
 - - -
 
+Breakfast was as delicious, if not more so, than the stew the previous evening: eggs, bacon, dark bread and butter. Tom sneaked what she could into her pocket; a sausage. There was no way to put the mashed potato in her pocket, so she finished the lot. Potato had never tasted so good. “Do you eat like this all the time?”.
+
+“I try not to.”, he replied, pushing his empty plate forward. He cocked his chair on two legs, leaning his back against the wall, instead of the chair's back.
+
+“You asked me where I was going?”, he shuffled into a more relaxing position. “I'm a travelling tailor, I just travel.”
+
+Then, as if he had remembered something, he added: “And I do tailoring.”, using his finger to accentuate.
+
+“What's tailoring?”; she felt she could ask him.
+
+Leaning forward, mirthfully: “I thought you would never ask. Let's go and show you tailoring.”
+
+And he got up and walked towards the inn's door, beckoning Tom with his head; “Come on.”. A jaunty walk. He was enjoying this.
+
+Outside, Tom stood ridiculously. Her arms out straight and her legs apart. The Tailor worked under her arm with pins in his mouth. “And I'll do something with your hair.” he tried to say.
+
+“What are you doing?”, the tone of desperation giving The Tailor a clue; she probably wanted more explanation than the word 'tailoring'. He took the pins out of his mouth.
+
+“I'm bringing your jumper in, so it fits better round the shoulders, and waist.”, then he paused, pursing his lips, finally adding: “I say fits better, but what I mean is: fits better than not fitting whatsoever.”
+
+She felt exposed standing like this, but she trusted what The Tailor was doing; it must be important for travelling. He continued to sew around each underarm, and similarly on her trousers.
+
+He drew her away, from the small pile of fabric she was now standing in, and sat her down,  explaining: “Now to sort your hair out!”.
+
+She managed to look at what he had done to her jumper. It was less baggy, with a thick long stitch. It was well balanced against the other under-arm alteration. The excess length of trouser leg had been cut off and seamed, instead of roll-ups. But there was no opportunity to look closer; between looks, her head position was adjusted by a gentle hand. Sometimes, but not always, the touch was followed by the sound of snipping.
+
+“There...”, and he brought a small mirror to her face. Her hair had defined steps, but was still shaggy. “Just a tidy.”, he underplayed, and then paused. For a moment, he almost looked like he was going to say something, but it passed.
+
+Moving her arms around, testing, she was surprised at the lighter feeling. “That's good.”, she said, instantly regretting the vocal impulse. Kicking her legs, she inspected each landing. Now her trousers covered her boots more. That was convenient.
+
+The Tailor looked at her expectantly, as if she was going to elaborate. But she nodded with the minimum of approval. “The next town's not far”, he said, changing the subject, “we'll make it before lunch.”, and he turned southwards: “It's got the third worst inn in the world., You have to see it to believe it. Lets go.”
+
+They started walking. Suddenly, Tom had no idea what to expect.
+
+- - -
+
 The Prince was glad to find a trail, being tired of fields, forest and ferns. A biting chill with little sun, at least not since the bright morning.
 
 His clothes and pack soaked through. His muscles ached; he had never walked so far, with such weight. He could not stop yet though. The tall holly hedges obscured a hut which came into view round the corner. A small opening with stables, a wooden shack and a grain silo.
