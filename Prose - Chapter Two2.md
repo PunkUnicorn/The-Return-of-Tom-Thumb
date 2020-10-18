@@ -18,7 +18,7 @@ The house door opened quietly behind her, Tom looked round. It was her oldest an
 
 “You’re up early?”, Kim asked.
 
-She wanted to tell him of her plan to head to the village and sell the pips. It was a bold idea. She met his eyes as if to answer his question, but instead, she did not. Tom looked back towards the apple.
+She wanted to tell him of her plan to head to the village and sell the pips. It was a bold idea. She met his eyes as if to answer his question, but instead looked back towards the apple.
 
 “What you doin’?”; Kim's question was an accusation. She braced her upper body, relaxing her legs; ready to dodge. “I’m going to the village.” she replied reluctantly.
 
