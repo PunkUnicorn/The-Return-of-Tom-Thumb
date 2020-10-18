@@ -6,11 +6,11 @@ The worst, however, was being singled out as a girl in front of her brothers. It
 
 Tom felt the surprise and shock again. For all the times she believed she had come to terms with this, it returned to unsettle her.
 
-Distracting herself, she glanced to see what remained of the giant apple: it was thinner now, and mushy. She and her brothers had dragged this apple from the giant’s garden. Tom reflected on these strange events, to the time they decided to take the apple; it was her idea, they almost left it... almost.
+Distracting herself, she glanced to see what remained of the giant apple: it was thinner now, and mushy. She and her brothers had dragged this apple from the giant’s garden. Tom reflected on these strange events, to the time they decided to take the apple; it was her idea. They had almost left it behind... almost.
 
 Stretching her ankles, pulling her feet to a point, she felt the exquisite comfort in the soft leather of her boots. She could do that all day. She had been doing that all day.
 
-Reluctantly, letting go of the comfort, she opened her focus back to the present, which drew her attention to the apple. It would keep them fed for two more days. Knowing they had enough food came with a nagging feeling. What was that nagging feeling? “Oh,” she remembered, “it's only going to last two more days.”
+Reluctantly, letting go of comfort, she focused on the present, which drew her attention back to the apple. It would keep them fed for two more days. Knowing they had enough food came with a nagging feeling. What was that nagging feeling? “Oh,” she remembered, “it's only going to last two more days.”
 
 With a sigh she pulled herself up to sit. The grass stalk in her mouth, now an inconvenience, spat out. “What I need is some kind of plan.”, she thought.
 
@@ -18,4 +18,4 @@ But then she had an idea: one thing was clear, another giant apple would solve t
 
 Jumping to her feet, she hurried towards the core. It was almost as tall as her. She paced around, looking for a good place to start. As quickly as she found a likely spot, she squared her knuckles and punched a level blow, ripping through to the seed chamber. Gripping the breach, she tore it wider.
 
-Sticking her arm in, the pulp ran up her sleave. She felt a pip. Pushing further, as far as possible, she mapped the pip's orientation. With a concerted shunt, the pip shifted to a better grip and she eased it out. Feeling triumphant, she freed another two and fitted all three of the large pips into her pockets.
+Sticking her arm in, pulp running up her sleave, she felt a pip. Pushing further, as far as possible, she mapped the pip's orientation. With a concerted shunt she shifted the pip towards a better grip, and eased it out. Feeling triumphant she freed another two, fitting all three of the large pips in her pockets.
