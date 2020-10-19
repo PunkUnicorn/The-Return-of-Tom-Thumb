@@ -12,7 +12,7 @@ Stretching her ankles, pulling her toes to a point, she felt the exquisite comfo
 
 Reluctantly, letting go of comfort, she allowed her awareness back to the present; they had the apple, it would keep them fed for two more days. Knowing they had enough food came with a nagging feeling. What was that nagging feeling? “Oh,” she remembered, “it's only going to last two days.”
 
-With a sigh, she pushed herself up to a sit. The grass stalk in her mouth, now an inconvenience, spat out. “What I need is some kind of plan.”, she thought.
+With a sigh, she pushed herself up to sit. The grass stalk in her mouth, now an inconvenience, spat out. “What I need is some kind of plan.”, she thought.
 
 But then she had an idea: one thing was clear, another giant apple would solve the hunger problem. It was something. And then a moment of inspiration: a hidden treasure she had missed: the giant apple pips.
 
