@@ -4,13 +4,13 @@
 
 Somebody slumped on the floor against the side a building, blocking their path. “He's drunk.”: The Tailor explained. They maneuvered single file around him.
 
-Weaving through accidental alleyways, squeezing past competing buildings, they startled rats which darted away in panic. Judging by the size of the rats, Tom knew people here ate well. That combined with the smell of waste.
+Weaving through accidental alleyways, squeezing past competing buildings, they startled rats which darted away, panicked. Judging by the size of the rats, and the smell of rotting food, Tom knew people here ate well.
 
-Leaving the maze between buildings, they entered a muddy clearing which soon led to a high, intimidating wooden wall. The Tailor seemed to know where he was going but walked straight towards the wall. But then Tom could see a door blended into it. She could hear a crowd on the other side. As The Tailor opened the door, Tom was inundated by bewildering sights and sounds.
+Leaving the maze of buildings, they entered a muddy clearing which soon led to a high, intimidating wooden wall. The Tailor seemed to know where he was going but walked straight towards the wall. But then Tom could see a door blended into it. She could hear a crowd on the other side. As The Tailor opened the door, Tom was inundated with bewildering sights and sounds.
 
-Bustling people shuffled around market stalls which stretched into the distance. What looked like an oppressive wall on one side stopped short, in ruins, before it could even make a semicircle around the market.
+Bustling people shuffled around market stalls, stretching into the distance. What looked like an oppressive wall on one side stopped short, in ruins, before it could even make a semicircle around the market.
 
-The Tailor stepped to one side pulling Tom with him. He looked across the stalls, she could smell chicken being cooked. Further away, over the sound of the crowd, a piper played. Somebody near them shouted at them. Tom quickly looked up, but it had nothing to do with them, it was for somebody else. The Tailor took a deep breath: “This is where trappers and miners meet.”, he shared, regretfully. “Come on, let's get this over with.”
+The Tailor stepped to one side pulling Tom with him. He looked across the stalls, she could smell chicken being cooked. Further away, over the sound of the crowd, a piper played. Somebody shouted at them. Tom quickly looked up, but it had nothing to do with them, it was for somebody else. The Tailor took a deep breath: “This is where trappers and miners meet.”, he shared, regretfully. “Come on, let's get this over with.”
 
 Tom fell in behind The Tailor, it was easier following his steps through the crowd. Her attention lost to the businesses around her, each stall a world of its own. One had arrays of hanging, dried meats. Its neighbour: a stall displaying increasing sizes of metal hoops. Long, thin, wooden poles lay next to them. Tom wondered what these were for?
 
