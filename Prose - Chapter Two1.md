@@ -1,6 +1,6 @@
 # Chapter Two
 
-Tom Thumb had been back home for several nights. As usual her thoughts were occupied, replaying the past few days: the terrifying giant, coming to terms with their parents leaving them to die in the forest.
+Tom Thumb had been back home for several nights. As usual her thoughts were occupied, replaying the past few days: the terrifying giant, their parents leaving them to die in the forest.
 
 The worst, however, was being singled out as a girl in front of her brothers. It had not been a problem before, despite her father’s intimidating insistence he only had sons. But the words of the motherly giant echoed in her thoughts: “You think you can hide it? Oh, beautiful young thing, you can't hide it.”
 
@@ -11,8 +11,6 @@ Distracting herself, she glanced to see what remained of the giant apple: it was
 Stretching her ankles, pulling her toes to a point, she felt the exquisite comfort in the soft leather of her boots. She could do that all day. She had been doing that all day.
 
 Reluctantly, letting go of comfort, she allowed her awareness back to the present; they had the apple, it would keep them fed for two more days. Knowing they had enough food came with a nagging feeling. What was that nagging feeling? “Oh,” she remembered, “it's only going to last two days.”
-
-With a sigh she pushed herself up to sit. The grass stalk in her mouth, now an inconvenience, spat out. “What I need is some kind of plan.”, she thought.
 
 But then she had an idea: one thing was clear, another giant apple would solve the hunger problem. It was something. And then a moment of inspiration: a hidden treasure she had missed: the giant apple pips.
 
