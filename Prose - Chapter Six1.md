@@ -2,7 +2,7 @@
 
 “Here it is.”, The Tailor pointed towards the town ahead. Tom wanted to stop and rest but The Tailor sped up. “I need to see the smithy, get a few things while we're here.”, but he did not mention the stench of rotting vegetables.
 
-Somebody was slumped on the floor infront of them, vaugley against the side a building, stretched out, blocking their path. “He's drunk.”; The Tailor explained, as they maneuvered single file around him.
+Somebody was slumped on the floor infront of them, vaugley against the side a building, stretched out, blocking their path. “He's drunk.”; The Tailor explained as they maneuvered single file around him.
 
 Weaving through accidental alleyways, squeezing past competing buildings, they startled rats which darted away panicked. Judging by the size of the rats, and the smell of rotting food, Tom knew people here ate well.
 
