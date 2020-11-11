@@ -17,24 +17,20 @@ INFP-T  https://www.youtube.com/watch?v=-XlwQyD2WVQ
 
 - - -
 > ## Read the book...
-> [![Read the book online](open-book.png)](https://www.ofoct.com/viewer/viewer_url.php?fileurl=https://ci.appveyor.com/api/projects/PunkUnicorn/the-return-of-tom-thumb/artifacts/The-Return-of-Tom-Thumb.epub)
+> [![Read the book online](open-book.png)](https://gray-island-014657703.azurestaticapps.net/)
 > 
-> [*Click here to read the book online*](https://www.ofoct.com/viewer/viewer_url.php?fileurl=https://ci.appveyor.com/api/projects/PunkUnicorn/the-return-of-tom-thumb/artifacts/The-Return-of-Tom-Thumb.epub) 
-> 
+> [*Click here to read the book online*](https://gray-island-014657703.azurestaticapps.net/) 
+>
 >
 > # :book:
 > ### Download the epub
 > https://ci.appveyor.com/api/projects/PunkUnicorn/the-return-of-tom-thumb/artifacts/The-Return-of-Tom-Thumb.epub
->
-> ### View the HTML version online
-> https://gray-island-014657703.azurestaticapps.net/
 >
 > ### Download the HTML version
 > https://ci.appveyor.com/api/projects/PunkUnicorn/the-return-of-tom-thumb/artifacts/The-Return-of-Tom-Thumb.html
 >
 > ### Download the text version
 > https://ci.appveyor.com/api/projects/PunkUnicorn/the-return-of-tom-thumb/artifacts/The-Return-of-Tom-Thumb.txt
->
 >
 > # :headphones:
 > ### Download the audiobook
