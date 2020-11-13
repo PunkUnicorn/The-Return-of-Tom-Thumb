@@ -24,7 +24,7 @@ At the blacksmith's entrance, The Tailor did not break stride to pass under the 
 
 In front of them stood three men; around an anvil-workbench. One banged a glowing strip of metal. The other two concentrated on piers they clasped. None of them looked towards Tom or The Tailor, or even noticed them.
 
-The Tailor just stood there. They just inside the doorway. Tom wanted him to move with rising anxiety that she was blocking the doorway, she slid off The Tailor's shoulders. Two people approached as she landed on the floor behind The Tailor. Partially watching from behind him she saw a large, burley man with a tall thin boy straddling just behind him.
+The Tailor just stood there, just inside the doorway. Tom wanted him to move, feeling a rising anxiety from blocking the doorway so conspicuously. She slid off The Tailor's shoulders. Two people approached as she landed on the floor behind him. She partially watched from behind him; a large, burley man with a tall thin boy straddling just behind him.
 
 "Hello again", The Tailor said cheerfylly to the burley man.
 
