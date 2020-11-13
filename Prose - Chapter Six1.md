@@ -30,15 +30,15 @@ The Tailor just stood there, just inside the doorway. Tom wanted him to move, fe
 
 He responded with a grunt. "You're back again, too soon."
 
-"I couldn't stay away", The Tailor explained. The burley man snorted a curt laugh. The three at the anvil started banging again which interrupted The burley man as he was about to speak. He stopped and guestured something to the thin lad, who went away, The burley man then herded Tom and The Tailor outside, back through the doorway. The bright winter sun hit them, that and a sharp, cold, biting gust; a stark contrast to the dim, hot interior.
+"I couldn't stay away", The Tailor explained. The burley man snorted a curt laugh. The three at the anvil started banging again which interrupted him as he was about to say something. He guestured the thin lad to leave then herded Tom and The Tailor back outside through the doorway. The bright winter sun hit them, with a sharp cold gust. It was a stark contrast to the dim, hot interior.
 
 "So admit it, you're lost.", the burley man accused The Tailor.
 
-"No, I came back so I could paint your Inn.", The Tailor extended both arms rightwards, at different heights, so to frame the filthy building behind them.
+"No, I came back so I could make an oil painting of your Inn.", The Tailor extended both arms rightwards, at different heights, so to frame the filthy building behind them.
 
-The burley man laughed, "We have some whores you should paint then. That... that and my fat hairy arse.". He brought a small wooden pipe to his eye, squinting inside. Then, he rapped it twice, sharply against the building's wall.
+The burley man snorted, "Then we've got some whores you should meet, paint them. That... and my fat hairy arse.". He brought a small wooden pipe to his eye, squinted inside, then rapped it twice, sharply against the building's wall.
 
-"We won't stay long. Just a quick holiday this time.". Tom listend to The Tailors words. Tom knew he was being sarcastic but to her, it sort of was a holiday.
+"We won't stay long. Just a quick holiday this time.". Tom listend to The Tailor's words. She knew he was being sarcastic, but to her, it *was* sort of a holiday.
 
 "Don't forget to see the sights:", the burley man offered, extending his arm to something behind The Tailor. Tom looked. The Tailor twisted around to see; a staggering drunkard, almost tripping out of the Inn's door behind them. The drunk man slowed walking, then stopped. He seemed unsure. But then he was sure, and quickly bent forward, dropped to his knees, vomitting along the path in front of him. The splattering went quite far along the path, down three shallow steps.
 
