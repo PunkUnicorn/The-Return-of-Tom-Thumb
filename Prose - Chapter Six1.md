@@ -26,7 +26,7 @@ In front of them stood three men; around an anvil-workbench. One banged a glowin
 
 The Tailor just stood there, just inside the doorway. Tom wanted him to move, feeling a rising anxiety from blocking the doorway so conspicuously. She slid off The Tailor's shoulders. Two people approached as she landed on the floor behind him. She partially watched from behind him; a large, burley man with a tall thin boy straddling just behind him.
 
-"Hello again", The Tailor said cheerfylly to the burley man.
+"Hello again", The Tailor said cheerfully to the burley man.
 
 He responded with a grunt. "You're back again, too soon."
 
@@ -36,11 +36,11 @@ He responded with a grunt. "You're back again, too soon."
 
 "No, I came back so I could paint your Inn.", The Tailor extended both arms rightwards, at different heights, so to frame the filthy building behind them.
 
-The burley man laughed, "We have some whores you should paint then. That, and my fat hairy arse.". He brought a small wooden pipe to his eye, squinting inside. Then, he rapped it twice, sharply against the building's wall.
+The burley man laughed, "We have some whores you should paint then. That... that and my fat hairy arse.". He brought a small wooden pipe to his eye, squinting inside. Then, he rapped it twice, sharply against the building's wall.
 
 "We won't stay long. Just a quick holiday this time.". Tom listend to The Tailors words. Tom knew he was being sarcastic but to her, it sort of was a holiday.
 
-"Don't forget to see the sights:", the burley man offered, extending his arm to something behind The Tailor. Tom looked. The Tailor twisted around to see; a staggering drunkard, almost tripping out of the Inn's door behind them. The drunk man slowed walking, then stopped. He seemed unsure. But then he was sure, and quickly bent forward, dropped to his knees, vomitting along the path in front of him. The splattering went quite far along the path, and almost made the journey down three shallow steps.
+"Don't forget to see the sights:", the burley man offered, extending his arm to something behind The Tailor. Tom looked. The Tailor twisted around to see; a staggering drunkard, almost tripping out of the Inn's door behind them. The drunk man slowed walking, then stopped. He seemed unsure. But then he was sure, and quickly bent forward, dropped to his knees, vomitting along the path in front of him. The splattering went quite far along the path, down three shallow steps.
 
 The burley man looked back towards the pipe in his hand. He started pinching leaves from a small leather pouch in the other. He glance-pointed back towards the drunkard: "Looks like you've got a rival artist."
 
