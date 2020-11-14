@@ -36,12 +36,12 @@ He responded with a grunt. “You’re back again, too soon.”
 
 “No, I came back so I could make an oil painting of your Inn.”, The Tailor extended both arms rightwards, at different heights, so to frame the filthy building behind them.
 
-The burley man snorted, “Then we’ve got some whores you should meet. Paint them, and my fat hairy arse.”. He brought a small, wooden pipe to his eye, squinting inside. He rapped it twice, sharply against the building’s wall.
+The burley man snorted, “Then we’ve got some whores you should meet. Paint them; them and my fat hairy arse.”. He brought a small, wooden pipe to his eye, squinted inside. He rapped it twice, sharply against the building’s wall.
 
 “We won’t stay long. Just a quick holiday this time.”. Tom listend to The Tailor’s words. She knew he was being sarcastic, but to her, it was sort of a holiday.
 
-“Don’t forget to see the sights.”, the burley man offered, extending his arm to something behind The Tailor. Tom looked. The Tailor twisted around to see: a staggering drunkard, almost tripping out of the Inn’s door behind them. The drunk man slowed walking, then stopped. He seemed unsure. But then he was sure, and quickly bent forward, dropped to his knees, and vomitted along the path in front of him. The splattering went quite far along the path, down three shallow steps.
+“Don’t forget to see the sights.”, the burley man offered, extending his arm to something behind The Tailor. Tom looked. The Tailor twisted around to see: a staggering drunkard, almost tripping out of the Inn’s door behind them. The drunk man slowed walking, then stopped. He seemed unsure. But then he was sure, and quickly bent forward, dropped to his knees, and vommitted along the path in front of him. The splattering went quite far along the path, down three shallow steps.
 
-The burley man looked back towards the pipe in his hand. He started pinching leaves from a small leather pouch in the other. He glance-pointed back towards the drunkard: “Looks like you’ve got a rival artist.”
+The burley man looked back towards the pipe in his hand. He started pinching leaves from a small leather pouch in the other. He nodded slightly, glance-pointing back towards the drunkard: “Looks like you’ve got a rival artist.”
 
 The Tailor laughed.
