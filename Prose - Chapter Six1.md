@@ -16,29 +16,29 @@ Tom fell in behind The Tailor, it was easy following his steps through the crowd
 
 On the far side of the muddy walkway, through a happenstance gap in the crowd, a vendor, surrounded by tall bolts of multicoloured cloth, was arguing with a rotund customer. Behind her somebody burt out laughing. But the cloth merchant's shrill voice pierced through, angry in a language she did not understand.
 
-Hurrying past, they walked towards a steady, metallic banging. It had just started; pulses of three. Each hit rattled the back of Toms teeth, but its echo played a beautiful tone. “Oh good, he's here.”; The Tailor exclaimed. He extended his arm towards Tom, “Climb up.”, and Tom scrambled up The Tailor's side, to his shoulders, easily finding steps. 
+Hurrying past, they walked towards a steady, metallic banging. It had just started; pulses of three. Each hit rattled the back of Toms teeth, but its echo played a beautiful tone. “Oh good, he's here.”; The Tailor exclaimed. He extended his arm towards Tom, “Climb up.”, and Tom scrambled up The Tailor's side to his shoulders, easily finding steps. 
 
-The view was spectacular, an image she would never forget: the variety of people, clothes, fully ladened trestle bench stalls. The crowed bobbed, a sea of heads. She traced the sound of the banging: a large circular brick building in the center of the market, thick smoke plumed from it's chimneys. 
+The view was spectacular, an image she would never forget: the variety of people, clothes, fully ladened trestle bench stalls. The crowed bobbed, a sea of heads. She traced the sound of the banging: a large circular brick building in the center of the market, thick smoke plumed from it's chimneys. They walked towards it.
 
-At the blacksmith's entrance, The Tailor did not break stride to pass under the doorway. Instead he squatted, in-stride, and Tom cricked her neck sideways. Inside though, The Tailor stopped; the heat hit her face. 
+At the blacksmith's entrance The Tailor did not break stride to pass under the doorway. Instead, he squatted mid-stride, and Tom cricked her neck sideways to fit under. Inside, The Tailor stopped; flinching from the heat. For a moment Tom thought it might burn her lips.
 
-In front of them stood three men; around an anvil-workbench. One banged a glowing strip of metal. The other two concentrated on piers they clasped. None of them looked towards Tom or The Tailor, or even noticed them.
+In front of them stood three men around an anvil. One banged a glowing strip of metal, sparks flying with every ring of the hammer. The other two focused soley on pliers they held. None of them looked towards Tom and The Tailor, or even noticed them. 
 
-The Tailor just stood there, just inside the doorway. Tom wanted him to move, feeling a rising anxiety from blocking the doorway so conspicuously. She slid off The Tailor's shoulders. Two people approached as she landed on the floor behind him. She partially watched from behind him; a large, burley man with a tall thin boy straddling just behind.
+The Tailor just stood there, just inside the doorway. Tom wanted him to move. She felt a rising anxiety from blocking the doorway so conspicuously, so she slid off The Tailor's shoulders. Two people approached as she landed on the floor behind him. She partially watched; a large, burley man with a tall thin boy straddling just behind.
 
 “Hello again”, The Tailor said cheerfully to the burley man.
 
 He responded with a grunt. “You’re back again, too soon.”
 
-“I couldn’t stay away”, The Tailor explained. The burley man snorted a curt laugh. The three at the anvil started banging again which interrupted him as he was about to say something. He gestured the thin lad to leave, then herded Tom and The Tailor back outside through the doorway. The bright winter sun hit them with a sharp cold gust. It was a stark contrast to the dim, hot interior.
+“I couldn’t stay away”, The Tailor explained. The burley man snorted a curt laugh. The three at the anvil started banging again which interrupted him as he was about to say something. He gestured the thin lad to leave, then herded Tom and The Tailor back outside through the doorway. The bright winter sun dazzled Tom, with a sharp cold gust which were stark contrasts to the dim, hot interior.
 
 “So admit it, you’re lost.”, the burley man accused The Tailor.
 
 “No, I came back so I could make an oil painting of your Inn.”, The Tailor extended both arms rightwards, at different heights, so to frame the filthy building behind them.
 
-The burley man snorted, “Then we’ve got some whores you should meet. Paint them; them and my fat hairy arse.”. He brought a small, wooden pipe to his eye, squinting inside. He rapped it twice, sharply against the building’s wall.
+The burley man snorted, “Then we’ve got some whores you should meet. Paint them, that and my fat hairy arse.”. He brought a small, wooden pipe to his eye, squinting inside. He rapped it twice, sharply against the building’s wall.
 
-“We won’t stay long. Just a quick holiday this time.”. Tom listened to The Tailor’s words. She knew he was being sarcastic, but to her, it was sort of a holiday.
+“We won’t stay long. Just a quick holiday this time.” Tom listened to The Tailor’s words. She knew he was being sarcastic, but to her, it was sort of a holiday.
 
 “Don’t forget to see the sights.”, the burley man offered, extending his arm to something behind The Tailor. Tom looked. The Tailor twisted around to see: a staggering drunkard, almost tripping out of the Inn’s door behind them. The drunk man slowed walking, then stopped. He seemed unsure. But then he was sure, and quickly bent forward, dropped to his knees, and vomitted along the path in front of him. The splattering went quite far along the path, down three shallow steps.
 
