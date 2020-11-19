@@ -9,8 +9,8 @@ install:
   - cinst sox.portable
   - python -m pip install --upgrade pip #for spelling and theasurus
   - pip install -U pyenchant #for spelling
-#  - pip install gTTS #google text to speech
-  - choco install python3 #python -m pip install gTTS
+  - pip install -U gTTS #google text to speech
+  - cinst python3 #python -m pip install gTTS
   - IF "%WANTTHES%" == "1" pip install -U nltk #for theasurus
   - IF "%WANTTHES%" == "1" python -m nltk.downloader all #for theasurus *** VERY SLOW ***
   
