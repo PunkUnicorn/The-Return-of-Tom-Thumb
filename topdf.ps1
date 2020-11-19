@@ -381,97 +381,97 @@ pandoc --toc "title.md" The-Return-of-Tom-Thumb.md `
 # --standalone
 Write-Output "... made The-Return-of-Tom-Thumb.html..."
 
-# Make the audio book (WIP)
-Write-Output "Making Audio book ..."
-# Add the title page in, which pandoc takes in as a separate file in addition to the book files. Here we want to include it all in one file
+# # Make the audio book (WIP)
+# Write-Output "Making Audio book ..."
+# # Add the title page in, which pandoc takes in as a separate file in addition to the book files. Here we want to include it all in one file
 
-#cat "title.md", "Prose - Blank Line.md", The-Return-of-Tom-Thumb-for-audio-single-chapter-one.txt | sc The-Return-of-Tom-Thumb-for-audio-with-title-single-chapter-one.txt
+# #cat "title.md", "Prose - Blank Line.md", The-Return-of-Tom-Thumb-for-audio-single-chapter-one.txt | sc The-Return-of-Tom-Thumb-for-audio-with-title-single-chapter-one.txt
 
-cat "title.md", "Prose - Blank Line.md", The-Return-of-Tom-Thumb-for-audio.txt | sc The-Return-of-Tom-Thumb-for-audio-with-title.txt
+# cat "title.md", "Prose - Blank Line.md", The-Return-of-Tom-Thumb-for-audio.txt | sc The-Return-of-Tom-Thumb-for-audio-with-title.txt
 
-#Get-Content -Path "The-Return-of-Tom-Thumb-for-audio-with-title-single-chapter-one.txt" -Encoding UTF8 | `
-#	Destroy-Quotes | `
-#	%{ $_.Replace("%", "").Replace("<sub>","").Replace("</sub>", "").Replace("*to*", "TO").Replace("*the*", "THE").Replace("*all*", "ALL").Replace("- ", "").Replace(" -", "") } >> gTTS_word_input-single-chapter-one.txt
-#Write-Output "... made gTTS_word_input-single-chapter-one.txt"
+# #Get-Content -Path "The-Return-of-Tom-Thumb-for-audio-with-title-single-chapter-one.txt" -Encoding UTF8 | `
+# #	Destroy-Quotes | `
+# #	%{ $_.Replace("%", "").Replace("<sub>","").Replace("</sub>", "").Replace("*to*", "TO").Replace("*the*", "THE").Replace("*all*", "ALL").Replace("- ", "").Replace(" -", "") } >> gTTS_word_input-single-chapter-one.txt
+# #Write-Output "... made gTTS_word_input-single-chapter-one.txt"
 
-Get-Content -Path "The-Return-of-Tom-Thumb-for-audio-with-title.txt" -Encoding UTF8 | `
-	Destroy-Quotes | `
-	%{ $_.Replace("%", "").Replace("<sub>","").Replace("</sub>", "").Replace("*to*", "TO").Replace("*the*", "THE").Replace("*all*", "ALL").Replace("- ", "").Replace(" -", "") } >> gTTS_word_input.txt
-Write-Output "... made gTTS_word_input.txt"
+# Get-Content -Path "The-Return-of-Tom-Thumb-for-audio-with-title.txt" -Encoding UTF8 | `
+# 	Destroy-Quotes | `
+# 	%{ $_.Replace("%", "").Replace("<sub>","").Replace("</sub>", "").Replace("*to*", "TO").Replace("*the*", "THE").Replace("*all*", "ALL").Replace("- ", "").Replace(" -", "") } >> gTTS_word_input.txt
+# Write-Output "... made gTTS_word_input.txt"
 
-#cat gTTS_word_input-single-chapter-one.txt | python .\googleTextToSpeech.py -o The-Return-of-Tom-Thumb-single-chapter-one.mp3 -d The-Return-of-Tom-Thumb-single-chapter-one.mp3.log 
-#Write-Output "... made The-Return-of-Tom-Thumb-single-chapter-one.mp3 and The-Return-of-Tom-Thumb-single-chapter-one.mp3.log"
+# #cat gTTS_word_input-single-chapter-one.txt | python .\googleTextToSpeech.py -o The-Return-of-Tom-Thumb-single-chapter-one.mp3 -d The-Return-of-Tom-Thumb-single-chapter-one.mp3.log 
+# #Write-Output "... made The-Return-of-Tom-Thumb-single-chapter-one.mp3 and The-Return-of-Tom-Thumb-single-chapter-one.mp3.log"
 
-######cat gTTS_word_input.txt | python .\googleTextToSpeech.py -o The-Return-of-Tom-Thumb.mp3 -d The-Return-of-Tom-Thumb.mp3.log 
-cat gTTS_word_input.txt | gtts-cli --output The-Return-of-Tom-Thumb.mp3
-Write-Output "... made The-Return-of-Tom-Thumb.mp3 and The-Return-of-Tom-Thumb.mp3.log"
+# ######cat gTTS_word_input.txt | python .\googleTextToSpeech.py -o The-Return-of-Tom-Thumb.mp3 -d The-Return-of-Tom-Thumb.mp3.log 
+# cat gTTS_word_input.txt | gtts-cli --output The-Return-of-Tom-Thumb.mp3
+# Write-Output "... made The-Return-of-Tom-Thumb.mp3 and The-Return-of-Tom-Thumb.mp3.log"
 
-#
-# Add a backing track to the audio book
-#
-Write-Output "Making audio book with soundtrack..."
-.\lame --decode .\Music\natural-reader-soundtrack.mp3 natural-reader-soundtrack.wav  --silent
-Write-Output "... made natural-reader-soundtrack.wav"
+# #
+# # Add a backing track to the audio book
+# #
+# Write-Output "Making audio book with soundtrack..."
+# .\lame --decode .\Music\natural-reader-soundtrack.mp3 natural-reader-soundtrack.wav  --silent
+# Write-Output "... made natural-reader-soundtrack.wav"
 
-#.\lame --decode The-Return-of-Tom-Thumb-single-chapter-one.mp3 The-Return-of-Tom-Thumb-single-chapter-one.wav --silent
-#Write-Output "... made The-Return-of-Tom-Thumb-single-chapter-one.wav"
+# #.\lame --decode The-Return-of-Tom-Thumb-single-chapter-one.mp3 The-Return-of-Tom-Thumb-single-chapter-one.wav --silent
+# #Write-Output "... made The-Return-of-Tom-Thumb-single-chapter-one.wav"
 
-.\lame --decode The-Return-of-Tom-Thumb.mp3 The-Return-of-Tom-Thumb.wav --silent
-Write-Output "... made The-Return-of-Tom-Thumb.wav"
+# .\lame --decode The-Return-of-Tom-Thumb.mp3 The-Return-of-Tom-Thumb.wav --silent
+# Write-Output "... made The-Return-of-Tom-Thumb.wav"
 
-#sox The-Return-of-Tom-Thumb-single-chapter-one.wav --channels 2 The-Return-of-Tom-Thumb-stereo-single-chapter-one.wav -q
-#Write-Output "... made The-Return-of-Tom-Thumb-stereo-single-chapter-one.wav"
+# #sox The-Return-of-Tom-Thumb-single-chapter-one.wav --channels 2 The-Return-of-Tom-Thumb-stereo-single-chapter-one.wav -q
+# #Write-Output "... made The-Return-of-Tom-Thumb-stereo-single-chapter-one.wav"
 
-sox The-Return-of-Tom-Thumb.wav --channels 2 The-Return-of-Tom-Thumb-stereo.wav -q
-Write-Output "... made The-Return-of-Tom-Thumb-stereo.wav"
+# sox The-Return-of-Tom-Thumb.wav --channels 2 The-Return-of-Tom-Thumb-stereo.wav -q
+# Write-Output "... made The-Return-of-Tom-Thumb-stereo.wav"
 
-# Triple length of The-Return-of-Tom-Thumb-with-music.mp3
-sox natural-reader-soundtrack.wav natural-reader-soundtrack.wav natural-reader-soundtrack.wav natural-reader-soundtrack-tripled.wav -q 
-Write-Output "... made natural-reader-soundtrack-tripled.wav"
+# # Triple length of The-Return-of-Tom-Thumb-with-music.mp3
+# sox natural-reader-soundtrack.wav natural-reader-soundtrack.wav natural-reader-soundtrack.wav natural-reader-soundtrack-tripled.wav -q 
+# Write-Output "... made natural-reader-soundtrack-tripled.wav"
 
-#sox -m natural-reader-soundtrack-tripled.wav The-Return-of-Tom-Thumb-stereo-single-chapter-one.wav tRoTT-with-music-single-chapter-one.wav -q
-#Write-Output "... made sox mix of tRoTT-with-music-single-chapter-one.wav"
+# #sox -m natural-reader-soundtrack-tripled.wav The-Return-of-Tom-Thumb-stereo-single-chapter-one.wav tRoTT-with-music-single-chapter-one.wav -q
+# #Write-Output "... made sox mix of tRoTT-with-music-single-chapter-one.wav"
 
-sox -m natural-reader-soundtrack-tripled.wav The-Return-of-Tom-Thumb-stereo.wav tRoTT-with-music.wav -q
-Write-Output "... made sox mix of tRoTT-with-music.wav"
+# sox -m natural-reader-soundtrack-tripled.wav The-Return-of-Tom-Thumb-stereo.wav tRoTT-with-music.wav -q
+# Write-Output "... made sox mix of tRoTT-with-music.wav"
 
-#$trimToMinutes = "$([int]($(soxi -D The-Return-of-Tom-Thumb-stereo-single-chapter-one.wav)/60))"
-#$trimToMinutes = ([int]$trimToMinutes) + 1
-#$trimToParam = "$trimToMinutes`:00"
-#sox tRoTT-with-music-single-chapter-one.wav tRoTT-with-music-trimmed-single-chapter-one.wav trim 0 $trimToParam 
-#Write-Output "... made tRoTT-with-music-trimmed-single-chapter-one.wav"
+# #$trimToMinutes = "$([int]($(soxi -D The-Return-of-Tom-Thumb-stereo-single-chapter-one.wav)/60))"
+# #$trimToMinutes = ([int]$trimToMinutes) + 1
+# #$trimToParam = "$trimToMinutes`:00"
+# #sox tRoTT-with-music-single-chapter-one.wav tRoTT-with-music-trimmed-single-chapter-one.wav trim 0 $trimToParam 
+# #Write-Output "... made tRoTT-with-music-trimmed-single-chapter-one.wav"
 
-$trimToMinutes = "$([int]($(soxi -D The-Return-of-Tom-Thumb-stereo.wav)/60))"
-$trimToMinutes = ([int]$trimToMinutes) + 1
-$trimToParam = "$trimToMinutes`:00"
-sox tRoTT-with-music.wav tRoTT-with-music-trimmed.wav trim 0 $trimToParam 
-Write-Output "... made tRoTT-with-music-trimmed.wav"
+# $trimToMinutes = "$([int]($(soxi -D The-Return-of-Tom-Thumb-stereo.wav)/60))"
+# $trimToMinutes = ([int]$trimToMinutes) + 1
+# $trimToParam = "$trimToMinutes`:00"
+# sox tRoTT-with-music.wav tRoTT-with-music-trimmed.wav trim 0 $trimToParam 
+# Write-Output "... made tRoTT-with-music-trimmed.wav"
 
-#.\lame tRoTT-with-music-trimmed-single-chapter-one.wav The-Return-of-Tom-Thumb-with-music-single-chapter-one.mp3 --silent
-#Write-Output "... made The-Return-of-Tom-Thumb-with-music-single-chapter-one.mp3"
+# #.\lame tRoTT-with-music-trimmed-single-chapter-one.wav The-Return-of-Tom-Thumb-with-music-single-chapter-one.mp3 --silent
+# #Write-Output "... made The-Return-of-Tom-Thumb-with-music-single-chapter-one.mp3"
 
-.\lame tRoTT-with-music-trimmed.wav The-Return-of-Tom-Thumb-with-music.mp3 --silent
-Write-Output "... made The-Return-of-Tom-Thumb-with-music.mp3"
+# .\lame tRoTT-with-music-trimmed.wav The-Return-of-Tom-Thumb-with-music.mp3 --silent
+# Write-Output "... made The-Return-of-Tom-Thumb-with-music.mp3"
 
-#
-# Croconocerous poem text to speech
-#
-$numberingRegEx = "[\d+\)]" 
-Get-Content -Path ".\Character - Others\Croconossorus - origin.md" -Encoding UTF8 | `
-	Destroy-Quotes | `
-	%{ [regex]::Replace($_, $numberingRegEx, "").Replace("__unreadable__", "(There is text here, but it is unreadable)").Replace("__", "").Replace("#","") } >> gTTS_croconossorus_word_input.txt
+# #
+# # Croconocerous poem text to speech
+# #
+# $numberingRegEx = "[\d+\)]" 
+# Get-Content -Path ".\Character - Others\Croconossorus - origin.md" -Encoding UTF8 | `
+# 	Destroy-Quotes | `
+# 	%{ [regex]::Replace($_, $numberingRegEx, "").Replace("__unreadable__", "(There is text here, but it is unreadable)").Replace("__", "").Replace("#","") } >> gTTS_croconossorus_word_input.txt
 
-cat gTTS_croconossorus_word_input.txt | python .\googleTextToSpeech.py -o A_Croconossorus_Tale.mp3 -d A_Croconossorus_Tale.mp3.log 
-Write-Output "... made A_Croconossorus_Tale.mp3"
+# cat gTTS_croconossorus_word_input.txt | python .\googleTextToSpeech.py -o A_Croconossorus_Tale.mp3 -d A_Croconossorus_Tale.mp3.log 
+# Write-Output "... made A_Croconossorus_Tale.mp3"
 
 
-#
-# Debug google text to speech, to see how words sound (reads contents of gTTS_debug.txt and makes an mp3 debug artifact)
-#
-Get-Content -Path "gTTS_debug.txt" -Encoding UTF8 | Destroy-Quotes >test1.txt
-cat test1.txt | python .\googleTextToSpeech.py -o testymctestface.mp3 -d testymctestface.mp3.log #-l fr-FR
+# #
+# # Debug google text to speech, to see how words sound (reads contents of gTTS_debug.txt and makes an mp3 debug artifact)
+# #
+# Get-Content -Path "gTTS_debug.txt" -Encoding UTF8 | Destroy-Quotes >test1.txt
+# cat test1.txt | python .\googleTextToSpeech.py -o testymctestface.mp3 -d testymctestface.mp3.log #-l fr-FR
 
-Write-Output "... made The-Return-of-Tom-Thumb.mp3 and The-Return-of-Tom-Thumb.mp3.log..."
+# Write-Output "... made The-Return-of-Tom-Thumb.mp3 and The-Return-of-Tom-Thumb.mp3.log..."
 
 Write-Output "Creating books FINISHED"
 
