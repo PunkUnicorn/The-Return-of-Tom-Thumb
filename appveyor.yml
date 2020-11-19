@@ -7,12 +7,13 @@ install:
   - rename lame_v3.100.exe lame.exe
   - dir
   - cinst sox.portable
-  - python -m pip install --upgrade pip #for spelling and theasurus
+  - python -m pip install --upgrade pip
   - pip install -U pyenchant #for spelling
   - pip install -U gTTS #google text to speech
   - IF "%WANTTHES%" == "1" pip install -U nltk #for theasurus
   - IF "%WANTTHES%" == "1" python -m nltk.downloader all #for theasurus *** VERY SLOW ***
-  
+  - cinst install python3 --params "/InstallDir:.\"
+    
 build: false
 
 test_script:
