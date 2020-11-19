@@ -402,7 +402,8 @@ Write-Output "... made gTTS_word_input.txt"
 #cat gTTS_word_input-single-chapter-one.txt | python .\googleTextToSpeech.py -o The-Return-of-Tom-Thumb-single-chapter-one.mp3 -d The-Return-of-Tom-Thumb-single-chapter-one.mp3.log 
 #Write-Output "... made The-Return-of-Tom-Thumb-single-chapter-one.mp3 and The-Return-of-Tom-Thumb-single-chapter-one.mp3.log"
 
-cat gTTS_word_input.txt | python .\googleTextToSpeech.py -o The-Return-of-Tom-Thumb.mp3 -d The-Return-of-Tom-Thumb.mp3.log 
+######cat gTTS_word_input.txt | python .\googleTextToSpeech.py -o The-Return-of-Tom-Thumb.mp3 -d The-Return-of-Tom-Thumb.mp3.log 
+cat gTTS_word_input.txt | gtts-cli --output The-Return-of-Tom-Thumb.mp3
 Write-Output "... made The-Return-of-Tom-Thumb.mp3 and The-Return-of-Tom-Thumb.mp3.log"
 
 #
