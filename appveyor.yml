@@ -4,11 +4,11 @@ environment:
     # https://www.appveyor.com/docs/windows-images-software/#python
     # The list here is complete (excluding Python 2.6, which
     # isn't covered by this document) at the time of writing.
-    - PYTHON: "\Python35-x64"
+    - PYTHON: "\Python35-x64;\Python35-x64\Scripts"
 
 install:
-  - PATH: \Python35-x64\Scripts;$(PATH)
-  - ps: $ENV:PATH="\Python35-x64\Scripts;$ENV:PATH;"
+  - PATH: c::\Python35-x64\Scripts;$(PATH)
+  - ps: $ENV:PATH="c::\Python35-x64\Scripts;$ENV:PATH;"
   - ECHO %PATH%
   - ps: \Python35-x64\python.exe -m pip install --upgrade pip
   - ps: cat ".\TheKnight\the-knight-thumbnail.txt"
