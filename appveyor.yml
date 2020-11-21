@@ -7,8 +7,8 @@
 #    - PYTHON: "\Python35-x64;\Python35-x64\Scripts"
 
 install:
-  - PATH: c::\Python35-x64\Scripts;$(PATH)
-  - ps: $ENV:PATH="c::\Python35-x64\Scripts;$ENV:PATH;"
+  - PATH: c:\Python35-x64\Scripts;$(PATH)
+  - ps: $ENV:PATH="c:\Python35-x64\Scripts;$ENV:PATH;"
   - ECHO %PATH%
   - ps: \Python35-x64\python.exe -m pip install --upgrade pip
   - ps: cat ".\TheKnight\the-knight-thumbnail.txt"
