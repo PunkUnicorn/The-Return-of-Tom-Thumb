@@ -14,9 +14,9 @@ init:
 
 install:
 #  - "powershell appveyor\\install.ps1"
-  - "ps: $(Env:PYTHON)\python.exe --version"
-  - "ps: $(Env:PYTHON)\Scripts\\pip.exe --version"
-  - "ps: $(Env:PYTHON)\Scripts\\wheel.exe version"
+  - "ps: $(Env:PYTHON)\\python.exe --version"
+  - "ps: $(Env:PYTHON)\\Scripts\\pip.exe --version"
+  - "ps: $(Env:PYTHON)\\Scripts\\wheel.exe version"
 #  - PATH: c:\Python35-x64\Scripts;$(PATH)
 #  - ps: $ENV:PATH="c:\Python35-x64\Scripts;$ENV:PATH;"
   - ECHO %PATH%
