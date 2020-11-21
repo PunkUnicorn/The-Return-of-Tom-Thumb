@@ -8,6 +8,8 @@ environment:
 
 install:
   - PATH: \Python35-x64\Scripts;$(PATH)
+  - ps: $ENV:PATH="\Python35-x64\Scripts;$ENV:PATH;"
+  - ECHO %PATH%
   - ps: \Python35-x64\python.exe -m pip install --upgrade pip
   - ps: cat ".\TheKnight\the-knight-thumbnail.txt"
   - cinst pandoc
