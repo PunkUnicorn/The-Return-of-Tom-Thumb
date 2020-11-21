@@ -24,24 +24,26 @@ At the blacksmith's entrance The Tailor did not break stride to pass under the d
 
 In front of them stood three men around an anvil. One banged a glowing strip of metal, sparks flying with every ring of the hammer. The other two focused soley on the pliers they held. None of them looked towards Tom and The Tailor, or even noticed them. 
 
-The Tailor just stood there, inside the doorway. Tom wanted him to move. Blocking the doorway, as conspicuously as they were, gave her a rising anxiety. So she slid off The Tailor's shoulders. Two people approached as she landed on the floor behind him. She partially watched; a large, burley man and a tall thin boy straddling just behind him.
+The Tailor just stood there, inside the doorway. Tom wanted him to move. Blocking the doorway, as conspicuously as they were, gave her a rising anxiety. So she slid off The Tailor's shoulders. Two people approached as she landed on the floor behind him. She partially watched; a large, burly man and a tall thin boy straddling just behind him.
 
-“Hello again”, The Tailor said cheerfully to the burley man.
+“Hello again”, The Tailor said cheerfully to the burly man.
 
 He responded with a grunt. “You’re back again, too soon.”
 
-“I couldn’t stay away”, The Tailor explained. The burley man snorted a curt laugh. The three at the anvil started banging again which interrupted him as he was about to say something. He gestured to the thin lad who left, then herded Tom and The Tailor back outside through the doorway. The bright dazzling sun and sharp cold wind were stark contrasts to the dim, hot interior.
+“I couldn’t stay away”, The Tailor explained. The burly man snorted a curt laugh. The three at the anvil started banging again which interrupted him as he was about to say something. He gestured to the thin lad who left, then herded Tom and The Tailor back outside through the doorway. The bright dazzling sun and sharp cold wind were stark contrasts to the dim, hot interior.
 
-“So admit it, you’re lost.”, the burley man accused The Tailor.
+“So admit it, you’re lost.”, the burly man accused The Tailor.
 
 “No, I came back so I could make an oil painting of your Inn.”, The Tailor extended both arms rightwards, at different heights, so to frame the filthy building behind them.
 
-The burley man snorted, “Then we’ve got some whores you should meet. Paint them, that and my fat hairy arse.”. He brought a small, wooden pipe to his eye squinting inside. He rapped it twice, sharply against the building’s wall.
+The burly man snorted, “Then we’ve got some whores you should meet. Paint them, that and my fat hairy arse.”. He brought a small, wooden pipe to his eye squinting inside. He rapped it twice, sharply against the building’s wall.
 
 “We won’t stay long. Just a quick holiday this time.” Tom listened to The Tailor’s words. She knew he was being sarcastic, but to her, it was sort of a holiday.
 
-“Don’t forget to see the sights.”, the burley man offered, extending his arm to something behind The Tailor. Tom looked. The Tailor twisted around to see: a staggering drunkard, almost tripping out of the Inn’s door behind them. The drunk man slowed his walking, then stopped. He seemed unsure. But then he was sure, and quickly bent forward, dropping to his knees, and vomited along the path in front of him. The splattering went quite far along the path, and down three shallow steps.
+“Don’t forget to see the sights.”, the burly man offered, extending his arm to something behind The Tailor. Tom looked. The Tailor twisted around to see: a staggering drunkard, almost tripping out of the Inn’s door behind them. The drunk man slowed his walking, then stopped. He seemed unsure. But then he was sure, and quickly bent forward, dropping to his knees, and vomited along the path in front of him. The splattering went quite far along the path, and down three shallow steps.
 
-The burley man looked back towards the pipe in his hand. He started pinching leaves from a small leather pouch in the other. He glance-pointed a nod towards the drunkard: “Looks like you’ve got a rival artist.”
+The burly man looked back towards the pipe in his hand. He started pinching leaves from a small leather pouch in the other. He glance-pointed a nod towards the drunkard: “Looks like you’ve got a rival artist.”
 
 The Tailor laughed.
+
+The burly man and The Tailor continued the exchange of dry, insulting jibes, inbetween a sarcastic, live commentory on the comings and goings around them. She found the sarcasm strenuous to follow, being unfamiliar with the target of the satire. Sarcasm meant the tones of their voices was misleading. The information she tried to grasp was vauge; always begging more questions. She tuned away while they talked, looking over the ruined, burnt-out wall. Without giving her full concentration on the chatter, their conversation was half jibberish; words that did not always make sense together. The laughter was good, when they laughed she found it easy to smile along without understanding.
