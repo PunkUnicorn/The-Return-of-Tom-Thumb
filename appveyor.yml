@@ -1,5 +1,6 @@
 install:
   - PYTHON: "C:\\Python34-x64"
+  - "%PYTHON%\\python.exe -m pip install --upgrade pip
   - ps: cat ".\TheKnight\the-knight-thumbnail.txt"
   - cinst pandoc
   - REM cinst lame
@@ -8,7 +9,7 @@ install:
   - rename lame_v3.100.exe lame.exe
   - dir
   - cinst sox.portable
-  - python -m pip install --upgrade pip
+#  - python -m pip install --upgrade pip
   - pip install -U pyenchant #for spelling
   - pip install -U gTTS #google text to speech
   - IF "%WANTTHES%" == "1" pip install -U nltk #for theasurus
