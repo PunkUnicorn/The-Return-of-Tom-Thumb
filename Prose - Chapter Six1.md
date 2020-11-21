@@ -14,17 +14,17 @@ The Tailor stepped to one side pulling Tom with him. He looked across the stalls
 
 Tom fell in behind The Tailor, it was easy following his steps through the crowd. Her attention lost to the businesses around, each stall a world of its own. One had many hanging, dried meats. Its neighbour: a stall displaying increasing sizes of metal hoops, with long, thin, wooden poles laying next to them. Tom wondered what these were for?
 
-On the far side of the muddy walkway, through a happenstance gap in the crowd, a vendor, surrounded by tall bolts of multicoloured cloth, was arguing with a rotund customer. Behind her somebody burt out laughing. But the cloth merchant's shrill voice pierced through, angry in a language she did not understand.
+On the far side of the muddy walkway, through a happenstance gap in the crowd, a vendor, surrounded by tall bolts of multicoloured cloth, was arguing with a rotund customer. Behind her somebody burst out laughing. But the cloth merchant's shrill voice pierced through, angry in a language she did not understand.
 
-Hurrying past, they walked towards a steady, metallic banging. It had just started; pulses of three. Each hit rattled the back of Toms teeth, but its echo played a beautiful tone. “Oh good, he's here.”; The Tailor exclaimed. He extended his arm towards Tom, “Climb up.”, and Tom scrambled up The Tailor's side to his shoulders, easily finding steps. 
+Hurrying past, they walked towards a steady, metallic banging. It had just started; pulses of three. Each hit rattled the back of Tom's teeth, but its echo played a beautiful tone. “Oh good, he's here.”; The Tailor exclaimed. He extended his arm towards Tom, “Climb up.”, and Tom scrambled up The Tailor's side to his shoulders, easily finding steps. 
 
-The view was spectacular, an image she would never forget: the variety of people, clothes, fully ladened trestle bench stalls. The crowed bobbed, a sea of heads. She traced the sound of the banging: a large circular brick building in the center of the market, thick smoke plumed from it's chimneys. They walked towards it.
+The view was spectacular, an image she would never forget: the variety of people, clothes, fully ladened trestle bench stalls. The crowd bobbed, a sea of heads. She traced the sound of the banging: a large circular brick building in the center of the market, thick smoke plumed from it's chimneys. They walked towards it.
 
 At the blacksmith's entrance The Tailor did not break stride to pass under the doorway. Instead, he squatted mid-stride, and Tom cricked her neck sideways to fit under. Inside, The Tailor stopped; flinching from the heat. For a moment Tom thought it might burn her lips.
 
-In front of them stood three men around an anvil. One banged a glowing strip of metal, sparks flying with every ring of the hammer. The other two focused soley on pliers they held. None of them looked towards Tom and The Tailor, or even noticed them. 
+In front of them stood three men around an anvil. One banged a glowing strip of metal, sparks flying with every ring of the hammer. The other two focused soley on the pliers they held. None of them looked towards Tom and The Tailor, or even noticed them. 
 
-The Tailor just stood there, just inside the doorway. Tom wanted him to move. Blocking the doorway, as conspicuously as they were, gave her a rising anxiety. So she slid off The Tailor's shoulders. Two people approached as she landed on the floor behind him. She partially watched; a large, burley man and a tall thin boy straddling just behind him.
+The Tailor just stood there, inside the doorway. Tom wanted him to move. Blocking the doorway, as conspicuously as they were, gave her a rising anxiety. So she slid off The Tailor's shoulders. Two people approached as she landed on the floor behind him. She partially watched; a large, burley man and a tall thin boy straddling just behind him.
 
 “Hello again”, The Tailor said cheerfully to the burley man.
 
@@ -40,8 +40,8 @@ The burley man snorted, “Then we’ve got some whores you should meet. Paint t
 
 “We won’t stay long. Just a quick holiday this time.” Tom listened to The Tailor’s words. She knew he was being sarcastic, but to her, it was sort of a holiday.
 
-“Don’t forget to see the sights.”, the burley man offered, extending his arm to something behind The Tailor. Tom looked. The Tailor twisted around to see: a staggering drunkard, almost tripping out of the Inn’s door behind them. The drunk man slowed his walking, then stopped. He seemed unsure. But then he was sure, and quickly bent forward, dropping to his knees, and vomitted along the path in front of him. The splattering went quite far along the path, and down three shallow steps.
+“Don’t forget to see the sights.”, the burley man offered, extending his arm to something behind The Tailor. Tom looked. The Tailor twisted around to see: a staggering drunkard, almost tripping out of the Inn’s door behind them. The drunk man slowed his walking, then stopped. He seemed unsure. But then he was sure, and quickly bent forward, dropping to his knees, and vomited along the path in front of him. The splattering went quite far along the path, and down three shallow steps.
 
-The burley man looked back towards the pipe in his hand. He started pinching leaves from a small leather pouch in the other. He glance-pointed a nod back towards the drunkard: “Looks like you’ve got a rival artist.”
+The burley man looked back towards the pipe in his hand. He started pinching leaves from a small leather pouch in the other. He glance-pointed a nod towards the drunkard: “Looks like you’ve got a rival artist.”
 
 The Tailor laughed.
