@@ -10,7 +10,7 @@ environment:
       PYTHON_ARCH: "64"
 
 init:
-  - ps: "ECHO Python $(Env:PYTHON_VERSION) ($(Env:PYTHON_ARCH)bit) from $(Env:PYTHON)"
+  - ps: "ECHO Python $(Env:PYTHON_VERSION) $(Env:PYTHON_ARCH) from $(Env:PYTHON)"
 
 install:
 #  - "powershell appveyor\\install.ps1"
