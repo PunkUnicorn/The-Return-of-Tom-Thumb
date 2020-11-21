@@ -36,7 +36,7 @@ Function Destroy-Quotes {
 #
 Function Spellcheck-Chapter($chapterName, $spellingFailFilename) {
 	Write-Output "$chapterName Spelling starts:"
-	Write-Output "$(ENV:PATH)"
+	$Env:Path
 	$chapter = Get-Content -Path "Prose - $chapterName*.md" -Encoding UTF8
 	$chapterSpelling = $chapter | `
 		Replace-FancyQuotes | `
