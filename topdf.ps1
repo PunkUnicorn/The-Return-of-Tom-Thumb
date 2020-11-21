@@ -36,7 +36,7 @@ Function Destroy-Quotes {
 #
 Function Spellcheck-Chapter($chapterName, $spellingFailFilename) {
 	Write-Output "$chapterName Spelling starts:"
-	
+	Write-Output "$(ENV:PATH)"
 	$chapter = Get-Content -Path "Prose - $chapterName*.md" -Encoding UTF8
 	$chapterSpelling = $chapter | `
 		Replace-FancyQuotes | `
@@ -199,7 +199,7 @@ Get-Content -Path ".\TheTailor\the-tailor.txt" -Encoding UTF8
 Write-Output "`n`nIntroducing ... pandoc!`n"
 pandoc --version
 Write-Output "`n`nIntroducing ... lame!`n"
-dir
+path
 .\lame --help
 Write-Output "`n`nIntroducing ... sox!`n"
 sox -h
