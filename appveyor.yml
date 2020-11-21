@@ -1,16 +1,26 @@
-#environment:
-#  matrix:
+environment:
+  matrix:
 #    # For Python versions available on Appveyor, see
 #    # https://www.appveyor.com/docs/windows-images-software/#python
 #    # The list here is complete (excluding Python 2.6, which
 #    # isn't covered by this document) at the time of writing.
 #    - PYTHON: "\Python35-x64;\Python35-x64\Scripts"
+    - PYTHON: "C:\\Python39-x64"
+      PYTHON_VERSION: "3.9"
+      PYTHON_ARCH: "64"
+
+init:
+  - "ECHO Python %PYTHON_VERSION% (%PYTHON_ARCH%bit) from %PYTHON%"
 
 install:
-  - PATH: c:\Python35-x64\Scripts;$(PATH)
-  - ps: $ENV:PATH="c:\Python35-x64\Scripts;$ENV:PATH;"
+#  - "powershell appveyor\\install.ps1"
+  - "%PYTHON%\\python.exe --version"
+  - "%PYTHON%\\Scripts\\pip.exe --version"
+  - "%PYTHON%\\Scripts\\wheel.exe version"
+#  - PATH: c:\Python35-x64\Scripts;$(PATH)
+#  - ps: $ENV:PATH="c:\Python35-x64\Scripts;$ENV:PATH;"
   - ECHO %PATH%
-  - ps: \Python35-x64\python.exe -m pip install --upgrade pip
+#  - ps: \Python35-x64\python.exe -m pip install --upgrade pip
   - ps: cat ".\TheKnight\the-knight-thumbnail.txt"
   - cinst pandoc
   - REM cinst lame
