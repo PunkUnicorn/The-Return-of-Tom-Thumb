@@ -14,13 +14,15 @@ init:
 
 install:
 #  - "powershell appveyor\\install.ps1"
-  - ps: c:\Python39-x64\python.exe --version
-  - ps: c:\Python39-x64\Scripts\pip.exe --version
-  - ps: c:\Python39-x64\Scripts\wheel.exe version
-  - PATH: c:\Python39-x64\Scripts;$(PATH)
-  - ps: $ENV:PATH="c:\Python39-x64\Scripts;$ENV:PATH;"
-  - ECHO %PATH%
-  - ps: \Python39-x64\python.exe -m pip install --upgrade pip
+#  - ps: c:\Python39-x64\python.exe --version
+#  - ps: c:\Python39-x64\Scripts\pip.exe --version
+#  - ps: c:\Python39-x64\Scripts\wheel.exe version
+#  - PATH: c:\Python39-x64\Scripts;$(PATH)
+#  - ps: $ENV:PATH="c:\Python39-x64\Scripts;$ENV:PATH;"
+#  - ECHO %PATH%
+#  - ps: \Python39-x64\python.exe -m pip install --upgrade pip
+  - ps: python --version
+  - ps: pip --version
   - ps: cat ".\TheKnight\the-knight-thumbnail.txt"
   - cinst pandoc
   - REM cinst lame
@@ -30,10 +32,10 @@ install:
   - dir
   - cinst sox.portable
 #  - python -m pip install --upgrade pip
-  - c:\Python39-x64\Scripts\pip install -U pyenchant #for spelling
-  - c:\Python39-x64\Scripts\pip install -U gTTS #google text to speech
-  - IF "%WANTTHES%" == "1" c:\Python39-x64\Scripts\pip install -U nltk #for theasurus
-  - IF "%WANTTHES%" == "1" c:\Python39-x64\Scripts\python -m nltk.downloader all #for theasurus *** VERY SLOW ***
+  - pip install -U pyenchant #for spelling
+  - pip install -U gTTS #google text to speech
+  - IF "%WANTTHES%" == "1" pip install -U nltk #for theasurus
+  - IF "%WANTTHES%" == "1" python -m nltk.downloader all #for theasurus *** VERY SLOW ***
     
 build: false
 
