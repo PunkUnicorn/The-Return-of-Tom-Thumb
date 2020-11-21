@@ -14,13 +14,13 @@ init:
 
 install:
 #  - "powershell appveyor\\install.ps1"
-#  - ps: c:\Python39-x64\python.exe --version
-#  - ps: c:\Python39-x64\Scripts\pip.exe --version
-#  - ps: c:\Python39-x64\Scripts\wheel.exe version
+  - ps: C:\Python39-x64\python.exe --version
+  - ps: C:\Python39-x64\Scripts\pip.exe --version
+  - ps: C:\Python39-x64\Scripts\wheel.exe version
 #  - PATH: c:\Python39-x64\Scripts;$(PATH)
 #  - ps: $ENV:PATH="c:\Python39-x64\Scripts;$ENV:PATH;"
 #  - ECHO %PATH%
-#  - ps: \Python39-x64\python.exe -m pip install --upgrade pip
+  - ps: C:\Python39-x64\python.exe -m pip install --upgrade pip
   - ps: C:\Python39-x64\Scripts\python --version
   - ps: C:\Python39-x64\Scripts\pip --version
   - ps: cat ".\TheKnight\the-knight-thumbnail.txt"
