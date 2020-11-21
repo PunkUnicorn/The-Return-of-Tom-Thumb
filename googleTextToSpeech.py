@@ -1,5 +1,5 @@
 import sys
-from gTTS import gTTS
+from gtts import gTTS
 import io
 
 def makeLines(chunk):
