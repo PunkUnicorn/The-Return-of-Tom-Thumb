@@ -21,8 +21,8 @@ install:
 #  - ps: $ENV:PATH="c:\Python39-x64\Scripts;$ENV:PATH;"
 #  - ECHO %PATH%
 #  - ps: \Python39-x64\python.exe -m pip install --upgrade pip
-  - ps: c:\Python39-x64\python --version
-  - ps: c:\Python39-x64\Scripts\pip --version
+  - ps: C:\Python39-x64\python --version
+  - ps: C:\Python39-x64\Scripts\pip --version
   - ps: cat ".\TheKnight\the-knight-thumbnail.txt"
   - cinst pandoc
   - REM cinst lame
