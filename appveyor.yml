@@ -35,7 +35,7 @@ install:
 #  - python -m pip install --upgrade pip
   - pip install -U pyenchant #for spelling
 #  - pip install -U gTTS #google text to speech
-  - pip install gTTS
+  - pip install 'gTTS==2.2.1'
   - IF "%WANTTHES%" == "1" pip install -U nltk #for theasurus
   - IF "%WANTTHES%" == "1" python -m nltk.downloader all #for theasurus *** VERY SLOW ***
     
