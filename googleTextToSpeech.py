@@ -62,9 +62,10 @@ with io.BytesIO() as f:
                 tts_pause.write_to_fp(fp)
             except:
                 continue;
+            print('', end='.')
         #end for line in lines
     #end for line in sys.stdin
-    
+    print('... done!')
     f.flush()
     f.seek(0)
     stuff = bytes(f.read())
