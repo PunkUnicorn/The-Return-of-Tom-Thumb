@@ -40,6 +40,7 @@ tts_pause = gTTS(text=' \n ', lang=languageCode)
 
 with io.BytesIO() as f:
     for chunk in sys.stdin:
+        print('.', end='')
         if (chunk is None):
             continue;            
         if (len(chunk) == 0):
@@ -48,6 +49,7 @@ with io.BytesIO() as f:
             continue;
         lines = makeLines(chunk)
         for line in lines:
+            print('..', end='')
             words = makeWords(line)
             if len(words) == 0:
                 continue;
@@ -62,7 +64,6 @@ with io.BytesIO() as f:
                 tts_pause.write_to_fp(fp)
             except:
                 continue;
-            print('', end='.')
         #end for line in lines
     #end for line in sys.stdin
     print('... done!')
