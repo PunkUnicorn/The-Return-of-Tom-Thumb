@@ -40,7 +40,7 @@ The burly man snorted, “Then we’ve got some whores you should meet. Paint *t
 
 “We won’t stay long. Just a quick holiday this time.” Tom listened to The Tailor’s words. She knew he was being sarcastic, but to her, it was sort of a holiday.
 
-“Don’t forget to see the sights.”, the burly man offered, extending his arm to something behind The Tailor. Tom looked. The Tailor twisted around to see: a staggering drunkard, almost tripping out of the Inn’s door behind them. The drunk man slowed his walking, then stopped. He seemed unsure. But then he was sure, and quickly bent forward, dropped to his knees and vomited along the path in front of him. The splattering went quite far along the path, and down three shallow steps.
+“Don’t forget to see the sights.”, the burly man offered, extending his arm to something behind The Tailor. Tom looked, The Tailor twisted around: a staggering drunkard, almost tripping out of the Inn’s door behind them. The drunk man slowed his walking, then stopped. He seemed unsure. But then he was sure, and quickly bent forward, dropped to his knees and vomited along the path in front of him. The splattering went quite far along the path, and down three shallow steps.
 
 The burly man looked back towards the pipe in his hand. He pinched leaves from a small leather pouch in the other. He glance-pointed a quick nod towards the drunkard: “Looks like you’ve got a rival artist.”
 
