@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TomThumbPremiumAudioBook", "TomThumbPremiumAudioBook\TomThumbPremiumAudioBook.csproj", "{BAE8E78B-5BB2-4B23-8825-55D9B069C1E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAE8E78B-5BB2-4B23-8825-55D9B069C1E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAE8E78B-5BB2-4B23-8825-55D9B069C1E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAE8E78B-5BB2-4B23-8825-55D9B069C1E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAE8E78B-5BB2-4B23-8825-55D9B069C1E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0AACE0E-1516-4A48-A271-59A4B05E16BC}
+	EndGlobalSection
+EndGlobal
