@@ -35,7 +35,7 @@ Slow awkward steps and a draft of air. The tunnel must conclude soon. “Am I do
 
 His stomach churned.
 
-The breeze stronger, the cold biting his eyes. And the sound of rushing. It was the sound of rain. Listening. Somehow the prospect of rain was exhilarating; there was no rain in the life of an heir to the throne. Yet here he was, a few steps away.
+The breeze stronger, the cold biting his eyes. And the sound of rushing. It was the sound of rain. Listening. Somehow the prospect of rain was exhilarating; there was little rain in the life of an heir to the throne. Yet here he was, a few steps away.
 
 The tunnel narrowed and led round to the left. Following this: the smell of rain and the outside. The tunnel became a narrow cave and an opening overlooking fields.
 
