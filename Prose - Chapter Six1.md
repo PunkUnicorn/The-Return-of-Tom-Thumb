@@ -36,7 +36,7 @@ He responded with a grunt. “You’re back again, too soon.”
 
 “No, I came back so I could make an oil painting of your Inn.”, The Tailor extended both arms rightwards, at different heights, so to frame the filthy building behind them.
 
-The burly man snorted, “Then we’ve got some whores you should meet. Paint *them*. That and my fat hairy arse.”. He brought a small, wooden pipe to his eye, squinting inside. He rapped it twice, sharply against the building’s wall.
+The burly man snorted, “Then we’ve got some whores you should meet. Paint *them*. That and my fat hairy arse.” He brought a small, wooden pipe to his eye, squinting inside. He rapped it twice, sharply against the building’s wall.
 
 “We won’t stay long. Just a quick holiday this time.” Tom listened to The Tailor’s words. She knew he was being sarcastic, but to her, it was sort of a holiday.
 
