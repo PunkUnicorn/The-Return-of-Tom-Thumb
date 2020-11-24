@@ -1,7 +1,8 @@
 {
   "profiles": {
     "TomThumbPremiumAudioBook": {
-      "commandName": "Project"
+      "commandName": "Project",
+      "commandLineArgs": "TextFile10.txt template-ssml.xml OutputFolder \"C:\\Users\\User\\Downloads\\The-Return-of-Tom-Thumb-for-audio.txt\""
     }
   }
 }

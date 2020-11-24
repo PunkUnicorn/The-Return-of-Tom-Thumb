@@ -3,7 +3,9 @@ using Microsoft.CognitiveServices.Speech.Audio;
 using NAudio.Lame;
 using NAudio.Wave;
 using System;
+using System.Collections.Generic;
 using System.IO;
+using System.Linq;
 using System.Threading.Tasks;
 
 namespace TomThumbPremiumAudioBook
@@ -11,29 +13,61 @@ namespace TomThumbPremiumAudioBook
     public class Program
     {
         private static string key;
-        private static string region;
-        private static string inputSsml;
-        private static string outputFilename;
+        private static string voiceCode;
+        private static string inputSsmlTemplate;
+        private static string outputFolder;
+        private static string inputContentFile;
 
         static async Task<int> Main(string[] args)
         {
             try
-            { 
-                try { key = args[0]; } 
-                catch { Console.Error.WriteLine("Need the first parameter to be the key, the second to be the input SSML file, third the output filename(, fourth parameter is the optional region)"); return 1; }
+            {
+                try { key = args[0]; }
+                catch { Console.Error.WriteLine("Need the first parameter to be the key, the second to be the input SSML file, third the output folder"); return 1; }
 
-                try { inputSsml = args[1]; }
-                catch { Console.Error.WriteLine("Need the second parameter to be the input SSML filename, third the output filename(, fourth parameter is the optional region)"); return 1; }
+                if (Path.GetExtension(key).Length > 0)
+                    key = File.ReadAllText(key);
 
-                try { outputFilename = args[2]; }
-                catch { Console.Error.WriteLine("Need the third parameter to be the output filename(, fourth parameter is the optional region)"); return 1; }
+                try { inputSsmlTemplate = args[1]; }
+                catch { Console.Error.WriteLine("Need the second parameter to be the input SSML filename, third the output folder"); return 1; }
 
-                
-                if (args.Length >= 4) region = args[3];
-                else region = "uksouth";
+                try { outputFolder = args[2]; }
+                catch { Console.Error.WriteLine("Need the third parameter to be the output folder"); return 1; }
 
-                await SynthesizeAudioAsync(key, region, inputSsml, outputFilename);
+                try { inputContentFile = args[3]; }
+                catch { Console.Error.WriteLine("ssml template input file error (fourth parameter)"); return 1; }
 
+                if (args.Length >= 5) voiceCode = args[4];
+                else voiceCode = "en-GB-LibbyNeural";
+
+                Console.WriteLine($"Started at {DateTime.Now}");
+
+                var lines = File.ReadAllLines(inputContentFile)
+                    .Select(s => s.Replace("<sub>", "").Replace("</sub>", ""))
+                    .Where(w => !w.StartsWith("!["))
+                    .ToArray();
+
+                var taken = 0;
+                const int batchsize = 50;
+                var batch = lines.Skip(taken).Take(batchsize);
+                taken += batchsize;
+                var index = 0;
+                var listOfMp3s = new List<string>();
+                while (batch.Any())
+                {
+                    var model = new Dictionary<string, object>() { { "voice", voiceCode }, { "content", string.Join('\n', batch) } };
+
+                    var result = await SynthesizeAudioAsync(key, "uksouth", ++index, model, inputSsmlTemplate, outputFolder);
+                    listOfMp3s.Add(result);
+
+                    batch = lines.Skip(taken).Take(batchsize);
+                    taken += batchsize;
+                }
+
+                // Combine the mp3s
+                var files = Directory.GetFiles(outputFolder, "*.mp3").OrderBy(ob => int.Parse(Path.GetFileNameWithoutExtension(ob))).ToArray();
+
+                Concatenate(Path.Combine(outputFolder, "final.mp3"), files);
                 return 0;
             }
             catch (Exception e)
@@ -41,23 +75,84 @@ namespace TomThumbPremiumAudioBook
                 Console.Error.WriteLine(e.Message);
                 return 1;
             }
+            finally
+            {
+                Console.WriteLine($"Finished at {DateTime.Now}");
+            }
         }
 
-        static async Task SynthesizeAudioAsync(string key, string region, string inputSsml, string outputFilename)
+
+        //public static void Concatenate(string outfile, params string[] mp3filenames)
+        //{
+        //    if (File.Exists(outfile))
+        //        File.Delete(outfile);
+
+        //    Stream w = File.OpenWrite(outfile);
+
+        //    foreach (string filename in mp3filenames)
+        //        w.Write(File.ReadAllBytes(filename));
+
+        //    w.Flush();
+        //    w.Close();
+        //}
+
+
+        public static void Concatenate(string outfile, params string[] mp3filenames)
+        {
+            if (File.Exists(outfile))
+                File.Delete(outfile);
+
+            LameMP3FileWriter writer = null;
+            foreach (string filename in mp3filenames)
+                using (var reader = new Mp3FileReader(filename))
+                {
+                    if (writer == null)
+                        writer = new LameMP3FileWriter(outfile, reader.WaveFormat, LAMEPreset.VBR_90);
+                    reader.CopyTo(writer);
+                }
+
+            if (writer != null)
+                writer.Dispose();
+
+        }
+
+        static async Task<string> SynthesizeAudioAsync(string key, string region, int index, IDictionary<string, object> model, string inputSsml, string outputFolder)
         {
             var config = SpeechConfig.FromSubscription(key, region);
-            using (var audioConfig = AudioConfig.FromWavFileOutput(Path.ChangeExtension(outputFilename,"wav")))
+            var fn = index.ToString().PadLeft(3, '0');
+            var wavFilename = Path.Combine(outputFolder, Path.ChangeExtension(fn, "wav"));
+            if (!Directory.Exists(outputFolder))
+                Directory.CreateDirectory(outputFolder);
+
+            SpeechSynthesisResult result;
+            var bytes = new byte[] { };
+            using (var audioConfig = AudioConfig.FromWavFileOutput(wavFilename))
             using (var synthesizer = new SpeechSynthesizer(config, audioConfig))
             {
-                //await synthesizer.SpeakTextAsync("A simple test to write to a file.");
-
                 var ssml = File.ReadAllText(inputSsml);
-                var result = await synthesizer.SpeakSsmlAsync(ssml);
-                //using (var stream = AudioDataStream.FromResult(result))
-                using (var ms = new MemoryStream(result.AudioData))
-                    ConvertWavStreamToMp3File(ms, Path.ChangeExtension(outputFilename, "mp3"));
-                //await stream.SaveToWaveFileAsync("path/to/write/file.wav");
+                var template = Scriban.Template.Parse(ssml);
+                var content = template.Render(model);
+
+                if (string.IsNullOrWhiteSpace(content.Trim('\n')))
+                    return "";
+
+
+                result = await synthesizer.SpeakSsmlAsync(content);
+                await File.WriteAllTextAsync(Path.Combine(outputFolder, Path.ChangeExtension(fn, "txt")), content);
             }
+
+            var mp3Filename = Path.Combine(outputFolder, Path.ChangeExtension(fn, "mp3"));
+            if (result.AudioData.Any())
+                using (var ms = new MemoryStream(result.AudioData))
+                {
+                    ConvertWavStreamToMp3File(ms, mp3Filename);
+                    File.Delete(wavFilename);
+                }
+            else
+                Console.Error.WriteLine("Hasn't worked");
+
+
+            return mp3Filename;
         }
 
 
@@ -74,11 +169,5 @@ namespace TomThumbPremiumAudioBook
                 rdr.CopyTo(wtr);
             }
         }
-
-        //static async Task SynthesizeAudioAsync()
-        //{
-        //    var config = SpeechConfig.FromSubscription("YourSubscriptionKey", "YourServiceRegion");
-        //    using var audioConfig = AudioConfig.FromWavFileOutput("path/to/write/file.wav");
-        //}
     }
 }
