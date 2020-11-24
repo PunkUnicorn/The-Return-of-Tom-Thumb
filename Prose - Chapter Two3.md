@@ -1,4 +1,4 @@
-After recovering his breath, Kim moved alongside his sister. He was looking at the village, he was ready for trouble. Her train of thought evaporated.
+After recovering his breath, Kim moved alongside his sister. He was looking at the village, he was ready for trouble. Her expanding fantasies evaporated.
 
 They walked towards the village at a slow pace, absorbing everything, every sight, sound and smell: dogs, geese, carts and horses, stacks of things by the buildings, sacks of things by the stacks. Smoke and banging. And the people, how they were dressed: everyone had good boots or clogs. Tom gave her own boots a quick look. Pride surged through her with a dawning thought: she was fitting in.
 
