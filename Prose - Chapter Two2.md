@@ -20,15 +20,15 @@ The house door opened quietly behind her, Tom looked round. It was her oldest an
 
 She wanted to tell him of her plan to head to the village and sell the pips. It was a bold idea. She met his eyes as if to answer his question, but instead looked back towards the apple.
 
-“What you doin’?”; Kim's question was an accusation. She braced her upper body, relaxing her legs; ready to dodge. “I’m going to the village.” she replied reluctantly.
+“What you doin’?”; Kim's question was an accusation. 
 
-Kim walked a few steps then stopped to pick up a choice stick: a sturdy branch used as a weapon the previous day by her brothers. It was almost as tall as Tom. Kim held it like a staff vertically.
+She braced her upper body, relaxed her legs; ready to dodge. “I’m going to the village.”
 
-Leaning his weight against it, it held. He started walking towards The South Trail, muttering. After a few more steps he inclined his head towards Tom: “Are you coming then?”
+Kim walked a few steps towards a sturdy branch, used as a weapon the previous day by her brothers. He picked it up and held it as a staff. He lent his weight. It held. He walked towards The South Trail, inclining his head towards Tom briefly: “Come on then.”
 
-The South Trail was easy in her recently acquired boots. Kim had their father’s hand-me-downs, which were only second generation. They looked more or less like normal old boots. Tom’s pair looked new, but obviously too small for anyone but her and her tiny frame. Early on she had relied on this to stave off others’ desires on the boots.
+The South Trail was easy in her recently acquired boots. Kim had their father’s hand-me-downs, which were only second generation. They looked more or less like normal old boots. Tom’s pair looked new, but obviously too small for anyone but her and her tiny frame. She had relied on this to stave off others’ desires on the boots.
 
-She suspected they would fit whoever held them, the same way they had for her. She had pulled the boots off the giant very easily, accidentally even, and they had slipped off the giants feet into her hands: a pair of boots exactly the right size for her.
+She suspected they would fit whoever held them, the same way they had for her. She had pulled the boots off the giant very easily, accidentally even, and they had slipped off the giant's feet into her hands: a pair of boots exactly the right size for her.
 
 Progress along The South Trail was pleasant enough, but they pushed themselves hard with no stopping. The forest thinned and the trail became a road. It was afternoon by the time they saw the dotted buildings of the village far in the distance. They could be there soon, two more hills to cross. They quickened their pace to Tom's fastest.
 
