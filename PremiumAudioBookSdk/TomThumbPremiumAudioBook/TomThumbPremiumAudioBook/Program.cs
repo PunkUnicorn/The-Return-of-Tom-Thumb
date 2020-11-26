@@ -67,7 +67,7 @@ namespace TomThumbPremiumAudioBook
                 // Combine the mp3s
                 var files = Directory.GetFiles(outputFolder, "*.mp3").OrderBy(ob => int.Parse(Path.GetFileNameWithoutExtension(ob))).ToArray();
 
-                Concatenate(Path.Combine(outputFolder, "final.mp3"), files);
+                Concatenate(Path.Combine(outputFolder, "The-Return-of-Tom-Thumb-Autoread.mp3"), files);
                 return 0;
             }
             catch (Exception e)
@@ -80,22 +80,6 @@ namespace TomThumbPremiumAudioBook
                 Console.WriteLine($"Finished at {DateTime.Now}");
             }
         }
-
-
-        //public static void Concatenate(string outfile, params string[] mp3filenames)
-        //{
-        //    if (File.Exists(outfile))
-        //        File.Delete(outfile);
-
-        //    Stream w = File.OpenWrite(outfile);
-
-        //    foreach (string filename in mp3filenames)
-        //        w.Write(File.ReadAllBytes(filename));
-
-        //    w.Flush();
-        //    w.Close();
-        //}
-
 
         public static void Concatenate(string outfile, params string[] mp3filenames)
         {
@@ -147,10 +131,7 @@ namespace TomThumbPremiumAudioBook
                 {
                     ConvertWavStreamToMp3File(ms, mp3Filename);
                     File.Delete(wavFilename);
-                }
-            else
-                Console.Error.WriteLine("Hasn't worked");
-
+                }           
 
             return mp3Filename;
         }

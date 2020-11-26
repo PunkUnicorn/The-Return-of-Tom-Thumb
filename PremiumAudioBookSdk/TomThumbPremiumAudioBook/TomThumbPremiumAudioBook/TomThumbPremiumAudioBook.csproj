@@ -31,4 +31,8 @@
     </None>
   </ItemGroup>
 
+  <Target Name="PostBuild" AfterTargets="PostBuildEvent">
+    <Exec Command="REM xcopy $(TargetDir)OutputFolder\*.mp3 $(SolutionDir)..\..\&#xD;&#xA;&#xD;&#xA;" />
+  </Target>
+
 </Project>

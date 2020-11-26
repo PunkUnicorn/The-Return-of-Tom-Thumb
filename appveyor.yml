@@ -4,7 +4,6 @@ environment:
 #    # https://www.appveyor.com/docs/windows-images-software/#python
 #    # The list here is complete (excluding Python 2.6, which
 #    # isn't covered by this document) at the time of writing.
-#    - PYTHON: "\Python35-x64;\Python35-x64\Scripts"
     - PYTHON: "C:\\Python38-x64"
       PYTHON_VERSION: "3.8"
       PYTHON_ARCH: "64"
@@ -13,14 +12,7 @@ init:
   - ps: Write-Output "Python $Env:PYTHON_VERSION $Env:PYTHON_ARCH from $Env:PYTHON"
 
 install:
-#  - "powershell appveyor\\install.ps1"
-#  - ps: C:\Python38-x64\python.exe --version
-#  - ps: C:\Python38-x64\Scripts\pip.exe --version
-#  - ps: C:\Python38-x64\Scripts\wheel.exe version
-#  - PATH: c:\Python38-x64\Scripts;$(PATH)
   - ps: $ENV:PATH="C:\Python38-x64;C:\Python38-x64\Scripts;$ENV:PATH;"
-#  - ECHO %PATH%
-#  - dir C:\Python38-x64\
   - ps: C:\Python38-x64\python.exe -m pip install --upgrade pip
   - ps: python --version
   - ps: pip --version
@@ -28,21 +20,23 @@ install:
   - cinst pandoc
   - REM cinst lame
   - SET WANTTHES=0
+  - SET WANTPREM=1
   - copy LameExe/lame_v3.100.exe
   - rename lame_v3.100.exe lame.exe
   - dir
   - cinst sox.portable
-#  - python -m pip install --upgrade pip
   - pip install -U pyenchant #for spelling
-#  - pip install -U gTTS #google text to speech
   - python -m pip install gTTS
   - IF "%WANTTHES%" == "1" pip install -U nltk #for theasurus
   - IF "%WANTTHES%" == "1" python -m nltk.downloader all #for theasurus *** VERY SLOW ***
+  - IF "%WANTPREM%" == "1" dotnet build PremiumAudioBookSdk\TomThumbPremiumAudioBook\TomThumbPremiumAudioBook.sln -c Release #limited plan, bit slow
     
 build: false
 
 test_script:
   - ps: .\topdf.ps1
+  - IF "%WANTPREM%" == "1" dotnet run --project PremiumAudioBookSdk\TomThumbPremiumAudioBook\TomThumbPremiumAudioBook\TomThumbPremiumAudioBook.csproj -- $($env:prem) PremiumAudioBookSdk\TomThumbPremiumAudioBook\TomThumbPremiumAudioBook\template-ssml.xml ..\..\..\audio The-Return-of-Tom-Thumb-for-audio.txt
+  - copy audio\The-Return-of-Tom-Thumb*.mp3 .
   - ps: cat ".\Croconocerous\croco_on_mostly_blank_except_some_grass_man.txt"
 
 artifacts:
@@ -88,12 +82,10 @@ on_success:
   - REM ./getindex.cmd
   - cmd: copy ..\The-Return-of-Tom-Thumb.html .\public\index.html
   - cmd: copy ..\The-Return-of-Tom-Thumb.epub .\public\
- # - cmd: copy ..\The-Return-of-Tom-Thumb-with-music.mp3 .\public\
   - ps: Write-Output "$($env:USERPROFILE)\.git-credentials"
   - cmd: git config --global user.email "x-oauth-basic@github.com"
   - cmd: git config --global user.name "Script"
   - git add ./public/index.html
- # - git add ./public/The-Return-of-Tom-Thumb-with-music.mp3
   - git add ./public/The-Return-of-Tom-Thumb.epub
   - cmd: echo Auto update %APPVEYOR_BUILD_NUMBER%
   - cmd: git diff-index --quiet HEAD || git commit -m "Auto update %APPVEYOR_BUILD_NUMBER%"
