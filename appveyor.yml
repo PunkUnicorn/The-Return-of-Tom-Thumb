@@ -36,7 +36,9 @@ build: false
 test_script:
   - ps: .\topdf.ps1
   - IF "%WANTPREM%" == "1" dotnet run --project PremiumAudioBookSdk\TomThumbPremiumAudioBook\TomThumbPremiumAudioBook\TomThumbPremiumAudioBook.csproj -- $($env:prem) PremiumAudioBookSdk\TomThumbPremiumAudioBook\TomThumbPremiumAudioBook\template-ssml.xml ..\..\..\audio The-Return-of-Tom-Thumb-for-audio.txt
-  - copy audio\The-Return-of-Tom-Thumb*.mp3 .
+  - dir
+  - dir audio
+  - copy audio\*.mp3 .
   - ps: cat ".\Croconocerous\croco_on_mostly_blank_except_some_grass_man.txt"
 
 artifacts:
