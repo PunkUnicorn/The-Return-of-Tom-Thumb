@@ -198,13 +198,13 @@ Get-Content -Path ".\TheTailor\the-tailor.txt" -Encoding UTF8
 Write-Output "`n`nIntroducing ... pandoc!`n"
 pandoc --version
 Write-Output "`n`nIntroducing ... lame!`n"
-path
 .\lame --help
 Write-Output "`n`nIntroducing ... sox!`n"
 sox -h
 Write-Output "`n`nIntroducing ... soxi!`n"
 soxi
-
+Write-Output "`n`nIntroducing ... well ... it's a PARTY GATECRASHER! THE SYSTEM PATH!!!! Welcome though bro'. Grab a drink, you know, and chill; mi casa es tu casa`n"
+path
 #
 # I used to think pandoc got upset with chapter two at the top of a new file
 # I used to think pandoc really really likes a blank line at the end!!! It can be funny on some readers without
