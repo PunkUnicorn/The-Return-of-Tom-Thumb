@@ -73,7 +73,7 @@ artifacts:
     type: file
 
 on_success:
-  - @ECHO Possibly making the premium book
+  - ECHO Possibly making the premium book
   - ps: cat ".\Croconocerous\croco_on_mostly_blank_except_some_grass_man.txt"
   - IF "%WANTPREM%" == "1" dotnet run --project PremiumAudioBookSdk\TomThumbPremiumAudioBook\TomThumbPremiumAudioBook\TomThumbPremiumAudioBook.csproj -- %prem% PremiumAudioBookSdk\TomThumbPremiumAudioBook\TomThumbPremiumAudioBook\template-ssml.xml audio The-Return-of-Tom-Thumb-for-audio.txt
   - dir audio
