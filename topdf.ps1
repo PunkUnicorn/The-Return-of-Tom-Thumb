@@ -406,7 +406,9 @@ if ($env:WANTPREM -eq "1") {
 	Write-Output "... making the premium audio book"
 	dotnet run --project PremiumAudioBookSdk\TomThumbPremiumAudioBook\TomThumbPremiumAudioBook\TomThumbPremiumAudioBook.csproj -- $($env:prem) PremiumAudioBookSdk\TomThumbPremiumAudioBook\TomThumbPremiumAudioBook\template-ssml.xml audio The-Return-of-Tom-Thumb-for-audio.txt
 	dir audio
-	copy audio\The-Return-of-Tom-Thumb-Autoread.mp3 The-Return-of-Tom-Thumb.mp3
+	copy audio\The-Return-of-Tom-Thumb-Autoread.mp3 The-Return-of-Tom-Thumb-16000.mp3
+	.\lame --resample 24000 The-Return-of-Tom-Thumb-16000.mp3 The-Return-of-Tom-Thumb3.mp3
+	del The-Return-of-Tom-Thumb-16000.mp3
 	Write-Output "... made The-Return-of-Tom-Thumb.mp3"
 } else {
 	cat gTTS_word_input.txt | python .\googleTextToSpeech.py -o The-Return-of-Tom-Thumb.mp3 -d The-Return-of-Tom-Thumb.mp3.log 
@@ -423,7 +425,7 @@ Write-Output "... made natural-reader-soundtrack.wav"
 #.\lame --decode The-Return-of-Tom-Thumb-single-chapter-one.mp3 The-Return-of-Tom-Thumb-single-chapter-one.wav --silent
 #Write-Output "... made The-Return-of-Tom-Thumb-single-chapter-one.wav"
 
-.\lame --decode The-Return-of-Tom-Thumb.mp3 The-Return-of-Tom-Thumb.wav --resample 24000 --silent
+.\lame --decode The-Return-of-Tom-Thumb.mp3 The-Return-of-Tom-Thumb.wav  --silent
 Write-Output "... made The-Return-of-Tom-Thumb.wav"
 
 #sox The-Return-of-Tom-Thumb-single-chapter-one.wav --channels 2 The-Return-of-Tom-Thumb-stereo-single-chapter-one.wav -q
