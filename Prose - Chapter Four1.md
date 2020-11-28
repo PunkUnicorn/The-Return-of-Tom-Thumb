@@ -19,9 +19,9 @@ The heavy helmet and visor were the last parts. These amplified his own breath a
 
 The south stair was as deserted as expected, his rattling armour unheard. He following the spiralling stairs down to the arched tunnels below the keep.
 
-Through the tunnels, each step of escape brought a creeping remembrance of what he was escaping: the responsibility, the throne and the honour of his lineage. There it was: the shame on his shoulders.
+Through the tunnels, each step brought a creeping remembrance of what he was escaping: the responsibility, the throne and the honour of his lineage. There it was: the shame on his shoulders.
 
-But then a flash of what laid ahead: the open road, a life of freedom, to hide away from chains of state, from historical consequences. Instead be alive day to day; each morning a new life. Each morning free again.
+But then a flash of what lay ahead: the open road, a life of freedom, to hide away from chains of state. Instead be alive day to day; each morning living a new life. Each morning free again.
 
 So he took more steps, faster steps. But hurrying did not abate the remorse. Regret pushed against guilt to a blur. And a new flash of regret: not preparing a torch for this tunnel escape. He had packed a bundle of torches (he had packed everything useful he could think of).
 
