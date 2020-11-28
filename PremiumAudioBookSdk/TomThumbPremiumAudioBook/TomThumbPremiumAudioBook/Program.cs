@@ -44,7 +44,7 @@ namespace TomThumbPremiumAudioBook
                 Console.WriteLine($"Started at {DateTime.Now}");
 
                 var lines = File.ReadAllLines(inputContentFile)
-                    .Select(s => s.Replace("<sub>", "").Replace("</sub>", ""))
+                    .Select(s => s.Replace("<sub>", "").Replace("</sub>", "").Replace("- - -", ""))
                     .Where(w => !w.StartsWith("!["))
                     .ToArray();
 
