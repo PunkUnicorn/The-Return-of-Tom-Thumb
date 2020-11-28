@@ -31,11 +31,11 @@ install:
   - IF "%WANTTHES%" == "1" pip install -U nltk #for theasurus
   - IF "%WANTTHES%" == "1" python -m nltk.downloader all #for theasurus *** VERY SLOW ***
   - IF "%WANTPREM%" == "1" dotnet build PremiumAudioBookSdk\TomThumbPremiumAudioBook\TomThumbPremiumAudioBook.sln -c Release #limited plan, bit slow
-  - ps: Get-Date
     
 build: false
 
 test_script:
+  - ps: Get-Date
   - ps: .\topdf.ps1
 #  - ECHO Possibly making the premium book
 #  - ps: cat ".\Croconocerous\croco_on_mostly_blank_except_some_grass_man.txt"
@@ -79,6 +79,7 @@ artifacts:
     type: file
 
 on_success:
+  - ps: Get-Date
   - cat ".\Croconocerous\croco_on_mostly_blank_except_some_grass_man.txt"
   - git clone https://github.com/PunkUnicorn/The-Return-Of-Tom-Thumb-Redirect-Static-Page.git
   - cd ./The-Return-Of-Tom-Thumb-Redirect-Static-Page

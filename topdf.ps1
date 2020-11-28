@@ -405,7 +405,6 @@ Write-Output "... made gTTS_word_input.txt"
 if ($env:WANTPREM -eq "1") {
 	Write-Output "... making the premium audio book"
 	dotnet run --project PremiumAudioBookSdk\TomThumbPremiumAudioBook\TomThumbPremiumAudioBook\TomThumbPremiumAudioBook.csproj -- $($env:prem) PremiumAudioBookSdk\TomThumbPremiumAudioBook\TomThumbPremiumAudioBook\template-ssml.xml audio The-Return-of-Tom-Thumb-for-audio.txt
-	dir audio
 	copy audio\The-Return-of-Tom-Thumb-Autoread.mp3 The-Return-of-Tom-Thumb-16000.mp3
 	.\lame --resample 24000 The-Return-of-Tom-Thumb-16000.mp3 The-Return-of-Tom-Thumb.mp3 --silent
 	del The-Return-of-Tom-Thumb-16000.mp3

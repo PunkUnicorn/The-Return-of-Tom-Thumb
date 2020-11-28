@@ -106,12 +106,12 @@ namespace TomThumbPremiumAudioBook
             foreach (string filename in mp3filenames)
                 using (var reader = new Mp3FileReader(filename))
                 {
-                    Console.Write("doing ");
+                    Console.WriteLine("doing ");
 
                     if (writer == null)
-                        writer = new LameMP3FileWriter(outfile, reader.WaveFormat, LAMEPreset.V6);
+                        writer = new LameMP3FileWriter(outfile, reader.WaveFormat, LAMEPreset.ABR_320);
                     reader.CopyTo(writer);
-                    Console.Write("something ");
+                    Console.WriteLine("something ");
                 }
 
             if (writer != null)
@@ -130,22 +130,24 @@ namespace TomThumbPremiumAudioBook
             SpeechSynthesisResult result;
             var bytes = new byte[] { };
             using (var audioConfig = AudioConfig.FromWavFileOutput(wavFilename))
-            using (var synthesizer = new SpeechSynthesizer(config, audioConfig))
             {
-                Console.Write("doing ");
-                var ssml = File.ReadAllText(inputSsml);
-                var template = Scriban.Template.Parse(ssml);
-                var content = template.Render(model);
+                config.SetSpeechSynthesisOutputFormat(SpeechSynthesisOutputFormat.Riff24Khz16BitMonoPcm);
+                using (var synthesizer = new SpeechSynthesizer(config, audioConfig))
+                {
+                    Console.WriteLine("doing ");
+                    var ssml = File.ReadAllText(inputSsml);
+                    var template = Scriban.Template.Parse(ssml);
+                    var content = template.Render(model);
 
-                if (string.IsNullOrWhiteSpace(content.Trim('\n')))
-                    return "";
+                    if (string.IsNullOrWhiteSpace(content.Trim('\n')))
+                        return "";
 
-                result = await synthesizer.SpeakSsmlAsync(content);
-                Console.Write("something ");
+                    result = await synthesizer.SpeakSsmlAsync(content);
+                    Console.WriteLine("something ");
 
-                await File.WriteAllTextAsync(Path.Combine(outputFolder, Path.ChangeExtension(fn, "txt")), content);
+                    await File.WriteAllTextAsync(Path.Combine(outputFolder, Path.ChangeExtension(fn, "txt")), content);
+                }
             }
-
             var mp3Filename = Path.Combine(outputFolder, Path.ChangeExtension(fn, "mp3"));
             if (result.AudioData.Any())
                 using (var ms = new MemoryStream(result.AudioData))
@@ -166,7 +168,7 @@ namespace TomThumbPremiumAudioBook
 
             using (var retMs = new MemoryStream())
             using (var rdr = new WaveFileReader(ms))
-            using (var wtr = new LameMP3FileWriter(savetofilename, rdr.WaveFormat, LAMEPreset.V6))//LAMEPreset.VBR_90))
+            using (var wtr = new LameMP3FileWriter(savetofilename, rdr.WaveFormat, LAMEPreset.ABR_320))//LAMEPreset.VBR_90))
             {
                 rdr.CopyTo(wtr);
             }
