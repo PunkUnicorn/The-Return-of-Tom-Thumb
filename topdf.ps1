@@ -417,13 +417,13 @@ if ($env:WANTPREM -eq "1") {
 # Add a backing track to the audio book
 #
 Write-Output "Making audio book with soundtrack..."
-.\lame --decode .\Music\natural-reader-soundtrack.mp3 natural-reader-soundtrack.wav --silent
+.\lame -v2 --decode .\Music\natural-reader-soundtrack.mp3 natural-reader-soundtrack.wav --silent
 Write-Output "... made natural-reader-soundtrack.wav"
 
 #.\lame --decode The-Return-of-Tom-Thumb-single-chapter-one.mp3 The-Return-of-Tom-Thumb-single-chapter-one.wav --silent
 #Write-Output "... made The-Return-of-Tom-Thumb-single-chapter-one.wav"
 
-.\lame --decode The-Return-of-Tom-Thumb.mp3 The-Return-of-Tom-Thumb.wav --silent
+.\lame -v2 --decode The-Return-of-Tom-Thumb.mp3 The-Return-of-Tom-Thumb.wav --silent
 Write-Output "... made The-Return-of-Tom-Thumb.wav"
 
 #sox The-Return-of-Tom-Thumb-single-chapter-one.wav --channels 2 The-Return-of-Tom-Thumb-stereo-single-chapter-one.wav -q
@@ -438,6 +438,12 @@ Write-Output "... made natural-reader-soundtrack-tripled.wav"
 
 #sox -m natural-reader-soundtrack-tripled.wav The-Return-of-Tom-Thumb-stereo-single-chapter-one.wav tRoTT-with-music-single-chapter-one.wav -q
 #Write-Output "... made sox mix of tRoTT-with-music-single-chapter-one.wav"
+
+soxi -r natural-reader-soundtrack-tripled.wav
+soxi -T -t -r -c -s -d -D -b -B -e -a natural-reader-soundtrack-tripled.wav
+
+soxi -r The-Return-of-Tom-Thumb-stereo.wav
+soxi -T -t -r -c -s -d -D -b -B -e -a The-Return-of-Tom-Thumb-stereo.wav
 
 sox -m natural-reader-soundtrack-tripled.wav The-Return-of-Tom-Thumb-stereo.wav tRoTT-with-music.wav -q
 Write-Output "... made sox mix of tRoTT-with-music.wav"

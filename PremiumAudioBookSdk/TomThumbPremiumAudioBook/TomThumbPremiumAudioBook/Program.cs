@@ -93,15 +93,15 @@ namespace TomThumbPremiumAudioBook
                 //using (var reader = new Mp3FileReader(filename))
                 {
                     if (writer == null)
-                        writer = new LameMP3FileWriter(outfile, reader.WaveFormat, LAMEPreset.V6);
+                        writer = new LameMP3FileWriter(outfile, reader.WaveFormat, LAMEPreset.VBR_90);
                     reader.CopyTo(writer);
                 }
-
-                File.Delete(filename);
             }
             if (writer != null)
                 writer.Dispose();
-            
+
+            foreach (var filename in wavFilenames)
+                File.Delete(filename);
         }
 
         static async Task<string> SynthesizeAudioAsync(string key, string region, int index, IDictionary<string, object> model, string inputSsml, string outputFolder)
@@ -150,7 +150,7 @@ namespace TomThumbPremiumAudioBook
 
             using (var retMs = new MemoryStream())
             using (var rdr = new WaveFileReader(ms))
-            using (var wtr = new LameMP3FileWriter(savetofilename, rdr.WaveFormat, LAMEPreset.V6))//LAMEPreset.VBR_90))
+            using (var wtr = new LameMP3FileWriter(savetofilename, rdr.WaveFormat, LAMEPreset.VBR_90))
             {
                 rdr.CopyTo(wtr);
             }
