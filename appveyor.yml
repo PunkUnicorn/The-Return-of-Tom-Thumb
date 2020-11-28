@@ -12,6 +12,7 @@ init:
   - ps: Write-Output "Python $Env:PYTHON_VERSION $Env:PYTHON_ARCH from $Env:PYTHON"
 
 install:
+  - ps: Get-Date
   - ps: $ENV:PATH="C:\Python38-x64;C:\Python38-x64\Scripts;$ENV:PATH;"
   - ps: C:\Python38-x64\python.exe -m pip install --upgrade pip
   - ps: python --version
@@ -30,6 +31,7 @@ install:
   - IF "%WANTTHES%" == "1" pip install -U nltk #for theasurus
   - IF "%WANTTHES%" == "1" python -m nltk.downloader all #for theasurus *** VERY SLOW ***
   - IF "%WANTPREM%" == "1" dotnet build PremiumAudioBookSdk\TomThumbPremiumAudioBook\TomThumbPremiumAudioBook.sln -c Release #limited plan, bit slow
+  - ps: Get-Date
     
 build: false
 

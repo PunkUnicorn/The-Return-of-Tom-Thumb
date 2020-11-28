@@ -83,7 +83,6 @@ namespace TomThumbPremiumAudioBook
                 // Combine the mp3s
                 var files = Directory.GetFiles(outputFolder, "*.mp3").OrderBy(ob => int.Parse(Path.GetFileNameWithoutExtension(ob))).ToArray();
 
-                Console.WriteLine("Concatenating");
                 Concatenate(Path.Combine(outputFolder, "The-Return-of-Tom-Thumb-Autoread.mp3"), files);
                 return 0;
             }
@@ -107,11 +106,12 @@ namespace TomThumbPremiumAudioBook
             foreach (string filename in mp3filenames)
                 using (var reader = new Mp3FileReader(filename))
                 {
-                    Console.WriteLine(filename);
+                    Console.Write("doing ");
 
                     if (writer == null)
                         writer = new LameMP3FileWriter(outfile, reader.WaveFormat, LAMEPreset.V6);
                     reader.CopyTo(writer);
+                    Console.Write("something ");
                 }
 
             if (writer != null)
@@ -132,7 +132,7 @@ namespace TomThumbPremiumAudioBook
             using (var audioConfig = AudioConfig.FromWavFileOutput(wavFilename))
             using (var synthesizer = new SpeechSynthesizer(config, audioConfig))
             {
-                Console.WriteLine("Synthesizing");
+                Console.Write("doing ");
                 var ssml = File.ReadAllText(inputSsml);
                 var template = Scriban.Template.Parse(ssml);
                 var content = template.Render(model);
@@ -141,7 +141,7 @@ namespace TomThumbPremiumAudioBook
                     return "";
 
                 result = await synthesizer.SpeakSsmlAsync(content);
-                Console.WriteLine("Combining");
+                Console.Write("something ");
 
                 await File.WriteAllTextAsync(Path.Combine(outputFolder, Path.ChangeExtension(fn, "txt")), content);
             }
