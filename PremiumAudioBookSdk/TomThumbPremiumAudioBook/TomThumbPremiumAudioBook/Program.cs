@@ -65,8 +65,9 @@ namespace TomThumbPremiumAudioBook
                 }
 
                 // Combine the mp3s
-                var files = Directory.GetFiles(outputFolder, "*.wav").OrderBy(ob => int.Parse(Path.GetFileNameWithoutExtension(ob))).ToArray();
+                var files = Directory.GetFiles(outputFolder, "*.mp3").OrderBy(ob => int.Parse(Path.GetFileNameWithoutExtension(ob))).ToArray();
 
+                Console.WriteLine("Concatenating");
                 Concatenate(Path.Combine(outputFolder, "The-Return-of-Tom-Thumb-Autoread.mp3"), files);
                 return 0;
             }
@@ -81,27 +82,25 @@ namespace TomThumbPremiumAudioBook
             }
         }
 
-        public static void Concatenate(string outfile, params string[] wavFilenames)
+        public static void Concatenate(string outfile, params string[] mp3filenames)
         {
             if (File.Exists(outfile))
                 File.Delete(outfile);
 
             LameMP3FileWriter writer = null;
-            foreach (string filename in wavFilenames)
-            { 
-                using (var reader = new WaveFileReader(filename))
-                //using (var reader = new Mp3FileReader(filename))
+            foreach (string filename in mp3filenames)
+                using (var reader = new Mp3FileReader(filename))
                 {
+                    Console.WriteLine(filename);
+
                     if (writer == null)
-                        writer = new LameMP3FileWriter(outfile, reader.WaveFormat, LAMEPreset.VBR_90);
+                        writer = new LameMP3FileWriter(outfile, reader.WaveFormat, LAMEPreset.V6);
                     reader.CopyTo(writer);
                 }
-            }
+
             if (writer != null)
                 writer.Dispose();
 
-            foreach (var filename in wavFilenames)
-                File.Delete(filename);
         }
 
         static async Task<string> SynthesizeAudioAsync(string key, string region, int index, IDictionary<string, object> model, string inputSsml, string outputFolder)
@@ -117,6 +116,7 @@ namespace TomThumbPremiumAudioBook
             using (var audioConfig = AudioConfig.FromWavFileOutput(wavFilename))
             using (var synthesizer = new SpeechSynthesizer(config, audioConfig))
             {
+                Console.WriteLine("Synthesizing");
                 var ssml = File.ReadAllText(inputSsml);
                 var template = Scriban.Template.Parse(ssml);
                 var content = template.Render(model);
@@ -129,16 +129,16 @@ namespace TomThumbPremiumAudioBook
                 await File.WriteAllTextAsync(Path.Combine(outputFolder, Path.ChangeExtension(fn, "txt")), content);
             }
 
-            //var mp3Filename = Path.Combine(outputFolder, Path.ChangeExtension(fn, "mp3"));
-            //if (result.AudioData.Any())
-            //    using (var ms = new MemoryStream(result.AudioData))
-            //    {
-            //        ConvertWavStreamToMp3File(ms, mp3Filename);
-            //        File.Delete(wavFilename);
-            //    }           
+            Console.WriteLine("Combining");
+            var mp3Filename = Path.Combine(outputFolder, Path.ChangeExtension(fn, "mp3"));
+            if (result.AudioData.Any())
+                using (var ms = new MemoryStream(result.AudioData))
+                {
+                    ConvertWavStreamToMp3File(ms, mp3Filename);
+                    File.Delete(wavFilename);
+                }           
 
-            //return mp3Filename;
-            return wavFilename;
+            return mp3Filename;
         }
 
 
@@ -150,7 +150,7 @@ namespace TomThumbPremiumAudioBook
 
             using (var retMs = new MemoryStream())
             using (var rdr = new WaveFileReader(ms))
-            using (var wtr = new LameMP3FileWriter(savetofilename, rdr.WaveFormat, LAMEPreset.VBR_90))
+            using (var wtr = new LameMP3FileWriter(savetofilename, rdr.WaveFormat, LAMEPreset.V6))//LAMEPreset.VBR_90))
             {
                 rdr.CopyTo(wtr);
             }

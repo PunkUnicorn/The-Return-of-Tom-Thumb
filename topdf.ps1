@@ -404,7 +404,7 @@ Write-Output "... made gTTS_word_input.txt"
 
 if ($env:WANTPREM -eq "1") {
 	Write-Output "... making the premium audio book"
-	dotnet run --project PremiumAudioBookSdk\TomThumbPremiumAudioBook\TomThumbPremiumAudioBook\TomThumbPremiumAudioBook.csproj -- $($env:prem) PremiumAudioBookSdk\TomThumbPremiumAudioBook\TomThumbPremiumAudioBook\template-ssml.xml audio gTTS_word_input.txt 
+	dotnet run --project PremiumAudioBookSdk\TomThumbPremiumAudioBook\TomThumbPremiumAudioBook\TomThumbPremiumAudioBook.csproj -- $($env:prem) PremiumAudioBookSdk\TomThumbPremiumAudioBook\TomThumbPremiumAudioBook\template-ssml.xml audio The-Return-of-Tom-Thumb-for-audio.txt
 	dir audio
 	copy audio\The-Return-of-Tom-Thumb-Autoread.mp3 The-Return-of-Tom-Thumb.mp3
 	Write-Output "... made The-Return-of-Tom-Thumb.mp3"
@@ -417,13 +417,13 @@ if ($env:WANTPREM -eq "1") {
 # Add a backing track to the audio book
 #
 Write-Output "Making audio book with soundtrack..."
-.\lame -v2 --decode .\Music\natural-reader-soundtrack.mp3 natural-reader-soundtrack.wav --silent
+.\lame --decode .\Music\natural-reader-soundtrack.mp3 natural-reader-soundtrack.wav --silent
 Write-Output "... made natural-reader-soundtrack.wav"
 
 #.\lame --decode The-Return-of-Tom-Thumb-single-chapter-one.mp3 The-Return-of-Tom-Thumb-single-chapter-one.wav --silent
 #Write-Output "... made The-Return-of-Tom-Thumb-single-chapter-one.wav"
 
-.\lame -v2 --decode The-Return-of-Tom-Thumb.mp3 The-Return-of-Tom-Thumb.wav --silent
+.\lame --decode The-Return-of-Tom-Thumb.mp3 The-Return-of-Tom-Thumb.wav --silent
 Write-Output "... made The-Return-of-Tom-Thumb.wav"
 
 #sox The-Return-of-Tom-Thumb-single-chapter-one.wav --channels 2 The-Return-of-Tom-Thumb-stereo-single-chapter-one.wav -q
