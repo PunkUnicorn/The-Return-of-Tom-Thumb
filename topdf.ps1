@@ -423,7 +423,7 @@ Write-Output "... made natural-reader-soundtrack.wav"
 #.\lame --decode The-Return-of-Tom-Thumb-single-chapter-one.mp3 The-Return-of-Tom-Thumb-single-chapter-one.wav --silent
 #Write-Output "... made The-Return-of-Tom-Thumb-single-chapter-one.wav"
 
-.\lame --decode The-Return-of-Tom-Thumb.mp3 The-Return-of-Tom-Thumb.wav --resample 24 --silent
+.\lame --decode The-Return-of-Tom-Thumb.mp3 The-Return-of-Tom-Thumb.wav --resample 24000 --silent
 Write-Output "... made The-Return-of-Tom-Thumb.wav"
 
 #sox The-Return-of-Tom-Thumb-single-chapter-one.wav --channels 2 The-Return-of-Tom-Thumb-stereo-single-chapter-one.wav -q
@@ -440,10 +440,10 @@ Write-Output "... made natural-reader-soundtrack-tripled.wav"
 #Write-Output "... made sox mix of tRoTT-with-music-single-chapter-one.wav"
 
 soxi -r natural-reader-soundtrack-tripled.wav
-soxi -t -r -c -s -d -D -b -B -e -a natural-reader-soundtrack-tripled.wav
+#soxi -t -r -c -s -d -D -b -B -e -a natural-reader-soundtrack-tripled.wav
 
 soxi -r The-Return-of-Tom-Thumb-stereo.wav
-soxi -t -r -c -s -d -D -b -B -e -a The-Return-of-Tom-Thumb-stereo.wav
+#soxi -t -r -c -s -d -D -b -B -e -a The-Return-of-Tom-Thumb-stereo.wav
 
 sox -m natural-reader-soundtrack-tripled.wav The-Return-of-Tom-Thumb-stereo.wav tRoTT-with-music.wav -q
 Write-Output "... made sox mix of tRoTT-with-music.wav"
