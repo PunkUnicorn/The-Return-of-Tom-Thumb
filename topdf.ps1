@@ -417,13 +417,13 @@ if ($env:WANTPREM -eq "1") {
 # Add a backing track to the audio book
 #
 Write-Output "Making audio book with soundtrack..."
-.\lame --decode .\Music\natural-reader-soundtrack.mp3 natural-reader-soundtrack.wav  --silent
+.\lame --decode .\Music\natural-reader-soundtrack.mp3 natural-reader-soundtrack.wav  #--silent
 Write-Output "... made natural-reader-soundtrack.wav"
 
 #.\lame --decode The-Return-of-Tom-Thumb-single-chapter-one.mp3 The-Return-of-Tom-Thumb-single-chapter-one.wav --silent
 #Write-Output "... made The-Return-of-Tom-Thumb-single-chapter-one.wav"
 
-.\lame --decode The-Return-of-Tom-Thumb.mp3 The-Return-of-Tom-Thumb.wav --silent
+.\lame --decode The-Return-of-Tom-Thumb.mp3 The-Return-of-Tom-Thumb.wav #--silent
 Write-Output "... made The-Return-of-Tom-Thumb.wav"
 
 #sox The-Return-of-Tom-Thumb-single-chapter-one.wav --channels 2 The-Return-of-Tom-Thumb-stereo-single-chapter-one.wav -q
