@@ -6,6 +6,7 @@ using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
+using System.Text;
 using System.Threading.Tasks;
 
 namespace TomThumbPremiumAudioBook
@@ -47,6 +48,21 @@ namespace TomThumbPremiumAudioBook
                     .Where(w => !w.StartsWith("!["))
                     .ToArray();
 
+                var newLines = new List<string>();
+                foreach (var transform in lines)
+                {
+                    var newWords = new List<string>();
+                    foreach (var word in transform.Split(' '))
+                    {
+                        if (word.StartsWith('*'))
+                            newWords.Add(word.Trim('*').ToUpper());
+                        else
+                            newWords.Add(word);
+                    }
+                    newLines.Add( string.Join(' ', newWords) );
+                }
+                lines = newLines.ToArray();
+
                 var taken = 0;
                 const int batchsize = 50;
                 var batch = lines.Skip(taken).Take(batchsize);
@@ -55,7 +71,7 @@ namespace TomThumbPremiumAudioBook
                 var listOfMp3s = new List<string>();
                 while (batch.Any())
                 {
-                    var model = new Dictionary<string, object>() { { "voice", voiceCode }, { "content", string.Join('\n', batch) } };
+                    var model = new Dictionary<string, object>() { { "prosody", "rate=\"1.1\"" }, { "voice", voiceCode }, { "content", string.Join('\n', batch) } };
 
                     var result = await SynthesizeAudioAsync(key, "uksouth", ++index, model, inputSsmlTemplate, outputFolder);
                     listOfMp3s.Add(result);
@@ -124,19 +140,19 @@ namespace TomThumbPremiumAudioBook
                 if (string.IsNullOrWhiteSpace(content.Trim('\n')))
                     return "";
 
-
                 result = await synthesizer.SpeakSsmlAsync(content);
+                Console.WriteLine("Combining");
+
                 await File.WriteAllTextAsync(Path.Combine(outputFolder, Path.ChangeExtension(fn, "txt")), content);
             }
 
-            Console.WriteLine("Combining");
             var mp3Filename = Path.Combine(outputFolder, Path.ChangeExtension(fn, "mp3"));
             if (result.AudioData.Any())
                 using (var ms = new MemoryStream(result.AudioData))
                 {
                     ConvertWavStreamToMp3File(ms, mp3Filename);
                     File.Delete(wavFilename);
-                }           
+                }
 
             return mp3Filename;
         }
