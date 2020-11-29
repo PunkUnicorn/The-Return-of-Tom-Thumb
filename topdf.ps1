@@ -139,8 +139,8 @@ Function WordAnalysis-Chapter($chapterName) {
 #
 Function Thesaurunocerous-Chapter($chapterName, $wordsFilename) {
 	Write-Output "$chapterName Thesaurunocerous starts:"	
-  if ($env:WANTTHES -eq "1")
-  {
+  	if ($env:WANTTHES -eq "1")
+  	{
 
 		$chapter = Get-Content -Path "Prose - $chapterName*.md" -Encoding UTF8 | Replace-FancyQuotes 
 		$chapterTheasurus = $chapter | python thesaurunocerous.py | ConvertFrom-Json | %{ $_.Results }
@@ -150,9 +150,9 @@ Function Thesaurunocerous-Chapter($chapterName, $wordsFilename) {
 			%{ Add-AppveyorMessage `
 				-Message "$($_.Word) x $($_.Occurs) - $chapterName" `
 				-Details "$($_.Hint)" `
-				-Category "Information " #$($_.Status)" 
+				-Category "Information" #$($_.Status)" 
 			}		
-  }
+  	}
 	else
 	{
 		Write-Output "Thesaurunocerous Skipped! (takes too long to download theasaurus corpus'"
