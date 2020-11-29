@@ -14,7 +14,7 @@ The Tailor stepped to one side pulling Tom with him. He looked across the stalls
 
 Tom fell in behind The Tailor, it was easy following his steps through the crowd. Her attention lost to the busy businesses around, each stall an entire world. One had many hanging, dried meats. Its neighbour: a stall displaying increasing sizes of metal hoops, with long, thin, wooden poles laying next to them. Tom wondered what these were for?
 
-On the far side of the muddy walkway, through a happenstance gap in the crowd, a vendor, surrounded by tall bolts of multicoloured cloth, was arguing with a rotund customer. Behind her somebody burst out laughing. But the cloth merchant's shrill voice pierced through, angry in a language she did not understand.
+On the far side of the muddy walkway, through a happenstance gap in the crowd, a vendor, surrounded by tall bolts of multicoloured cloth. He was arguing with a rotund customer. Behind her somebody burst out laughing. But the cloth merchant's shrill voice pierced through, angry in a language she did not understand.
 
 Hurrying past, they walked towards a steady, metallic banging. It had just started; pulses of three. Each hit rattled the back of Tom's teeth, but its echo played a beautiful tone. “Oh good, he's here.”, The Tailor exclaimed. He extended his arm towards Tom, “Climb up.”, and Tom scrambled up The Tailor's side to his shoulders, easily finding steps. 
 
