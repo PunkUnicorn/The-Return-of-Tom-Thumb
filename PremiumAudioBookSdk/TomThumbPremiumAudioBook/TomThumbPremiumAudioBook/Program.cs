@@ -106,12 +106,12 @@ namespace TomThumbPremiumAudioBook
             foreach (string filename in mp3filenames)
                 using (var reader = new Mp3FileReader(filename))
                 {
-                    Console.WriteLine("doing ");
+                    //Console.WriteLine("doing ");
 
                     if (writer == null)
                         writer = new LameMP3FileWriter(outfile, reader.WaveFormat, LAMEPreset.ABR_320);
                     reader.CopyTo(writer);
-                    Console.WriteLine("something ");
+                    //Console.WriteLine("something ");
                 }
 
             if (writer != null)
@@ -134,7 +134,7 @@ namespace TomThumbPremiumAudioBook
                 config.SetSpeechSynthesisOutputFormat(SpeechSynthesisOutputFormat.Riff24Khz16BitMonoPcm);
                 using (var synthesizer = new SpeechSynthesizer(config, audioConfig))
                 {
-                    Console.WriteLine("doing ");
+                    //Console.WriteLine("doing ");
                     var ssml = File.ReadAllText(inputSsml);
                     var template = Scriban.Template.Parse(ssml);
                     var content = template.Render(model);
@@ -143,7 +143,7 @@ namespace TomThumbPremiumAudioBook
                         return "";
 
                     result = await synthesizer.SpeakSsmlAsync(content);
-                    Console.WriteLine("something ");
+                    //Console.WriteLine("something ");
 
                     await File.WriteAllTextAsync(Path.Combine(outputFolder, Path.ChangeExtension(fn, "txt")), content);
                 }

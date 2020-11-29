@@ -86,7 +86,7 @@ Function Spellcheck-DumpExceptions() {
 	Get-Content -Path "spellchecker.exceptions.txt" | Write-Output
 	Write-Output "Spelling Exceptions end!"
 }
-
+https://github.com/PunkUnicorn/The-Return-of-Tom-Thumb
 #
 # Word analysis chapter files by filename convention
 # Outputs word stats for files
@@ -111,21 +111,19 @@ Function WordAnalysis-Chapter($chapterName) {
 		Where { $_.Count -gt 1 } | `
 		Where { $_.Length -gt 2 }
 
-	Write-Output $bigWords
+	#Write-Output $bigWords
 	
 	$chapterWordCount | Measure-Object Count -Sum -Maximum | Select -Property `
 		@{Label="Unique word count";Expression={$_.Count}}, 
 		@{label="Word count";Expression={$_.Sum}}, 
 		@{label="Maximum occurrence of any word";Expression={$_.Maximum}} | fl
-		
-	if ($env:WANTTHES -eq "1")
-	{
+	
+	if ($env:WANTTHES -eq "1") {
 		$chapterWordHints = $bigWords | `
 			foreach { $_.Word } | `
 			python theasaurus.py | ` 
 			ConvertFrom-Csv
-	}
-	
+	}	
 	
 	# JASON HULP! ADD $chapterWordCount to $bigWords!!! SO KNOW WORD COUNT WITH SYNONYM LOOKUP??? 
 	# wut $hintsWithCount = $bigWords | Add-Member 
@@ -141,20 +139,20 @@ Function WordAnalysis-Chapter($chapterName) {
 #
 Function Thesaurunocerous-Chapter($chapterName, $wordsFilename) {
 	Write-Output "$chapterName Thesaurunocerous starts:"	
-  if ($env:WANTTHES -eq "1")
-  {
+  	if ($env:WANTTHES -eq "1")
+  	{
 
 		$chapter = Get-Content -Path "Prose - $chapterName*.md" -Encoding UTF8 | Replace-FancyQuotes 
-		$chapterTheasurus = $chapter | python thesaurunocerous.py | ConvertFrom-Json | %{ $_.Results }
+		$chapterTheasurus = $chapter | python thesaurunocerous.py | ConvertFrom-Json | %{ $_.Results } | Where-Object {$_.Occurs -gt 10} -and $_.Length -gt 3 }
 		#$chapterTheasurus | fl
 		#$chapterTheasurus | fl | Out-File -FilePath $wordsFilename -Append
 		$chapterTheasurus | `
 			%{ Add-AppveyorMessage `
 				-Message "$($_.Word) x $($_.Occurs) - $chapterName" `
 				-Details "$($_.Hint)" `
-				-Category "$($_.Status)" 
+				-Category "$($_.Status)"
 			}		
-  }
+  	}
 	else
 	{
 		Write-Output "Thesaurunocerous Skipped! (takes too long to download theasaurus corpus'"
