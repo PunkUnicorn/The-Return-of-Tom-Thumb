@@ -12,7 +12,6 @@ init:
   - ps: Write-Output "Python $Env:PYTHON_VERSION $Env:PYTHON_ARCH from $Env:PYTHON"
 
 install:
-  - ps: Get-Date
   - ps: $ENV:PATH="C:\Python38-x64;C:\Python38-x64\Scripts;$ENV:PATH;"
   - ps: C:\Python38-x64\python.exe -m pip install --upgrade pip
   - ps: python --version
@@ -35,7 +34,6 @@ install:
 build: false
 
 test_script:
-  - ps: Get-Date
   - ps: .\topdf.ps1
 #  - ECHO Possibly making the premium book
 #  - ps: cat ".\Croconocerous\croco_on_mostly_blank_except_some_grass_man.txt"
@@ -79,8 +77,7 @@ artifacts:
     type: file
 
 on_success:
-  - ps: Get-Date
-  - cat ".\Croconocerous\croco_on_mostly_blank_except_some_grass_man.txt"
+  #- cat ".\Croconocerous\croco_on_mostly_blank_except_some_grass_man.txt"
   - git clone https://github.com/PunkUnicorn/The-Return-Of-Tom-Thumb-Redirect-Static-Page.git
   - cd ./The-Return-Of-Tom-Thumb-Redirect-Static-Page
   - git config --global credential.helper store
