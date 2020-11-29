@@ -8,8 +8,8 @@ environment:
       PYTHON_VERSION: "3.8"
       PYTHON_ARCH: "64"
 
-init:
-  - ps: Write-Output "Python $Env:PYTHON_VERSION $Env:PYTHON_ARCH from $Env:PYTHON"
+#init:
+  #- ps: Write-Output "Python $Env:PYTHON_VERSION $Env:PYTHON_ARCH from $Env:PYTHON"
 
 install:
   - ps: $ENV:PATH="C:\Python38-x64;C:\Python38-x64\Scripts;$ENV:PATH;"
@@ -23,7 +23,7 @@ install:
   - SET WANTPREM=1
   - copy LameExe/lame_v3.100.exe
   - rename lame_v3.100.exe lame.exe
-  - dir
+  #- dir
   - cinst sox.portable
   - pip install -U pyenchant #for spelling
   - python -m pip install gTTS
