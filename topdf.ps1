@@ -150,7 +150,7 @@ Function Thesaurunocerous-Chapter($chapterName, $wordsFilename) {
 			%{ Add-AppveyorMessage `
 				-Message "$($_.Word) x $($_.Occurs) - $chapterName" `
 				-Details "$($_.Hint)" `
-				-Category "$($_.Status)" `
+				-Category "Information" `
 			}		
   	}
 	else
@@ -201,6 +201,8 @@ Write-Output "`n`nIntroducing ... sox!`n"
 sox -h
 Write-Output "`n`nIntroducing ... soxi!`n"
 soxi
+Write-Output "`n`nIntroducing ... well ... it's a PARTY GATECRASHER! THE SYSTEM PATH!!!! Welcome though bro'. Grab a drink, you know, and chill; mi casa es tu casa`n"
+path
 #
 # I used to think pandoc got upset with chapter two at the top of a new file
 # I used to think pandoc really really likes a blank line at the end!!! It can be funny on some readers without
