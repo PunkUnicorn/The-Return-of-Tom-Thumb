@@ -5,7 +5,7 @@ import collections
 from nltk.corpus import wordnet
 
 IGNORE_WORDS_THIS_SHORT_OR_LESS = 3
-IGNORE_WORDS_THAT_OCCUR_THIS_OR_LESS = 3
+IGNORE_WORDS_THAT_OCCUR_THIS_OR_LESS = 10
 IGNORE_WORDS_THAT_OCCUR_THIS_OR_MORE = 100
     
 def makeWords(line):
