@@ -200,8 +200,7 @@ pandoc --version
 Write-Output "`n`nIntroducing ... lame!`n"
 .\lame --version
 Write-Output "`n`nIntroducing ... sox!`n"
-#sox -h
-sox
+sox -h
 Write-Output "`n`nIntroducing ... soxi!`n"
 soxi
 #Write-Output "`n`nIntroducing ... well ... it's a PARTY GATECRASHER! THE SYSTEM PATH!!!! Welcome though bro'. Grab a drink, you know, and chill; mi casa es tu casa`n"

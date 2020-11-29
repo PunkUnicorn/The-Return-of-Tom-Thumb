@@ -12,11 +12,11 @@ environment:
   #- ps: Write-Output "Python $Env:PYTHON_VERSION $Env:PYTHON_ARCH from $Env:PYTHON"
 
 install:
+  - ps: cat ".\TheKnight\the-knight-thumbnail.txt"
   - ps: $ENV:PATH="C:\Python38-x64;C:\Python38-x64\Scripts;$ENV:PATH;"
   - ps: C:\Python38-x64\python.exe -m pip install --upgrade pip
   - ps: python --version
   - ps: pip --version
-  - ps: cat ".\TheKnight\the-knight-thumbnail.txt"
   - cinst pandoc
   - REM cinst lame
   - SET WANTTHES=1
