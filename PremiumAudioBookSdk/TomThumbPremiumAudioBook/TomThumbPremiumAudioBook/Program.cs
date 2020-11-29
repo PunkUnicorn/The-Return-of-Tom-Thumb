@@ -55,7 +55,7 @@ namespace TomThumbPremiumAudioBook
                     foreach (var word in transform.Split(' '))
                     {
                         if (word.StartsWith('*'))
-                            newWords.Add(word.Trim('*').ToUpper());
+                            newWords.Add(word.Replace("*", "").ToUpper());
                         else
                             newWords.Add(word);
                     }

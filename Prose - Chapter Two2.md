@@ -24,7 +24,7 @@ She wanted to tell him of her plan to head to the village and sell the pips. It 
 
 She braced her upper body, relaxed her legs; ready to dodge. “I’m going to the village.”
 
-Kim walked a few steps towards a sturdy branch, used as a weapon the previous day by her brothers. He picked it up and held it as a staff. He lent his weight. It held. He walked towards The South Trail, inclining his head towards Tom briefly: “Come on then.”
+Kim walked a few steps towards a sturdy branch, used as a weapon the previous day by her brothers. He picked it up and held it as a staff. He lent his weight. It held. He walked towards The South Trail, inclining his head towards Tom: “Come on then.”
 
 The South Trail was easy in her recently acquired boots. Kim had their father’s hand-me-downs, which were only second generation. They looked more or less like normal old boots. Tom’s pair looked new, but obviously too small for anyone but her and her tiny frame. She had relied on this to stave off others’ desires on the boots.
 

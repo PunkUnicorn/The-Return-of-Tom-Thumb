@@ -16,4 +16,4 @@ But then she had an idea: another giant apple would solve the hunger problem. It
 
 Jumping to her feet, she hurried towards the core. It was almost as tall as her. She paced around, looking for a good place to start. As quickly as she found a likely spot, she squared her knuckles and punched a level blow, her fist ripping into the seed chamber. Gripping the breach, she tore it wider.
 
-Sticking her arm in, pulp running up her sleave, she felt a pip. Pushing further, as far as possible, she mapped the pip's orientation. With a concerted shunt she shifted the pip towards a better grip and eased it out. Feeling triumphant, she freed another two, fitting all three of the large pips in her pockets.
+Sticking her arm in, pulp running up her sleave, she felt a pip. Pushing further, as far as possible, she mapped the pip's orientation. With a concerted shunt she shifted the pip to a better grip and eased it out. Feeling triumphant, she freed another two, fitting all three of the large pips in her pockets.

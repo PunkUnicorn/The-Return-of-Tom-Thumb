@@ -38,19 +38,19 @@ Tom laughed; this smart, handsome figure fooling around, it was funny. Even Kim 
 
 “Firstly,” continued the man, “please, allow me to introduce myself: I am a humble travelling tailor.”, and he bowed slightly.
 
-“I'm Tom.” she replied, “Do you really want to ask questions? What about?”
+“Questions? What questions?” she asked.
 
-The Tailor took a step forward, nodded to confirm, “Yes.” He paused. “Lots. But... first, did you buy that cow off that lad Jack?”
+The Tailor took a step forward, nodding: “Please, yes, if possible. Lots.” He paused. Then with an exaggerated curiosity: “Did you buy that cow off that lad Jack?”
 
-Tom was proud of buying the cow; one of her proudest achievements: “Yes.", she answered, "Why?”
+Tom was proud of buying the cow, one of her proudest achievements: “Yes.", she answered, "Why?”
 
-The Tailor looked at Tom, gently stating: “All day Jack was asking a rather high price.”, Tom did not understand. He continued: “I wondered if... would you share how much the cow cost you?”. The Tailor was aware this was a rude question.
+The Tailor looked at Tom, gently stating: “All day Jack was asking a rather high price.”, Tom did not understand, so he continued: “I wondered if... would you share how much the cow cost you?”. The Tailor was aware this was a rude question.
 
 Tom shrugged: “Three apple pips.“
 
-The Tailor was confused. Tom explained they were from a giant apple. She would not share where the apple came from .In fact, she seemed to shut down when asked.
+The Tailor was confused. Tom explained they were from a giant apple. She would not share where the apple came from. In fact, she seemed to shut down when asked.
 
-The Tailor would have liked to ask more. He wanted to match her tale of giant apples and strange boots against stories he had heard. But instead of answering questions the girl was talking less, lips sealed.
+The Tailor would have liked to ask more but the girl's lips were sealed. She went absolutley silent.
 
 To lighten the mood, he diverted the conversation to tales of his own travels from the south. This woke Tom up, but not the other one: her brother he presumed.
 

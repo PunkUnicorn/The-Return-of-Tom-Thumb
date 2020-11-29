@@ -90,7 +90,7 @@ She seemed impressed. “I'm on an adventure myself, I need to get far north, an
 
 The Knight nodded along with her words, as if they made sense. He was exhilarated to have some travelling company; better cover for his escape.
 
-“I'm Red,” she beamed a warm, welcoming smile, “I'm really pleased you're joining me.”
+“I'm Red,” she beamed a warm, welcoming smile, “I'm really pleased you'll join me.”
 
 But not as pleased as The Knight, it was all going rather well. Their common goal: to travel far north and stay off the main trails.
 
