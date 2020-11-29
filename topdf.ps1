@@ -86,7 +86,7 @@ Function Spellcheck-DumpExceptions() {
 	Get-Content -Path "spellchecker.exceptions.txt" | Write-Output
 	Write-Output "Spelling Exceptions end!"
 }
-https://github.com/PunkUnicorn/The-Return-of-Tom-Thumb
+
 #
 # Word analysis chapter files by filename convention
 # Outputs word stats for files
