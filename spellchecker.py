@@ -41,11 +41,14 @@ for line in sys.stdin:
     words = makeWords(line)
     for word in words:
         ignoreIt = False
+        if (word[0] == '['):
+          ignoreIt = True
+
         for ignoreWord in ignoreWords:
             if ignoreWord == word:
                 ignoreIt = True
                 break
-
+            
         if ignoreIt:
             continue;
 
