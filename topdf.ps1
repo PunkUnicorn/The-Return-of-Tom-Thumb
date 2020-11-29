@@ -146,13 +146,14 @@ Function Thesaurunocerous-Chapter($chapterName, $wordsFilename, $isAppveryorMess
 		$chapterTheasurus = $chapter | python thesaurunocerous.py | ConvertFrom-Json | %{ $_.Results }  # | Where-Object {$_.Occurs -gt 10 -and $_.Length -gt 3 }
 		#$chapterTheasurus | fl
 		#$chapterTheasurus | fl | Out-File -FilePath $wordsFilename -Append
-		if ($isAppveryorMessage -eq "True")
-		$chapterTheasurus | `
-			%{ Add-AppveyorMessage `
-				-Message "$($_.Word) x $($_.Occurs) - $chapterName" `
-				-Details "$($_.Hint)" `
-				-Category "Information" 
-			}		
+		if ($isAppveryorMessage -eq "True") {
+			$chapterTheasurus | `
+				%{ Add-AppveyorMessage `
+					-Message "$($_.Word) x $($_.Occurs) - $chapterName" `
+					-Details "$($_.Hint)" `
+					-Category "Information" 
+				}		
+		}
   	}
 	else
 	{
