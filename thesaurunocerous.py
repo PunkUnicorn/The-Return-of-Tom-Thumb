@@ -5,7 +5,8 @@ import collections
 from nltk.corpus import wordnet
 
 IGNORE_WORDS_THIS_SHORT_OR_LESS = 3
-IGNORE_WORDS_THAT_OCCUR_THIS_OR_LESS = 10
+IGNORE_WORDS_THAT_OCCUR_THIS_OR_LESS = 3
+IGNORE_WORDS_THAT_OCCUR_THIS_OR_MORE = 100
     
 def makeWords(line):
     words = line.replace('\"', '')
@@ -82,13 +83,14 @@ def getTheasaurusHint(word):
 # Call out the main offenders and suggest alternatives
 for word, count in counts.most_common():
     if (count > IGNORE_WORDS_THAT_OCCUR_THIS_OR_LESS):
-        hint = percentageOf(count, totalWordCount)
-        hint += " " + getTheasaurusHint(word);
-        data = { "Word": word, "Status": "Warning", "Occurs": count, "Hint": "Occurs " + str(count) + " times " + hint }
-        if (first == False):
-            sys.stdout.write(",")
-        else:
-            first=False
-        json.dump(data, sys.stdout)
+        if (count < IGNORE_WORDS_THAT_OCCUR_THIS_OR_MORE):
+            hint = percentageOf(count, totalWordCount)
+            hint += " " + getTheasaurusHint(word);
+            data = { "Word": word, "Status": "Warning", "Occurs": count, "Hint": "Occurs " + str(count) + " times " + hint, "Length": len(word) }
+            if (first == False):
+                sys.stdout.write(",")
+            else:
+                first=False
+            json.dump(data, sys.stdout)
 sys.stdout.write("]}")
 sys.stdout.flush()
