@@ -167,7 +167,7 @@ Function Thesaurunocerous-Chapter($chapterName, $wordsFilename, $isAppveryorMess
 # run tests
 Get-Content -Path "./RedRidingHood/ASCII_RED.txt" -Encoding UTF8 
 Write-Output "Spelling Starts" 
-Spellcheck-DumpExceptions
+#Spellcheck-DumpExceptions
 Spellcheck-Chapter "Chapter One" "Chapter-One-Spelling.txt" 
 Spellcheck-Chapter "Chapter Two" "Chapter-Two-Spelling.txt"
 Spellcheck-Chapter "Chapter Three" "Chapter-Three-Spelling.txt"
@@ -198,13 +198,15 @@ Get-Content -Path ".\TheTailor\the-tailor.txt" -Encoding UTF8
 Write-Output "`n`nIntroducing ... pandoc!`n"
 pandoc --version
 Write-Output "`n`nIntroducing ... lame!`n"
-.\lame --help
+.\lame --version
 Write-Output "`n`nIntroducing ... sox!`n"
-sox -h
+#sox -h
+sox
 Write-Output "`n`nIntroducing ... soxi!`n"
 soxi
-Write-Output "`n`nIntroducing ... well ... it's a PARTY GATECRASHER! THE SYSTEM PATH!!!! Welcome though bro'. Grab a drink, you know, and chill; mi casa es tu casa`n"
-path
+#Write-Output "`n`nIntroducing ... well ... it's a PARTY GATECRASHER! THE SYSTEM PATH!!!! Welcome though bro'. Grab a drink, you know, and chill; mi casa es tu casa`n"
+#path
+
 #
 # I used to think pandoc got upset with chapter two at the top of a new file
 # I used to think pandoc really really likes a blank line at the end!!! It can be funny on some readers without

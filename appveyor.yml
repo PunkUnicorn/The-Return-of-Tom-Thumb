@@ -29,7 +29,7 @@ install:
   - python -m pip install gTTS
   - IF "%WANTTHES%" == "1" echo pip install -U nltk > runme.bat #for theasurus
   - IF "%WANTTHES%" == "1" echo python -m nltk.downloader all >>runme.bat #for theasurus *** VERY SLOW ***
-  - IF "%WANTTHES%" == "1" call runme.bat > nltk_downloader.log #for theasurus *** VERY SLOW ***
+  - IF "%WANTTHES%" == "1" call runme.bat > nltk_downloader.log 2>&1 #for theasurus *** VERY SLOW ***
   - IF "%WANTPREM%" == "1" dotnet build PremiumAudioBookSdk\TomThumbPremiumAudioBook\TomThumbPremiumAudioBook.sln -c Release #limited plan, bit slow
     
 build: false
