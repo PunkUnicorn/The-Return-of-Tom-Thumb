@@ -150,7 +150,7 @@ Function Thesaurunocerous-Chapter($chapterName, $wordsFilename) {
 			%{ Add-AppveyorMessage `
 				-Message "$($_.Word) x $($_.Occurs) - $chapterName" `
 				-Details "$($_.Hint)" `
-				-Category "$($_.Status)" 
+				-Category "Information " #$($_.Status)" 
 			}		
   }
 	else
