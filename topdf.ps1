@@ -143,7 +143,7 @@ Function Thesaurunocerous-Chapter($chapterName, $wordsFilename) {
   	{
 
 		$chapter = Get-Content -Path "Prose - $chapterName*.md" -Encoding UTF8 | Replace-FancyQuotes 
-		$chapterTheasurus = $chapter | python thesaurunocerous.py | ConvertFrom-Json | %{ $_.Results } | Where-Object {$_.Occurs -gt 10 -and $_.Length -gt 3 }
+		$chapterTheasurus = $chapter | python thesaurunocerous.py | ConvertFrom-Json | %{ $_.Results }  # | Where-Object {$_.Occurs -gt 10 -and $_.Length -gt 3 }
 		#$chapterTheasurus | fl
 		#$chapterTheasurus | fl | Out-File -FilePath $wordsFilename -Append
 		$chapterTheasurus | `

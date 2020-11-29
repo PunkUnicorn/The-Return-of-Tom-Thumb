@@ -4,8 +4,8 @@ import json
 import collections
 from nltk.corpus import wordnet
 
-IGNORE_WORDS_THIS_SHORT_OR_LESS = 2
-IGNORE_WORDS_THAT_OCCUR_THIS_OR_LESS = 4
+IGNORE_WORDS_THIS_SHORT_OR_LESS = 3
+IGNORE_WORDS_THAT_OCCUR_THIS_OR_LESS = 10
     
 def makeWords(line):
     words = line.replace('\"', '')
@@ -40,7 +40,7 @@ for line in sys.stdin:
     counts.update(countingWords)
 
 def statusMessage(title, hint, first, occurs):
-    data = { "Word": title,  "Status": "Information", "Occurs": occurs, "Hint": hint }
+    data = { "Word": title,  "Status": "Information", "Occurs": occurs, "Hint": hint, "Length": len(title) }
     if (first == False):
         sys.stdout.write(",")
     else:
