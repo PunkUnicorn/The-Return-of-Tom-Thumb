@@ -6,7 +6,7 @@ Somebody was slumped on the floor in front of them, vaguely against the side of 
 
 Weaving through alleyways made from competing buildings they startled rats which darted away panicked. Judging by the size of the rats, and the smell of the rotting food, Tom knew people here ate well.
 
-Leaving the maze of buildings they entered a muddy clearing, which soon led to a high, intimidating wooden wall. The Tailor seemed to know where he was going but walked straight towards the wall. But then Tom could see a door which almost blended into it perfectly. She could hear a crowd on the other side. As The Tailor opened the door, Tom was inundated with a bewildering array of sights and sounds.
+Leaving the maze of buildings they entered a muddy clearing, which soon led to a high, intimidating wooden wall. The Tailor seemed to know where he was going but walked straight towards the wall. But then Tom could see a door which almost blended into the wall perfectly. She could hear a crowd on the other side. As The Tailor opened the door, Tom was inundated with a bewildering array of sights and sounds.
 
 Bustling people shuffled around market stalls, stretching into the distance. What looked like an oppressive wall on one side stopped short, in ruins, before it could even make a semicircle around the market.
 
