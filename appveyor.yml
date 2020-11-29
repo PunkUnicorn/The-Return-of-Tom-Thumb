@@ -27,8 +27,9 @@ install:
   - cinst sox.portable
   - pip install -U pyenchant #for spelling
   - python -m pip install gTTS
-  - IF "%WANTTHES%" == "1" pip install -U nltk #for theasurus
-  - IF "%WANTTHES%" == "1" python -m nltk.downloader all > nltk_downloader.txt #for theasurus *** VERY SLOW ***
+  - IF "%WANTTHES%" == "1" echo pip install -U nltk > runme.bat #for theasurus
+  - IF "%WANTTHES%" == "1" echo python -m nltk.downloader all >>runme.bat #for theasurus *** VERY SLOW ***
+  - IF "%WANTTHES%" == "1" call runme.bat > nltk_downloader.log #for theasurus *** VERY SLOW ***
   - IF "%WANTPREM%" == "1" dotnet build PremiumAudioBookSdk\TomThumbPremiumAudioBook\TomThumbPremiumAudioBook.sln -c Release #limited plan, bit slow
     
 build: false
