@@ -113,17 +113,17 @@ Function WordAnalysis-Chapter($chapterName) {
 
 	Write-Output $bigWords
 	
-	$chapterWordCount | Measure-Object Count -Sum -Maximum | Select -Property `
-		@{Label="Unique word count";Expression={$_.Count}}, 
-		@{label="Word count";Expression={$_.Sum}}, 
-		@{label="Maximum occurrence of any word";Expression={$_.Maximum}} | fl
-		
-	if ($env:WANTTHES -eq "1")
-	{
+	if ($env:WANTTHES -eq "1") {
 		$chapterWordHints = $bigWords | `
 			foreach { $_.Word } | `
 			python theasaurus.py | ` 
 			ConvertFrom-Csv
+	} else {
+  	    $chapterWordCount | Measure-Object Count -Sum -Maximum | Select -Property `
+		@{Label="Unique word count";Expression={$_.Count}}, 
+		@{label="Word count";Expression={$_.Sum}}, 
+		@{label="Maximum occurrence of any word";Expression={$_.Maximum}} | fl
+			
 	}
 	
 	
