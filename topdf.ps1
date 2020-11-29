@@ -146,7 +146,7 @@ Function Thesaurunocerous-Chapter($chapterName, $wordsFilename, $isAppveryorMess
 		$chapterTheasurus = $chapter | python thesaurunocerous.py | ConvertFrom-Json | %{ $_.Results }  # | Where-Object {$_.Occurs -gt 10 -and $_.Length -gt 3 }
 		#$chapterTheasurus | fl
 		#$chapterTheasurus | fl | Out-File -FilePath $wordsFilename -Append
-		if ($isAppveryorMessage -eq True)
+		if ($isAppveryorMessage -eq "True")
 		$chapterTheasurus | `
 			%{ Add-AppveyorMessage `
 				-Message "$($_.Word) x $($_.Occurs) - $chapterName" `
@@ -176,14 +176,14 @@ Spellcheck-Chapter "Chapter Six" "Chapter-six-Spelling.txt"
 Write-Output "Spelling Ends"
 
 Write-Output "Thesaurunocerous Starts"
-Thesaurunocerous-Chapter "Chapter One" "Chapter-One-Words.txt" False
-Thesaurunocerous-Chapter "Chapter Two" "Chapter-Two-Words.txt" False
-Thesaurunocerous-Chapter "Chapter Three" "Chapter-Three-Words.txt" False
-Thesaurunocerous-Chapter "Chapter Four" "Chapter-Four-Words.txt" False
-Thesaurunocerous-Chapter "Chapter Five" "Chapter-Five-Words.txt" False
-Thesaurunocerous-Chapter "Chapter Six" "Chapter-six-Words.txt" False
+Thesaurunocerous-Chapter "Chapter One" "Chapter-One-Words.txt" "False"
+Thesaurunocerous-Chapter "Chapter Two" "Chapter-Two-Words.txt" "False"
+Thesaurunocerous-Chapter "Chapter Three" "Chapter-Three-Words.txt" "False"
+Thesaurunocerous-Chapter "Chapter Four" "Chapter-Four-Words.txt" "False"
+Thesaurunocerous-Chapter "Chapter Five" "Chapter-Five-Words.txt" "False"
+Thesaurunocerous-Chapter "Chapter Six" "Chapter-six-Words.txt" "False"
 
-Thesaurunocerous-Chapter "Chapter *" "Chapter-All-Words.txt" True
+Thesaurunocerous-Chapter "Chapter *" "Chapter-All-Words.txt" "True"
 Write-Output "Thesaurunocerous Ends"
 
 Write-Output "Word Analysis Starts"
