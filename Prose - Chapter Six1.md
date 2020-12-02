@@ -2,11 +2,11 @@
 
 “Here it is.”, The Tailor pointed towards the town ahead. Tom wanted to stop and rest but The Tailor sped up. “I need to see the smithy, get a few things while we're here.”, but he did not mention the stench of rotting vegetables.
 
-Somebody was slumped on the floor in front of them, vaguely against the side of a building; stretched out, blocking their path. “He's drunk.”, The Tailor explained, and they maneuvered single file around him.
+Somebody was slumped on the floor in front of them, vaguely against the side of a building; stretched out, blocking their path. “He's drunk.”, The Tailor explained and they maneuvered single file around him.
 
-Weaving through alleyways made from competing buildings they startled rats which darted away panicked. Judging by the size of the rats, and the smell of the rotting food, Tom knew people here ate well.
+Weaving through alleyways, made from competing buildings, they startled rats which darted away panicked. Judging by the size of the rats, and the smell of the rotting food, Tom knew that the people here ate well.
 
-Leaving the maze of buildings they entered a muddy clearing, which soon led to a high, intimidating wooden wall. The Tailor seemed to know where he was going but walked straight towards the wall. But then Tom could see a door which almost blended into the wall perfectly. She could hear a crowd on the other side. As The Tailor opened the door, Tom was inundated with a bewildering array of sights and sounds.
+Leaving the maze of buildings they entered a muddy clearing, which soon led to a high, intimidating wooden wall. The Tailor seemed to know where he was going but walked straight towards the wall. But then Tom could see a door which almost blended into the wall. She could hear a crowd on the other side. As The Tailor opened the door, Tom was inundated with a bewildering array of sights and sounds.
 
 Bustling people shuffled around market stalls, stretching into the distance. What looked like an oppressive wall on one side stopped short, in ruins, before it could even make a semicircle around the market.
 
@@ -32,7 +32,7 @@ He responded with a grunt. “You’re back again, too soon.”
 
 “I couldn’t stay away”, The Tailor explained. The burly man snorted a curt laugh. The three at the anvil started banging again which interrupted him as he was about to say something. He gestured to the thin lad, who left, then herded Tom and The Tailor back outside through the doorway. The bright dazzling sun and sharp cold wind were stark contrasts to the hot, dim workshop.
 
-The burly man flinched, squinting from the light. But not the chill, his scarred arms and shoulder seemingly impervious to the wind's bite. “So admit it, you’re lost.”, he accused The Tailor.
+The burly man flinched, squinting from the light. But not the chill, his scarred arms and shoulders seemingly impervious to the wind. “So admit it, you’re lost.”, he accused The Tailor.
 
 “No, I came back so I could make an oil painting of your Inn.”, The Tailor extended both arms rightwards, at different heights, so to frame the filthy building behind them.
 
