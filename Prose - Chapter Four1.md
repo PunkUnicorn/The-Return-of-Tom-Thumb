@@ -17,13 +17,13 @@ Knights armour had slightly different strapping compared to the princely armour 
 
 The heavy helmet and visor were the last parts. These amplified his own breath and cropped his vision. The discomfort a reassurance; it would be a good disguise.
 
-The south stair was as deserted as expected, his rattling armour unheard. He following the spiralling stairs down to the arched tunnels below the keep.
+The south stair was as deserted as expected, his rattling armour unheard. He followed the spiralling stairs down to the arched tunnels below the keep.
 
-Through the tunnels, each step brought a creeping remembrance of what he was escaping: the responsibility, the throne and the honour of his lineage. There it was: the shame on his shoulders.
+Through the tunnels, each step brought a creeping remembrance of what he was escaping: the responsibility, the throne and the honour of his lineage. There it was, the shame on his shoulders.
 
 But then a flash of what lay ahead: the open road, a life of freedom, to hide away from chains of state. Instead be alive day to day; each morning living a new life. Each morning free again.
 
-So he took more steps, faster steps. But hurrying did not abate the remorse. Regret pushed against guilt to a blur. And a new flash of regret: not preparing a torch for this tunnel escape. He had packed a bundle of torches (he had packed everything useful he could think of).
+So he took more steps, faster steps. But hurrying did not abate the remorse. Regret pushed against guilt to a blur. And a new flash of regret: not preparing a torch for this tunnel escape, it was dark. He had packed a bundle of torches (he had packed everything useful he could think of).
 
 “I could stop and get the torches out...” he thought, mentally navigating through the layers of compacted equipment. He knew the location of everything in his backpack, each item crammed to it's smallest possible bundle.
 
@@ -33,9 +33,9 @@ More steps forward but misplacing his footing, and almost stumbling, caused him 
 
 His stomach churned.
 
-The breeze stronger, the cold biting his eyes. And the sound of rushing. It was the sound of rain. Listening. Somehow the prospect of rain was exhilarating; there was little rain in the life of an heir to the throne. Yet here he was, a few steps away.
+The breeze stronger, the cold biting his eyes. And the sound of rushing. It was the sound of rain. Listening, somehow, the prospect of rain was exhilarating; there was little rain in the life of an heir to the throne. Yet here he was, a few steps away.
 
-The tunnel narrowed and led round to the left. Following this: the smell of rain and the outside. The tunnel became a narrow cave and an opening overlooking fields.
+The tunnel narrowed and led round to the left. Following this, the smell of rain and the outside. The tunnel became a narrow cave and an opening overlooking fields.
 
 Looking out of the cave, into the misty rain, his anxiety rose; the prospect of the constricting life behind him, the escape to freedom in front. The sound of the rain neither diminishing or increasing; it was a flat boring constant he found himself aching for.
 
@@ -45,15 +45,15 @@ And so his first steps went, travelling near blind in the dark; reluctant to tak
 
 Until morning broke and the rain stopped. For the first time he dared to look back: the castle far in the distance, but not that far... far enough.
 
-He had calculated that first light was the time people would begin to realise he was missing. Now with the sun he could find north, latch onto a suitable trail and follow this as far north as possible: right up to the Expansive Forest perhaps.
+He had calculated that first light would be the time people noticed he was missing. Now with the sun he could find north, latch onto a suitable trail and follow this as far north as possible. Right up to The Expansive Forest perhaps?
 
 - - -
 
 In the north, for Tom, The Tailor and Kim the weather was dry. There had been no rain that night. Tom woke later than usual; it was already light. Groggy and disorientated she feared she had overslept her family. With great relief she remembered where she was, the sense of liberation was a surprise. This was the first time Tom recognised the burden of life at home.
 
-Still groggy she pulled her calves taught; stretching her feet to a point, arms arching back. The stretch bringing a wave of lucidity.
+Still groggy she pulled her calves taught; stretching her feet to a point, arms arching back. The stretch brought a wave of lucidity.
 
-Dust darted through the sunbeams, they entered through knot holes. Nothing to worry about, no concern. There was no need to hide.
+Dust darted through sunbeams from knot-holes. She had nothing to worry about.
 
 But there was something wrong.
 
@@ -63,7 +63,7 @@ Her feeling of comfort dislodged. She sat up to reassess. The Tailor was asleep.
 
 Getting up quietly Tom took a few careful steps towards the door, pushing it open; enough to peek outside. There was no trace of her brother.
 
-Pushing the doors more, she stepped outside looking in the direction of the north trail. Kim and the cow were long gone, no trace of either.
+Pushing the door more, she stepped outside looking in the direction of The North Trail. Kim and the cow were long gone, no trace of either.
 
 Tom stood looking northwards, imagining how far Kim might have gotten. The cow was slow, he would be close. She could catch him up, it would be easy.
 
