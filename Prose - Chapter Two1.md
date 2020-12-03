@@ -10,10 +10,10 @@ Distracting herself, she glanced to see what remained of the giant apple: it was
 
 Stretching her ankles, pulling her toes to a point, she felt the exquisite comfort in the soft leather of her boots. She could do that all day. She had been doing that all day.
 
-Reluctantly, letting go of comfort, her awareness returned to the present. The apple would keep them fed for two more days. Knowing they had enough food came with a nagging feeling. What was that nagging feeling? “Oh,” she remembered, “it's only going to last two days.”
+Reluctantly, letting go of comfort, her awareness returned to the present. In the present there was a feeling of concern, but what was it? The apple would keep them fed for two more days. Knowing they had enough food came with a nagging feeling. “Oh,” she remembered, “it's only going to last two days.”
 
 But then she had an idea: another giant apple would solve the hunger problem. It was something. And then a moment of inspiration; a hidden treasure she had missed: the giant apple's pips.
 
 Jumping to her feet, she hurried towards the apple. It was almost as tall as her. She paced around, looking for a good place to start. As quickly as she found a likely spot, she squared her knuckles and punched a level blow, her fist ripping into the seed chamber. Gripping the breach, she tore it wider.
 
-Sticking her arm in she felt a pip. Pushing further, as far as possible, she mapped the pip's orientation. With a concerted shunt she shifted the pip to a better grip and eased it out. Feeling triumphant, she freed another two, then fitted all three of the large pips into her pockets.
+Sticking her arm in she felt a pip. Pushing further, as far as possible, she mapped the pip's orientation. With a concerted shunt she shifted the pip to a better grip and eased it out. Feeling triumphant she freed another two, then fitted all three of the large pips into her pockets.
