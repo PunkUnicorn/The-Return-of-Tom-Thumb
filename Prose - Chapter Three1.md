@@ -18,7 +18,7 @@ As he got closer, hearing: 'make your boots go fast', he looked again at the two
 
 The girl noticed his glance, so he looked away, not wanting to intrude. Continuing past them, he put them to the back of his mind, concentrating on what lay ahead.
 
-Using the remaining light he could see the long road in front of him. It was sparse. He had heard it was isolated further north, leading into an expansive forest. It certainly looked isolated, and cold. Bitterly cold. It seemed this place was possibly the last civilised dwelling on the north road.
+Using the remaining light he could see the long road in front of him. It was sparse. He had heard it was isolated further north, leading into an expansive forest. It certainly looked isolated, and cold. Bitterly cold. It seemed this place was possibly the last civilised dwelling on The North Road.
 
 He stopped. He was sure he could stay at the inn at this tiny village tonight.
 
