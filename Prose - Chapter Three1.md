@@ -68,13 +68,13 @@ Kim had ignored the two while they were talking. All the time he had been wonder
 
 The Tailor did not notice their naivety: “Let’s get to the inn.”, and they followed, walking slowly.
 
-The Tailor gestured towards the cow: “I doubt she will be allowed inside.”, addressing the cow directly: “Sorry old girl.”. There was muffled sound and music coming from the lit building they approached. Before entering The Tailor turned to Tom and Kim, his palms up: “I’ll talk to the innkeeper, see if we can stay in the barn. You two wait here, keep an eye on the cow.”
+The Tailor gestured towards the cow: “I doubt she will be allowed inside.”, addressing the cow directly: “Sorry old girl.”. Muffled music was coming from the building they approached. Before entering, The Tailor turned to Tom and Kim, his palms up: “I’ll talk to the innkeeper, see if we can stay in the barn. You two wait here, keep an eye on the cow.”
 
 Tom wondered what an innkeeper was. She built an imaginary picture of a large man. He had a solid club and a serious face. She did not want to get the attention of the innkeeper. So she did as The Tailor suggested; stopped and waited. Kim seemed to have reached the same conclusion.
 
 The Tailor opened the door, layers of noise escaped. And the smell of warm food. There was bread and gravy in there. And now aware of an intense hunger, which encouraged a curiosity to peek inside. However, these instincts battled against the image of the innkeeper.
 
-The door opened, this time a waft of gravy with the sound of laughter. The Tailor had returned. “We can stay in the stables tonight,” he reported cheerfully, “it’s this way, follow me.”, and they followed him to around the other side of the inn.
+The door opened and The Tailor returned. “We can stay in the stables tonight,” he reported cheerfully, “it’s this way, follow me.”, and they followed him to around the other side of the inn.
 
 The stable door swung open easily (and surprisingly silently). Inside was a large space offering fresh hay, but no trace of horses. Not a scent.
 
@@ -82,7 +82,7 @@ The Tailor stopped dead in his tracks: “Well...” he exclaimed. “This thorp
 
 Tom was stunned to silence at the sight of the space, and the luscious piles of hay. Kim claimed one of the close corner sections. Tom laid claim to the equal corner opposite and The Tailor joined her side, both having ample space.
 
-Fumbling at his sides he walked to the centre of the open space, reached up on tiptoes towards something overhead, and pulled a dangling thing down.
+But The Tailor did not sit, instead he fumbled at his sides then walked to the centre of the open space. He reached up on tiptoes towards something overhead, and pulled a dangling thing down.
 
 Something far above rattled. Movement caught Toms eye, and she saw a rope swinging in and out of the edge of the open door.
 
@@ -106,7 +106,7 @@ Tom looked between Kim and the cow. Both were settled and looking ready to sleep
 
 Time passed and Tom almost drifted off to sleep when The Tailor returned. Carrying three bowls, balanced with grace, and the rich smell of gravy. He handed one bowl to Kim, who sat up quickly surprised. A chunk of bread and a wooden spoon added to the surprise, Kim was unsure what this all meant, or what had just happened.
 
-The Tailor planted the same on Tom, then sat in Tom's adjacent section. He happily spooned the broth. Looking to both Kim and Tom, they were surprised, still holding bread and spoons as when first handed to them. The Tailor finished a mouthful, then pointing with his spoon: “It's better than it looks, I promise.”
+The Tailor planted the same on Tom, then sat in Tom's adjacent section. He happily spooned the broth. Looking to both Kim and Tom, they seemed alarmed, still holding everything as when first handed to them. The Tailor pointed his spoon to his broth: “It's better than it looks, I promise.”
 
 Tom and Kim took their cue and started eating. It was simply the finest broth Tom had ever tasted, and the freshest bread.
 
