@@ -8,7 +8,7 @@ And now aware of her family behind the door, defensive instincts pulled her back
 
 The overpowering smell of baked apples. The heavy door slammed shut behind her. In the thick air, for a second, Tom was sick of apples. But the feeling quickly passed; the apple had been a life saver. Besides, the pips in her pockets could be interesting. She joined the crowded table as inconspicuously as possible.
 
-Bellies full, tensions were rising; competing voices. She did not look though, not a time to risk eye contact. She listened to judge tones of aggression: it was safe. Wiggling her toes, squashing them against the leather of the boots, the arguing grew more distant. The luxury at her feet uninterrupted, she drifted in and out of daydreams.
+Bellies full, tensions were rising; competing voices. She did not look though, not a time to risk eye contact. She listened to judge tones of aggression: it was safe. Wiggling her toes, squashing them against the leather of her boots, their arguing grew more distant. The luxury at her feet uninterrupted, she drifted in and out of daydreams.
 
 The next morning Tom woke earlier than anyone else. With well practised tiptoeing she stepped between sleeping siblings, got to the door and slipped outside. The first thing she saw: brown, leaning apple core.
 
@@ -18,7 +18,7 @@ The house door opened quietly behind her, Tom looked round. It was her oldest an
 
 “You’re up early?”, Kim asked.
 
-She wanted to tell him of her plan to head to the village and sell the pips. It was a bold idea. She met his eyes as if to answer his question, but instead looked back towards the apple.
+She wanted to tell him of her plan to head to the village and sell the pips. It was a bold idea. She met his eyes as if to answer his question, but instead she looked back towards the apple.
 
 “What you doin’?”; Kim's question was an accusation. 
 
@@ -26,7 +26,7 @@ She braced her upper body, relaxed her legs; ready to dodge. “I’m going to t
 
 Kim walked a few steps towards a sturdy branch, used as a weapon the previous day by her brothers. He picked it up and held it as a staff. He lent his weight. It held. He walked towards The South Trail, inclining his head towards Tom: “Come on then.”
 
-The South Trail was easy in her recently acquired boots. Kim had their father’s hand-me-downs, which were only second generation. They looked more or less like normal old boots. Tom’s pair looked new, but obviously too small for anyone but her and her tiny frame. She had relied on this to stave off others’ desires on the boots.
+The South Trail was easy in her new boots. Kim had their father’s hand-me-downs, which were only second generation. They looked more or less like normal old boots. Tom’s pair looked new, but were obviously too small for anyone but her and her tiny frame. She had relied on this to stave off others’ desires on the boots.
 
 She suspected they would fit whoever held them, the same way they had for her. She had pulled the boots off the giant very easily, accidentally even, and they had slipped off the giant's feet into her hands: a pair of boots exactly the right size for her.
 
