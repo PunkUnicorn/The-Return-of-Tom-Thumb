@@ -48,7 +48,7 @@ Jack challenged a question back: “A cow?” He was incredulous, barely contain
 
 “Come on.” said Kim to Tom, grabbing her quickly as he turned to leave.
 
-“No!” burst Jack, “Wait!”; his interest in the pip confirmed.
+“No!” burst Jack, “Wait!”
 
 Kim stopped but kept his grip on Tom, her jumper stretching as she turned to Jack: “I’ve got three.”
 
