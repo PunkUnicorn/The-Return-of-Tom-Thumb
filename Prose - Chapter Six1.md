@@ -46,6 +46,6 @@ The burly man looked back towards the pipe in his hand. He pinched leaves from a
 
 The Tailor laughed.
 
-The burly man and The Tailor continued to exchange dry, insulting jibes. That, and sarcastic commentary on the comings and goings around them. She found the sarcasm strenuous, being unfamiliar with the targets of satire. The sarcastic tones of voice misleading. Solid information, that she tried to grasp, was illusive. 
+The burly man and The Tailor continued to exchange dry, insulting jibes. That, and sarcastic commentary on the comings and goings around them. She found the sarcasm strenuous, being unfamiliar with the targets of satire. The sarcastic tones of voice misleading. Solid information, that she tried to grasp, illusive. 
 
-She turned to look at the burnt-out wall. The banging chimes from the smith rang their echoes around the market. The noisy bustle from the crowd occasionally accented by laughs from The Tailor and his friend. She had no idea what they were talking about any more, but it made her smile.
+She turned to look at the burnt-out wall. The banging chimes from the smith rang beautiful echoes around the market. The noisy bustle from the crowd occasionally accented by laughs from The Tailor and his friend. She had no idea what they were talking about any more, but it made her smile.
