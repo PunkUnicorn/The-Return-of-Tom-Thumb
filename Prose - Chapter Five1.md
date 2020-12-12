@@ -102,7 +102,7 @@ To The Knight this sounded ideal.
 
 - - -
 
-Red and The Knight sat by the stream. The fire was building strength; wet blankets, from The Knights pack, propped up with sticks to capture the warmth. The half empty pack itself, planted just beyond the fire's range, sat as a center-piece to the evenly strewn contents; a tiny city of equipment. Two small tents, in parallel, looked ready; their entrance sheets open in identical fashion.
+Red and The Knight sat by the stream. The fire was building strength; wet blankets, from The Knights pack, propped up with sticks to capture the warmth. The half empty pack itself, planted just beyond the fire's range, sat as a centre-piece to the evenly strewn contents; a tiny city of equipment. Two small tents, in parallel, looked ready; their entrance sheets open in identical fashion.
 
 The midday sun felt good, and with the fire's warmth, The Knight started to feel like he could be warm again. Red had pulled her hood over her head and was humming a gentle melody. Listening, he heard contentment. It elevated the mood. The stream was interesting viewing. Too shallow for fishing, he will be cooking his standard issue rations tonight.
 

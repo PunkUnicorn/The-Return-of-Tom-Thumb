@@ -50,7 +50,7 @@ Tom shrugged: “Three apple pips.“
 
 The Tailor was confused. Tom explained they were from a giant apple. She would not share where the apple came from. In fact, she seemed to shut down when asked.
 
-The Tailor would have liked to ask more but the girl's lips were sealed. She went absolutley silent.
+The Tailor would have liked to ask more but the girl's lips were sealed. She went absolutely silent.
 
 To lighten the mood, he diverted the conversation to tales of his own travels from the south. This woke Tom up, but not the other one: her brother he presumed.
 

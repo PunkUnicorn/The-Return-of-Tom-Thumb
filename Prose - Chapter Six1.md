@@ -2,7 +2,7 @@
 
 “Here it is.”, The Tailor pointed towards the town ahead. Tom wanted to stop and rest but The Tailor sped up. “I need to see the smithy, get a few things while we're here.”, but he did not mention the stench of rotting vegetables.
 
-Somebody was slumped on the floor in front of them, vaguely against the side of a building; stretched out, blocking their path. “He's drunk.”, The Tailor explained and they maneuvered single file around him.
+Somebody was slumped on the floor in front of them, vaguely against the side of a building; stretched out, blocking their path. “He's drunk.”, The Tailor explained and they manoeuvred single file around him.
 
 Weaving through alleyways, made from competing buildings, they startled rats which darted away panicked. Judging by the size of the rats, and the smell of the rotting food, Tom knew that the people here ate well.
 
@@ -18,11 +18,11 @@ On the far side of the muddy walkway, through a happenstance gap in the crowd, a
 
 Hurrying past, they walked towards a steady, metallic banging. It had just started; pulses of three. Each hit rattled the back of Tom's teeth, but its echo played a beautiful tone. “Oh good, he's here.”, The Tailor exclaimed. He extended his arm towards Tom, “Climb up.”, and Tom scrambled up The Tailor's side to his shoulders, easily finding steps. 
 
-The view was spectacular, an image she would never forget: the variety of people, clothes, fully ladened trestle bench stalls. The crowd bobbed, a sea of heads. She traced the sound of the banging: a large circular stone building in the center of the market, thick smoke plumed from it's chimneys. They walked towards it.
+The view was spectacular, an image she would never forget: the variety of people, clothes, fully laden trestle bench stalls. The crowd bobbed, a sea of heads. She traced the sound of the banging: a large circular stone building in the center of the market, thick smoke plumed from it's chimneys. They walked towards it.
 
 At the blacksmith's entrance The Tailor did not break stride to pass under the doorway. Instead, he squatted mid-stride, and Tom cricked her neck sideways. Inside, The Tailor stopped; flinching from the heat. For a moment Tom thought her lips might burn.
 
-In front of them stood three men around an anvil. One banged a glowing strip of metal, sparks flying with every ring of the hammer. The other two focused soley on the pliers they held. None of them looked towards Tom and The Tailor, or even noticed them. 
+In front of them stood three men around an anvil. One banged a glowing strip of metal, sparks flying with every ring of the hammer. The other two focused solely on the pliers they held. None of them looked towards Tom and The Tailor, or even noticed them. 
 
 The Tailor just stood there, inside the doorway. Tom wanted him to move. Blocking the doorway, as conspicuously as they were, gave her a rising anxiety. So she slid off The Tailor's shoulders. Two people approached as she landed on the floor behind him. She partially watched; a large, burly man and a tall thin boy straddling just behind him.
 
