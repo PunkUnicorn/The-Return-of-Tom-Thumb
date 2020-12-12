@@ -106,12 +106,12 @@ She felt exposed standing like this, but she trusted what The Tailor was doing; 
 
 He drew her away from a small pile of fabric she was now standing in, and sat her down on a milestone, explaining: “Now I'm going to sort your hair out.”
 
-She managed to look at what he had done to her jumper. It was less baggy, with thick long stitches along each underarm. On her trousers the excess length of trouser leg had been cut off and seamed, instead of roll-ups. But there was no opportunity to look closer; between looks, her head position was adjusted by a gentle hand. Sometimes, but not always, there would be the sound of snipping.
+She could see some of what he had done to her jumper. It was less baggy, with thick, long stitches across each underarm. On her trousers, the excess length of trouser leg had been cut off and seamed, instead of roll-ups. But there was no opportunity to look closer. Between looks, her head position was adjusted by a gentle hand. Sometimes, but not always, there would be the sound of snipping.
 
-“There...”, and he brought a small mirror to her face. Her hair had defined steps, but was still shaggy. “Just a tidy.”, he underplayed, and then paused. For a moment, he almost looked like he was going to say something, but he let it pass.
+“There...”, he said, bringing a small mirror to her face. Her hair had well defined steps, but was still shaggy. “Just a tidy.”, he underplayed, and then he paused. For a moment, he looked like he was going to say something, but he let it pass.
 
-Moving her arms around, testing her jumper, she was surprised at the lighter feeling. “That's good.”, she said, instantly regretting the vocal impulse. Kicking her legs, she inspected each landing. Now her trousers covered her boots more. That was convenient.
+Moving her arms around, testing her jumper, she was surprised at the lighter feeling. “That's good.”, she said, instantly regretting the vocal impulse. Kicking her legs, she inspected each landing. Now her trousers covered her boots more, which was convenient.
 
-The Tailor looked at her expectantly, as if she was going to elaborate. But she nodded with the minimum of approval. “The next town's not far”, he said, changing the subject, “we'll make it before lunch.”, and he turned southwards: “It's got the third worst inn in the world, you have to see it to believe it. Lets go.”
+The Tailor looked at her expectantly, as if she was going to elaborate. But she nodded with the minimum of approval. “The next town's not far”, he said, changing the subject, “we'll make it before lunch.”, and he turned southwards: “It's got the third worst inn in the world, you have to see it to believe it.”, he laughed. "Lets go.”
 
-They started walking. Her clothes felt different, her hair felt different. Suddenly, she had no idea what to expect ahead.
+They started walking. Her clothes felt different, her hair felt different. She had absolutely no idea what to expect.
