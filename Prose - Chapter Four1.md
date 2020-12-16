@@ -114,4 +114,4 @@ Moving her arms around, testing her jumper, she was surprised at the lighter fee
 
 The Tailor looked at her expectantly, as if she was going to elaborate. But she nodded with the minimum of approval. “The next town's not far”, he said, changing the subject, “we'll make it before lunch.”, and he turned southwards: “It's got the third worst inn in the world, you have to see it to believe it.”, he laughed. "Lets go.”
 
-They started walking. Her clothes felt different, her hair felt different. Suddenly, she realised she had absolutely no idea what to expect ahead.
+Her clothes felt different, her hair felt different. They started walking. Suddenly, she realised she had absolutely no idea what to expect ahead.
