@@ -14,15 +14,17 @@ The equipment they need, a balloon, with a basket for the four of them could bec
 
 - Also the giants house is half in the plane of clouds, so a balloon, if they go high enough in it, could theoretically reach it. The high clouds are too thin on air though, so it's difficult to play music.
 
-## Crossing the first threshold
-## Travelling to the expansive forest
+### Travelling to the expansive forest
 - Could drop in on Kim
+
+## Crossing the first threshold
+- In the baloon, up they go!
 
 ## Belly of the whale
 - The expansive forest is expansive. They could get lost even floating above it all.
 
 ## Trials and tribulations
-- It might take longer than they thought. They would have to stop to re-supply. The balloon would land on the tree tops and Tom would use a rope to anchor the balloon and climb down using both the rope and the tree.
+- It might take longer than they thought. They would have to stop to re-supply. The journey is full of mis-direction, perhaps a false-posative, with a loner with a campfire, happily lost in the forst. They stop and talk to him. The balloon would land on the tree tops and Tom would use a rope to anchor the balloon and climb down using both the rope and the tree. Also, they would have a trial in the time it takes to look, it seems they are looking FOREVER. 
 
 - She would catch rodents and gather nettles. The Tailor and The Knight get down easily but they have to make a rope ladder (Tom does) before Red can climb down. They do this at daybreak, since night time is the time to search for the giant's house due to it's illuminations. 
 
@@ -49,19 +51,22 @@ The Tailor would know the ancient protocols for initiating a conversation with t
 
 What ever it is, it causes dialogue between the giant and the group.
 
+The giant is stuck, probably Mrs Giant reviels the house is broken; anchored somehow, it keeps attracting attension. The Tailor and crew are the third visit; Jack the second and Tom and brothers the first. The diagnosis of the magical house will be within The Tailors skill, but this will be a surprise to the rest of the group.
+
+The issue is likely tied to Tom, speculated, but in the end she is the smallest to be able to crawl into the hole to get to the machinery; some magical orb or pair of orbs, and Toms kind of climbs into it. The interface, being a magical pair of orbs, will be a fantasy landscape that Tom must navigate. It is dream-like and surreal, dramatic but inconsistantly jumping. Not sure what the interaction storyline is, but it might be a mix of Toms deepest memories (wip). She might have to unlock something with a mindscape key she won from answering a riddle, from a construct of her subconcious
 ...
 
 They might stay in the house for more than morning, having to wait till the house arrives back to the material. Otherwise they would have to get from the plane of clouds to the material on their own or with the help of the giant. 
 
-The Tailor might have to make a giants suit. He could unroll giant fabric bolt and cut slices to size with his sword. He might employ some magic to overcome the scale of engineering. The giant might provide the use of a magic item from his collection, like something that makes two or four more The Tailors who can all work symultaniously. Or The Tailor might cast this magic himself. Dunno, anyway
+The Tailor might make a giants suit. He would unroll giant fabric bolts and cut slices to size with his thin long sword. He might employ some magic to overcome the scale of engineering. The giant might provide the use of a magic item from his collection, like something that makes two or four more The Tailors who can all work symultaniously. Or The Tailor might cast this magic himself. Dunno, anyway
 
-Tom would offer the boots back, and appologise. 
+Tom would offer the boots back, and appologise or something. 
 
 The seven league boots were, Mr Giant admits, the most comfortable of all the magic boots he's worn.
 
 Giant asks: "What did you do with them?"
 
-Tom says how they helped her see the land. She couldn't have escaped her home without them.
+Tom says how they helped her friends see the land, but she didn't really like that part of the boots. It was how it made you feel more warm, the light weight, and their uncanny comfort.
 
 Because she has nothing but integrity, and because the giant is sleepy, he lets her keep them. "I was thinking of killing you but you can have the boots". and then possibly shouting aggresively: "They're yours now Tom!", and he would leave to sleep.
 
@@ -74,4 +79,5 @@ They can't find the balloon again, it's moored in the expansive forest somehow. 
 ## Summary
 - Mr Giant is misunderstood and likes gardening, doesn't like urchin children like we would dislike wild rats or foxes
 - The Tailor might acquire excessive cutoffs of fabric (he could use for Tom's family, or anything)
-- Tom could have new giant's cotton, the best of all climbing rope.
+- Tom could have new giant's cotton, the best of all climbing rope
+- 
