@@ -12,6 +12,10 @@ At least Tom is reluctant, possibly others. The place sounds ridiculous at best 
 ## Supernatural aid
 The equipment they need, a balloon, with a basket for the four of them could become available in a convenient way, perhaps already obvious. It could be a balloon with a basket and it's powered by music. Music makes it go up and can bias the direction depending on the angle the music is coming from below the balloon.
 
+# THEY MUST ALSO HAVE GOTTEN A MAGIC COMPAS OR SOMETHING THAT HELPS NAVIGATE TO THE GIANTS HOUSE
+
+# NEED A THIRD ITEMY THINGT TO GO WTIH THE COMPAS THING AND THE BALLON, SO WE HAVE THREE
+
 - Also the giants house is half in the plane of clouds, so a balloon, if they go high enough in it, could theoretically reach it. The high clouds are too thin on air though, so it's difficult to play music.
 
 ### Travelling to the expansive forest
