@@ -38,3 +38,8 @@ Summary:
 Tom is now bonded with The Tailor
 The Tailor is now in position as friend and mentor to fill this. She will start using The Tailors vocabulary
 Seven League Boots now ready to be used to hoof the two southwards and meet the others
+
+
+---
+
+Tom is reluctant to use the boots power; why risk it? They're warm, light, comfortable - that's the power she appreciates. The Tailor can teach Tom how to use the boots, but she would be more naturally afraid than naturally curious. The Tailor would ask "Arn't you curious?". 
