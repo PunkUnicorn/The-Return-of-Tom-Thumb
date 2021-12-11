@@ -6,11 +6,11 @@ The worst, however, was being singled out as a girl in front of her brothers. It
 
 Tom felt the surprise and shock again. For all the times she believed she had come to terms with this, it returned to unsettle her.
 
-Distracting herself, she glanced to see what remained of the giant apple: it was thinner now, and mushy. She and her brothers had dragged this apple from the giant’s garden. Tom reflected on those strange events, to the time they decided to take the apple; it was her idea, they had almost left it behind.
+Distracting herself, she glanced to see what remained of the giant apple: it was thinner now, and mushy. She and her brothers had dragged this apple from the giant’s garden. Tom reflected on those strange events, to the time they took the apple; it was her idea, they almost left it.
 
 Stretching her ankles, pulling her toes to a point, she felt the exquisite comfort in the soft leather of her new boots. She could do that all day. She had been doing that all day.
 
-Reluctantly, letting go of comfort, her awareness started to return to the present. In the present, there was a sense of something frightening. But what was it? The apple would keep them fed for two more days, they had enough food, life was good. But there was a nagging feeling. 
+Reluctantly, letting go of comfort, her awareness started to return to the present. In the present, there was a sense of something frightening. But what was it? The apple would keep them fed for two more days, they had enough food, life was good. But there was a nagging concern. 
 
 And then she remembered: “it's only going to last two more days.”
 
