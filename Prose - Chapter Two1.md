@@ -10,7 +10,7 @@ Distracting herself, she glanced to see what remained of the giant apple: it was
 
 Stretching her ankles, pulling her toes to a point, she felt the exquisite comfort in the soft leather of her new boots. She could do that all day. She had been doing that all day.
 
-Reluctantly, letting go of comfort, her awareness return to the present. There was a sense of something frightening. But what was it? The apple would keep them fed for two more days, they had enough food, life was good. But there was a nagging feeling. 
+Reluctantly, letting go of comfort, her awareness returned to the present. There was a sense of something frightening. But what was it? The apple would keep them fed for two more days, they had enough food, life was good. But there was a nagging feeling. 
 
 And then she remembered: “it's only going to last two more days.”
 
