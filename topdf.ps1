@@ -326,7 +326,7 @@ Write-Output "Creating books..."
 #  "The-Return-of-Tom-Thumb-single-chapter-one.md" 		`
 #  -t epub 				`
 #  -o The-Return-of-Tom-Thumb_single_chapter_one_$($($env:APPVEYOR_BUILD_VERSION).Replace(".", "_"))_v1.epub 	`
-#  metadata_v1.yaml --self-contained --standalone
+#  metadata_v1.yaml --embed-resources --standalone
 #Write-Output "... made The-Return-of-Tom-Thumb_single_chapter_one_$($($env:APPVEYOR_BUILD_VERSION).Replace(".", "_"))_v1.epub... (epub v1)"
 
 pandoc --css epubstyle.css 		`
@@ -335,7 +335,7 @@ pandoc --css epubstyle.css 		`
   "The-Return-of-Tom-Thumb.md" 		`
   -t epub 				`
   -o The-Return-of-Tom-Thumb_$($($env:APPVEYOR_BUILD_VERSION).Replace(".", "_"))_v1.epub 	`
-  metadata_v1.yaml --self-contained --standalone
+  metadata_v1.yaml --embed-resources --standalone
 Write-Output "... made The-Return-of-Tom-Thumb_$($($env:APPVEYOR_BUILD_VERSION).Replace(".", "_"))_v1.epub... (epub v1)"
 
 pandoc --css epubstyle.css 		`
@@ -344,7 +344,7 @@ pandoc --css epubstyle.css 		`
   "The-Return-of-Tom-Thumb.md" 		`
   -t epub2+smart 			`
   -o The-Return-of-Tom-Thumb_$($($env:APPVEYOR_BUILD_VERSION).Replace(".", "_"))_v2.epub 	`
-  metadata_v2.yaml --self-contained --standalone
+  metadata_v2.yaml --embed-resources --standalone
 Write-Output "... made The-Return-of-Tom-Thumb_$($($env:APPVEYOR_BUILD_VERSION).Replace(".", "_"))_v2.epub ... (epub v2)"
 
 pandoc --css epubstyle.css 		`
@@ -353,7 +353,7 @@ pandoc --css epubstyle.css 		`
   "The-Return-of-Tom-Thumb.md" 		`
   -t epub3+smart 			`
   -o The-Return-of-Tom-Thumb_$($($env:APPVEYOR_BUILD_VERSION).Replace(".", "_")).epub 	`
-  --metadata-file=metadata_v3.yaml --self-contained --standalone
+  --metadata-file=metadata_v3.yaml --embed-resources --standalone
 Write-Output "... made The-Return-of-Tom-Thumb_$($($env:APPVEYOR_BUILD_VERSION).Replace(".", "_")).epub... (epub v3)"
 
 #copy The-Return-of-Tom-Thumb_single_chapter_one_$($($env:APPVEYOR_BUILD_VERSION).Replace(".", "_"))_v1.epub The-Return-of-Tom-Thumb-single-chapter-one.epub
@@ -366,13 +366,13 @@ Write-output "# Appendix A-1" | Out-File "Prose - Appendix1-1.md" -Append
 
 #pandoc "title.md" "The-Return-of-Tom-Thumb-single-chapter-one.md" `
 #  -o The-Return-of-Tom-Thumb-single-chapter-one.html `
-#  --css=htmlstyle.css --self-contained --standalone
+#  --css=htmlstyle.css --embed-resources --standalone
 #Write-Output "... made The-Return-of-Tom-Thumb-single-chapter-one.html..."
 
 #pandoc --css epubstyle.css 
 pandoc --toc "title.md" The-Return-of-Tom-Thumb.md `
   -o The-Return-of-Tom-Thumb.html `
-  --css=./htmlstyle.css --self-contained --standalone
+  --css=./htmlstyle.css --embed-resources --standalone
 
 # pandoc "title.md" The-Return-of-Tom-Thumb.md -o The-Return-of-Tom-Thumb.html `
 # --css=.\typo-today\css\stylesheet.css `
