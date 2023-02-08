@@ -402,8 +402,7 @@ Write-Output "... made gTTS_word_input.txt"
 #cat gTTS_word_input-single-chapter-one.txt | python .\googleTextToSpeech.py -o The-Return-of-Tom-Thumb-single-chapter-one.mp3 -d The-Return-of-Tom-Thumb-single-chapter-one.mp3.log 
 #Write-Output "... made The-Return-of-Tom-Thumb-single-chapter-one.mp3 and The-Return-of-Tom-Thumb-single-chapter-one.mp3.log"
 
-
-if ($env:WANTPREM -eq "1") {
+if ($env:WANTPREM -eq "1" -and "$($env:prem)".Length -gt 0) {
 	Write-Output "... making the premium audio book"
 	dotnet run --project PremiumAudioBookSdk\TomThumbPremiumAudioBook\TomThumbPremiumAudioBook\TomThumbPremiumAudioBook.csproj -- $($env:prem) PremiumAudioBookSdk\TomThumbPremiumAudioBook\TomThumbPremiumAudioBook\template-ssml.xml audio The-Return-of-Tom-Thumb-for-audio.txt
 	dir .\
