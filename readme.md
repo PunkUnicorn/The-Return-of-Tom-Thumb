@@ -76,3 +76,6 @@ Old paper by:
 
 Useful:
 https://metacpan.org/pod/Pandoc::Metadata
+
+Ascii art thanks to:
+https://manytools.org/hacker-tools/convert-images-to-ascii-art
