@@ -22,27 +22,27 @@ The view was spectacular, an image she would never forget: the variety of people
 
 At the blacksmith's entrance The Tailor did not break stride to pass under the doorway. Instead, he squatted mid-stride, and Tom cricked her neck sideways. Inside, The Tailor stopped; flinching from the heat. For a moment Tom thought her lips might burn.
 
-In front of them stood three men around an anvil. One banged a glowing strip of metal, sparks flying with every ring of the hammer. The other two focused solely on the pliers they held. None of them looked towards Tom and The Tailor, or even noticed them. 
+In front of them stood three men around an anvil. One hammered a glowing strip of metal; it shot angry sparks in defiance with each hammer blast, but the blacksmith's leather aprons took the angry sparks impassively. The three blacksmiths were focused on their their task, they didn't react to Tom and The Tailor or seem to noticed them.
 
-The Tailor just stood there, inside the doorway. Tom wanted him to move. Blocking the doorway, as conspicuously as they were, gave her a rising anxiety. So she slid off The Tailor's shoulders. Two people approached as she landed on the floor behind him. She partially watched; a large, burly man and a tall thin boy straddling just behind him.
+The Tailor stood there watching them from where he was standing, immediately inside the doorway. Tom wanted him to move, they were both blocking the doorway. She fought a rising anxiety being conspicuous and bold in the space The Tailor chose. She slowly slid off The Tailor's shoulders behind him, as out of sight as possible. Two people approached as she landed on the floor, she partially watched: a large, burly man and a tall thin boy who straddled just behind him.
 
 “Hello again”, The Tailor said cheerfully to the burly man.
 
-He responded with a grunt. “You’re back again, too soon.”
+He responded with a grunt. “You’re back again. I suspected you were an idiot. But now I know you are an idiot.”
 
-“I couldn’t stay away”, The Tailor explained. The burly man snorted a curt laugh. The three at the anvil started banging again which interrupted him as he was about to say something. He gestured to the thin lad, who left, then herded Tom and The Tailor back outside through the doorway. The bright dazzling sun and sharp cold wind were stark contrasts to the hot, dim workshop.
+“I couldn’t stay away”, The Tailor explained, shrugging. The burly man responded by snorting a curt laugh. He was about to say something else but the three at the anvil started banging again, which interrupted him. He gestured to the thin lad, who left, then herded Tom and The Tailor back outside through the doorway. The bright dazzling sun and sharp cold wind were stark contrasts to the dim, hot workshop.
 
-The burly man flinched, squinting from the light. But not the chill, his scarred arms and shoulders seemingly impervious to the wind. “So admit it, you’re lost.”, he accused The Tailor.
+The burly man flinched, squinting from the light but not the chill as he raised his bare, scarred arms to shield his face from the sun. “So admit it idiot, you’re lost.”.
 
-“No, I came back so I could make an oil painting of your Inn.”, The Tailor extended both arms rightwards, at different heights, so to frame the filthy building behind them.
+“No.” and The Tailor gazed over the market town, as if assessing it for the first time. “I obviously came back to admire your town and your face again. Perhaps make an oil painting of them. That and your fabulous inn.”. He jerked a thumb behind him, pointing to the filthy Inn on the other side of the wide trail behind them.
 
 The burly man snorted, “Then we’ve got some whores you should meet. Paint *them*. That and my fat hairy arse.” He brought a small, wooden pipe to his eye, squinting inside. He rapped it twice, sharply against the building’s wall.
 
-“We won’t stay long. Just a quick holiday this time.” Tom listened to The Tailor’s words. She knew he was being sarcastic, but to her, it was sort of a holiday.
+“We won’t stay long though.” The Tailor added, “Just a quick pass-through holiday this time.” Tom listened to The Tailor’s words. She knew he was being sarcastic. But to her, it was a holiday.
 
-“Don’t forget to see the sights.”, the burly man offered, extending his arm to something behind The Tailor. Tom looked, The Tailor twisted around: a staggering drunkard, almost tripping out of the Inn’s door behind them. The drunk man slowed his walking, then stopped. He seemed unsure. But then he was sure, and quickly bent forward, dropped to his knees and vomited along the path in front of him. The splattering went quite far along the path, and down three shallow steps.
+The burly man extended his arm, pointing behind them. Tom and The Tailor turned. “Look, one of the local holiday sights:”, The burly man dryly captioning a staggering drunkard, half-tripping out of the Inn’s door. The drunk man recovered his steps and slowed his walking. But then stopped. He seemed unsure for a moment. But then he was sure and quickly bent forward, dropped to his knees and vomited along the path in front of him. The splattering went far along down the path.
 
-The burly man looked back towards the pipe in his hand. He pinched leaves from a small leather pouch in the other. He glance-pointed a quick nod towards the drunkard: “Looks like you’ve got a rival artist.”
+The burly man looked back towards the pipe in his hand. He pinched leaves from a small leather pouch in the other. He glanced a nod towards the drunkard: “Looks like you’ve got a rival artist.”
 
 The Tailor laughed.
 
