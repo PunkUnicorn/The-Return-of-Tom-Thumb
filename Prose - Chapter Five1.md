@@ -10,7 +10,7 @@ The Prince stood outside the shack. The buildings were maintained to a high stan
 
 “Look at you, what a mess.” the old man replied informally. “You'd better come inside.” and left the door open as invitation. The Prince entered. A small room, bare wooden walls with a long trestle bench along the facing wall. The man had gone through another door to his left, which was open. The old man came back with an arm full of a folded robe, rough towels and underclothes.
 
-“Were you chasing a bolted horse all night?” the old man dryly questioned, “through a stinking marsh?”, snorting a laugh. The Prince flinched to respond, thinking fast to adapt his excuse, but the old man cut him off; “No! Don't explain, I don't want to know. If I wanted to know things I wouldn't be stationed on the marsh road.”
+“Were you chasing a bolted horse all night?” the old man dryly questioned, “through a stinking marsh?”, snorting a laugh. The Prince flinched to respond, thinking fast to adapt his excuse, but the old man cut him off; “No! Don't explain, I don't want to know. If I wanted to know things I wouldn't have gotten myself stationed at this outpost.”
 
 After putting the bundle of clothes on the bench, he noticed the open front door which he closed, giving The Prince an accusing glare. Seeing the pathetic soaked knight, the old man shook his head and patted The Prince on the shoulder: “Get yourself dry young man, can't have a knight looking sorry for himself.” and left through the other door, closing it behind him.
 
