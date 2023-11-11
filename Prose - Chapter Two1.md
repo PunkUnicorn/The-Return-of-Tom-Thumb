@@ -20,4 +20,4 @@ Concerned, and feeling like time could defeat them, any idea would do. But what?
 
 Jumping to her feet she hurried towards the apple. It was almost as tall as her. Walking around its perimeter she found a likely spot. She squared her knuckles and punched a level blow, ripping her fist through to the seed chamber.
 
-She felt a pip. It was slippery. For better leverage she stretched her arm in as far as possible. She blindly mapped the pip's orientation. With a shunt, she nudged the pip to a better grip, and then carefully eased the pip out. Feeling triumphant, she freed another two. After drying them each on the front of her jumper she fitted all three of the large pips into her pockets.
+She felt a pip. It was slippery. For better leverage she stretched her arm as far as possible. She blindly mapped the pip's orientation. With a shunt, she nudged the pip to a better grip, and then carefully eased the pip out. Feeling triumphant, she freed another two. After drying them each on the front of her jumper she fitted all three of the large pips into her pockets.
