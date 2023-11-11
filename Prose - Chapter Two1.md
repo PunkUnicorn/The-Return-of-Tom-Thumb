@@ -6,16 +6,18 @@ The worst, however, was being singled out as a girl in front of her brothers. It
 
 Tom felt the surprise and shock again. For all the times she believed she had come to terms with this, it returned to unsettle her.
 
-Distracting herself, she glanced to see what remained of the giant apple: it was thinner now, and mushy. She and her brothers had dragged this apple from the giant’s garden. Tom reflected on those strange events, to the time they took the apple; it was her idea, they almost left it.
+The disturbing thought chased her focus but she was quicker, giving her attention to the giant apple. It sat yards away, at least what remained of it did. 
+
+She and her brothers had dragged this apple from the giant’s garden, and Tom reflected on those strange events. The apple in front of her was unavoidable evidence of the bizarre few days. It was more than half eaten now though, and mushy round the edges. It was not the regal apple it started as.
 
 Stretching her ankles, pulling her toes to a point, she felt the exquisite comfort in the soft leather of her new boots. She could do that all day. She had been doing that all day.
 
-Reluctantly, letting go of comfort, her awareness returned to the present. There was a sense of something frightening. But what was it? The apple would keep them fed for two more days, they had enough food, life was good. But there was a nagging feeling. 
+So she let the comfort go and returned her awareness to the present. There was a sense of something frightening there. But what was it? The apple would keep them fed for two more days, they had enough food, life was good. But there was a nagging feeling. 
 
-And then she remembered: “it's only going to last two more days.”
+And then she remembered: “It's only going to last two more days.”
 
-Concerned, any idea would do. But what? Another giant apple would solve the hunger problem. It was something. And then a moment of inspiration, a hidden treasure she had missed: the giant apple pips.
+Concerned, and feeling like time could defeat them, any idea would do. But what? Another giant apple would solve the hunger problem. It was something. And then a moment of inspiration, a hidden treasure she had missed: the giant apple pips.
 
-Jumping to her feet, she hurried towards the apple. It was almost as tall as her. She paced around, looking for a good place to start. As quickly as she found a likely spot, she squared her knuckles and punched a level blow, ripping her fist into the seed chamber. Gripping the breach, she tore it wider.
+Jumping to her feet she hurried towards the apple. It was almost as tall as her. Walking around its perimeter she found a likely spot. She squared her knuckles and punched a level blow, ripping her fist through to the seed chamber.
 
-Sticking her arm in she felt a pip. Pushing further, as far as possible, she mapped the pip's orientation. With a concerted shunt she shifted the pip to a better grip and eased it out. Feeling triumphant she freed another two, then fitted all three of the large pips into her pockets.
+She felt a pip. It was slippery. For better leverage she stretched her arm in as far as possible. She blindly mapped the pip's orientation. With a shunt, she nudged the pip to a better grip, and then carefully eased the pip out. Feeling triumphant, she freed another two. After drying them each on the front of her jumper she fitted all three of the large pips into her pockets.
