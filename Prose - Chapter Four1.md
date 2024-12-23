@@ -84,9 +84,9 @@ Tom deduced she was welcome to be with The Tailor for the foreseeable future, wh
 
 Breakfast was as delicious, if not more so, than the stew the previous evening: eggs, bacon, dark bread and butter. Tom sneaked what she could into her pocket; a sausage. There was no way to put the potato in her pocket, it was too crumbly. So she finished it all, licking her tin plate clean. “Do you eat like this all the time?”
 
-“I try not to.”, he replied, pushing his empty plate forward. He cocked his chair on two legs, leaning his back against the wall instead of the chair's back.
+“I try not to.”, he replied, pushing his empty plate forward. He cocked his chair on two legs, leaning the chair the wrong way, his back against the wall instead of the chair's back.
 
-“You asked me where I was going?”, he shuffled into a more relaxing position. “I'm a travelling tailor, I just travel.”
+“You asked me where I was going?”, he shuffled into a more relaxed position. “I'm a travelling tailor, I just travel.”
 
 Then, as if he had remembered something, he added: “And I do tailoring.”, using his finger to accentuate.
 
@@ -106,12 +106,12 @@ She felt exposed standing like this, but she trusted what The Tailor was doing; 
 
 He drew her away from a small pile of fabric she was now standing in, and sat her down on a milestone, explaining: “Now I'm going to sort your hair out.”
 
-She could see some of what he had done to her jumper. It was less baggy, with thick, long stitches across each underarm. On her trousers, the excess length of trouser leg had been cut off and seamed, instead of roll-ups. But there was no opportunity to look closer. Between looks, her head position was adjusted by a gentle hand. Sometimes, but not always, there would be the sound of snipping.
+She could see some of what he had done to her jumper. It was less baggy, with thick, long stitches across each underarm. On her trousers, the excess length of trouser leg had been cut off and seamed, instead of roll-ups. But there was no opportunity to look closer. Between looks, her head position was adjusted by a gentle hand. Sometimes, but not always, it was accompanied by the sound of snipping.
 
-“There...”, he said, bringing a small mirror to her face. Her hair had well defined steps, but was still shaggy. “Just a tidy.”, he underplayed, and then he paused. For a moment, he looked like he was going to say something, but he let it pass.
+“There...”, he said, bringing a small mirror to her face. Her hair had well-defined steps, but was still shaggy. “Just a tidy.”, he underplayed, and then he paused. For a moment, he looked like he was going to say something, but he let it pass.
 
 Moving her arms around, testing her jumper, she was surprised at the lighter feeling. “That's good.”, she said, instantly regretting the vocal impulse. Kicking her legs, she inspected each landing. Now her trousers covered her boots more, which was convenient.
 
 The Tailor looked at her expectantly, as if she was going to elaborate. But she nodded with the minimum of approval. “The next town's not far”, he said, changing the subject, “we'll make it before lunch.”, and he turned southwards: “It's got the third worst inn in the world, you have to see it to believe it.”, he laughed. "Lets go.”
 
-Her clothes felt different, her hair felt different. They started walking. Suddenly, she realised she had absolutely no idea what to expect ahead.
+Her clothes felt different, her hair felt different. They started walking. Suddenly, she realised she had a friend. And absolutely no idea where she was going.
