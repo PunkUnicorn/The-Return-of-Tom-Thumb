@@ -2,9 +2,9 @@
 
 Tom Thumb had been back home for several nights. As usual her thoughts were occupied, replaying the past few days: the terrifying giant, their parents leaving them to die in the forest.
 
-The worst, however, was being singled out as a girl in front of her brothers. It had not been a problem before, despite her father’s intimidating insistence he only had sons. Her gender was obvious to her brothers already, they could not care less. Their angry father said he cared, but did not even notice. He noticed his jug, which you dare not get in the way of, on pain of being shouted at, by your wrong name, and threatened with a beating. It all esculated very quickly. Tom had gotten very good at staying out of his way.
+The worst, however, was being singled out as a girl in front of her brothers. It had not been a problem before, despite her father’s intimidating insistence he only had sons. Her femininity already obvious to her brothers, they could not care less. Their angry father said he cared, but did not even notice. He noticed his jug, which you dare not get in the way of. Tom had gotten very good at staying out of his way.
 
-But the words of the motherly giant echoed in her thoughts: “You think you can hide it? Oh, beautiful young thing, you're growing too fast; you can't hide it.”
+But the words of the motherly giant echoed in her thoughts: “You think you can hide it? Oh, beautiful young thing. You're growing up too fast. You can't hide it.”
 
 Tom felt the surprise and shock again. For all the times she believed she had come to terms with this, it returned to unsettle her.
 
