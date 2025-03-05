@@ -2,7 +2,7 @@
 
 Tom Thumb had been back home for several nights. As usual her thoughts were occupied, replaying the past few days: the terrifying giant, their parents leaving them to die in the forest.
 
-The worst, however, was being singled out as a girl. Never a problem before, despite her father’s intimidating insistence he only had sons, her femininity obvious to her brothers since forever. Their violent father who claimed to care did not even notice. He noticed his ale, which you dare not get in the way of. Tom had gotten very good at staying out of his way.
+The worst, however, was being singled out as a girl. Never a problem before, despite her father’s intimidating insistence he only had sons, her femininity obvious to her brothers since forever. Their violent father who claimed to care did not even notice. He noticed his ale which you dare not get in the way of. Tom had gotten very good at staying out of his way.
 
 But the words of the motherly giant echoed again in her thoughts: “You think you can hide it? Oh, beautiful young thing. You're growing up too fast. You can't hide it.”
 
