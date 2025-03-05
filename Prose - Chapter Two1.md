@@ -4,7 +4,7 @@ Tom Thumb had been back home for several nights. As usual her thoughts were occu
 
 The worst, however, was being singled out as a girl. Never a problem before, despite her father’s intimidating insistence that he only had sons, her femininity had been obvious to her brothers forever. Their violent father who claimed to care did not even notice. He noticed his ale which you dare not get in the way of. Tom had gotten very good at staying out of his way.
 
-But the words of the motherly giant echoed in her thoughts again: “You think you can hide it? Oh, beautiful young thing. You can't hide it. You're growing up too fast.”. Tom felt the surprise and shock again. For all the times she thought she had come to terms with this it returned to unsettle her.
+But the words of the motherly giant echoed in her thoughts: “You think you can hide it? Oh, beautiful young thing. You can't hide it. You're growing up too fast.”. Tom felt the surprise and shock again. For all the times she thought she had come to terms with this it returned to unsettle her.
 
 Disturbing thoughts chased her focus but she knew where that went, so she shut that down and looked at the giant apple. It sat yards away, at least what remained of it. She and her brothers had dragged this apple from the giant’s garden. Tom reflected on those strange events: the apple in front of her was undeniable evidence of the past few days. It looked at her half eaten, mushy round the edges; not the regal apple it was.
 
