@@ -1,16 +1,16 @@
 Scooping a handful of apple flesh, she turned towards the house. The wind picked up, sweeping against the house's side. Roof tiles rattled. She had better get inside.
 
-She walked slowly towards the door, giving herself time to finish eating. Although she did not need to walk slowly. As she drew close, the remains of the door latch caught her attention. It was a mangled, rusted wreck that had once been a latch. She paused to reflect: she had never known it any other way. The latch on the giant’s door was the first functioning one she had seen.
+She walked slowly towards the door, giving herself time to finish eating. As she drew close, the remains of the door latch caught her attention. It was a mangled, rusted wreck that had once been a latch. She paused to reflect: she had never known it any other way. The latch on the giant’s door was the first functioning one she had seen.
 
 Licking her hands clean and wiping them on her trousers, she wondered if their mangled latch could be bent back into shape. But then shadows of anxiety arrived as she remembered how others would react.
 
 And now aware of her family behind the door, defensive instincts pulled her back: stay unnoticed. Tom closed her mind, tensed her muscles and pulled the heavy door open.
 
-The overpowering smell of baked apples. The heavy door slammed shut behind her, hardly accenting the noisy room. In the thick air, for a second, Tom was sick of apples. But the feeling quickly passed; the apple had been a life saver. Besides, the pips in her pockets could be interesting. 
+The overpowering smell of baked apples. The heavy door slammed shut behind her, unnoticable in the noisy room. In the thick air, for a second, Tom was sick of apples. But the feeling quickly passed; the apple had been a life saver. Besides, the pips in her pockets could be interesting. 
 
-She joined the rowdy table, fleet-footed, and as invisibly as possible. Once settled she froze listening. Nobody cared or noticed. This was a good sign. So she ate while her brothers and parents finished. But bellies full tensions were rising round the table. More competing voices.
+She joined the rowdy table slyly, as invisible as possible. Once settled she froze listening. Nobody cared or noticed. This was good. She picked at her brothers' leftover plates while her parents finished eating. But bellies full tensions were rising round the table, competing voices.
 
-She did not look though, not a time to risk eye contact. She listened to judge tones of aggression: it was safe. Wiggling her toes, squashing them against the leather of her boots, their arguing grew more distant. The luxury at her feet uninterrupted, she drifted in and out of daydreams.
+She did not look though, not a time to risk eye contact. She listened to judge tones of aggression: it was safe. Wiggling her toes, squashing them against the leather of her boots, their arguing grew distant. The luxury at her feet uninterrupted, she drifted in and out of daydreams.
 
 The next morning Tom woke earlier than anyone else. With well practised tiptoeing she stepped between sleeping siblings, got to the door and slipped outside. The first thing she saw: brown, leaning apple core.
 
