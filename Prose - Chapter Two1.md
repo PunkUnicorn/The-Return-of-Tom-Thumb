@@ -6,7 +6,7 @@ The worst, however, was being singled out as a girl. Never a problem before, des
 
 But the words of the motherly giant echoed in her thoughts: “You think you can hide it? Oh, beautiful young thing. You're growing up too fast. You can't hide it.”. Tom felt the surprise and shock again. For all the times she thought she had come to terms with this, it returned to unsettle her.
 
-Disturbing thoughts chased her focus. She shut them down and looked at the giant apple. It sat yards away, at least what remained of it. She and her brothers had dragged this apple from the giant’s garden. Tom reflected on those strange events: the apple in front of her was undeniable evidence. No longer the regal apple they stole, it was half eaten and dry.
+Disturbing thoughts chased her focus. She shut them down and looked at the giant apple. It sat yards away, at least what remained of it. She and her brothers had dragged this apple from the giant’s garden. Tom reflected on those strange events: the apple in front of her was undeniable evidence.
 
 Stretching her ankles, pulling her toes to a point, she felt the exquisite comfort of her new, soft leather boots. She could do that all day. She had been doing that all day.
 
