@@ -1,5 +1,7 @@
 # Chapter Six
 
+While The Knight and Red had met and made camp in the safety of their thicket clearing far in the south, Tom and The Tailor were making their way north.
+
 “Here it is.”, The Tailor pointed towards the town ahead. Tom wanted to stop and rest but The Tailor sped up. “I need to see the smithy, get a few things while we're here.”, but he did not mention the stench of rotting vegetables.
 
 Somebody was slumped on the floor in front of them, vaguely against the side of a building; stretched out, blocking their path. “He's drunk.”, The Tailor explained and they manoeuvred single file around him.
@@ -28,7 +30,7 @@ The Tailor stood there watching them from where he was standing, immediately ins
 
 “Hello again”, The Tailor said cheerfully to the burly man.
 
-He responded with a grunt. “You’re back again. I suspected you were an idiot. But now I know you are an idiot.”
+He responded with a grunt. “You’re back again. I suspected you were an idiot. But now I know you are.”
 
 “I couldn’t stay away”, The Tailor explained, shrugging. The burly man responded by snorting a curt laugh. He was about to say something else but the three at the anvil started banging again, which interrupted him. He gestured to the thin lad, who left, then herded Tom and The Tailor back outside through the doorway. The bright dazzling sun and sharp cold wind were stark contrasts to the dim, hot workshop.
 
