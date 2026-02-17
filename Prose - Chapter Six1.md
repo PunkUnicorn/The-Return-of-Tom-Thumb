@@ -1,6 +1,6 @@
 # Chapter Six
 
-All this time while The Knight and Red had met, wandereed northwards together, and stopping to make their camp in the thicket clearing, Tom and The Tailor were travelled southwards.
+All this time while The Knight and Red were meeting, wandering northwards together, and stopping to make their camp in the thicket clearing, Tom and The Tailor were travelled southwards.
 
 “Here it is.”, The Tailor pointed towards the town ahead. Tom wanted to stop and rest but The Tailor sped up. “I need to see the smithy, get a few things while we're here.”, but he did not mention the stench of rotting vegetables.
 
