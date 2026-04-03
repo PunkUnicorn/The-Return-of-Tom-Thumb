@@ -139,7 +139,7 @@ namespace TomThumbPremiumAudioBook
                 using (var synthesizer = new SpeechSynthesizer(config, audioConfig))
                 {
                     //Console.WriteLine("doing ");
-                    var ssml = File.ReadAllText(inputSsml).Replace("{{content}}", model["content"]);
+                    var ssml = File.ReadAllText(inputSsml).Replace("{{content}}", (string)model["content"]);
                     //var template = Scriban.Template.Parse(ssml);
                     var content = ssml; //template.Render(model);
 
