@@ -20,7 +20,7 @@ On the far side of the muddy walkway, through a happenstance gap in the crowd, a
 
 Hurrying past, they walked towards a steady, metallic banging. It had just started; pulses of three. Each hit rattled the back of Tom's teeth, but its echo played a beautiful tone. “Oh good, he's here.”, The Tailor exclaimed. He extended his arm towards Tom, “Climb up.”, and Tom scrambled up The Tailor's side to his shoulders, easily finding steps. 
 
-The view was spectacular, an image she would never forget: the variety of people, clothes, fully laden trestle bench stalls. The crowd bobbed, a sea of heads. She traced the sound of the banging: a large circular stone building in the center of the market, thick smoke plumed from it's chimneys. They walked towards it.
+The view was spectacular, an image she would never forget: the variety of people, clothes, fully laden trestle bench stalls. The crowd bobbed, a sea of heads. She traced the sound of the banging: a large circular stone building in the centre of the market, thick smoke plumed from it's chimneys. They walked towards it.
 
 At the blacksmith's entrance The Tailor did not break stride to pass under the doorway. Instead, he squatted mid-stride, and Tom cricked her neck sideways. Inside, The Tailor stopped; flinching from the heat. For a moment Tom thought her lips might burn.
 
