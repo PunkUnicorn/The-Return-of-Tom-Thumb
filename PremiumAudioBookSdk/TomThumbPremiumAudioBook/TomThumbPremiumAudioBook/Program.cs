@@ -141,7 +141,7 @@ namespace TomThumbPremiumAudioBook
                     //Console.WriteLine("doing ");
                     var ssml = File.ReadAllText(inputSsml);
                     //var template = Scriban.Template.Parse(ssml);
-                    var content = inputSsml; //template.Render(model);
+                    var content = ssml; //template.Render(model);
 
                     if (string.IsNullOrWhiteSpace(content.Trim('\n')))
                         return "";
