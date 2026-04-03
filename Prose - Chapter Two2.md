@@ -6,7 +6,7 @@ Licking her hands clean and wiping them on her trousers, she wondered if their m
 
 And now aware of her family behind the door, defensive instincts pulled her back: stay unnoticed. Tom closed her mind, tensed her muscles and pulled the heavy door open.
 
-The overpowering smell of baked apples. The heavy door slammed shut behind her, unnoticable in the noisy room. In the thick air, for a second, Tom was sick of apples. But the feeling quickly passed; the apple had been a life saver. Besides, the pips in her pockets could be interesting. 
+The overpowering smell of baked apples. The heavy door slammed shut behind her, unnoticed in the noisy room. In the thick air, for a second, Tom was sick of apples. But the feeling quickly passed; the apple had been a life saver. Besides, the pips in her pockets could be interesting. 
 
 She joined the rowdy table slyly, as invisible as possible. Once settled she froze listening. Nobody cared or noticed. This was good. She picked at her brothers' leftover plates while her parents finished eating. But bellies full tensions were rising round the table, competing voices.
 
