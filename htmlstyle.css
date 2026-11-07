@@ -54,7 +54,7 @@ body {
 img { float: left; margin: 4%; }
 div#cover-image { align-items: center; justify-content: center; }
 div#cover-image img { float:none; width: 92%; align:center; }
-p { text-align: justify; text-indent: 1em; float: none; }
+p { text-align: justify; text-indent: 5ch; float: none; }
 code { font-family: monospace; }
 h1 { text-align: left; float: none; }
 h2 { text-align: left; float: none; page-break-after: avoid; page-break-before: always; }
